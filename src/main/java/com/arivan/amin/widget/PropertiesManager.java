@@ -17,8 +17,8 @@ public final class PropertiesManager
     private static final String PROPERTY_FILE = "widget.properties";
     private static final int DEFAULT_WIDTH = 1200;
     private static final int DEFAULT_HEIGHT = 700;
-    private static final int DEFAULT_X = 50;
-    private static final int DEFAULT_Y = 50;
+    private static final int DEFAULT_X = 10;
+    private static final int DEFAULT_Y = 10;
     private final Logger logger = Logger.getLogger(getClass().getName() + ".log");
     private int width;
     private int height;

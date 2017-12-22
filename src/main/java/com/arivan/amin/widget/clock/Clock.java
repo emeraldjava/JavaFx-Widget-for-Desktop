@@ -104,7 +104,7 @@ public class Clock extends Pane
         }
     }
     
-    public void setTime ()
+    private void setTime ()
     {
         LocalTime time = LocalTime.now();
         hour = time.getHour();
@@ -113,7 +113,7 @@ public class Clock extends Pane
         reDrawClock();
     }
     
-    public void drawClockAndTicks ()
+    private void drawClockAndTicks ()
     {
         initializeLengths();
         createBaseCircle();
