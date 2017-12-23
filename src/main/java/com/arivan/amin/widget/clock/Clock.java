@@ -19,7 +19,7 @@ import java.util.stream.IntStream;
 
 public class Clock extends Pane
 {
-    private final Logger logger = Logger.getLogger(getClass().getName() + ".log");
+    private final Logger logger = Logger.getLogger(getClass().getName());
     private static final double PADDING_RATE = 0.95;
     private static final double SECOND_LENGTH_RATE = 0.80;
     private static final double MINUTE_LENGTH_RATE = 0.75;
@@ -48,7 +48,6 @@ public class Clock extends Pane
     {
         super();
         container = pane;
-        attachHandler();
         clockWidth = new SimpleDoubleProperty(container.widthProperty().get());
         clockHeight = new SimpleDoubleProperty(container.heightProperty().get());
         clockWidth.bind(container.widthProperty());
@@ -408,19 +407,6 @@ public class Clock extends Pane
     {
         this.second = second;
         reDrawClock();
-    }
-    
-    private void attachHandler ()
-    {
-        try
-        {
-            FileHandler handler = new FileHandler();
-            logger.addHandler(handler);
-        }
-        catch (IOException e)
-        {
-            logger.warning(e.getMessage());
-        }
     }
     
     @Override
