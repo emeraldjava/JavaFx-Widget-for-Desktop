@@ -1,61 +1,17 @@
-@font-face
+
+.label
 {
-    src: url("DancingScript-Regular.ttf");
+    -fx-text-fill: #FFFFFF;
 }
-.tick
+.time-label
 {
-    -fx-stroke: #5F9EA0;
+    -fx-font-size: 4em;
 }
-.tick-number
+.date-label
 {
     -fx-font-size: 2.5em;
-    -fx-font-family: 'Dancing Script', cursive;
-    -fx-fill: #5F9EA0;
-}
-.second-pointer
-{
-    -fx-stroke: #97DDDF;
-}
-.minute-pointer
-{
-    -fx-stroke: #5F9EA0;
-}
-.hour-pointer
-{
-    -fx-stroke: #5F9EA0;
-}
-.dev-name
-{
-    -fx-font-family: 'Dancing Script', cursive;
-    -fx-fill: #5F9EA0;
-    -fx-font-size: 1em;
 }
 .pane
 {
-    -fx-background-color: #FFFFFF;
-}
-.circle
-{
-    -fx-fill: #FFFFFF;
-    -fx-stroke: #FFFFFF;
-}
-.hour-base
-{
-    -fx-stroke: #5F9EA0;
-    -fx-fill: #5F9EA0;
-}
-.minute-base
-{
-    -fx-stroke: #97DDDF;
-    -fx-fill: #97DDDF;
-}
-.track-circle
-{
-    -fx-stroke: #5F9EA0;
-    -fx-fill: #FFFFFF;
-}
-.wheel-circle
-{
-    -fx-stroke: #5F9EA0;
-    -fx-fill: #FFFFFF;
+    -fx-background-color: linear-gradient(#3A9C97, #30615C);
 }

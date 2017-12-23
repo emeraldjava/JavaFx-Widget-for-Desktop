@@ -1,8 +1,10 @@
 package com.arivan.amin.widget;
 
 import com.arivan.amin.widget.cpu.CpuProgressBar;
+import com.arivan.amin.widget.memory.MemoryProgressBar;
 import javafx.application.Application;
 import javafx.geometry.Insets;
+import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
 import javafx.scene.layout.HBox;
@@ -12,7 +14,6 @@ import javafx.stage.StageStyle;
 
 public class ApplicationMain extends Application
 {
-    
     private PropertiesManager properties;
     private Scene scene;
     
@@ -27,17 +28,30 @@ public class ApplicationMain extends Application
         primaryStage.initStyle(StageStyle.UTILITY);
         properties = PropertiesManager.newInstance();
         HBox mainHBox = new HBox();
+        mainHBox.getStyleClass().add("pane");
         mainHBox.setPadding(new Insets(10));
         scene = new Scene(mainHBox, properties.getWidth(), properties.getHeight());
+        scene.getStylesheets().add("/MainStyle.css");
         VBox leftVBox = new VBox();
-        VBox topVBox = new VBox(new Label("top vbox"));
+        VBox topVBox = new VBox();
+        HBox clockWeatherHBox = new HBox();
+        VBox clockDateVBox = new VBox();
+        clockDateVBox.setAlignment(Pos.TOP_CENTER);
+        Label timeLabel = new Label("9:27");
+        timeLabel.getStyleClass().add("time-label");
+        Label dateLabel = new Label("23-12-2017");
+        dateLabel.getStyleClass().add("date-label");
+        clockDateVBox.getChildren().addAll(timeLabel, dateLabel);
+        VBox weatherVBox = new VBox(new Label("weather "));
+        VBox nextWeatherVBox = new VBox(new Label("3 days weather "));
+        clockWeatherHBox.getChildren().addAll(clockDateVBox, weatherVBox, nextWeatherVBox);
+        topVBox.getChildren().add(clockWeatherHBox);
         VBox bottomVBox = new VBox(new Label("bottom vbox"));
         leftVBox.getChildren().addAll(topVBox, bottomVBox);
         VBox rightVBox = new VBox();
         rightVBox.getChildren().add(CpuProgressBar.newInstance(rightVBox));
+        rightVBox.getChildren().add(MemoryProgressBar.newInstance(rightVBox));
         mainHBox.getChildren().addAll(leftVBox, rightVBox);
-        // Clock clock = Clock.newInstance(mainVBox);
-        // mainVBox.getChildren().add(clock);
         primaryStage.setScene(scene);
         primaryStage.setX(properties.getX());
         primaryStage.setY(properties.getY());
@@ -48,7 +62,15 @@ public class ApplicationMain extends Application
         leftVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         rightVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         topVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
+        clockWeatherHBox.prefHeightProperty().bind(topVBox.widthProperty());
+        clockWeatherHBox.prefHeightProperty().bind(topVBox.heightProperty());
         bottomVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
+        clockDateVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
+        weatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
+        nextWeatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
+        clockDateVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
+        weatherVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
+        nextWeatherVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
         setStageChangeListeners(primaryStage);
         primaryStage.show();
     }

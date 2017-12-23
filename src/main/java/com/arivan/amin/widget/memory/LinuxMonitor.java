@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.cpu;
+package com.arivan.amin.widget.memory;
 
 import org.jetbrains.annotations.NotNull;
 
@@ -41,16 +41,16 @@ public class LinuxMonitor implements Monitor
     public double getCommandData ()
     {
         updateCommandData();
-        return (PERCENT - Double.parseDouble(data[3])) / PERCENT;
+        return (PERCENT * Double.parseDouble(data[2])) / Double.parseDouble(data[0]) / PERCENT;
     }
     
     @Override
     public String removeUnnecessaryData (String output)
     {
-        String cpu = output.substring(output.lastIndexOf("Cpu"));
-        cpu = cpu.substring(0, cpu.indexOf("avail Mem")).trim();
-        cpu = NON_DIGITS.matcher(cpu).replaceAll("");
-        return cpu;
+        String mem = output.substring(output.indexOf("KiB Mem"));
+        mem = mem.substring(0, mem.indexOf("avail Mem"));
+        mem = NON_DIGITS.matcher(mem).replaceAll("");
+        return mem;
     }
     
     @Override

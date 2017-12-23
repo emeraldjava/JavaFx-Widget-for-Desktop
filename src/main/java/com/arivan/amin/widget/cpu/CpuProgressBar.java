@@ -46,9 +46,16 @@ public class CpuProgressBar extends Pane
     {
         Timeline cpuTimeline = new Timeline(new KeyFrame(Duration.millis(ANIMATION_SPEED), e ->
         {
-            double data = processor.getCommandData();
-            cpuBar.setProgress(data);
-            cpuLabel.setText((int) (data * 100) + " ");
+            try
+            {
+                double data = processor.getCommandData();
+                cpuBar.setProgress(data);
+                cpuLabel.setText((int) (data * 100) + " ");
+            }
+            catch (Exception ex)
+            {
+                logger.warning(ex.getMessage());
+            }
         }));
         cpuTimeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1)));
         cpuTimeline.setCycleCount(Animation.INDEFINITE);
