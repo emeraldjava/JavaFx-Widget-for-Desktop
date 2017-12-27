@@ -42,8 +42,8 @@ public class ApplicationMain extends Application
         Label dateLabel = new Label("23-12-2017");
         dateLabel.getStyleClass().add("date-label");
         clockDateVBox.getChildren().addAll(timeLabel, dateLabel);
-        VBox weatherVBox = new VBox(new Label("weather "));
-        VBox nextWeatherVBox = new VBox(new Label("3 days weather "));
+        VBox weatherVBox = new VBox(new Label("forecast "));
+        VBox nextWeatherVBox = new VBox(new Label("3 days forecast "));
         clockWeatherHBox.getChildren().addAll(clockDateVBox, weatherVBox, nextWeatherVBox);
         topVBox.getChildren().add(clockWeatherHBox);
         VBox bottomVBox = new VBox(new Label("bottom vbox"));
