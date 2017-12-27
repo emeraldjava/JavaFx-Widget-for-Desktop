@@ -1,6 +1,6 @@
 package com.arivan.amin.widget.forecast;
 
-public interface WeatherProcessor
+public interface WeatherData
 {
     void updateWeatherData ();
     

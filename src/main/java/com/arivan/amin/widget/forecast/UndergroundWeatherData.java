@@ -4,52 +4,63 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
-public class WUndergroundProcessor implements WeatherProcessor
+public class UndergroundWeatherData implements WeatherData
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherProvider weatherProvider;
-    private String data;
+    public String weatherData;
     
-    private WUndergroundProcessor ()
+    private UndergroundWeatherData ()
     {
         super();
-        weatherProvider = WUndergroundProvider.newInstance();
+        weatherProvider = UndergroundWeatherProvider.newInstance();
         updateWeatherData();
     }
     
     @NotNull
-    public static WUndergroundProcessor newInstance ()
+    public static UndergroundWeatherData newInstance ()
     {
-        return new WUndergroundProcessor();
+        return new UndergroundWeatherData();
     }
     
     @Override
     public final void updateWeatherData ()
     {
-        data = weatherProvider.getWeatherData();
+        weatherData = weatherProvider.getWeatherData();
+    }
+    
+    private int extractNumericData (String dataName, String delimiter)
+    {
+        String data = new String(weatherData);
+        data = data.substring(data.indexOf(dataName) + dataName.length());
+        return Integer.parseInt(data.substring(0, data.indexOf(delimiter)));
     }
     
     @Override
     public int getTemperature ()
     {
-        return 0;
+        int kelvinTemperature = extractNumericData("\"temp\":", ".");
+        return UnitConverter.convertKelvinToCelsius(kelvinTemperature);
     }
     
     @Override
     public int getPressure ()
     {
-        return 0;
+        // TODO: 12/27/17 figure out pressure unit
+        return extractNumericData("\"pressure\":", ".");
     }
     
     @Override
     public int getHumidity ()
     {
-        return 0;
+        return extractNumericData("\"humidity\":", ",");
     }
     
     @Override
     public String getWeather ()
     {
+        String data = new String(weatherData);
+        data = data.substring(data.indexOf("weather"));
         return null;
     }
     
@@ -129,5 +140,12 @@ public class WUndergroundProcessor implements WeatherProcessor
     public int getFourthMinTemperature ()
     {
         return 0;
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "UndergroundWeatherData{" + "weatherProvider=" + weatherProvider +
+                ", weatherData='" + weatherData + '\'' + '}';
     }
 }
