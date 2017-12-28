@@ -29,17 +29,29 @@ public class UndergroundWeatherData implements WeatherData
         weatherData = weatherProvider.getWeatherData();
     }
     
-    private int extractNumericData (String dataName, String delimiter)
+    private int extractNumericData (String clonedData, String dataName, String delimiter)
     {
-        String data = new String(weatherData);
-        data = data.substring(data.indexOf(dataName) + dataName.length());
+        String escapedDataName = '"' + dataName + "\":";
+        String data = clonedData
+                .substring(clonedData.indexOf(escapedDataName) + escapedDataName.length());
         return Integer.parseInt(data.substring(0, data.indexOf(delimiter)));
+    }
+    
+    private static String extractLiteralData (String clonedData, String propertyName)
+    {
+        String escapedName = '"' + propertyName + "\":";
+        String condition =
+                clonedData.substring(clonedData.indexOf(escapedName) + escapedName.length());
+        condition = condition.substring(condition.indexOf('"') + 1);
+        condition = condition.substring(0, condition.indexOf('"'));
+        return condition;
     }
     
     @Override
     public int getTemperature ()
     {
-        int kelvinTemperature = extractNumericData("\"temp\":", ".");
+        String clonedData = new String(weatherData);
+        int kelvinTemperature = extractNumericData(clonedData, "temp", ".");
         return UnitConverter.convertKelvinToCelsius(kelvinTemperature);
     }
     
@@ -47,45 +59,64 @@ public class UndergroundWeatherData implements WeatherData
     public int getPressure ()
     {
         // TODO: 12/27/17 figure out pressure unit
-        return extractNumericData("\"pressure\":", ".");
+        String clonedData = new String(weatherData);
+        return extractNumericData(clonedData, "pressure", ".");
     }
     
     @Override
     public int getHumidity ()
     {
-        return extractNumericData("\"humidity\":", ",");
+        String clonedData = new String(weatherData);
+        return extractNumericData(clonedData, "humidity", ",");
     }
     
     @Override
     public String getWeather ()
     {
-        String data = new String(weatherData);
-        data = data.substring(data.indexOf("weather"));
-        return null;
+        String clonedData = new String(weatherData);
+        clonedData = clonedData.substring(clonedData.indexOf("\"weather\""));
+        return extractLiteralData(clonedData, "main");
     }
     
     @Override
     public String getWeatherDescription ()
     {
-        return null;
+        String clonedData = new String(weatherData);
+        clonedData = clonedData.substring(clonedData.indexOf("\"weather\""));
+        return extractLiteralData(clonedData, "description");
     }
     
     @Override
     public int getCloudsRate ()
     {
-        return 0;
+        String clonedData = new String(weatherData);
+        clonedData = clonedData.substring(clonedData.indexOf("\"clouds\""));
+        return extractNumericData(clonedData, "all", "}");
     }
     
     @Override
     public int getWindsSpeed ()
     {
-        return 0;
+        // TODO: 12/27/17 figure out is wind speed unit in km or miles
+        String clonedData = new String(weatherData);
+        clonedData = clonedData.substring(clonedData.indexOf("\"wind\""));
+        return extractNumericData(clonedData, "speed", ".");
     }
     
     @Override
-    public int getWindsDirectionDegree ()
+    public String getWindsDirection ()
     {
-        return 0;
+        String clonedData = new String(weatherData);
+        clonedData = clonedData.substring(clonedData.indexOf("\"wind\""));
+        return translateWindDirectionDegree(extractNumericData(clonedData, "deg", "."));
+    }
+    
+    private String translateWindDirectionDegree (int degree)
+    {
+        if (degree >= 0 && degree < 25)
+        {
+            
+        }
     }
     
     @Override

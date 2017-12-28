@@ -18,7 +18,7 @@ public interface WeatherData
     
     int getWindsSpeed ();
     
-    int getWindsDirectionDegree ();
+    String getWindsDirection ();
     
     String getSecondDayWeather ();
     

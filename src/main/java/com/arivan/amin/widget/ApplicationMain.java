@@ -28,6 +28,9 @@ public class ApplicationMain extends Application
         System.out.println("humidity is " + weatherData.getHumidity() + " percent");
         System.out.println("weather condition is " + weatherData.getWeather());
         System.out.println("weather description is " + weatherData.getWeatherDescription());
+        System.out.println("clouds rate is " + weatherData.getCloudsRate());
+        System.out.println("wind speed is " + weatherData.getWindsSpeed());
+        System.out.println("wind direction is " + weatherData.getWindsDirection());
         System.out.println();
         System.out.println("second day forecast");
         // primaryStage.initStyle(StageStyle.UTILITY);
