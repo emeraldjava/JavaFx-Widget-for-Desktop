@@ -8,7 +8,7 @@ public class UndergroundWeatherData implements WeatherData
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherProvider weatherProvider;
-    public String weatherData;
+    private String weatherData;
     
     private UndergroundWeatherData ()
     {
