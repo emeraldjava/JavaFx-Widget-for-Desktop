@@ -1,7 +1,9 @@
 package com.arivan.amin.widget.forecast;
 
+import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
 
+import java.util.List;
 import java.util.logging.Logger;
 
 public class UndergroundWeatherData implements WeatherData
@@ -9,6 +11,9 @@ public class UndergroundWeatherData implements WeatherData
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherProvider weatherProvider;
     private String weatherData;
+    private final List<String> directionsList =
+            List.of("north", "north east", "east", "south east", "south", "south west", "west",
+                    "north west", "north");
     
     private UndergroundWeatherData ()
     {
@@ -111,14 +116,6 @@ public class UndergroundWeatherData implements WeatherData
         return translateWindDirectionDegree(extractNumericData(clonedData, "deg", "."));
     }
     
-    private String translateWindDirectionDegree (int degree)
-    {
-        if (degree >= 0 && degree < 25)
-        {
-            
-        }
-    }
-    
     @Override
     public String getSecondDayWeather ()
     {
@@ -173,10 +170,19 @@ public class UndergroundWeatherData implements WeatherData
         return 0;
     }
     
+    @Contract (pure = true)
+    private String translateWindDirectionDegree (int degree)
+    {
+        String directionName = "";
+        degree += 23;
+        int direction = degree / 45;
+        return directionsList.get(direction);
+    }
+    
     @Override
     public String toString ()
     {
         return "UndergroundWeatherData{" + "weatherProvider=" + weatherProvider +
-                ", weatherData='" + weatherData + '\'' + '}';
+                ", weatherData='" + weatherData + '\'' + ", directionsList=" + directionsList + '}';
     }
 }
