@@ -1,8 +1,9 @@
 package com.arivan.amin.widget;
 
 import com.arivan.amin.widget.cpu.CpuProgressBar;
-import com.arivan.amin.widget.forecast.*;
+import com.arivan.amin.widget.forecast.WeatherPane;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
+import javafx.animation.*;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
@@ -12,6 +13,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+import javafx.util.Duration;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
@@ -41,7 +43,14 @@ public class ApplicationMain extends Application
         HBox clockWeatherHBox = new HBox();
         VBox clockDateVBox = new VBox();
         clockDateVBox.setAlignment(Pos.TOP_CENTER);
-        Label timeLabel = new Label(LocalTime.now().toString());
+        Label timeLabel = new Label();
+        Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(1), e ->
+        {
+            LocalTime time = LocalTime.now();
+            timeLabel.setText(time.getHour() + ":" + time.getMinute() + ":" + time.getSecond());
+        }));
+        timeline.setCycleCount(Animation.INDEFINITE);
+        timeline.play();
         timeLabel.getStyleClass().add("time-label");
         Label dateLabel = new Label(LocalDate.now().toString());
         dateLabel.getStyleClass().add("date-label");
