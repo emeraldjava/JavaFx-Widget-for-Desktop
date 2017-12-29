@@ -2,39 +2,55 @@ package com.arivan.amin.widget.forecast;
 
 public interface WeatherData
 {
+    String locationName ();
+    
+    String sunrise ();
+    
+    String sunset ();
+    
+    String weatherCondition ();
+    
+    String precipitationType ();
+    
+    String precipitationValue ();
+    
+    String windDirection ();
+    
+    int windsSpeed ();
+    
+    String windName ();
+    
+    String temperatureUnit ();
+    
+    String temperatureValue ();
+    
+    String pressureUnit ();
+    
+    String pressureValue ();
+    
+    String humidityValue ();
+    
+    String cloudsName ();
+    
+    String cloudsRate ();
+    
+    String secondDayWeather ();
+    
+    int secondDayMaxTemperature ();
+    
+    int secondMinTemperature ();
+    
+    String thirdDayWeather ();
+    
+    int thirdDayMaxTemperature ();
+    
+    int thirdMinTemperature ();
+    
+    String fourthDayWeather ();
+    
+    int fourthDayMaxTemperature ();
+    
+    int fourthMinTemperature ();
+    
     void updateWeatherData ();
-    
-    int getTemperature ();
-    
-    int getPressure ();
-    
-    int getHumidity ();
-    
-    String getWeather ();
-    
-    String getWeatherDescription ();
-    
-    int getCloudsRate ();
-    
-    int getWindsSpeed ();
-    
-    String getWindsDirection ();
-    
-    String getSecondDayWeather ();
-    
-    int getSecondDayMaxTemperature ();
-    
-    int getSecondMinTemperature ();
-    
-    String getThirdDayWeather ();
-    
-    int getThirdDayMaxTemperature ();
-    
-    int getThirdMinTemperature ();
-    
-    String getFourthDayWeather ();
-    
-    int getFourthDayMaxTemperature ();
-    
-    int getFourthMinTemperature ();
 }

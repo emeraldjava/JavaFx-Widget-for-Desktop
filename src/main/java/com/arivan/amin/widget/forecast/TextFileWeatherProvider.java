@@ -1,10 +1,8 @@
 package com.arivan.amin.widget.forecast;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.io.IOException;
+import java.io.InputStream;
 import java.nio.file.*;
-import java.util.List;
 import java.util.logging.Logger;
 
 public class TextFileWeatherProvider implements WeatherProvider
@@ -21,21 +19,20 @@ public class TextFileWeatherProvider implements WeatherProvider
         return new TextFileWeatherProvider();
     }
     
-    @NotNull
     @Override
-    public String getWeatherData ()
+    public InputStream getWeatherDataStream ()
     {
+        InputStream stream = null;
         StringBuilder data = new StringBuilder(20);
-        Path path = Paths.get("/home/arivan/IdeaProjects/Widget/src/main/resources/WeatherSampleDataOriginal.txt");
+        Path path = Paths.get("src", "main", "resources", "WeatherData.xml");
         try
         {
-            List<String> lines = Files.readAllLines(path);
-            lines.forEach(data::append);
+            stream = Files.newInputStream(path);
         }
         catch (IOException e)
         {
             logger.warning(e.getMessage());
         }
-        return data.toString();
+        return stream;
     }
 }

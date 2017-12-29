@@ -1,6 +1,8 @@
 package com.arivan.amin.widget.forecast;
 
 import javafx.scene.control.Label;
+import javafx.scene.image.Image;
+import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
 import org.jetbrains.annotations.NotNull;
 
@@ -14,13 +16,13 @@ public class WeatherPane extends Pane
     private WeatherPane (@NotNull Pane pane)
     {
         super();
-        weatherData = UndergroundWeatherData.newInstance();
+        weatherData = OpenWeatherMap.newInstance();
         HBox mainHBox = new HBox(10);
         VBox todayVBox = new VBox(10);
         HBox iconHBox = new HBox(10);
         Label temperatureLabel = new Label("temperature");
-        Label iconLabel = new Label("icon");
-        iconHBox.getChildren().addAll(iconLabel, temperatureLabel);
+        ImageView imageView = new ImageView(new Image("/cl2.png"));
+        iconHBox.getChildren().addAll(imageView, temperatureLabel);
         Label conditionLabel = new Label("Condition");
         Label minMaxTempLabel = new Label("min and max temp");
         Label humidityLabel = new Label("humidity");
@@ -29,7 +31,7 @@ public class WeatherPane extends Pane
         todayVBox.getChildren()
                 .addAll(iconHBox, conditionLabel, minMaxTempLabel, humidityLabel, windLabel,
                         cloudsLabel);
-        VBox fourDaysVBox = new VBox(new Label("four days forecast"));
+        VBox fourDaysVBox = new VBox(new ImageView(new Image("cl64.png")));
         mainHBox.getChildren().addAll(todayVBox, fourDaysVBox);
         getChildren().add(mainHBox);
         prefWidthProperty().bind(pane.widthProperty());

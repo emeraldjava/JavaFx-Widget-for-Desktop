@@ -1,0 +1,419 @@
+<weatherdata>
+    <location>
+        <name>As Sulaymaniyah</name>
+        <type/>
+        <country>IQ</country>
+        <timezone/>
+        <location altitude="0" latitude="35.5611" longitude="45.4375" geobase="geonames"
+                  geobaseid="98463"/>
+    </location>
+    <credit/>
+    <meta>
+        <lastupdate/>
+        <calctime>0.0026</calctime>
+        <nextupdate/>
+    </meta>
+    <sun rise="2017-12-29T04:07:08" set="2017-12-29T13:54:09"/>
+    <forecast>
+        <time from="2017-12-29T12:00:00" to="2017-12-29T15:00:00">
+            <symbol number="803" name="broken clouds" var="04n"/>
+            <precipitation/>
+            <windDirection deg="21.0085" code="NNE" name="North-northeast"/>
+            <windSpeed mps="1.07" name="Calm"/>
+            <temperature unit="celsius" value="6.87" min="6.87" max="9.19"/>
+            <pressure unit="hPa" value="930.39"/>
+            <humidity value="78" unit="%"/>
+            <clouds value="broken clouds" all="56" unit="%"/>
+        </time>
+        <time from="2017-12-29T15:00:00" to="2017-12-29T18:00:00">
+            <symbol number="802" name="scattered clouds" var="03n"/>
+            <precipitation/>
+            <windDirection deg="46.0017" code="NE" name="NorthEast"/>
+            <windSpeed mps="1.77" name="Light breeze"/>
+            <temperature unit="celsius" value="4.34" min="4.34" max="6.08"/>
+            <pressure unit="hPa" value="930.53"/>
+            <humidity value="80" unit="%"/>
+            <clouds value="scattered clouds" all="44" unit="%"/>
+        </time>
+        <time from="2017-12-29T18:00:00" to="2017-12-29T21:00:00">
+            <symbol number="802" name="scattered clouds" var="03n"/>
+            <precipitation/>
+            <windDirection deg="77.008" code="ENE" name="East-northeast"/>
+            <windSpeed mps="2.06" name="Light breeze"/>
+            <temperature unit="celsius" value="4.71" min="4.71" max="5.87"/>
+            <pressure unit="hPa" value="930"/>
+            <humidity value="77" unit="%"/>
+            <clouds value="scattered clouds" all="48" unit="%"/>
+        </time>
+        <time from="2017-12-29T21:00:00" to="2017-12-30T00:00:00">
+            <symbol number="801" name="few clouds" var="02n"/>
+            <precipitation/>
+            <windDirection deg="71.5029" code="ENE" name="East-northeast"/>
+            <windSpeed mps="1.73" name="Light breeze"/>
+            <temperature unit="celsius" value="5.75" min="5.75" max="6.33"/>
+            <pressure unit="hPa" value="929.42"/>
+            <humidity value="71" unit="%"/>
+            <clouds value="few clouds" all="24" unit="%"/>
+        </time>
+        <time from="2017-12-30T00:00:00" to="2017-12-30T03:00:00">
+            <symbol number="803" name="broken clouds" var="04n"/>
+            <precipitation/>
+            <windDirection deg="75.0061" code="ENE" name="East-northeast"/>
+            <windSpeed mps="1.66" name="Light breeze"/>
+            <temperature unit="celsius" value="6.21" min="6.21" max="6.21"/>
+            <pressure unit="hPa" value="929.42"/>
+            <humidity value="75" unit="%"/>
+            <clouds value="broken clouds" all="68" unit="%"/>
+        </time>
+        <time from="2017-12-30T03:00:00" to="2017-12-30T06:00:00">
+            <symbol number="804" name="overcast clouds" var="04d"/>
+            <precipitation/>
+            <windDirection deg="75.5025" code="ENE" name="East-northeast"/>
+            <windSpeed mps="1.86" name="Light breeze"/>
+            <temperature unit="celsius" value="11" min="11" max="11"/>
+            <pressure unit="hPa" value="930.29"/>
+            <humidity value="57" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2017-12-30T06:00:00" to="2017-12-30T09:00:00">
+            <symbol number="803" name="broken clouds" var="04d"/>
+            <precipitation/>
+            <windDirection deg="152.501" code="SSE" name="South-southeast"/>
+            <windSpeed mps="1.51" name=""/>
+            <temperature unit="celsius" value="15.86" min="15.86" max="15.86"/>
+            <pressure unit="hPa" value="929.49"/>
+            <humidity value="55" unit="%"/>
+            <clouds value="broken clouds" all="76" unit="%"/>
+        </time>
+        <time from="2017-12-30T09:00:00" to="2017-12-30T12:00:00">
+            <symbol number="800" name="clear sky" var="02d"/>
+            <precipitation/>
+            <windDirection deg="196.002" code="SSW" name="South-southwest"/>
+            <windSpeed mps="1.42" name="Calm"/>
+            <temperature unit="celsius" value="16.7" min="16.7" max="16.7"/>
+            <pressure unit="hPa" value="928.57"/>
+            <humidity value="48" unit="%"/>
+            <clouds value="clear sky" all="8" unit="%"/>
+        </time>
+        <time from="2017-12-30T12:00:00" to="2017-12-30T15:00:00">
+            <symbol number="800" name="clear sky" var="01n"/>
+            <precipitation/>
+            <windDirection deg="163.5" code="SSE" name="South-southeast"/>
+            <windSpeed mps="0.98" name="Calm"/>
+            <temperature unit="celsius" value="7.87" min="7.87" max="7.87"/>
+            <pressure unit="hPa" value="928.79"/>
+            <humidity value="78" unit="%"/>
+            <clouds value="clear sky" all="0" unit="%"/>
+        </time>
+        <time from="2017-12-30T15:00:00" to="2017-12-30T18:00:00">
+            <symbol number="800" name="clear sky" var="01n"/>
+            <precipitation/>
+            <windDirection deg="83.0011" code="E" name="East"/>
+            <windSpeed mps="1.23" name="Calm"/>
+            <temperature unit="celsius" value="2.84" min="2.84" max="2.84"/>
+            <pressure unit="hPa" value="928.81"/>
+            <humidity value="85" unit="%"/>
+            <clouds value="clear sky" all="0" unit="%"/>
+        </time>
+        <time from="2017-12-30T18:00:00" to="2017-12-30T21:00:00">
+            <symbol number="801" name="few clouds" var="02n"/>
+            <precipitation/>
+            <windDirection deg="25.5021" code="NNE" name="North-northeast"/>
+            <windSpeed mps="0.91" name="Calm"/>
+            <temperature unit="celsius" value="1.56" min="1.56" max="1.56"/>
+            <pressure unit="hPa" value="928.89"/>
+            <humidity value="85" unit="%"/>
+            <clouds value="few clouds" all="24" unit="%"/>
+        </time>
+        <time from="2017-12-30T21:00:00" to="2017-12-31T00:00:00">
+            <symbol number="800" name="clear sky" var="01n"/>
+            <precipitation/>
+            <windDirection deg="68.5005" code="ENE" name="East-northeast"/>
+            <windSpeed mps="1.15" name="Calm"/>
+            <temperature unit="celsius" value="1.32" min="1.32" max="1.32"/>
+            <pressure unit="hPa" value="928.73"/>
+            <humidity value="84" unit="%"/>
+            <clouds value="clear sky" all="0" unit="%"/>
+        </time>
+        <time from="2017-12-31T00:00:00" to="2017-12-31T03:00:00">
+            <symbol number="800" name="clear sky" var="01n"/>
+            <precipitation/>
+            <windDirection deg="70.0058" code="ENE" name="East-northeast"/>
+            <windSpeed mps="1.37" name="Calm"/>
+            <temperature unit="celsius" value="-0.29" min="-0.29" max="-0.29"/>
+            <pressure unit="hPa" value="928.6"/>
+            <humidity value="82" unit="%"/>
+            <clouds value="clear sky" all="0" unit="%"/>
+        </time>
+        <time from="2017-12-31T03:00:00" to="2017-12-31T06:00:00">
+            <symbol number="800" name="clear sky" var="01d"/>
+            <precipitation/>
+            <windDirection deg="65.5043" code="ENE" name="East-northeast"/>
+            <windSpeed mps="1.51" name=""/>
+            <temperature unit="celsius" value="7.12" min="7.12" max="7.12"/>
+            <pressure unit="hPa" value="928.75"/>
+            <humidity value="72" unit="%"/>
+            <clouds value="clear sky" all="0" unit="%"/>
+        </time>
+        <time from="2017-12-31T06:00:00" to="2017-12-31T09:00:00">
+            <symbol number="800" name="clear sky" var="01d"/>
+            <precipitation/>
+            <windDirection deg="149.005" code="SSE" name="South-southeast"/>
+            <windSpeed mps="1.38" name="Calm"/>
+            <temperature unit="celsius" value="17.04" min="17.04" max="17.04"/>
+            <pressure unit="hPa" value="927.9"/>
+            <humidity value="47" unit="%"/>
+            <clouds value="clear sky" all="0" unit="%"/>
+        </time>
+        <time from="2017-12-31T09:00:00" to="2017-12-31T12:00:00">
+            <symbol number="800" name="clear sky" var="01d"/>
+            <precipitation/>
+            <windDirection deg="176.004" code="S" name="South"/>
+            <windSpeed mps="1.45" name="Calm"/>
+            <temperature unit="celsius" value="17.26" min="17.26" max="17.26"/>
+            <pressure unit="hPa" value="926.46"/>
+            <humidity value="42" unit="%"/>
+            <clouds value="clear sky" all="0" unit="%"/>
+        </time>
+        <time from="2017-12-31T12:00:00" to="2017-12-31T15:00:00">
+            <symbol number="801" name="few clouds" var="02n"/>
+            <precipitation/>
+            <windDirection deg="51.0027" code="NE" name="NorthEast"/>
+            <windSpeed mps="0.99" name="Calm"/>
+            <temperature unit="celsius" value="8.35" min="8.35" max="8.35"/>
+            <pressure unit="hPa" value="926.09"/>
+            <humidity value="75" unit="%"/>
+            <clouds value="few clouds" all="24" unit="%"/>
+        </time>
+        <time from="2017-12-31T15:00:00" to="2017-12-31T18:00:00">
+            <symbol number="801" name="few clouds" var="02n"/>
+            <precipitation/>
+            <windDirection deg="39.5018" code="NE" name="NorthEast"/>
+            <windSpeed mps="1.16" name="Calm"/>
+            <temperature unit="celsius" value="3.75" min="3.75" max="3.75"/>
+            <pressure unit="hPa" value="925.63"/>
+            <humidity value="83" unit="%"/>
+            <clouds value="few clouds" all="12" unit="%"/>
+        </time>
+        <time from="2017-12-31T18:00:00" to="2017-12-31T21:00:00">
+            <symbol number="801" name="few clouds" var="02n"/>
+            <precipitation/>
+            <windDirection deg="43.505" code="NE" name="NorthEast"/>
+            <windSpeed mps="1.01" name="Calm"/>
+            <temperature unit="celsius" value="2.57" min="2.57" max="2.57"/>
+            <pressure unit="hPa" value="924.34"/>
+            <humidity value="84" unit="%"/>
+            <clouds value="few clouds" all="20" unit="%"/>
+        </time>
+        <time from="2017-12-31T21:00:00" to="2018-01-01T00:00:00">
+            <symbol number="803" name="broken clouds" var="04n"/>
+            <precipitation/>
+            <windDirection deg="33.0012" code="NNE" name="North-northeast"/>
+            <windSpeed mps="1.01" name="Calm"/>
+            <temperature unit="celsius" value="2.75" min="2.75" max="2.75"/>
+            <pressure unit="hPa" value="923.21"/>
+            <humidity value="83" unit="%"/>
+            <clouds value="broken clouds" all="68" unit="%"/>
+        </time>
+        <time from="2018-01-01T00:00:00" to="2018-01-01T03:00:00">
+            <symbol number="500" name="light rain" var="10n"/>
+            <precipitation unit="3h" value="0.35" type="rain"/>
+            <windDirection deg="321.002" code="NW" name="Northwest"/>
+            <windSpeed mps="1.36" name="Calm"/>
+            <temperature unit="celsius" value="5.17" min="5.17" max="5.17"/>
+            <pressure unit="hPa" value="923.53"/>
+            <humidity value="83" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-01T03:00:00" to="2018-01-01T06:00:00">
+            <symbol number="500" name="light rain" var="10d"/>
+            <precipitation unit="3h" value="0.005" type="rain"/>
+            <windDirection deg="29.0053" code="NNE" name="North-northeast"/>
+            <windSpeed mps="1.57" name=""/>
+            <temperature unit="celsius" value="9.22" min="9.22" max="9.22"/>
+            <pressure unit="hPa" value="922.51"/>
+            <humidity value="72" unit="%"/>
+            <clouds value="broken clouds" all="76" unit="%"/>
+        </time>
+        <time from="2018-01-01T06:00:00" to="2018-01-01T09:00:00">
+            <symbol number="803" name="broken clouds" var="04d"/>
+            <precipitation/>
+            <windDirection deg="36.0043" code="NE" name="NorthEast"/>
+            <windSpeed mps="1.31" name="Calm"/>
+            <temperature unit="celsius" value="15.71" min="15.71" max="15.71"/>
+            <pressure unit="hPa" value="919.81"/>
+            <humidity value="56" unit="%"/>
+            <clouds value="broken clouds" all="56" unit="%"/>
+        </time>
+        <time from="2018-01-01T09:00:00" to="2018-01-01T12:00:00">
+            <symbol number="804" name="overcast clouds" var="04d"/>
+            <precipitation/>
+            <windDirection deg="206.001" code="SSW" name="South-southwest"/>
+            <windSpeed mps="2.3" name="Light breeze"/>
+            <temperature unit="celsius" value="15.91" min="15.91" max="15.91"/>
+            <pressure unit="hPa" value="918.17"/>
+            <humidity value="45" unit="%"/>
+            <clouds value="overcast clouds" all="88" unit="%"/>
+        </time>
+        <time from="2018-01-01T12:00:00" to="2018-01-01T15:00:00">
+            <symbol number="500" name="light rain" var="10n"/>
+            <precipitation unit="3h" value="0.035" type="rain"/>
+            <windDirection deg="180.501" code="S" name="South"/>
+            <windSpeed mps="4.05" name="Gentle Breeze"/>
+            <temperature unit="celsius" value="13.52" min="13.52" max="13.52"/>
+            <pressure unit="hPa" value="918.19"/>
+            <humidity value="45" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-01T15:00:00" to="2018-01-01T18:00:00">
+            <symbol number="501" name="moderate rain" var="10n"/>
+            <precipitation unit="3h" value="3.915" type="rain"/>
+            <windDirection deg="204.5" code="SSW" name="South-southwest"/>
+            <windSpeed mps="3.77" name="Gentle Breeze"/>
+            <temperature unit="celsius" value="8.6" min="8.6" max="8.6"/>
+            <pressure unit="hPa" value="918.95"/>
+            <humidity value="98" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-01T18:00:00" to="2018-01-01T21:00:00">
+            <symbol number="502" name="heavy intensity rain" var="10n"/>
+            <precipitation unit="3h" value="14.075" type="rain"/>
+            <windDirection deg="175.502" code="S" name="South"/>
+            <windSpeed mps="3.57" name="Gentle Breeze"/>
+            <temperature unit="celsius" value="7.91" min="7.91" max="7.91"/>
+            <pressure unit="hPa" value="918.18"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-01T21:00:00" to="2018-01-02T00:00:00">
+            <symbol number="501" name="moderate rain" var="10n"/>
+            <precipitation unit="3h" value="9.435" type="rain"/>
+            <windDirection deg="200.005" code="SSW" name="South-southwest"/>
+            <windSpeed mps="1.17" name="Calm"/>
+            <temperature unit="celsius" value="6.76" min="6.76" max="6.76"/>
+            <pressure unit="hPa" value="918.97"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-02T00:00:00" to="2018-01-02T03:00:00">
+            <symbol number="500" name="light rain" var="10n"/>
+            <precipitation unit="3h" value="1.835" type="rain"/>
+            <windDirection deg="112.5" code="ESE" name="East-southeast"/>
+            <windSpeed mps="1.15" name="Calm"/>
+            <temperature unit="celsius" value="5.79" min="5.79" max="5.79"/>
+            <pressure unit="hPa" value="919.06"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="broken clouds" all="80" unit="%"/>
+        </time>
+        <time from="2018-01-02T03:00:00" to="2018-01-02T06:00:00">
+            <symbol number="500" name="light rain" var="10d"/>
+            <precipitation unit="3h" value="2.37" type="rain"/>
+            <windDirection deg="165.504" code="SSE" name="South-southeast"/>
+            <windSpeed mps="1.41" name="Calm"/>
+            <temperature unit="celsius" value="5.81" min="5.81" max="5.81"/>
+            <pressure unit="hPa" value="920.48"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-02T06:00:00" to="2018-01-02T09:00:00">
+            <symbol number="500" name="light rain" var="10d"/>
+            <precipitation unit="3h" value="2.015" type="rain"/>
+            <windDirection deg="171.001" code="S" name="South"/>
+            <windSpeed mps="1.46" name="Calm"/>
+            <temperature unit="celsius" value="6.53" min="6.53" max="6.53"/>
+            <pressure unit="hPa" value="921.05"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-02T09:00:00" to="2018-01-02T12:00:00">
+            <symbol number="500" name="light rain" var="10d"/>
+            <precipitation unit="3h" value="1.28" type="rain"/>
+            <windDirection deg="173.005" code="S" name="South"/>
+            <windSpeed mps="1.46" name="Calm"/>
+            <temperature unit="celsius" value="6.73" min="6.73" max="6.73"/>
+            <pressure unit="hPa" value="921.3"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-02T12:00:00" to="2018-01-02T15:00:00">
+            <symbol number="500" name="light rain" var="10n"/>
+            <precipitation unit="3h" value="1.46" type="rain"/>
+            <windDirection deg="178.004" code="S" name="South"/>
+            <windSpeed mps="0.46" name="Calm"/>
+            <temperature unit="celsius" value="5.57" min="5.57" max="5.57"/>
+            <pressure unit="hPa" value="922.39"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-02T15:00:00" to="2018-01-02T18:00:00">
+            <symbol number="501" name="moderate rain" var="10n"/>
+            <precipitation unit="3h" value="5.325" type="rain"/>
+            <windDirection deg="343.504" code="NNW" name="North-northeast"/>
+            <windSpeed mps="0.66" name="Calm"/>
+            <temperature unit="celsius" value="4.78" min="4.78" max="4.78"/>
+            <pressure unit="hPa" value="923.62"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-02T18:00:00" to="2018-01-02T21:00:00">
+            <symbol number="501" name="moderate rain" var="10n"/>
+            <precipitation unit="3h" value="4.9" type="rain"/>
+            <windDirection deg="102.002" code="ESE" name="East-southeast"/>
+            <windSpeed mps="1.32" name="Calm"/>
+            <temperature unit="celsius" value="4.31" min="4.31" max="4.31"/>
+            <pressure unit="hPa" value="923.89"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-02T21:00:00" to="2018-01-03T00:00:00">
+            <symbol number="500" name="light rain" var="10n"/>
+            <precipitation unit="3h" value="0.32" type="rain"/>
+            <windDirection deg="86.5001" code="E" name="East"/>
+            <windSpeed mps="1.21" name="Calm"/>
+            <temperature unit="celsius" value="4.2" min="4.2" max="4.2"/>
+            <pressure unit="hPa" value="923.95"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="88" unit="%"/>
+        </time>
+        <time from="2018-01-03T00:00:00" to="2018-01-03T03:00:00">
+            <symbol number="500" name="light rain" var="10n"/>
+            <precipitation unit="3h" value="0.36" type="rain"/>
+            <windDirection deg="98.0003" code="E" name="East"/>
+            <windSpeed mps="1.21" name="Calm"/>
+            <temperature unit="celsius" value="4.05" min="4.05" max="4.05"/>
+            <pressure unit="hPa" value="924.75"/>
+            <humidity value="99" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-03T03:00:00" to="2018-01-03T06:00:00">
+            <symbol number="500" name="light rain" var="10d"/>
+            <precipitation unit="3h" value="0.32" type="rain"/>
+            <windDirection deg="77.5025" code="ENE" name="East-northeast"/>
+            <windSpeed mps="1.42" name="Calm"/>
+            <temperature unit="celsius" value="5.16" min="5.16" max="5.16"/>
+            <pressure unit="hPa" value="926.31"/>
+            <humidity value="100" unit="%"/>
+            <clouds value="overcast clouds" all="92" unit="%"/>
+        </time>
+        <time from="2018-01-03T06:00:00" to="2018-01-03T09:00:00">
+            <symbol number="500" name="light rain" var="10d"/>
+            <precipitation unit="3h" value="0.030000000000001" type="rain"/>
+            <windDirection deg="193.502" code="SSW" name="South-southwest"/>
+            <windSpeed mps="0.87" name="Calm"/>
+            <temperature unit="celsius" value="7.46" min="7.46" max="7.46"/>
+            <pressure unit="hPa" value="926.53"/>
+            <humidity value="97" unit="%"/>
+            <clouds value="broken clouds" all="64" unit="%"/>
+        </time>
+        <time from="2018-01-03T09:00:00" to="2018-01-03T12:00:00">
+            <symbol number="500" name="light rain" var="10d"/>
+            <precipitation unit="3h" value="0.009999999999998" type="rain"/>
+            <windDirection deg="257" code="WSW" name="West-southwest"/>
+            <windSpeed mps="1.5" name="Calm"/>
+            <temperature unit="celsius" value="8.29" min="8.29" max="8.29"/>
+            <pressure unit="hPa" value="926.28"/>
+            <humidity value="88" unit="%"/>
+            <clouds value="broken clouds" all="68" unit="%"/>
+        </time>
+    </forecast>
+</weatherdata>
