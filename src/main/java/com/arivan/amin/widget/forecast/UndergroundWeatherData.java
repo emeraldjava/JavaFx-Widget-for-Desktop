@@ -64,6 +64,7 @@ public class UndergroundWeatherData implements WeatherData
     public int getPressure ()
     {
         // TODO: 12/27/17 figure out pressure unit
+        // TODO: 12/27/17 create unit test for weather data
         String clonedData = new String(weatherData);
         return extractNumericData(clonedData, "pressure", ".");
     }

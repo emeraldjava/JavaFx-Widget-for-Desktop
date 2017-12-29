@@ -30,18 +30,6 @@ public class ApplicationMain extends Application
     {
         properties = PropertiesManager.newInstance();
         weatherData = UndergroundWeatherData.newInstance();
-        // System.out.println("current today status");
-        // System.out.println("temp is " + weatherData.getTemperature() + " C");
-        // System.out.println("pressure is " + weatherData.getPressure());
-        // System.out.println("humidity is " + weatherData.getHumidity() + " percent");
-        // System.out.println("weather condition is " + weatherData.getWeather());
-        // System.out.println("weather description is " + weatherData.getWeatherDescription());
-        // System.out.println("clouds rate is " + weatherData.getCloudsRate());
-        // System.out.println("wind speed is " + weatherData.getWindsSpeed());
-        // System.out.println("wind direction is " + weatherData.getWindsDirection());
-        // System.out.println();
-        // System.out.println("second day forecast");
-        // System.exit(0);
         primaryStage.initStyle(StageStyle.UTILITY);
         HBox mainHBox = new HBox();
         mainHBox.getStyleClass().add("pane");
