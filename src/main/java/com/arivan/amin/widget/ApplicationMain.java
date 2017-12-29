@@ -1,8 +1,7 @@
 package com.arivan.amin.widget;
 
 import com.arivan.amin.widget.cpu.CpuProgressBar;
-import com.arivan.amin.widget.forecast.UndergroundWeatherData;
-import com.arivan.amin.widget.forecast.WeatherData;
+import com.arivan.amin.widget.forecast.*;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -14,10 +13,12 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 
+import java.time.LocalDate;
+import java.time.LocalTime;
+
 public class ApplicationMain extends Application
 {
     private PropertiesManager properties;
-    WeatherData weatherData;
     private Scene scene;
     
     public static void main (String[] args)
@@ -29,7 +30,6 @@ public class ApplicationMain extends Application
     public void start (Stage primaryStage) throws Exception
     {
         properties = PropertiesManager.newInstance();
-        weatherData = UndergroundWeatherData.newInstance();
         primaryStage.initStyle(StageStyle.UTILITY);
         HBox mainHBox = new HBox();
         mainHBox.getStyleClass().add("pane");
@@ -41,14 +41,14 @@ public class ApplicationMain extends Application
         HBox clockWeatherHBox = new HBox();
         VBox clockDateVBox = new VBox();
         clockDateVBox.setAlignment(Pos.TOP_CENTER);
-        Label timeLabel = new Label("9:27");
+        Label timeLabel = new Label(LocalTime.now().toString());
         timeLabel.getStyleClass().add("time-label");
-        Label dateLabel = new Label("23-12-2017");
+        Label dateLabel = new Label(LocalDate.now().toString());
         dateLabel.getStyleClass().add("date-label");
         clockDateVBox.getChildren().addAll(timeLabel, dateLabel);
-        VBox todayWeatherVBox = new VBox(new Label("forecast "));
-        VBox fourDaysWeatherVBox = new VBox(new Label("4 days forecast "));
-        clockWeatherHBox.getChildren().addAll(clockDateVBox, todayWeatherVBox, fourDaysWeatherVBox);
+        VBox weatherVBox = new VBox();
+        weatherVBox.getChildren().add(WeatherPane.newInstance(weatherVBox));
+        clockWeatherHBox.getChildren().addAll(clockDateVBox, weatherVBox);
         topVBox.getChildren().add(clockWeatherHBox);
         VBox bottomVBox = new VBox(new Label("bottom vbox"));
         leftVBox.getChildren().addAll(topVBox, bottomVBox);
@@ -70,11 +70,9 @@ public class ApplicationMain extends Application
         clockWeatherHBox.prefHeightProperty().bind(topVBox.heightProperty());
         bottomVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
         clockDateVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
-        todayWeatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
-        fourDaysWeatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
+        weatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.66));
         clockDateVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
-        todayWeatherVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
-        fourDaysWeatherVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
+        weatherVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
         setStageChangeListeners(primaryStage);
         primaryStage.show();
     }

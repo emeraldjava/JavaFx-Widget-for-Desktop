@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 public class UndergroundWeatherData implements WeatherData
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final WeatherProvider weatherProvider;
+    private WeatherProvider weatherProvider;
     private String weatherData;
     private final List<String> directionsList =
             List.of("north", "north east", "east", "south east", "south", "south west", "west",
@@ -18,7 +18,8 @@ public class UndergroundWeatherData implements WeatherData
     private UndergroundWeatherData ()
     {
         super();
-        weatherProvider = UndergroundWeatherProvider.newInstance();
+        // weatherProvider = UndergroundWeatherProvider.newInstance();
+        weatherProvider = TextFileWeatherProvider.newInstance();
         updateWeatherData();
     }
     
@@ -178,6 +179,16 @@ public class UndergroundWeatherData implements WeatherData
         degree += 23;
         int direction = degree / 45;
         return directionsList.get(direction);
+    }
+    
+    public void setWeatherProvider (WeatherProvider weatherProvider)
+    {
+        this.weatherProvider = weatherProvider;
+    }
+    
+    public WeatherProvider getWeatherProvider ()
+    {
+        return weatherProvider;
     }
     
     @Override

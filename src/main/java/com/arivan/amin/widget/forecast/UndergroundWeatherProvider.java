@@ -2,9 +2,9 @@ package com.arivan.amin.widget.forecast;
 
 import org.jetbrains.annotations.NotNull;
 
-import java.io.IOException;
-import java.nio.file.*;
-import java.util.List;
+import java.io.InputStream;
+import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.util.logging.Logger;
 
 public class UndergroundWeatherProvider implements WeatherProvider
@@ -25,26 +25,16 @@ public class UndergroundWeatherProvider implements WeatherProvider
     @Override
     public String getWeatherData ()
     {
-        StringBuilder data = new StringBuilder(20);
-        // try (InputStream stream = new URL("http://www.google.com").openStream();)
-        // {
-        //     weatherData = new String(stream.readAllBytes(), StandardCharsets.UTF_8);
-        // }
-        // catch (Exception e)
-        // {
-        //     weatherData = "";
-        //     logger.warning(e.getMessage());
-        // }
-        Path path = Paths.get("/home/arivan/IdeaProjects/Widget/src/main/resources/WeatherSampleDataOriginal.txt");
-        try
+        String data;
+        try (InputStream stream = new URL("http://api.openweathermap.org/data/2.5/forecast?id=98463&APPID=8baf149076bcaecb58c4b8ce7403afb4").openStream();)
         {
-            List<String> lines = Files.readAllLines(path);
-            lines.forEach(data::append);
+            data = new String(stream.readAllBytes(), StandardCharsets.UTF_8);
         }
-        catch (IOException e)
+        catch (Exception e)
         {
+            data = "";
             logger.warning(e.getMessage());
         }
-        return data.toString();
+        return data;
     }
 }

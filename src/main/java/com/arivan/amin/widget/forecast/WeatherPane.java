@@ -1,6 +1,7 @@
 package com.arivan.amin.widget.forecast;
 
-import javafx.scene.layout.Pane;
+import javafx.scene.control.Label;
+import javafx.scene.layout.*;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
@@ -8,15 +9,48 @@ import java.util.logging.Logger;
 public class WeatherPane extends Pane
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private final WeatherData weatherData;
     
-    private WeatherPane ()
+    private WeatherPane (@NotNull Pane pane)
     {
         super();
+        weatherData = UndergroundWeatherData.newInstance();
+        HBox mainHBox = new HBox(10);
+        VBox todayVBox = new VBox(10);
+        HBox iconHBox = new HBox(10);
+        Label temperatureLabel = new Label("temperature");
+        Label iconLabel = new Label("icon");
+        iconHBox.getChildren().addAll(iconLabel, temperatureLabel);
+        Label conditionLabel = new Label("Condition");
+        Label minMaxTempLabel = new Label("min and max temp");
+        Label humidityLabel = new Label("humidity");
+        Label windLabel = new Label("wind");
+        Label cloudsLabel = new Label("clouds");
+        todayVBox.getChildren()
+                .addAll(iconHBox, conditionLabel, minMaxTempLabel, humidityLabel, windLabel,
+                        cloudsLabel);
+        VBox fourDaysVBox = new VBox(new Label("four days forecast"));
+        mainHBox.getChildren().addAll(todayVBox, fourDaysVBox);
+        getChildren().add(mainHBox);
+        prefWidthProperty().bind(pane.widthProperty());
+        prefHeightProperty().bind(pane.heightProperty());
+        mainHBox.prefWidthProperty().bind(widthProperty());
+        mainHBox.prefHeightProperty().bind(heightProperty());
+        todayVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.5));
+        fourDaysVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.5));
+        todayVBox.prefHeightProperty().bind(mainHBox.heightProperty());
+        fourDaysVBox.prefHeightProperty().bind(mainHBox.heightProperty());
     }
     
     @NotNull
-    public static WeatherPane newInstance ()
+    public static WeatherPane newInstance (Pane pane)
     {
-        return new WeatherPane();
+        return new WeatherPane(pane);
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "WeatherPane{" + "weatherData=" + weatherData + '}';
     }
 }
