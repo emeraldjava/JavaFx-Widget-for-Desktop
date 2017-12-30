@@ -22,7 +22,7 @@ public interface WeatherData
     
     String temperatureUnit ();
     
-    String temperatureValue ();
+    int temperatureValue ();
     
     String pressureUnit ();
     

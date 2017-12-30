@@ -102,106 +102,105 @@ public class OpenWeatherMap implements WeatherData
         return builder.toString();
     }
     
-    @Override
-    public String weatherCondition ()
+    private String getTimeNodeAttribute (int nodeNumber, String tagName, String attribute)
     {
         StringBuilder builder = new StringBuilder(10);
-        elementList.forEach(e ->
+        elementList.stream().filter(e ->
         {
-            if (e.getTagName().equals("forecast"))
+            return "forecast".equals(e.getTagName());
+        }).forEach(e ->
+        {
+            List<Element> list =
+                    createList(createList(e.getChildNodes()).get(nodeNumber).getChildNodes());
+            list.stream().filter(x ->
             {
-                List<Element> forecastNodes = createList(e.getChildNodes());
-                builder.append(extractWeatherCondition(forecastNodes.get(0)));
-            }
+                return tagName.equals(x.getTagName());
+            }).forEach(x ->
+            {
+                builder.append(x.getAttribute(attribute));
+            });
         });
         return builder.toString();
     }
     
-    @NotNull
-    private static String extractWeatherCondition (Element element)
+    @Override
+    public String weatherCondition ()
     {
-        StringBuilder builder = new StringBuilder(10);
-        List<Element> list = createList(element.getChildNodes());
-        list.stream().filter(e ->
-        {
-            return e.getTagName().equals("symbol");
-        }).forEach(e ->
-        {
-            builder.append(e.getAttribute("name"));
-        });
-        return builder.toString();
+        return getTimeNodeAttribute(0, "symbol", "name");
     }
     
     @Override
     public String precipitationType ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "precipitation", "type");
     }
     
     @Override
     public String precipitationValue ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "precipitation", "value");
     }
     
     @Override
     public String windDirection ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "windDirection", "name");
     }
     
     @Override
     public int windsSpeed ()
     {
-        return 0;
+        return Double.valueOf(getTimeNodeAttribute(0, "windSpeed", "mps")).intValue();
     }
     
     @Override
     public String windName ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "windSpeed", "name");
     }
     
     @Override
     public String temperatureUnit ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "temperature", "unit");
     }
     
     @Override
-    public String temperatureValue ()
+    public int temperatureValue ()
     {
-        return null;
+        String temp = getTimeNodeAttribute(0, "temperature", "value");
+        return (int) Math.round(Double.valueOf(temp));
     }
     
     @Override
     public String pressureUnit ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "pressure", "unit");
     }
     
     @Override
     public String pressureValue ()
     {
-        return null;
+        String pressure = getTimeNodeAttribute(0, "pressure", "value");
+        return pressure.substring(0, pressure.indexOf('.'));
     }
     
     @Override
     public String humidityValue ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "humidity", "value");
     }
     
     @Override
     public String cloudsName ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "clouds", "value");
     }
     
     @Override
     public String cloudsRate ()
     {
-        return null;
+        return getTimeNodeAttribute(0, "clouds", "all");
     }
     
     @Override

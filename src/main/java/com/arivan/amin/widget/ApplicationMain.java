@@ -33,7 +33,6 @@ public class ApplicationMain extends Application
     public void start (Stage primaryStage) throws Exception
     {
         OpenWeatherMap weatherMap = OpenWeatherMap.newInstance();
-        System.out.println(weatherMap.locationName());
         properties = PropertiesManager.newInstance();
         primaryStage.initStyle(StageStyle.UTILITY);
         HBox mainHBox = new HBox();

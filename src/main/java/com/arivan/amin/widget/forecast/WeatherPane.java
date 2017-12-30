@@ -23,7 +23,7 @@ public class WeatherPane extends Pane
         VBox todayVBox = new VBox(10);
         HBox iconHBox = new HBox(10);
         Label temperatureLabel = new Label("temperature");
-        ImageView imageView = new ImageView(new Image("/clear day.png"));
+        ImageView imageView = new ImageView(new Image("/shower and snow.png"));
         iconHBox.getChildren().add(imageView);
         Label conditionLabel = new Label("Condition");
         Label minMaxTempLabel = new Label("min and max temp");
@@ -44,12 +44,8 @@ public class WeatherPane extends Pane
         fourDaysVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         iconHBox.prefWidthProperty().bind(todayVBox.widthProperty());
         iconHBox.prefHeightProperty().bind(todayVBox.heightProperty().multiply(0.5));
-        imageView.setFitWidth(100);
-        imageView.setFitHeight(100);
-        System.out.println(iconHBox.widthProperty().get());
-        System.out.println(iconHBox.heightProperty().get());
-        // imageView.fitWidthProperty().bind(iconHBox.widthProperty());
-        // imageView.fitHeightProperty().bind(iconHBox.heightProperty());
+        imageView.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.95));
+        imageView.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.95));
     }
     
     @NotNull

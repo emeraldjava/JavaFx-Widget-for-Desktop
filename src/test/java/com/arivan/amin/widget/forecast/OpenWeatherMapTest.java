@@ -36,6 +36,7 @@ public class OpenWeatherMapTest
         String sunrise = weatherData.sunrise();
         assertThat(sunrise, is("04:07"));
     }
+    
     @Test
     public void sunset ()
     {
@@ -53,62 +54,85 @@ public class OpenWeatherMapTest
     @Test
     public void precipitationType ()
     {
-        throw new AssertionError();
+        String type = weatherData.precipitationType();
+        assertThat(type, is("rain"));
     }
     
+    @Test
     public void precipitationValue ()
     {
-        throw new AssertionError();
+        String value = weatherData.precipitationValue();
+        assertThat(value, is("5%"));
     }
     
+    @Test
     public void windDirection ()
     {
-        throw new AssertionError();
+        String direction = weatherData.windDirection();
+        assertThat(direction, is("North-northeast"));
     }
     
+    @Test
     public void windsSpeed ()
     {
-        throw new AssertionError();
+        int speed = weatherData.windsSpeed();
+        assertThat(speed, is(1));
     }
     
+    @Test
     public void windName ()
     {
-        throw new AssertionError();
+        String windName = weatherData.windName();
+        assertThat(windName, is("Calm"));
     }
     
+    @Test
     public void temperatureUnit ()
     {
-        throw new AssertionError();
+        String unit = weatherData.temperatureUnit();
+        assertThat(unit, is("celsius"));
     }
     
+    @Test
     public void temperatureValue ()
     {
-        throw new AssertionError();
+        int value = weatherData.temperatureValue();
+        assertThat(value, is(7));
     }
     
+    @Test
     public void pressureUnit ()
     {
-        throw new AssertionError();
+        String unit = weatherData.pressureUnit();
+        assertThat(unit, is("hPa"));
     }
     
+    @Test
     public void pressureValue ()
     {
-        throw new AssertionError();
+        String value = weatherData.pressureValue();
+        assertThat(value, is("930"));
     }
     
+    @Test
     public void humidityValue ()
     {
-        throw new AssertionError();
+        String value = weatherData.humidityValue();
+        assertThat(value, is("78"));
     }
     
+    @Test
     public void cloudsName ()
     {
-        throw new AssertionError();
+        String cloudsName = weatherData.cloudsName();
+        assertThat(cloudsName, is("broken clouds"));
     }
     
+    @Test
     public void cloudsRate ()
     {
-        throw new AssertionError();
+        String rate = weatherData.cloudsRate();
+        assertThat(rate, is("56"));
     }
     
     public void secondDayWeather ()
