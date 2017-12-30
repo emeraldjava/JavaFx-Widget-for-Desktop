@@ -17,7 +17,7 @@
     <forecast>
         <time from="2017-12-29T12:00:00" to="2017-12-29T15:00:00">
             <symbol number="803" name="broken clouds" var="04n"/>
-            <precipitation/>
+            <precipitation value="5%" unit="3h" type="rain"/>
             <windDirection deg="21.0085" code="NNE" name="North-northeast"/>
             <windSpeed mps="1.07" name="Calm"/>
             <temperature unit="celsius" value="6.87" min="6.87" max="9.19"/>

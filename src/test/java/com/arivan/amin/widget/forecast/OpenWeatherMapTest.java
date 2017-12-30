@@ -50,6 +50,7 @@ public class OpenWeatherMapTest
         assertThat(condition, is("broken clouds"));
     }
     
+    @Test
     public void precipitationType ()
     {
         throw new AssertionError();

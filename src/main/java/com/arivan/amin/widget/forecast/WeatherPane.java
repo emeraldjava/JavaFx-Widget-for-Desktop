@@ -16,32 +16,40 @@ public class WeatherPane extends Pane
     private WeatherPane (@NotNull Pane pane)
     {
         super();
+        prefWidthProperty().bind(pane.widthProperty());
+        prefHeightProperty().bind(pane.heightProperty());
         weatherData = OpenWeatherMap.newInstance();
         HBox mainHBox = new HBox(10);
         VBox todayVBox = new VBox(10);
         HBox iconHBox = new HBox(10);
         Label temperatureLabel = new Label("temperature");
-        ImageView imageView = new ImageView(new Image("/cl2.png"));
-        iconHBox.getChildren().addAll(imageView, temperatureLabel);
+        ImageView imageView = new ImageView(new Image("/clear day.png"));
+        iconHBox.getChildren().add(imageView);
         Label conditionLabel = new Label("Condition");
         Label minMaxTempLabel = new Label("min and max temp");
         Label humidityLabel = new Label("humidity");
         Label windLabel = new Label("wind");
         Label cloudsLabel = new Label("clouds");
         todayVBox.getChildren()
-                .addAll(iconHBox, conditionLabel, minMaxTempLabel, humidityLabel, windLabel,
-                        cloudsLabel);
-        VBox fourDaysVBox = new VBox(new ImageView(new Image("cl64.png")));
+                .addAll(iconHBox, temperatureLabel, conditionLabel, minMaxTempLabel, humidityLabel,
+                        windLabel, cloudsLabel);
+        VBox fourDaysVBox = new VBox(new Label("four days forecast"));
         mainHBox.getChildren().addAll(todayVBox, fourDaysVBox);
         getChildren().add(mainHBox);
-        prefWidthProperty().bind(pane.widthProperty());
-        prefHeightProperty().bind(pane.heightProperty());
         mainHBox.prefWidthProperty().bind(widthProperty());
         mainHBox.prefHeightProperty().bind(heightProperty());
         todayVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.5));
         fourDaysVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.5));
         todayVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         fourDaysVBox.prefHeightProperty().bind(mainHBox.heightProperty());
+        iconHBox.prefWidthProperty().bind(todayVBox.widthProperty());
+        iconHBox.prefHeightProperty().bind(todayVBox.heightProperty().multiply(0.5));
+        imageView.setFitWidth(100);
+        imageView.setFitHeight(100);
+        System.out.println(iconHBox.widthProperty().get());
+        System.out.println(iconHBox.heightProperty().get());
+        // imageView.fitWidthProperty().bind(iconHBox.widthProperty());
+        // imageView.fitHeightProperty().bind(iconHBox.heightProperty());
     }
     
     @NotNull
