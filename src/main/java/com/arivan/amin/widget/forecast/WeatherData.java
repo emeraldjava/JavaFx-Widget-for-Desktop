@@ -10,6 +10,8 @@ public interface WeatherData
     
     String weatherCondition ();
     
+    String weatherIcon ();
+    
     String precipitationType ();
     
     String precipitationValue ();

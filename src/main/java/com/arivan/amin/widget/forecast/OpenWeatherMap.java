@@ -130,6 +130,12 @@ public class OpenWeatherMap implements WeatherData
     }
     
     @Override
+    public String weatherIcon ()
+    {
+        return getTimeNodeAttribute(0, "symbol", "var") + ".png";
+    }
+    
+    @Override
     public String precipitationType ()
     {
         return getTimeNodeAttribute(0, "precipitation", "type");
@@ -162,7 +168,9 @@ public class OpenWeatherMap implements WeatherData
     @Override
     public String temperatureUnit ()
     {
-        return getTimeNodeAttribute(0, "temperature", "unit");
+        return String.valueOf(
+                getTimeNodeAttribute(0, "temperature", "unit").toUpperCase(Locale.ENGLISH)
+                        .charAt(0));
     }
     
     @Override

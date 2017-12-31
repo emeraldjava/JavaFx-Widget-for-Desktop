@@ -52,6 +52,12 @@ public class OpenWeatherMapTest
     }
     
     @Test
+    public void weatherIcon ()
+    {
+        String icon = weatherData.weatherIcon();
+        assertThat(icon, is("04n.png"));
+    }
+    @Test
     public void precipitationType ()
     {
         String type = weatherData.precipitationType();
@@ -90,7 +96,7 @@ public class OpenWeatherMapTest
     public void temperatureUnit ()
     {
         String unit = weatherData.temperatureUnit();
-        assertThat(unit, is("celsius"));
+        assertThat(unit, is("C"));
     }
     
     @Test

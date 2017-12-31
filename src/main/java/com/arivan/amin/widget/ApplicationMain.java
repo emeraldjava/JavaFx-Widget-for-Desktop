@@ -1,8 +1,7 @@
 package com.arivan.amin.widget;
 
 import com.arivan.amin.widget.cpu.CpuProgressBar;
-import com.arivan.amin.widget.forecast.OpenWeatherMap;
-import com.arivan.amin.widget.forecast.WeatherPane;
+import com.arivan.amin.widget.forecast.*;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
 import javafx.animation.*;
 import javafx.application.Application;
@@ -10,6 +9,7 @@ import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
+import javafx.scene.image.Image;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
@@ -32,7 +32,7 @@ public class ApplicationMain extends Application
     @Override
     public void start (Stage primaryStage) throws Exception
     {
-        OpenWeatherMap weatherMap = OpenWeatherMap.newInstance();
+        WeatherData weatherData = OpenWeatherMap.newInstance();
         properties = PropertiesManager.newInstance();
         primaryStage.initStyle(StageStyle.UTILITY);
         HBox mainHBox = new HBox();
@@ -49,7 +49,7 @@ public class ApplicationMain extends Application
         Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(1), e ->
         {
             LocalTime time = LocalTime.now();
-            timeLabel.setText(time.getHour() + ":" + time.getMinute() + ":" + time.getSecond());
+            timeLabel.setText(time.getHour() + ":" + time.getMinute() + ':' + time.getSecond());
         }));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
@@ -85,7 +85,9 @@ public class ApplicationMain extends Application
         clockDateVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
         weatherVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
         setStageChangeListeners(primaryStage);
+        primaryStage.getIcons().add(new Image("widget icon.png"));
         primaryStage.show();
+        primaryStage.setMaximized(true);
     }
     
     private void setStageChangeListeners (Stage primaryStage)
