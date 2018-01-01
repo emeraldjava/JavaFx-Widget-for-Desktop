@@ -1,7 +1,5 @@
 package com.arivan.amin.widget.forecast;
 
-import com.arivan.amin.widget.icons.ApplicationIcons;
-import com.arivan.amin.widget.icons.HtcIcons;
 import javafx.animation.*;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
@@ -16,7 +14,6 @@ public class WeatherPane extends Pane
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherData weatherData;
-    ApplicationIcons icons;
     private final Label temperatureLabel;
     private final ImageView currentWeatherImage;
     private final Label conditionLabel;
@@ -32,7 +29,6 @@ public class WeatherPane extends Pane
         prefWidthProperty().bind(pane.widthProperty());
         prefHeightProperty().bind(pane.heightProperty());
         weatherData = OpenWeatherMap.newInstance();
-        icons = HtcIcons.newInstance();
         HBox mainHBox = new HBox(10);
         VBox todayVBox = new VBox(10);
         HBox iconHBox = new HBox(10);
@@ -51,6 +47,9 @@ public class WeatherPane extends Pane
                         cloudsLabel, sunLabel);
         fourDaysVBox = new VBox();
         createWeatherBox(weatherData.secondDayWeatherIcon(), 20, 10);
+        createWeatherBox(weatherData.thirdDayWeatherIcon(), 20, 10);
+        // 380 x 300
+        createWeatherBox(weatherData.fourthDayWeatherIcon(), 20, 10);
         mainHBox.getChildren().addAll(todayVBox, fourDaysVBox);
         getChildren().add(mainHBox);
         mainHBox.prefWidthProperty().bind(widthProperty());
@@ -83,17 +82,17 @@ public class WeatherPane extends Pane
     private void createWeatherBox (String weatherIcon, int maxTemp, int minTemp)
     {
         HBox dayHBox = new HBox();
-        HBox ayIconHBox = new HBox();
+        HBox dayIconHBox = new HBox();
         Label dayLabel = new Label("max " + maxTemp + ", min " + minTemp);
         ImageView dayImageView = new ImageView(new Image(weatherIcon));
-        ayIconHBox.getChildren().add(dayImageView);
-        dayHBox.getChildren().addAll(ayIconHBox, dayLabel);
+        dayIconHBox.getChildren().add(dayImageView);
+        dayHBox.getChildren().addAll(dayIconHBox, dayLabel);
         dayHBox.prefWidthProperty().bind(fourDaysVBox.widthProperty());
         dayHBox.prefHeightProperty().bind(fourDaysVBox.heightProperty().multiply(0.33));
-        ayIconHBox.prefWidthProperty().bind(dayHBox.widthProperty().multiply(0.5));
-        ayIconHBox.prefHeightProperty().bind(dayHBox.heightProperty());
-        dayImageView.fitWidthProperty().bind(ayIconHBox.widthProperty());
-        dayImageView.fitHeightProperty().bind(ayIconHBox.heightProperty());
+        dayIconHBox.prefWidthProperty().bind(dayHBox.widthProperty().multiply(0.5));
+        dayIconHBox.prefHeightProperty().bind(dayHBox.heightProperty());
+        dayImageView.fitWidthProperty().bind(dayIconHBox.widthProperty().multiply(0.95));
+        dayImageView.fitHeightProperty().bind(dayIconHBox.heightProperty().multiply(0.95));
         fourDaysVBox.getChildren().add(dayHBox);
     }
     
@@ -115,6 +114,10 @@ public class WeatherPane extends Pane
     @Override
     public String toString ()
     {
-        return "WeatherPane{" + "weatherData=" + weatherData + '}';
+        return "WeatherPane{" + "weatherData=" + weatherData + ", temperatureLabel=" +
+                temperatureLabel + ", currentWeatherImage=" + currentWeatherImage +
+                ", conditionLabel=" + conditionLabel + ", humidityLabel=" + humidityLabel +
+                ", windLabel=" + windLabel + ", cloudsLabel=" + cloudsLabel + ", sunLabel=" +
+                sunLabel + ", fourDaysVBox=" + fourDaysVBox + '}';
     }
 }
