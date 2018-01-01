@@ -1,6 +1,7 @@
 package com.arivan.amin.widget.forecast;
 
 import javafx.animation.*;
+import javafx.geometry.Insets;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
@@ -8,10 +9,15 @@ import javafx.scene.layout.*;
 import javafx.util.Duration;
 import org.jetbrains.annotations.NotNull;
 
+import java.time.LocalDate;
+import java.util.Locale;
 import java.util.logging.Logger;
 
 public class WeatherPane extends Pane
 {
+    // TODO resource folder issue with data file when running from jar file
+    // TODO when there is precipitation show amount
+    // TODO fix timezone issue
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherData weatherData;
     private final Label temperatureLabel;
@@ -22,36 +28,32 @@ public class WeatherPane extends Pane
     private final Label cloudsLabel;
     private final Label sunLabel;
     private final VBox fourDaysVBox;
+    private final Label precipitationLabel;
     
     private WeatherPane (@NotNull Pane pane)
     {
         super();
-        prefWidthProperty().bind(pane.widthProperty());
-        prefHeightProperty().bind(pane.heightProperty());
+        bindPanePropertiesWithContainer(pane);
         weatherData = OpenWeatherMap.newInstance();
         HBox mainHBox = new HBox(10);
+        getChildren().add(mainHBox);
         VBox todayVBox = new VBox(10);
         HBox iconHBox = new HBox(10);
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
         iconHBox.getChildren().add(currentWeatherImage);
-        // TODO resource folder issue with data file when running from jar file
         conditionLabel = new Label();
         humidityLabel = new Label();
         windLabel = new Label();
         cloudsLabel = new Label();
         sunLabel = new Label();
-        // TODO when there is precipitation show amount
+        precipitationLabel = new Label();
         todayVBox.getChildren()
                 .addAll(iconHBox, temperatureLabel, conditionLabel, humidityLabel, windLabel,
-                        cloudsLabel, sunLabel);
+                        cloudsLabel, sunLabel, precipitationLabel);
         fourDaysVBox = new VBox();
-        createWeatherBox(weatherData.secondDayWeatherIcon(), 20, 10);
-        createWeatherBox(weatherData.thirdDayWeatherIcon(), 20, 10);
-        // 380 x 300
-        createWeatherBox(weatherData.fourthDayWeatherIcon(), 20, 10);
+        createWeatherBoxes();
         mainHBox.getChildren().addAll(todayVBox, fourDaysVBox);
-        getChildren().add(mainHBox);
         mainHBox.prefWidthProperty().bind(widthProperty());
         mainHBox.prefHeightProperty().bind(heightProperty());
         todayVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.5));
@@ -63,6 +65,11 @@ public class WeatherPane extends Pane
         currentWeatherImage.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.95));
         currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.95));
         updateValues();
+        setWeatherUpdateAnimation();
+    }
+    
+    private void setWeatherUpdateAnimation ()
+    {
         Timeline timeline = new Timeline();
         timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), e ->
         {
@@ -73,23 +80,70 @@ public class WeatherPane extends Pane
         timeline.play();
     }
     
+    private void bindPanePropertiesWithContainer (@NotNull Pane pane)
+    {
+        prefWidthProperty().bind(pane.widthProperty());
+        prefHeightProperty().bind(pane.heightProperty());
+    }
+    
+    private void createWeatherBoxes ()
+    {
+        createWeatherBox(weatherData.secondDayWeatherIcon(), weatherData.secondDayMaxTemperature(),
+                weatherData.secondDayMinTemperature(), getWeatherBoxDate(1));
+        createWeatherBox(weatherData.thirdDayWeatherIcon(), weatherData.thirdDayMaxTemperature(),
+                weatherData.thirdDayMinTemperature(), getWeatherBoxDate(2));
+        createWeatherBox(weatherData.fourthDayWeatherIcon(), weatherData.fourthDayMaxTemperature(),
+                weatherData.fourthDayMinTemperature(), getWeatherBoxDate(3));
+    }
+    
+    @NotNull
+    private static String getWeatherBoxDate (int datePlusDays)
+    {
+        LocalDate date = LocalDate.now().plusDays(datePlusDays);
+        String dayOfWeek = date.getDayOfWeek().name().toLowerCase(Locale.ENGLISH);
+        dayOfWeek = dayOfWeek.substring(0, 1).toUpperCase(Locale.ENGLISH) + dayOfWeek.substring(1);
+        String day;
+        switch (date.getDayOfMonth())
+        {
+            case 1:
+                day = String.valueOf(date.getDayOfMonth()) + "st of ";
+                break;
+            case 2:
+                day = String.valueOf(date.getDayOfMonth()) + "nd of ";
+                break;
+            case 3:
+                day = String.valueOf(date.getDayOfMonth()) + "rd of ";
+                break;
+            default:
+                day = String.valueOf(date.getDayOfMonth()) + "th of ";
+                break;
+        }
+        String month = date.getMonth().name().toLowerCase(Locale.ENGLISH);
+        month = month.substring(0, 1).toUpperCase(Locale.ENGLISH) + month.substring(1);
+        return dayOfWeek + "  " + day + month;
+    }
+    
     @NotNull
     public static WeatherPane newInstance (Pane pane)
     {
         return new WeatherPane(pane);
     }
     
-    private void createWeatherBox (String weatherIcon, int maxTemp, int minTemp)
+    private void createWeatherBox (String weatherIcon, int maxTemp, int minTemp, String date)
     {
         HBox dayHBox = new HBox();
         HBox dayIconHBox = new HBox();
-        Label dayLabel = new Label("max " + maxTemp + ", min " + minTemp);
         ImageView dayImageView = new ImageView(new Image(weatherIcon));
         dayIconHBox.getChildren().add(dayImageView);
-        dayHBox.getChildren().addAll(dayIconHBox, dayLabel);
+        VBox labelsVBox = new VBox();
+        labelsVBox.setPadding(new Insets(20, 0, 0, 0));
+        Label temperaturesLabel = new Label("max " + maxTemp + ", min " + minTemp);
+        Label dateLabel = new Label(date);
+        labelsVBox.getChildren().addAll(temperaturesLabel, dateLabel);
+        dayHBox.getChildren().addAll(dayIconHBox, labelsVBox);
         dayHBox.prefWidthProperty().bind(fourDaysVBox.widthProperty());
         dayHBox.prefHeightProperty().bind(fourDaysVBox.heightProperty().multiply(0.33));
-        dayIconHBox.prefWidthProperty().bind(dayHBox.widthProperty().multiply(0.5));
+        dayIconHBox.prefWidthProperty().bind(dayHBox.widthProperty().multiply(0.4));
         dayIconHBox.prefHeightProperty().bind(dayHBox.heightProperty());
         dayImageView.fitWidthProperty().bind(dayIconHBox.widthProperty().multiply(0.95));
         dayImageView.fitHeightProperty().bind(dayIconHBox.heightProperty().multiply(0.95));
@@ -109,6 +163,15 @@ public class WeatherPane extends Pane
                         weatherData.windDirection());
         cloudsLabel.setText("Clouds: " + weatherData.cloudsRate() + '%');
         sunLabel.setText("Sunrise: " + weatherData.sunrise() + " Sunset: " + weatherData.sunset());
+        if (!weatherData.precipitationType().isEmpty())
+        {
+            precipitationLabel.setText("Precipitation: " + weatherData.precipitationType() + "  " +
+                    weatherData.precipitationValue() + "mm");
+        }
+        else
+        {
+            precipitationLabel.setText("");
+        }
     }
     
     @Override
@@ -118,6 +181,7 @@ public class WeatherPane extends Pane
                 temperatureLabel + ", currentWeatherImage=" + currentWeatherImage +
                 ", conditionLabel=" + conditionLabel + ", humidityLabel=" + humidityLabel +
                 ", windLabel=" + windLabel + ", cloudsLabel=" + cloudsLabel + ", sunLabel=" +
-                sunLabel + ", fourDaysVBox=" + fourDaysVBox + '}';
+                sunLabel + ", fourDaysVBox=" + fourDaysVBox + ", precipitationLabel=" +
+                precipitationLabel + '}';
     }
 }

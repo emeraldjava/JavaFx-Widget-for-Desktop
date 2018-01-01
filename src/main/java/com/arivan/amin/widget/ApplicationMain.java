@@ -15,9 +15,11 @@ import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 import javafx.util.Duration;
+import org.jetbrains.annotations.NotNull;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
+import java.util.Locale;
 
 public class ApplicationMain extends Application
 {
@@ -49,12 +51,12 @@ public class ApplicationMain extends Application
         Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(1), e ->
         {
             LocalTime time = LocalTime.now();
-            timeLabel.setText(time.getHour() + ":" + time.getMinute() + ':' + time.getSecond());
+            timeLabel.setText(time.getHour() + ":" + time.getMinute());
         }));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
         timeLabel.getStyleClass().add("time-label");
-        Label dateLabel = new Label(LocalDate.now().toString());
+        Label dateLabel = new Label(getCurrentDate());
         dateLabel.getStyleClass().add("date-label");
         clockDateVBox.getChildren().addAll(timeLabel, dateLabel);
         VBox weatherVBox = new VBox();
@@ -90,7 +92,34 @@ public class ApplicationMain extends Application
         primaryStage.setMaximized(true);
     }
     
-    private void setStageChangeListeners (Stage primaryStage)
+    @NotNull
+    private String getCurrentDate ()
+    {
+        LocalDate date = LocalDate.now();
+        String day = date.getDayOfWeek().name().toLowerCase(Locale.ENGLISH);
+        day = day.substring(0, 1) + day.substring(1);
+        if (date.getDayOfMonth() == 1)
+        {
+            day += ' ' + String.valueOf(date.getDayOfMonth()) + "st of ";
+        }
+        else if (date.getDayOfMonth() == 2)
+        {
+            day += ' ' + String.valueOf(date.getDayOfMonth()) + "nd of ";
+        }
+        else if (date.getDayOfMonth() == 3)
+        {
+            day += ' ' + String.valueOf(date.getDayOfMonth()) + "rd of ";
+        }
+        else
+        {
+            day += ' ' + String.valueOf(date.getDayOfMonth()) + "th of ";
+        }
+        String month = date.getMonth().name().toLowerCase(Locale.ENGLISH);
+        month = month.substring(0, 1) + month.substring(1);
+        return day + month;
+    }
+    
+    private void setStageChangeListeners (@NotNull Stage primaryStage)
     {
         scene.widthProperty().addListener(e ->
         {

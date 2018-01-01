@@ -68,7 +68,7 @@ public class OpenWeatherMapTest
     public void precipitationValue ()
     {
         String value = weatherData.precipitationValue();
-        assertThat(value, is("5%"));
+        assertThat(value, is("5"));
     }
     
     @Test

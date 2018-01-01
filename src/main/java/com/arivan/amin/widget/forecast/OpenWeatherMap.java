@@ -86,6 +86,13 @@ public class OpenWeatherMap implements WeatherData
         return getSunAttribute("set");
     }
     
+    // String dateInString = "22-1-2015 10:15:55 AM";
+    // LocalDateTime localDateTime = LocalDateTime
+    //         .parse(dateInString, DateTimeFormatter.ofPattern("yyyy- hh:mm:ss a"));
+    // ZoneId singaporeZoneId = ZoneId.of("UTC");
+    // ZonedDateTime asiaZonedDateTime = localDateTime.atZone(singaporeZoneId);
+    // ZoneId newYokZoneId = ZoneId.of("Asia/Baghdad");
+    // ZonedDateTime nyDateTime = asiaZonedDateTime.withZoneSameInstant(newYokZoneId);
     @NotNull
     private String getSunAttribute (String attr)
     {
