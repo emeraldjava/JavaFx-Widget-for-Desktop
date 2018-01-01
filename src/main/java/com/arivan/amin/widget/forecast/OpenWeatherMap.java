@@ -212,57 +212,57 @@ public class OpenWeatherMap implements WeatherData
     }
     
     @Override
-    public String secondDayWeather ()
+    public String secondDayWeatherIcon ()
     {
-        return null;
+        return "01d.png";
     }
     
     @Override
     public int secondDayMaxTemperature ()
     {
-        return 0;
+        return 20;
     }
     
     @Override
-    public int secondMinTemperature ()
+    public int secondDayMinTemperature ()
     {
-        return 0;
+        return 5;
     }
     
     @Override
-    public String thirdDayWeather ()
+    public String thirdDayWeatherIcon ()
     {
-        return null;
+        return "10d.png";
     }
     
     @Override
     public int thirdDayMaxTemperature ()
     {
-        return 0;
+        return 15;
     }
     
     @Override
-    public int thirdMinTemperature ()
+    public int thirdDayMinTemperature ()
     {
-        return 0;
+        return 3;
     }
     
     @Override
-    public String fourthDayWeather ()
+    public String fourthDayWeatherIcon ()
     {
-        return null;
+        return "13n.png";
     }
     
     @Override
     public int fourthDayMaxTemperature ()
     {
-        return 0;
+        return 10;
     }
     
     @Override
-    public int fourthMinTemperature ()
+    public int fourthDayMinTemperature ()
     {
-        return 0;
+        return 1;
     }
     
     public void setWeatherProvider (WeatherProvider weatherProvider)

@@ -24,6 +24,7 @@ public class WeatherPane extends Pane
     private final Label windLabel;
     private final Label cloudsLabel;
     private final Label sunLabel;
+    private final VBox fourDaysVBox;
     
     private WeatherPane (@NotNull Pane pane)
     {
@@ -38,6 +39,7 @@ public class WeatherPane extends Pane
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
         iconHBox.getChildren().add(currentWeatherImage);
+        // TODO resource folder issue with data file when running from jar file
         conditionLabel = new Label();
         humidityLabel = new Label();
         windLabel = new Label();
@@ -47,7 +49,8 @@ public class WeatherPane extends Pane
         todayVBox.getChildren()
                 .addAll(iconHBox, temperatureLabel, conditionLabel, humidityLabel, windLabel,
                         cloudsLabel, sunLabel);
-        VBox fourDaysVBox = new VBox(new Label("four days forecast"));
+        fourDaysVBox = new VBox();
+        createWeatherBox(weatherData.secondDayWeatherIcon(), 20, 10);
         mainHBox.getChildren().addAll(todayVBox, fourDaysVBox);
         getChildren().add(mainHBox);
         mainHBox.prefWidthProperty().bind(widthProperty());
@@ -75,6 +78,23 @@ public class WeatherPane extends Pane
     public static WeatherPane newInstance (Pane pane)
     {
         return new WeatherPane(pane);
+    }
+    
+    private void createWeatherBox (String weatherIcon, int maxTemp, int minTemp)
+    {
+        HBox dayHBox = new HBox();
+        HBox ayIconHBox = new HBox();
+        Label dayLabel = new Label("max " + maxTemp + ", min " + minTemp);
+        ImageView dayImageView = new ImageView(new Image(weatherIcon));
+        ayIconHBox.getChildren().add(dayImageView);
+        dayHBox.getChildren().addAll(ayIconHBox, dayLabel);
+        dayHBox.prefWidthProperty().bind(fourDaysVBox.widthProperty());
+        dayHBox.prefHeightProperty().bind(fourDaysVBox.heightProperty().multiply(0.33));
+        ayIconHBox.prefWidthProperty().bind(dayHBox.widthProperty().multiply(0.5));
+        ayIconHBox.prefHeightProperty().bind(dayHBox.heightProperty());
+        dayImageView.fitWidthProperty().bind(ayIconHBox.widthProperty());
+        dayImageView.fitHeightProperty().bind(ayIconHBox.heightProperty());
+        fourDaysVBox.getChildren().add(dayHBox);
     }
     
     private void updateValues ()

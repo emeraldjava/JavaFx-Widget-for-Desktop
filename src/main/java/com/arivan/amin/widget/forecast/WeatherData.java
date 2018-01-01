@@ -36,23 +36,23 @@ public interface WeatherData
     
     String cloudsRate ();
     
-    String secondDayWeather ();
+    String secondDayWeatherIcon ();
     
     int secondDayMaxTemperature ();
     
-    int secondMinTemperature ();
+    int secondDayMinTemperature ();
     
-    String thirdDayWeather ();
+    String thirdDayWeatherIcon ();
     
     int thirdDayMaxTemperature ();
     
-    int thirdMinTemperature ();
+    int thirdDayMinTemperature ();
     
-    String fourthDayWeather ();
+    String fourthDayWeatherIcon ();
     
     int fourthDayMaxTemperature ();
     
-    int fourthMinTemperature ();
+    int fourthDayMinTemperature ();
     
     void updateWeatherData ();
 }
