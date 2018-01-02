@@ -5,6 +5,7 @@ import org.w3c.dom.*;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import java.time.*;
 import java.util.*;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
@@ -86,13 +87,6 @@ public class OpenWeatherMap implements WeatherData
         return getSunAttribute("set");
     }
     
-    // String dateInString = "22-1-2015 10:15:55 AM";
-    // LocalDateTime localDateTime = LocalDateTime
-    //         .parse(dateInString, DateTimeFormatter.ofPattern("yyyy- hh:mm:ss a"));
-    // ZoneId singaporeZoneId = ZoneId.of("UTC");
-    // ZonedDateTime asiaZonedDateTime = localDateTime.atZone(singaporeZoneId);
-    // ZoneId newYokZoneId = ZoneId.of("Asia/Baghdad");
-    // ZonedDateTime nyDateTime = asiaZonedDateTime.withZoneSameInstant(newYokZoneId);
     @NotNull
     private String getSunAttribute (String attr)
     {
@@ -101,15 +95,34 @@ public class OpenWeatherMap implements WeatherData
         {
             if ("sun".equals(e.getTagName()))
             {
-                String rise = e.getAttribute(attr);
-                rise = rise.substring(rise.indexOf('T') + 1, rise.lastIndexOf(':'));
-                builder.append(rise);
+                String time = changeTimeZoneToLocal(e.getAttribute(attr));
+                time = time.substring(time.indexOf('T') + 1, time.lastIndexOf('+'));
+                time = time.substring(0, time.lastIndexOf(':'));
+                builder.append(time);
             }
         });
         return builder.toString();
     }
     
-    private String getTimeNodeAttribute (int nodeNumber, String tagName, String attribute)
+    @NotNull
+    public String getTimeNodeAttribute (int nodeNumber, String attribute)
+    {
+        StringBuilder builder = new StringBuilder(10);
+        elementList.stream().filter(e ->
+        {
+            return "forecast".equals(e.getTagName());
+        }).forEach(e ->
+        {
+            Element element = createList(e.getChildNodes()).get(nodeNumber);
+            String time = changeTimeZoneToLocal(element.getAttribute(attribute));
+            time = time.substring(0, time.lastIndexOf('+'));
+            builder.append(time);
+        });
+        return builder.toString();
+    }
+    
+    @NotNull
+    private String getTimeNodeChildAttribute (int nodeNumber, String tagName, String attribute)
     {
         StringBuilder builder = new StringBuilder(10);
         elementList.stream().filter(e ->
@@ -133,89 +146,89 @@ public class OpenWeatherMap implements WeatherData
     @Override
     public String weatherCondition ()
     {
-        return getTimeNodeAttribute(0, "symbol", "name");
+        return getTimeNodeChildAttribute(0, "symbol", "name");
     }
     
     @Override
     public String weatherIcon ()
     {
-        return getTimeNodeAttribute(0, "symbol", "var") + ".png";
+        return getTimeNodeChildAttribute(0, "symbol", "var") + ".png";
     }
     
     @Override
     public String precipitationType ()
     {
-        return getTimeNodeAttribute(0, "precipitation", "type");
+        return getTimeNodeChildAttribute(0, "precipitation", "type");
     }
     
     @Override
     public String precipitationValue ()
     {
-        return getTimeNodeAttribute(0, "precipitation", "value");
+        return getTimeNodeChildAttribute(0, "precipitation", "value");
     }
     
     @Override
     public String windDirection ()
     {
-        return getTimeNodeAttribute(0, "windDirection", "name");
+        return getTimeNodeChildAttribute(0, "windDirection", "name");
     }
     
     @Override
     public int windsSpeed ()
     {
-        return Double.valueOf(getTimeNodeAttribute(0, "windSpeed", "mps")).intValue();
+        return Double.valueOf(getTimeNodeChildAttribute(0, "windSpeed", "mps")).intValue();
     }
     
     @Override
     public String windName ()
     {
-        return getTimeNodeAttribute(0, "windSpeed", "name");
+        return getTimeNodeChildAttribute(0, "windSpeed", "name");
     }
     
     @Override
     public String temperatureUnit ()
     {
         return String.valueOf(
-                getTimeNodeAttribute(0, "temperature", "unit").toUpperCase(Locale.ENGLISH)
+                getTimeNodeChildAttribute(0, "temperature", "unit").toUpperCase(Locale.ENGLISH)
                         .charAt(0));
     }
     
     @Override
     public int temperatureValue ()
     {
-        String temp = getTimeNodeAttribute(0, "temperature", "value");
+        String temp = getTimeNodeChildAttribute(0, "temperature", "value");
         return (int) Math.round(Double.valueOf(temp));
     }
     
     @Override
     public String pressureUnit ()
     {
-        return getTimeNodeAttribute(0, "pressure", "unit");
+        return getTimeNodeChildAttribute(0, "pressure", "unit");
     }
     
     @Override
     public String pressureValue ()
     {
-        String pressure = getTimeNodeAttribute(0, "pressure", "value");
+        String pressure = getTimeNodeChildAttribute(0, "pressure", "value");
         return pressure.substring(0, pressure.indexOf('.'));
     }
     
     @Override
     public String humidityValue ()
     {
-        return getTimeNodeAttribute(0, "humidity", "value");
+        return getTimeNodeChildAttribute(0, "humidity", "value");
     }
     
     @Override
     public String cloudsName ()
     {
-        return getTimeNodeAttribute(0, "clouds", "value");
+        return getTimeNodeChildAttribute(0, "clouds", "value");
     }
     
     @Override
     public String cloudsRate ()
     {
-        return getTimeNodeAttribute(0, "clouds", "all");
+        return getTimeNodeChildAttribute(0, "clouds", "all");
     }
     
     @Override
@@ -270,6 +283,16 @@ public class OpenWeatherMap implements WeatherData
     public int fourthDayMinTemperature ()
     {
         return 1;
+    }
+    
+    public String changeTimeZoneToLocal (CharSequence dateTime)
+    {
+        LocalDateTime localDateTime = LocalDateTime.parse(dateTime);
+        ZoneId utcZoneId = ZoneId.of("UTC");
+        ZonedDateTime utcZonedDateTime = localDateTime.atZone(utcZoneId);
+        ZoneId localZoneId = ZoneId.of("Asia/Baghdad");
+        ZonedDateTime localZonedDateTime = utcZonedDateTime.withZoneSameInstant(localZoneId);
+        return localZonedDateTime.toString();
     }
     
     public void setWeatherProvider (WeatherProvider weatherProvider)

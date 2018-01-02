@@ -25,7 +25,7 @@ public class OpenWeatherMapProvider implements WeatherProvider
         try
         {
             stream =
-                    new URL("http://api.openweathermap.org/data/2.5/forecast?id=98463&APPID=8baf149076bcaecb58c4b8ce7403afb4")
+                    new URL("http://api.openweathermap.org/data/2.5/forecast?id=98463&APPID=8baf149076bcaecb58c4b8ce7403afb4&mode=xml&units=metric")
                             .openStream();
         }
         catch (Exception e)

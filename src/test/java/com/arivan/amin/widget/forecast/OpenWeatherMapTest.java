@@ -34,14 +34,14 @@ public class OpenWeatherMapTest
     public void sunrise ()
     {
         String sunrise = weatherData.sunrise();
-        assertThat(sunrise, is("04:07"));
+        assertThat(sunrise, is("07:07"));
     }
     
     @Test
     public void sunset ()
     {
         String sunset = weatherData.sunset();
-        assertThat(sunset, is("13:54"));
+        assertThat(sunset, is("16:54"));
     }
     
     @Test
@@ -57,6 +57,7 @@ public class OpenWeatherMapTest
         String icon = weatherData.weatherIcon();
         assertThat(icon, is("04n.png"));
     }
+    
     @Test
     public void precipitationType ()
     {
@@ -139,6 +140,15 @@ public class OpenWeatherMapTest
     {
         String rate = weatherData.cloudsRate();
         assertThat(rate, is("56"));
+    }
+    
+    @Test
+    public void getTimeNodeAttribute ()
+    {
+        String from = weatherData.getTimeNodeAttribute(0, "from");
+        assertThat(from, is("2017-12-29T15:00"));
+        String to = weatherData.getTimeNodeAttribute(0, "to");
+        assertThat(to, is("2017-12-29T18:00"));
     }
     
     public void secondDayWeather ()
