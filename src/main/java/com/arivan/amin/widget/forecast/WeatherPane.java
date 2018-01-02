@@ -153,9 +153,7 @@ public class WeatherPane extends Pane
     private void updateValues ()
     {
         weatherData.updateWeatherData();
-        String url = weatherData.weatherIcon();
-        System.out.println(url);
-        currentWeatherImage.setImage(new Image(url));
+        currentWeatherImage.setImage(new Image(weatherData.weatherIcon()));
         temperatureLabel.setText(
                 "Temperature: " + weatherData.temperatureValue() + weatherData.temperatureUnit());
         conditionLabel.setText("Weather condition: " + weatherData.weatherCondition());

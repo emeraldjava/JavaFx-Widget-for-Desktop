@@ -96,8 +96,7 @@ public class OpenWeatherMap implements WeatherData
             if ("sun".equals(e.getTagName()))
             {
                 String time = changeTimeZoneToLocal(e.getAttribute(attr));
-                time = time.substring(time.indexOf('T') + 1, time.lastIndexOf('+'));
-                time = time.substring(0, time.lastIndexOf(':'));
+                time = time.substring(time.indexOf('T') + 1, time.lastIndexOf(':'));
                 builder.append(time);
             }
         });
@@ -114,11 +113,22 @@ public class OpenWeatherMap implements WeatherData
         }).forEach(e ->
         {
             Element element = createList(e.getChildNodes()).get(nodeNumber);
-            String time = changeTimeZoneToLocal(element.getAttribute(attribute));
-            time = time.substring(0, time.lastIndexOf('+'));
-            builder.append(time);
+            builder.append(changeTimeZoneToLocal(element.getAttribute(attribute)));
         });
         return builder.toString();
+    }
+    
+    private List<Element> getTimeNodes ()
+    {
+        List<Element> elements = Collections.emptyList();
+        for (Element e : elementList)
+        {
+            if ("forecast".equals(e.getTagName()))
+            {
+                elements = createList(e.getChildNodes());
+            }
+        }
+        return elements;
     }
     
     @NotNull
@@ -231,6 +241,60 @@ public class OpenWeatherMap implements WeatherData
         return getTimeNodeChildAttribute(0, "clouds", "all");
     }
     
+    private int getMaxTemperatureForDayFromNow (int dayNumber)
+    {
+        LocalDateTime secondDayStart =
+                LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0, "from")))
+                        .plusDays(dayNumber);
+        secondDayStart = secondDayStart.minusHours(secondDayStart.getHour());
+        LocalDateTime secondDayEnd = secondDayStart.plusDays(1);
+        List<Element> timeNodes = getTimeNodes();
+        int maxTemp = -1000;
+        for (int i = 0; i < timeNodes.size(); i++)
+        {
+            Element node = timeNodes.get(i);
+            String from = getTimeNodeAttribute(i, "from");
+            LocalDateTime localDateTime = LocalDateTime.parse(from);
+            if (localDateTime.isAfter(secondDayStart) && localDateTime.isBefore(secondDayEnd))
+            {
+                String temperatureString = getTimeNodeChildAttribute(i, "temperature", "value");
+                int temp = Double.valueOf(temperatureString).intValue();
+                if (temp > maxTemp)
+                {
+                    maxTemp = temp;
+                }
+            }
+        }
+        return maxTemp;
+    }
+    
+    private int getMinTemperatureForDayFromNow (int dayNumber)
+    {
+        LocalDateTime secondDayStart =
+                LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0, "from")))
+                        .plusDays(dayNumber);
+        secondDayStart = secondDayStart.minusHours(secondDayStart.getHour());
+        LocalDateTime secondDayEnd = secondDayStart.plusDays(1);
+        List<Element> timeNodes = getTimeNodes();
+        int minTemp = 1000;
+        for (int i = 0; i < timeNodes.size(); i++)
+        {
+            Element node = timeNodes.get(i);
+            String from = getTimeNodeAttribute(i, "from");
+            LocalDateTime localDateTime = LocalDateTime.parse(from);
+            if (localDateTime.isAfter(secondDayStart) && localDateTime.isBefore(secondDayEnd))
+            {
+                String temperatureString = getTimeNodeChildAttribute(i, "temperature", "value");
+                int temp = Double.valueOf(temperatureString).intValue();
+                if (temp < minTemp)
+                {
+                    minTemp = temp;
+                }
+            }
+        }
+        return minTemp;
+    }
+    
     @Override
     public String secondDayWeatherIcon ()
     {
@@ -241,14 +305,13 @@ public class OpenWeatherMap implements WeatherData
     @Override
     public int secondDayMaxTemperature ()
     {
-        LocalDateTime secondDay = LocalDateTime.now().plusDays(1);
-        return 20;
+        return getMaxTemperatureForDayFromNow(1);
     }
     
     @Override
     public int secondDayMinTemperature ()
     {
-        return 5;
+        return getMinTemperatureForDayFromNow(1);
     }
     
     @Override
@@ -260,13 +323,13 @@ public class OpenWeatherMap implements WeatherData
     @Override
     public int thirdDayMaxTemperature ()
     {
-        return 15;
+        return getMaxTemperatureForDayFromNow(2);
     }
     
     @Override
     public int thirdDayMinTemperature ()
     {
-        return 3;
+        return getMinTemperatureForDayFromNow(2);
     }
     
     @Override
@@ -278,23 +341,25 @@ public class OpenWeatherMap implements WeatherData
     @Override
     public int fourthDayMaxTemperature ()
     {
-        return 10;
+        return getMaxTemperatureForDayFromNow(3);
     }
     
     @Override
     public int fourthDayMinTemperature ()
     {
-        return 1;
+        return getMinTemperatureForDayFromNow(3);
     }
     
-    public String changeTimeZoneToLocal (CharSequence dateTime)
+    private String changeTimeZoneToLocal (CharSequence dateTime)
     {
         LocalDateTime localDateTime = LocalDateTime.parse(dateTime);
         ZoneId utcZoneId = ZoneId.of("UTC");
         ZonedDateTime utcZonedDateTime = localDateTime.atZone(utcZoneId);
         ZoneId localZoneId = ZoneId.of("Asia/Baghdad");
         ZonedDateTime localZonedDateTime = utcZonedDateTime.withZoneSameInstant(localZoneId);
-        return localZonedDateTime.toString();
+        String time = localZonedDateTime.toString();
+        time = time.substring(0, time.lastIndexOf('+'));
+        return time;
     }
     
     public void setWeatherProvider (WeatherProvider weatherProvider)

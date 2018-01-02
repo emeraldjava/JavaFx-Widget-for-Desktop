@@ -159,7 +159,7 @@ public class OpenWeatherMapTest
     public void secondDayMaxTemperature ()
     {
         int maxTemperature = weatherData.secondDayMaxTemperature();
-        assertThat(maxTemperature, is(17));
+        assertThat(maxTemperature, is(16));
     }
     
     @Test
@@ -173,23 +173,32 @@ public class OpenWeatherMapTest
     {
     }
     
+    @Test
     public void thirdDayMaxTemperature ()
     {
+        int temperature = weatherData.thirdDayMaxTemperature();
+        assertThat(temperature,  is(17));
     }
-    
+    @Test
     public void thirdMinTemperature ()
     {
+        int temperature = weatherData.thirdDayMinTemperature();
+        assertThat(temperature, is(0));
     }
     
     public void fourthDayWeather ()
     {
     }
-    
+    @Test
     public void fourthDayMaxTemperature ()
     {
+        int temperature = weatherData.fourthDayMaxTemperature();
+        assertThat(temperature, is(15));
     }
-    
+    @Test
     public void fourthMinTemperature ()
     {
+        int temperature = weatherData.fourthDayMinTemperature();
+        assertThat(temperature, is(2));
     }
 }
