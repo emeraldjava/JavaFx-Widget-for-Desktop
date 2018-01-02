@@ -234,12 +234,14 @@ public class OpenWeatherMap implements WeatherData
     @Override
     public String secondDayWeatherIcon ()
     {
+        // TODO 1/2/18 calculate second day weather condition
         return "01d.png";
     }
     
     @Override
     public int secondDayMaxTemperature ()
     {
+        LocalDateTime secondDay = LocalDateTime.now().plusDays(1);
         return 20;
     }
     
