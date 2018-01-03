@@ -7,6 +7,8 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.time.*;
 import java.util.*;
+import java.util.Map.Entry;
+import java.util.function.Function;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
@@ -17,18 +19,17 @@ public class OpenWeatherMap implements WeatherData
     private WeatherProvider weatherProvider;
     private List<Element> elementList;
     
-    private OpenWeatherMap ()
+    private OpenWeatherMap (WeatherProvider weatherProvider)
     {
         super();
-        // weatherProvider = OpenWeatherMapProvider.newInstance();
-        weatherProvider = TextFileWeatherProvider.newInstance();
+        this.weatherProvider = weatherProvider;
         updateWeatherData();
     }
     
     @NotNull
-    public static OpenWeatherMap newInstance ()
+    public static OpenWeatherMap newInstance (WeatherProvider weatherProvider)
     {
-        return new OpenWeatherMap();
+        return new OpenWeatherMap(weatherProvider);
     }
     
     @Override
@@ -241,134 +242,147 @@ public class OpenWeatherMap implements WeatherData
         return getTimeNodeChildAttribute(0, "clouds", "all");
     }
     
-    private int getMaxTemperatureForDayFromNow (int dayNumber)
+    private List<String> getAttributesOfDaysFromNow (int dayNumber, String tagName,
+            String attribute)
     {
-        int maxTemp = -1000;
-        LocalDateTime secondDayStart =
+        List<String> list = new ArrayList<>(50);
+        LocalDateTime dayStart =
                 LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0, "from")))
                         .plusDays(dayNumber);
-        secondDayStart = secondDayStart.minusHours(secondDayStart.getHour());
-        LocalDateTime secondDayEnd = secondDayStart.plusDays(1);
+        dayStart = dayStart.minusHours(dayStart.getHour());
+        LocalDateTime dayEnd = dayStart.plusDays(1);
         List<Element> timeNodes = getTimeNodes();
         for (int i = 0; i < timeNodes.size(); i++)
         {
             Element node = timeNodes.get(i);
             String from = getTimeNodeAttribute(i, "from");
             LocalDateTime localDateTime = LocalDateTime.parse(from).plusMinutes(1);
-            if (localDateTime.isAfter(secondDayStart) && localDateTime.isBefore(secondDayEnd))
+            if (localDateTime.isAfter(dayStart) && localDateTime.isBefore(dayEnd))
             {
-                String temperatureString = getTimeNodeChildAttribute(i, "temperature", "value");
-                int temp = Double.valueOf(temperatureString).intValue();
-                if (temp > maxTemp)
-                {
-                    maxTemp = temp;
-                }
+                list.add(getTimeNodeChildAttribute(i, tagName, attribute));
+            }
+        }
+        return list;
+    }
+    
+    private int getMaxTemperature (int daysFromNow)
+    {
+        int maxTemp = -1000;
+        List<String> list = getAttributesOfDaysFromNow(daysFromNow, "temperature", "value");
+        for (String e : list)
+        {
+            int temp = Double.valueOf(e).intValue();
+            if (temp > maxTemp)
+            {
+                maxTemp = temp;
             }
         }
         return maxTemp;
     }
     
-    private int getMinTemperatureForDayFromNow (int dayNumber)
+    private int getMinTemperature (int daysFromNow)
     {
         int minTemp = 1000;
-        LocalDateTime secondDayStart =
-                LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0, "from")))
-                        .plusDays(dayNumber);
-        secondDayStart = secondDayStart.minusHours(secondDayStart.getHour());
-        LocalDateTime secondDayEnd = secondDayStart.plusDays(1);
-        List<Element> timeNodes = getTimeNodes();
-        for (int i = 0; i < timeNodes.size(); i++)
+        List<String> list = getAttributesOfDaysFromNow(daysFromNow, "temperature", "value");
+        for (String e : list)
         {
-            Element node = timeNodes.get(i);
-            String from = getTimeNodeAttribute(i, "from");
-            LocalDateTime localDateTime = LocalDateTime.parse(from).plusMinutes(1);
-            if (localDateTime.isAfter(secondDayStart) && localDateTime.isBefore(secondDayEnd))
+            int temp = Double.valueOf(e).intValue();
+            if (temp < minTemp)
             {
-                String temperatureString = getTimeNodeChildAttribute(i, "temperature", "value");
-                int temp = Double.valueOf(temperatureString).intValue();
-                if (temp < minTemp)
-                {
-                    minTemp = temp;
-                }
+                minTemp = temp;
             }
         }
         return minTemp;
     }
     
+    @NotNull
+    private String getWeatherIcon (int daysFromNow)
+    {
+        List<String> list = getAttributesOfDaysFromNow(daysFromNow, "symbol", "var");
+        List<String> collect = list.stream().map(e ->
+        {
+            return e.replace('n', 'd');
+        }).collect(Collectors.toList());
+        Map<String, Long> set = collect.stream()
+                .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+        String max =
+                Collections.max(set.entrySet(), Comparator.comparing(Entry::getValue)).getKey();
+        return max + ".png";
+    }
+    
     @Override
     public String secondDayWeatherIcon ()
     {
-        // TODO 1/2/18 calculate second day weather condition
-        return "01d.png";
+        return getWeatherIcon(1);
     }
     
     @Override
     public int secondDayMaxTemperature ()
     {
-        return getMaxTemperatureForDayFromNow(1);
+        return getMaxTemperature(1);
     }
     
     @Override
     public int secondDayMinTemperature ()
     {
-        return getMinTemperatureForDayFromNow(1);
+        return getMinTemperature(1);
     }
     
     @Override
     public String thirdDayWeatherIcon ()
     {
-        return "10d.png";
+        return getWeatherIcon(2);
     }
     
     @Override
     public int thirdDayMaxTemperature ()
     {
-        return getMaxTemperatureForDayFromNow(2);
+        return getMaxTemperature(2);
     }
     
     @Override
     public int thirdDayMinTemperature ()
     {
-        return getMinTemperatureForDayFromNow(2);
+        return getMinTemperature(2);
     }
     
     @Override
     public String fourthDayWeatherIcon ()
     {
-        return "13n.png";
+        return getWeatherIcon(3);
     }
     
     @Override
     public int fourthDayMaxTemperature ()
     {
-        return getMaxTemperatureForDayFromNow(3);
+        return getMaxTemperature(3);
     }
     
     @Override
     public int fourthDayMinTemperature ()
     {
-        return getMinTemperatureForDayFromNow(3);
+        return getMinTemperature(3);
     }
     
     @Override
     public String fifthDayWeatherIcon ()
     {
-        return "11d.png";
+        return getWeatherIcon(4);
     }
     
     @Override
     public int fifthDayMaxTemperature ()
     {
-        return getMaxTemperatureForDayFromNow(4);
+        return getMaxTemperature(4);
     }
     
     @Override
     public int fifthDayMinTemperature ()
     {
-        return getMinTemperatureForDayFromNow(4);
+        return getMinTemperature(4);
     }
     
-    private String changeTimeZoneToLocal (CharSequence dateTime)
+    private static String changeTimeZoneToLocal (CharSequence dateTime)
     {
         LocalDateTime localDateTime = LocalDateTime.parse(dateTime);
         ZoneId utcZoneId = ZoneId.of("UTC");
@@ -378,16 +392,6 @@ public class OpenWeatherMap implements WeatherData
         String time = localZonedDateTime.toString();
         time = time.substring(0, time.lastIndexOf('+'));
         return time;
-    }
-    
-    public void setWeatherProvider (WeatherProvider weatherProvider)
-    {
-        this.weatherProvider = weatherProvider;
-    }
-    
-    public WeatherProvider getWeatherProvider ()
-    {
-        return weatherProvider;
     }
     
     @Override

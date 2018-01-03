@@ -32,7 +32,7 @@ public class WeatherPane extends Pane
     {
         super();
         bindPanePropertiesWithContainer(pane);
-        weatherData = OpenWeatherMap.newInstance();
+        weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
         HBox mainHBox = new HBox(10);
         getChildren().add(mainHBox);
         VBox todayVBox = new VBox(10);
@@ -68,7 +68,7 @@ public class WeatherPane extends Pane
     private void fetchDataPeriodically ()
     {
         Timeline timeline = new Timeline();
-        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(3), e ->
+        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), e ->
         {
             updateValues();
         }));

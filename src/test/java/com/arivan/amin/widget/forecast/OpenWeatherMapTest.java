@@ -7,15 +7,12 @@ import static org.junit.Assert.assertThat;
 
 public class OpenWeatherMapTest
 {
-    WeatherProvider provider;
-    OpenWeatherMap weatherData;
+    private OpenWeatherMap weatherData;
     
     @Before
     public void setUp () throws Exception
     {
-        provider = TextFileWeatherProvider.newInstance();
-        weatherData = OpenWeatherMap.newInstance();
-        weatherData.setWeatherProvider(provider);
+        weatherData = OpenWeatherMap.newInstance(TextFileWeatherProvider.newInstance());
     }
     
     @After
@@ -151,8 +148,11 @@ public class OpenWeatherMapTest
         assertThat(to, is("2017-12-29T18:00"));
     }
     
+    @Test
     public void secondDayWeather ()
     {
+        String condition = weatherData.secondDayWeatherIcon();
+        assertThat(condition, is("04d.png"));
     }
     
     @Test
@@ -169,8 +169,11 @@ public class OpenWeatherMapTest
         assertThat(minTemperature, is(1));
     }
     
+    @Test
     public void thirdDayWeather ()
     {
+        String weatherIcon = weatherData.thirdDayWeatherIcon();
+        assertThat(weatherIcon, is("01d.png"));
     }
     
     @Test
@@ -187,8 +190,11 @@ public class OpenWeatherMapTest
         assertThat(temperature, is(0));
     }
     
+    @Test
     public void fourthDayWeather ()
     {
+        String weatherIcon = weatherData.fourthDayWeatherIcon();
+        assertThat(weatherIcon, is("10d.png"));
     }
     
     @Test
@@ -205,8 +211,11 @@ public class OpenWeatherMapTest
         assertThat(temperature, is(2));
     }
     
+    @Test
     public void fifthDayWeatherIcon ()
     {
+        String icon = weatherData.fifthDayWeatherIcon();
+        assertThat(icon, is("10d.png"));
     }
     
     @Test

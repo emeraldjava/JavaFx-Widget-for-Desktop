@@ -23,6 +23,8 @@ import java.util.Locale;
 
 public class ApplicationMain extends Application
 {
+    private static final double LEFT_BOX_WIDTH = 0.80;
+    private static final double RIGHT_BOX_WIDTH = 0.18;
     private PropertiesManager properties;
     private Scene scene;
     
@@ -34,7 +36,6 @@ public class ApplicationMain extends Application
     @Override
     public void start (Stage primaryStage) throws Exception
     {
-        WeatherData weatherData = OpenWeatherMap.newInstance();
         properties = PropertiesManager.newInstance();
         primaryStage.initStyle(StageStyle.UTILITY);
         HBox mainHBox = new HBox();
@@ -75,8 +76,8 @@ public class ApplicationMain extends Application
         mainHBox.prefWidthProperty().bind(scene.widthProperty());
         mainHBox.prefHeightProperty().bind(scene.heightProperty());
         // TODO 1/3/18 refactoring of these binding values
-        leftVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.80));
-        rightVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.18));
+        leftVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(LEFT_BOX_WIDTH));
+        rightVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(RIGHT_BOX_WIDTH));
         leftVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         rightVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         topVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
