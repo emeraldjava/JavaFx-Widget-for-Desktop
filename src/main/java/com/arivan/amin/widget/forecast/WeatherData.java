@@ -54,5 +54,11 @@ public interface WeatherData
     
     int fourthDayMinTemperature ();
     
+    String fifthDayWeatherIcon ();
+    
+    int fifthDayMaxTemperature ();
+    
+    int fifthDayMinTemperature ();
+    
     void updateWeatherData ();
 }

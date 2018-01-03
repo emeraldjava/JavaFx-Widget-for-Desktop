@@ -63,7 +63,7 @@ public class ApplicationMain extends Application
         weatherVBox.getChildren().add(WeatherPane.newInstance(weatherVBox));
         clockWeatherHBox.getChildren().addAll(clockDateVBox, weatherVBox);
         topVBox.getChildren().add(clockWeatherHBox);
-        VBox bottomVBox = new VBox(new Label("bottom vbox"));
+        VBox bottomVBox = new VBox(new Label("bottom V box"));
         leftVBox.getChildren().addAll(topVBox, bottomVBox);
         VBox rightVBox = new VBox();
         rightVBox.getChildren().add(CpuProgressBar.newInstance(rightVBox));
@@ -74,8 +74,9 @@ public class ApplicationMain extends Application
         primaryStage.setY(properties.getY());
         mainHBox.prefWidthProperty().bind(scene.widthProperty());
         mainHBox.prefHeightProperty().bind(scene.heightProperty());
-        leftVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.75));
-        rightVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.23));
+        // TODO 1/3/18 refactoring of these binding values
+        leftVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.80));
+        rightVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.18));
         leftVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         rightVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         topVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));

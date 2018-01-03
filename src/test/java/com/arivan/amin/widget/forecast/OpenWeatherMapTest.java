@@ -204,4 +204,22 @@ public class OpenWeatherMapTest
         int temperature = weatherData.fourthDayMinTemperature();
         assertThat(temperature, is(2));
     }
+    
+    public void fifthDayWeatherIcon ()
+    {
+    }
+    
+    @Test
+    public void fifthDayMaxTemperature ()
+    {
+        int temperature = weatherData.fifthDayMaxTemperature();
+        assertThat(temperature, is(6));
+    }
+    
+    @Test
+    public void fifthDayMinTemperature ()
+    {
+        int temperature = weatherData.fifthDayMinTemperature();
+        assertThat(temperature, is(4));
+    }
 }

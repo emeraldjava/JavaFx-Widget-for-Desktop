@@ -60,12 +60,12 @@ public class OpenWeatherMap implements WeatherData
         StringBuilder builder = new StringBuilder(10);
         elementList.forEach(e ->
         {
-            if (e.getTagName().equals("location"))
+            if ("location".equals(e.getTagName()))
             {
                 List<Element> list = createList(e.getChildNodes());
                 list.stream().filter(x ->
                 {
-                    return x.getTagName().equals("name");
+                    return "name".equals(x.getTagName());
                 }).forEach(x ->
                 {
                     builder.append(x.getTextContent());
@@ -243,18 +243,18 @@ public class OpenWeatherMap implements WeatherData
     
     private int getMaxTemperatureForDayFromNow (int dayNumber)
     {
+        int maxTemp = -1000;
         LocalDateTime secondDayStart =
                 LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0, "from")))
                         .plusDays(dayNumber);
         secondDayStart = secondDayStart.minusHours(secondDayStart.getHour());
         LocalDateTime secondDayEnd = secondDayStart.plusDays(1);
         List<Element> timeNodes = getTimeNodes();
-        int maxTemp = -1000;
         for (int i = 0; i < timeNodes.size(); i++)
         {
             Element node = timeNodes.get(i);
             String from = getTimeNodeAttribute(i, "from");
-            LocalDateTime localDateTime = LocalDateTime.parse(from);
+            LocalDateTime localDateTime = LocalDateTime.parse(from).plusMinutes(1);
             if (localDateTime.isAfter(secondDayStart) && localDateTime.isBefore(secondDayEnd))
             {
                 String temperatureString = getTimeNodeChildAttribute(i, "temperature", "value");
@@ -270,18 +270,18 @@ public class OpenWeatherMap implements WeatherData
     
     private int getMinTemperatureForDayFromNow (int dayNumber)
     {
+        int minTemp = 1000;
         LocalDateTime secondDayStart =
                 LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0, "from")))
                         .plusDays(dayNumber);
         secondDayStart = secondDayStart.minusHours(secondDayStart.getHour());
         LocalDateTime secondDayEnd = secondDayStart.plusDays(1);
         List<Element> timeNodes = getTimeNodes();
-        int minTemp = 1000;
         for (int i = 0; i < timeNodes.size(); i++)
         {
             Element node = timeNodes.get(i);
             String from = getTimeNodeAttribute(i, "from");
-            LocalDateTime localDateTime = LocalDateTime.parse(from);
+            LocalDateTime localDateTime = LocalDateTime.parse(from).plusMinutes(1);
             if (localDateTime.isAfter(secondDayStart) && localDateTime.isBefore(secondDayEnd))
             {
                 String temperatureString = getTimeNodeChildAttribute(i, "temperature", "value");
@@ -348,6 +348,24 @@ public class OpenWeatherMap implements WeatherData
     public int fourthDayMinTemperature ()
     {
         return getMinTemperatureForDayFromNow(3);
+    }
+    
+    @Override
+    public String fifthDayWeatherIcon ()
+    {
+        return "11d.png";
+    }
+    
+    @Override
+    public int fifthDayMaxTemperature ()
+    {
+        return getMaxTemperatureForDayFromNow(4);
+    }
+    
+    @Override
+    public int fifthDayMinTemperature ()
+    {
+        return getMinTemperatureForDayFromNow(4);
     }
     
     private String changeTimeZoneToLocal (CharSequence dateTime)

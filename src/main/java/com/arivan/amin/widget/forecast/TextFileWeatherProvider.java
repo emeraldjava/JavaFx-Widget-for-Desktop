@@ -1,7 +1,5 @@
 package com.arivan.amin.widget.forecast;
 
-import java.io.IOException;
-import java.io.InputStream;
 import java.nio.file.*;
 import java.util.logging.Logger;
 
@@ -20,19 +18,9 @@ public class TextFileWeatherProvider implements WeatherProvider
     }
     
     @Override
-    public InputStream getWeatherDataStream ()
+    public String getWeatherDataStream ()
     {
-        InputStream stream = null;
-        StringBuilder data = new StringBuilder(20);
         Path path = Paths.get("src", "main", "resources", "WeatherData.xml");
-        try
-        {
-            stream = Files.newInputStream(path);
-        }
-        catch (IOException e)
-        {
-            logger.warning(e.getMessage());
-        }
-        return stream;
+        return path.toUri().toString();
     }
 }
