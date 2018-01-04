@@ -15,3 +15,7 @@
 {
     -fx-background-color: linear-gradient(#3A9C97, #30615C);
 }
+.system-detail-label
+{
+    -fx-font-size: 1.2em;
+}

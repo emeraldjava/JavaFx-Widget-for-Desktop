@@ -29,18 +29,24 @@ public class LinuxSystemDetailsTest
         assertThat(name, is("Fedora"));
     }
     
-    // @Test
+    @Test
     public void operatingSystemVersion ()
     {
+        String version = systemDetails.operatingSystemVersion();
+        assertThat(version, is("27 (Twenty Seven)"));
     }
     
-    // @Test
+    @Test
     public void systemHomeUrl ()
     {
+        String url = systemDetails.systemHomeUrl();
+        assertThat(url, is("https://fedoraproject.org/"));
     }
     
-    // @Test
+    @Test
     public void architecture ()
     {
+        String architecture = systemDetails.architecture();
+        assertThat(architecture, is("x86_64"));
     }
 }
