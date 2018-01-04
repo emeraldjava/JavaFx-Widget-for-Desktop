@@ -1,5 +1,7 @@
 package com.arivan.amin.widget.forecast;
 
+import org.jetbrains.annotations.NotNull;
+
 import java.nio.file.*;
 import java.util.logging.Logger;
 
@@ -12,6 +14,7 @@ public class TextFileWeatherProvider implements WeatherProvider
         super();
     }
     
+    @NotNull
     public static TextFileWeatherProvider newInstance ()
     {
         return new TextFileWeatherProvider();

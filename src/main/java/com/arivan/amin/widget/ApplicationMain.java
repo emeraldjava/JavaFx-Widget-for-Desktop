@@ -1,8 +1,9 @@
 package com.arivan.amin.widget;
 
 import com.arivan.amin.widget.cpu.CpuProgressBar;
-import com.arivan.amin.widget.forecast.*;
+import com.arivan.amin.widget.forecast.WeatherPane;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
+import com.arivan.amin.widget.system.details.SystemDetailsPane;
 import javafx.animation.*;
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -47,7 +48,9 @@ public class ApplicationMain extends Application
         VBox topVBox = new VBox();
         HBox clockWeatherHBox = new HBox();
         VBox clockDateVBox = new VBox();
-        clockDateVBox.setAlignment(Pos.TOP_CENTER);
+        VBox dateTimeVBox = new VBox();
+        dateTimeVBox.setAlignment(Pos.TOP_CENTER);
+        VBox systemDetailsVBox = new VBox();
         Label timeLabel = new Label();
         Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(1), e ->
         {
@@ -59,7 +62,9 @@ public class ApplicationMain extends Application
         timeLabel.getStyleClass().add("time-label");
         Label dateLabel = new Label(getCurrentDate());
         dateLabel.getStyleClass().add("date-label");
-        clockDateVBox.getChildren().addAll(timeLabel, dateLabel);
+        dateTimeVBox.getChildren().addAll(timeLabel, dateLabel);
+        clockDateVBox.getChildren().addAll(dateTimeVBox, systemDetailsVBox);
+        systemDetailsVBox.getChildren().add(SystemDetailsPane.newInstance(systemDetailsVBox));
         VBox weatherVBox = new VBox();
         weatherVBox.getChildren().add(WeatherPane.newInstance(weatherVBox));
         clockWeatherHBox.getChildren().addAll(clockDateVBox, weatherVBox);
@@ -88,6 +93,10 @@ public class ApplicationMain extends Application
         weatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.66));
         clockDateVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
         weatherVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
+        dateTimeVBox.prefWidthProperty().bind(clockDateVBox.widthProperty());
+        systemDetailsVBox.prefWidthProperty().bind(clockDateVBox.widthProperty());
+        dateTimeVBox.prefHeightProperty().bind(clockDateVBox.heightProperty().multiply(0.33));
+        systemDetailsVBox.prefHeightProperty().bind(clockDateVBox.heightProperty().multiply(0.66));
         setStageChangeListeners(primaryStage);
         primaryStage.getIcons().add(new Image("widget icon.png"));
         primaryStage.show();

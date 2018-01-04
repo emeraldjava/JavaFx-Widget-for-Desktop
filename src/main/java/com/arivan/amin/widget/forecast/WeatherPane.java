@@ -15,7 +15,6 @@ import java.util.logging.Logger;
 
 public class WeatherPane extends Pane
 {
-    // TODO 1/3/18 fetch weather into a file to read when there is no network connection
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherData weatherData;
     private final Label temperatureLabel;
@@ -32,7 +31,8 @@ public class WeatherPane extends Pane
     {
         super();
         bindPanePropertiesWithContainer(pane);
-        weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
+        // weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
+        weatherData = OpenWeatherMap.newInstance(TextFileWeatherProvider.newInstance());
         HBox mainHBox = new HBox(10);
         getChildren().add(mainHBox);
         VBox todayVBox = new VBox(10);
