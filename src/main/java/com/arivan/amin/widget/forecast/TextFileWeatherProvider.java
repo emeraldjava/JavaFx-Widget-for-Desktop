@@ -23,7 +23,7 @@ public class TextFileWeatherProvider implements WeatherProvider
     @Override
     public String getWeatherDataStream ()
     {
-        Path path = Paths.get("src", "main", "resources", "WeatherData.xml");
+        Path path = Paths.get("WeatherData.xml");
         return path.toUri().toString();
     }
 }

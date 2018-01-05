@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="https://slashdot.org/">
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+<dc:date>2018-01-04T20:25:10+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/04/1925200/oceans-suffocating-as-huge-dead-zones-quadruple-since-1950-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/04/1839246/by-next-week-intel-expects-to-issue-updates-to-more-than-90-of-processor-products-introduced-within-past-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/04/182207/mark-zuckerbergs-2018-personal-challenge-is-to-do-his-job-as-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/04/1353248/personal-data-of-a-billion-indians-sold-online-for-8-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/04/1645251/opinion-chrome-is-turning-into-the-new-internet-explorer-6?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/04/0540214/intel-memory-access-design-flaw-partially-addressed-by-apple-in-macos-10132-unconfirmed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/04/0536204/microsoft-issues-rare-out-of-band-emergency-windows-update-for-processor-security-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/04/0529207/intel-says-ceo-dumping-tons-of-stock-last-year-unrelated-to-big-security-exploit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/04/0524234/google-says-almost-all-cpus-since-1995-vulnerable-to-meltdown-and-spectre-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/04/0639201/asus-is-turning-its-old-routers-into-mesh-wi-fi-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/04/0120204/ai-system-sorts-news-articles-by-whether-or-not-they-contain-actual-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/04/0131239/googles-project-zero-team-discovered-critical-cpu-flaw-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/03/229259/yes-your-amazon-echo-is-an-ad-machine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/04/014219/ajit-pai-backs-out-of-planned-ces-2018-appearance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/03/2221257/after-beating-cable-lobby-colorado-city-moves-ahead-with-muni-broadband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="https://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="https://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<item rdf:about="https://science.slashdot.org/story/18/01/04/1925200/oceans-suffocating-as-huge-dead-zones-quadruple-since-1950-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Oceans Suffocating as Huge Dead Zones Quadruple Since 1950, Scientists Warn</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8puOTnm8mxI/oceans-suffocating-as-huge-dead-zones-quadruple-since-1950-scientists-warn</link>
+<description>Ocean dead zones with zero oxygen have quadrupled in size since 1950, scientists have warned, while the number of very low oxygen sites near coasts have multiplied tenfold. From a report: Most sea creatures cannot survive in these zones and current trends would lead to mass extinction in the long run, risking dire consequences for the hundreds of millions of people who depend on the sea. Climate change caused by fossil fuel burning is the cause of the large-scale deoxygenation, as warmer waters hold less oxygen. The coastal dead zones result from fertiliser and sewage running off the land and into the seas. The analysis, published in the journal Science, is the first comprehensive analysis of the areas and states: "Major extinction events in Earth's history have been associated with warm climates and oxygen-deficient oceans." Denise Breitburg, at the Smithsonian Environmental Research Center in the US and who led the analysis, said: "Under the current trajectory that is where we would be headed. But the consequences to humans of staying on that trajectory are so dire that it is hard to imagine we would go quite that far down that path." "This is a problem we can solve," Breitburg said. "Halting climate change requires a global effort, but even local actions can help with nutrient-driven oxygen decline." She pointed to recoveries in Chesapeake Bay in the US and the Thames river in the UK, where better farm and sewage practices led to dead zones disappearing.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Oceans+Suffocating+as+Huge+Dead+Zones+Quadruple+Since+1950%2C+Scientists+Warn%3A+http%3A%2F%2Fbit.ly%2F2E7MByd"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F04%2F1925200%2Foceans-suffocating-as-huge-dead-zones-quadruple-since-1950-scientists-warn%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/04/1925200/oceans-suffocating-as-huge-dead-zones-quadruple-since-1950-scientists-warn?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/04/1925200/oceans-suffocating-as-huge-dead-zones-quadruple-since-1950-scientists-warn?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11568899&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8puOTnm8mxI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T19:25:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>needs-attention</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>31</slash:comments>
+<slash:hit_parade>31,27,12,10,5,3,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/04/1925200/oceans-suffocating-as-huge-dead-zones-quadruple-since-1950-scientists-warn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/04/1839246/by-next-week-intel-expects-to-issue-updates-to-more-than-90-of-processor-products-introduced-within-past-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>By Next Week, Intel Expects To Issue Updates To More Than 90% of Processor Products Introduced Within Past Five Years</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/TiK7Qfzu9Xk/by-next-week-intel-expects-to-issue-updates-to-more-than-90-of-processor-products-introduced-within-past-five-years</link>
+<description>Intel said on Thursday that by next week it expects to have patched 90 percent of its processors that it released within the last five years, making PCs and servers "immune" from both the Spectre and Meltdown exploits. The company adds: Intel has already issued updates for the majority of processor products introduced within the past five years. By the end of next week, Intel expects to have issued updates for more than 90 percent of processor products introduced within the past five years. In addition, many operating system vendors, public cloud service providers, device manufacturers and others have indicated that they have already updated their products and services. Intel continues to believe that the performance impact of these updates is highly workload-dependent and, for the average computer user, should not be significant and will be mitigated over time. While on some discrete workloads the performance impact from the software updates may initially be higher, additional post-deployment identification, testing and improvement of the software updates should mitigate that impact. System updates are made available by system manufacturers, operating system providers and others.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=By+Next+Week%2C+Intel+Expects+To+Issue+Updates+To+More+Than+90%25+of+Processor+Products+Introduced+Within+Past+Five+Years%3A+http%3A%2F%2Fbit.ly%2F2AqbVgH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F04%2F1839246%2Fby-next-week-intel-expects-to-issue-updates-to-more-than-90-of-processor-products-introduced-within-past-five-years%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/04/1839246/by-next-week-intel-expects-to-issue-updates-to-more-than-90-of-processor-products-introduced-within-past-five-years?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/04/1839246/by-next-week-intel-expects-to-issue-updates-to-more-than-90-of-processor-products-introduced-within-past-five-years?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11568777&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/TiK7Qfzu9Xk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T18:40:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>fixing-things</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>121</slash:comments>
+<slash:hit_parade>121,120,82,78,11,5,2</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/04/1839246/by-next-week-intel-expects-to-issue-updates-to-more-than-90-of-processor-products-introduced-within-past-five-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/04/182207/mark-zuckerbergs-2018-personal-challenge-is-to-do-his-job-as-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Mark Zuckerberg's 2018 Personal Challenge Is To Do His Job As CEO</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/erigBWnbbj4/mark-zuckerbergs-2018-personal-challenge-is-to-do-his-job-as-ceo</link>
+<description>An anonymous reader shares a report: Fun fact about Facebook's Mark Zuckerberg: Every year he gives himself a "personal challenge," which is not to be confused with the "New Year's resolutions" us plebs do every year. Over the years, he says, thanks to these challenges, he's taken up running as well as learned foreign languages and read books. But this year, as more revelations come to light about the rampant misuse of Facebook's platform -- including the spread of fake news and other forms of disinformation -- Zuckerberg's challenge is to focus on his business. "The world feels anxious and divided, and Facebook has a lot of work to do -- whether it's protecting our community from abuse and hate, defending against interference by nation states, or making sure that time spent on Facebook is time well spent," he writes. "My personal challenge for 2018 is to focus on fixing these important issues." In essence, Zuckerberg is vowing to help fix the problems that plague Facebook, which is his job, something he admits: "This may not seem like a personal challenge on its face," Zuckerberg writes, "but I think I'll learn more by focusing intensely on these issues than I would by doing something completely separate."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Mark+Zuckerberg's+2018+Personal+Challenge+Is+To+Do+His+Job+As+CEO%3A+http%3A%2F%2Fbit.ly%2F2CRYSra"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F04%2F182207%2Fmark-zuckerbergs-2018-personal-challenge-is-to-do-his-job-as-ceo%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/04/182207/mark-zuckerbergs-2018-personal-challenge-is-to-do-his-job-as-ceo?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/04/182207/mark-zuckerbergs-2018-personal-challenge-is-to-do-his-job-as-ceo?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11568711&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/erigBWnbbj4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T18:02:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>minding-his-own-business</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>68</slash:comments>
+<slash:hit_parade>68,63,36,28,5,3,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/04/182207/mark-zuckerbergs-2018-personal-challenge-is-to-do-his-job-as-ceo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/04/1353248/personal-data-of-a-billion-indians-sold-online-for-8-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Personal Data of a Billion Indians Sold Online For $8, Report Claims</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6LyA3LZotsI/personal-data-of-a-billion-indians-sold-online-for-8-report-claims</link>
+<description>Michael Safi, reporting for The Guardian: The personal information of more than a billion Indians stored in the world's largest biometric database can be bought online for less than $8, according to an investigation by an Indian newspaper. The reported breach is the latest in a series of alleged leaks from the Aadhaar database, which has been collecting the photographs, thumbprints, retina scans and other identifying details of every Indian citizen. The report in the Chandigarh-based Tribune newspaper claimed that software is also being sold online that can generate fake Aadhaar cards, an identity document that is required to access a growing number of government services including free meals and subsidised grain. The Unique Identification Authority of India (UIDAI), which administers the Aadhaar system, said it appeared the newspaper had accessed only limited details through a search facility that had been made available to government officials.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Personal+Data+of+a+Billion+Indians+Sold+Online+For+%248%2C+Report+Claims%3A+http%3A%2F%2Fbit.ly%2F2CSt45L"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F04%2F1353248%2Fpersonal-data-of-a-billion-indians-sold-online-for-8-report-claims%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/04/1353248/personal-data-of-a-billion-indians-sold-online-for-8-report-claims?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/04/1353248/personal-data-of-a-billion-indians-sold-online-for-8-report-claims?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11568315&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6LyA3LZotsI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T17:23:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>security-woes</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>49</slash:comments>
+<slash:hit_parade>49,49,24,22,3,1,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/04/1353248/personal-data-of-a-billion-indians-sold-online-for-8-report-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/04/1645251/opinion-chrome-is-turning-into-the-new-internet-explorer-6?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Opinion: Chrome is Turning Into the New Internet Explorer 6</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/c28w8FwdBf4/opinion-chrome-is-turning-into-the-new-internet-explorer-6</link>
+<description>Tom Warren, writing for The Verge: Chrome now has the type of dominance that Internet Explorer once did, and we're starting to see Google's own apps diverge from supporting web standards much in the same way Microsoft did a decade and a half ago. Whether you blame Google or the often slow moving World Wide Web Consortium (W3C), the results have been particularly evident throughout 2017. Google has been at the center of a lot of "works best with Chrome" messages we're starting to see appear on the web. Google Meet, Allo, YouTube TV, Google Earth, and YouTube Studio Beta all block Windows 10's default browser, Microsoft Edge, from accessing them and they all point users to download Chrome instead. Some also block Firefox with messages to download Chrome. Hangouts, Inbox, and AdWords 3 were all in the same boat when they first debuted. It's led to one developer at Microsoft to describe Google's behavior as a strategic pattern. "When the largest web company in the world blocks out competitors, it smells less like an accident and more like strategy," said a Microsoft developer in a now-deleted tweet. Google also controls the most popular site in the world, and it regularly uses it to push Chrome. If you visit Google.com in a non-Chrome browser you're prompted up to three times if you'd like to download Chrome. Google has also even extended that prompt to take over the entire page at times to really push Chrome in certain regions. Microsoft has been using similar tactics to convince Windows 10 users to stick with Edge. The troubling part for anyone who's invested in an open web is that Google is starting to ignore a principle it championed by making its own services Chrome-only -- even if it's only initially.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Opinion%3A+Chrome+is+Turning+Into+the+New+Internet+Explorer+6%3A+http%3A%2F%2Fbit.ly%2F2CTolRf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F04%2F1645251%2Fopinion-chrome-is-turning-into-the-new-internet-explorer-6%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/04/1645251/opinion-chrome-is-turning-into-the-new-internet-explorer-6?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/04/1645251/opinion-chrome-is-turning-into-the-new-internet-explorer-6?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11568585&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/c28w8FwdBf4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T16:45:00+00:00</dc:date>
+<dc:subject>chrome</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>169</slash:comments>
+<slash:hit_parade>169,165,108,93,22,10,8</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/04/1645251/opinion-chrome-is-turning-into-the-new-internet-explorer-6?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/04/0540214/intel-memory-access-design-flaw-partially-addressed-by-apple-in-macos-10132-unconfirmed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel Memory Access Design Flaw Partially Addressed by Apple in macOS 10.13.2 [Unconfirmed]</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9wYpsJt2mO4/intel-memory-access-design-flaw-partially-addressed-by-apple-in-macos-10132-unconfirmed</link>
+<description>An anonymous reader shares a report: A serious design flaw and security vulnerability discovered in Intel CPUs has reportedly already been partially addressed by Apple in the recent macOS 10.13.2 update, which was released to the public on December 6. According to developer Alex Ionescu, Apple introduced a fix in macOS 10.13.2, with additional tweaks set to be introduced in macOS 10.13.3, currently in beta testing. AppleInsider also says that it has heard from "multiple sources within Apple" that updates made in macOS 10.13.2 have mitigated "most" security concerns associated with the KPTI vulnerability. A Bloomberg reporter pointed out that Apple has not officially commented on the story.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Memory+Access+Design+Flaw+Partially+Addressed+by+Apple+in+macOS+10.13.2+%5BUnconfirmed%5D%3A+http%3A%2F%2Fbit.ly%2F2CGQTAD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F04%2F0540214%2Fintel-memory-access-design-flaw-partially-addressed-by-apple-in-macos-10132-unconfirmed%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/04/0540214/intel-memory-access-design-flaw-partially-addressed-by-apple-in-macos-10132-unconfirmed?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/04/0540214/intel-memory-access-design-flaw-partially-addressed-by-apple-in-macos-10132-unconfirmed?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564987&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9wYpsJt2mO4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T16:00:00+00:00</dc:date>
+<dc:subject>mac</dc:subject>
+<slash:department>racing-to-fix-things</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>33</slash:comments>
+<slash:hit_parade>33,29,21,15,3,2,0</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/04/0540214/intel-memory-access-design-flaw-partially-addressed-by-apple-in-macos-10132-unconfirmed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/04/0536204/microsoft-issues-rare-out-of-band-emergency-windows-update-for-processor-security-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Issues Rare Out-of-Band Emergency Windows Update For Processor Security Bugs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/e9usrZXLaHc/microsoft-issues-rare-out-of-band-emergency-windows-update-for-processor-security-bugs</link>
+<description>An anonymous reader shares a report: Microsoft is issuing a rare out-of-band security update to supported versions of Windows today (Wednesday). The software update is part of a number of fixes that will protect against a newly-discovered processor bug in Intel, AMD, and ARM chipsets. Sources familiar with Microsoft's plans tell The Verge that the company will issue a Windows update that will be automatically applied to Windows 10 machines at 5PM ET / 2PM PT today. The update will also be available for older and supported versions of Windows today, but systems running operating systems like Windows 7 or Windows 8 won't automatically be updated through Windows Update until next Tuesday. Windows 10 will be automatically updated today.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Issues+Rare+Out-of-Band+Emergency+Windows+Update+For+Processor+Security+Bugs%3A+http%3A%2F%2Fbit.ly%2F2CR8YbS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F04%2F0536204%2Fmicrosoft-issues-rare-out-of-band-emergency-windows-update-for-processor-security-bugs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/04/0536204/microsoft-issues-rare-out-of-band-emergency-windows-update-for-processor-security-bugs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/04/0536204/microsoft-issues-rare-out-of-band-emergency-windows-update-for-processor-security-bugs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564959&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/e9usrZXLaHc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T15:20:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>racing-to-fix-things</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>102</slash:comments>
+<slash:hit_parade>102,98,62,51,11,5,3</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/04/0536204/microsoft-issues-rare-out-of-band-emergency-windows-update-for-processor-security-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/04/0529207/intel-says-ceo-dumping-tons-of-stock-last-year-unrelated-to-big-security-exploit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel Says CEO Dumping Tons of Stock Last Year 'Unrelated' To Big Security Exploit</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rBbAw2vPisE/intel-says-ceo-dumping-tons-of-stock-last-year-unrelated-to-big-security-exploit</link>
+<description>An anonymous reader shares a report: Late last year, the CEO of Intel sold millions of dollars in company stock, as CEOs often do. The sale appears to have occurred while developers were reportedly rushing to fix a major security flaw affecting Intel processors made in the last decade. According to a report published by the Register this week, "a fundamental design flaw in Intel's processor chips has forced a significant redesign of the Linux and Windows kernels to defang the chip-level security bug." Windows and Linux developers have reportedly been working to address the issue since November. As our friends at Gizmodo ES pointed out, Intel's CEO Brian Krzanich sold roughly $11 million in company stock at the end of November. Counting the employee stock options Krzanich exercised, the CEO unloaded 245,743 shares, leaving him with 250,000 remaining shares -- the minimum Krzanich is required to own according to the company's bylaws, the Motley Fool reported. To be clear, this isn't proof of some insider-trading conspiracy. Contacted by Gizmodo, an Intel spokesperson called the sale "unrelated," and said it "was made pursuant to a pre-arranged stock sale plan (10b5-1) with an automated sale schedule."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Says+CEO+Dumping+Tons+of+Stock+Last+Year+'Unrelated'+To+Big+Security+Exploit%3A+http%3A%2F%2Fbit.ly%2F2CQOe45"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F04%2F0529207%2Fintel-says-ceo-dumping-tons-of-stock-last-year-unrelated-to-big-security-exploit%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/04/0529207/intel-says-ceo-dumping-tons-of-stock-last-year-unrelated-to-big-security-exploit?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/04/0529207/intel-says-ceo-dumping-tons-of-stock-last-year-unrelated-to-big-security-exploit?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564899&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rBbAw2vPisE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T14:40:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,73,34,26,7,5,2</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/04/0529207/intel-says-ceo-dumping-tons-of-stock-last-year-unrelated-to-big-security-exploit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/04/0524234/google-says-almost-all-cpus-since-1995-vulnerable-to-meltdown-and-spectre-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Says Almost All CPUs Since 1995 Vulnerable To 'Meltdown' And 'Spectre' Flaws</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AGba0PdBo8U/google-says-almost-all-cpus-since-1995-vulnerable-to-meltdown-and-spectre-flaws</link>
+<description>Catalin Cimpanu, reporting for BleepingComputer: Google has just published details on two vulnerabilities named Meltdown and Spectre that in the company's assessment affect "every processor [released] since 1995." Google says the two bugs can be exploited to "to steal data which is currently processed on the computer," which includes "your passwords stored in a password manager or browser, your personal photos, emails, instant messages and even business-critical documents." Furthermore, Google says that tests on virtual machines used in cloud computing environments extracted data from other customers using the same server. The bugs were discovered by Jann Horn, a security researcher with Google Project Zero, Google's elite security team. These are the same bugs that have been reported earlier this week as affecting Intel CPUs. Google was planning to release details about Meltdown and Spectre next week but decided to publish the reports today "because of existing public reports and growing speculation in the press and security research community about the issue, which raises the risk of exploitation."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Says+Almost+All+CPUs+Since+1995+Vulnerable+To+'Meltdown'+And+'Spectre'+Flaws%3A+http%3A%2F%2Fbit.ly%2F2E3sdhV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F04%2F0524234%2Fgoogle-says-almost-all-cpus-since-1995-vulnerable-to-meltdown-and-spectre-flaws%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/04/0524234/google-says-almost-all-cpus-since-1995-vulnerable-to-meltdown-and-spectre-flaws?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/04/0524234/google-says-almost-all-cpus-since-1995-vulnerable-to-meltdown-and-spectre-flaws?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564861&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AGba0PdBo8U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-04T14:00:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>security-woes</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>200</slash:comments>
+<slash:hit_parade>200,193,137,122,37,12,10</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/04/0524234/google-says-almost-all-cpus-since-1995-vulnerable-to-meltdown-and-spectre-flaws?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://mobile.slashdot.org/story/18/01/04/0639201/asus-is-turning-its-old-routers-into-mesh-wi-fi-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Asus Is Turning Its Old Routers Into Mesh Wi-Fi Networks</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pDavZb6L0yU/asus-is-turning-its-old-routers-into-mesh-wi-fi-networks</link>
+<description>Asus' new AiMesh system lets you repurpose your existing Asus routers as part of a mesh network, potentially saving you lots of money since you won't have to replace your whole network with a bunch of new devices. The Verge reports: For now, the mesh support is coming to a few routers today in beta, including the ASUS RT-AC68U, RT-AC1900P, RT-AC86U, RT-AC5300, and the ROG Rapture GT-AC5300, with additional support planned for the RT-AC88U and RT-AC3100 later this year. The setup looks pretty simple, too. Once your main router is set up and updated to the latest firmware, just take your other routers that are going to be the mesh nodes, plug them in near the main router, and run a factory reset, after which they'll automatically pop up in the Asus Router app to add to your mesh.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Asus+Is+Turning+Its+Old+Routers+Into+Mesh+Wi-Fi+Networks%3A+http%3A%2F%2Fbit.ly%2F2ApqVLT"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F04%2F0639201%2Fasus-is-turning-its-old-routers-into-mesh-wi-fi-networks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/04/0639201/asus-is-turning-its-old-routers-into-mesh-wi-fi-networks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/04/0639201/asus-is-turning-its-old-routers-into-mesh-wi-fi-networks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11565439&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/pDavZb6L0yU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-04T13:00:00+00:00</dc:date>
+<dc:subject>network</dc:subject>
+<slash:department>over-the-air</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,24,13,13,2,0,0</slash:hit_parade>
+<feedburner:origLink>https://mobile.slashdot.org/story/18/01/04/0639201/asus-is-turning-its-old-routers-into-mesh-wi-fi-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/04/0120204/ai-system-sorts-news-articles-by-whether-or-not-they-contain-actual-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>AI System Sorts News Articles By Whether Or Not They Contain Actual Information</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dhY48iBbVMc/ai-system-sorts-news-articles-by-whether-or-not-they-contain-actual-information</link>
+<description>In a new paper published in the Journal of Artificial Intelligence Research, computer scientists from Google and the University of Pennsylvania describe a new machine learning approach to classifying written journalism according to a formalized idea of "content density." "With an average accuracy of around 80 percent, their system was able to accurately classify news stories across a wide range of domains, spanning from international relations and business to sports and science journalism, when evaluated against a ground truth dataset of already correctly classified news articles," reports Motherboard. From the report: At a high level this works like most any other machine learning system. Start with a big batch of data -- news articles, in this case -- and then give each item an annotation saying whether or not that item falls within a particular category. In particular, the study focused on article leads, the first paragraph or two in a story traditionally intended to summarize its contents and engage the reader. Articles were drawn from an existing New York Times linguistic dataset consisting of original articles combined with metadata and short informative summaries written by researchers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=AI+System+Sorts+News+Articles+By+Whether+Or+Not+They+Contain+Actual+Information%3A+http%3A%2F%2Fbit.ly%2F2E3tsgV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F04%2F0120204%2Fai-system-sorts-news-articles-by-whether-or-not-they-contain-actual-information%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/04/0120204/ai-system-sorts-news-articles-by-whether-or-not-they-contain-actual-information?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/04/0120204/ai-system-sorts-news-articles-by-whether-or-not-they-contain-actual-information?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564337&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dhY48iBbVMc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-04T10:00:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>fact-is-stranger-than-fiction</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>70</slash:comments>
+<slash:hit_parade>70,67,33,31,5,2,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/04/0120204/ai-system-sorts-news-articles-by-whether-or-not-they-contain-actual-information?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/04/0131239/googles-project-zero-team-discovered-critical-cpu-flaw-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google's Project Zero Team Discovered Critical CPU Flaw Last Year</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DyDXM0INmqg/googles-project-zero-team-discovered-critical-cpu-flaw-last-year</link>
+<description>An anonymous reader quotes a report from TechCrunch: In a blog post published minutes ago, Google's Security team announced what they have done to protect Google Cloud customers against the chip vulnerability announced earlier today. They also indicated their Project Zero team discovered this vulnerability last year (although they weren't specific with the timing). The company stated that it informed the chip makers of the issue, which is caused by a process known as "speculative execution." This is an advanced technique that enables the chip to essentially guess what instructions might logically be coming next to speed up execution. Unfortunately, that capability is vulnerable to malicious actors who could access critical information stored in memory, including encryption keys and passwords. According to Google, this affects all chip makers, including those from AMD, ARM and Intel (although AMD has denied they are vulnerable). In a blog post, Intel denied the vulnerability was confined to their chips, as had been reported by some outlets. The Google Security team wrote that they began taking steps to protect Google services from the flaw as soon as they learned about it.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google's+Project+Zero+Team+Discovered+Critical+CPU+Flaw+Last+Year%3A+http%3A%2F%2Fbit.ly%2F2CDAvRi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F04%2F0131239%2Fgoogles-project-zero-team-discovered-critical-cpu-flaw-last-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/04/0131239/googles-project-zero-team-discovered-critical-cpu-flaw-last-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/04/0131239/googles-project-zero-team-discovered-critical-cpu-flaw-last-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564351&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DyDXM0INmqg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-04T07:00:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>no-one's-first-and-you're-next</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>121</slash:comments>
+<slash:hit_parade>121,118,72,66,19,14,13</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/04/0131239/googles-project-zero-team-discovered-critical-cpu-flaw-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/03/229259/yes-your-amazon-echo-is-an-ad-machine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Yes, Your Amazon Echo Is an Ad Machine</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/TIs0JmuApZg/yes-your-amazon-echo-is-an-ad-machine</link>
+<description>An anonymous reader quotes a report from Gizmodo: CNBC reports that Amazon is in discussions with huge companies that want to promote their goods on Echo devices. Proctor &amp;amp; Gamble as well as Clorox are reportedly in talks for major advertising deals that would allow Alexa to suggest products for you to buy. CNBC uses the example of asking Alexa how to remove a stain, with Alexa in turn recommending a Clorox product. So far it's unclear how Amazon would identify promoted responses from Alexa, if at all. Here's the really wacky thing: Amazon has already been doing this sort of thing to some degree. Currently, paid promotions are built into Alexa responses, but maybe you just haven't noticed it. CNBC uses this example: "There are already some sponsorships on Alexa that aren't tied to a user's history. If a shopper asks Alexa to buy toothpaste, one response is, 'Okay, I can look for a brand, like Colgate. What would you like?'" So it seems like Amazon wants to get you coming and going. Not only does the company want to let you buy stuff with your voice. Jeff Bezos and friends also want to make money by suggesting what to buy and even by pushing those products higher up in the search results so that you're more likely to do it.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Yes%2C+Your+Amazon+Echo+Is+an+Ad+Machine%3A+http%3A%2F%2Fbit.ly%2F2CPN88T"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F03%2F229259%2Fyes-your-amazon-echo-is-an-ad-machine%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/03/229259/yes-your-amazon-echo-is-an-ad-machine?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/03/229259/yes-your-amazon-echo-is-an-ad-machine?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564143&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/TIs0JmuApZg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-04T03:30:00+00:00</dc:date>
+<dc:subject>advertising</dc:subject>
+<slash:department>always-listening</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>171</slash:comments>
+<slash:hit_parade>171,171,112,102,30,14,8</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/03/229259/yes-your-amazon-echo-is-an-ad-machine?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/04/014219/ajit-pai-backs-out-of-planned-ces-2018-appearance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ajit Pai Backs Out of Planned CES 2018 Appearance</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vLW-oRVIBBQ/ajit-pai-backs-out-of-planned-ces-2018-appearance</link>
+<description>New submitter sdinfoserv writes: Ajit Pai, the most hated person in tech since Darl McBride, backed out of a speaking engagement at CES 2018. Apparently he lacks the spine to justify himself before the group of individuals his decisions affect most. Consumer Technology Association head Gary Shapiro announced: "Unfortunately, Federal Communications Commission Chairman Ajit Pai is unable to attend CES 2018. We look forward to our next opportunity to host a technology policy discussion with him before a public audience."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ajit+Pai+Backs+Out+of+Planned+CES+2018+Appearance%3A+http%3A%2F%2Fbit.ly%2F2E1nBcc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F04%2F014219%2Fajit-pai-backs-out-of-planned-ces-2018-appearance%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/04/014219/ajit-pai-backs-out-of-planned-ces-2018-appearance?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/04/014219/ajit-pai-backs-out-of-planned-ces-2018-appearance?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564321&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/vLW-oRVIBBQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-04T01:05:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>shaking-in-your-boots</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>238</slash:comments>
+<slash:hit_parade>238,209,112,90,26,13,8</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/04/014219/ajit-pai-backs-out-of-planned-ces-2018-appearance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/03/2221257/after-beating-cable-lobby-colorado-city-moves-ahead-with-muni-broadband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>After Beating Cable Lobby, Colorado City Moves Ahead With Muni Broadband</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/H0sIfRqS3jw/after-beating-cable-lobby-colorado-city-moves-ahead-with-muni-broadband</link>
+<description>Last night, the city council in Fort Collins, Colorado, voted to move ahead with a municipal fiber broadband network providing gigabit speeds, two months after the cable industry failed to stop the project. Ars Technica reports: Last night's city council vote came after residents of Fort Collins approved a ballot question that authorized the city to build a broadband network. The ballot question, passed in November, didn't guarantee that the network would be built because city council approval was still required, but that hurdle is now cleared. Residents approved the ballot question despite an anti-municipal broadband lobbying campaign backed by groups funded by Comcast and CenturyLink. The Fort Collins City Council voted 7-0 to approve the broadband-related measures, a city government spokesperson confirmed to Ars today.
+ 
+While the Federal Communications Commission has voted to eliminate the nation's net neutrality rules, the municipal broadband network will be neutral and without data caps. "The network will deliver a 'net-neutral' competitive unfettered data offering that does not impose caps or usage limits on one use of data over another (i.e., does not limit streaming or charge rates based on type of use)," a new planning document says. "All application providers (data, voice, video, cloud services) are equally able to provide their services, and consumers' access to advanced data opens up the marketplace." The city will also be developing policies to protect consumers' privacy. The city intends to provide gigabit service for $70 a month or less and a cheaper Internet tier.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=After+Beating+Cable+Lobby%2C+Colorado+City+Moves+Ahead+With+Muni+Broadband%3A+http%3A%2F%2Fbit.ly%2F2E1DX4m"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F03%2F2221257%2Fafter-beating-cable-lobby-colorado-city-moves-ahead-with-muni-broadband%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/03/2221257/after-beating-cable-lobby-colorado-city-moves-ahead-with-muni-broadband?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/03/2221257/after-beating-cable-lobby-colorado-city-moves-ahead-with-muni-broadband?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11564171&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/H0sIfRqS3jw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-04T00:20:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>full-steam-ahead</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>158</slash:comments>
+<slash:hit_parade>158,156,98,85,19,9,4</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/03/2221257/after-beating-cable-lobby-colorado-city-moves-ahead-with-muni-broadband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
