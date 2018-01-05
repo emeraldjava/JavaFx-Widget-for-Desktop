@@ -5,7 +5,9 @@ import org.w3c.dom.*;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
-import java.nio.file.Paths;
+import java.io.InputStream;
+import java.net.URL;
+import java.nio.file.*;
 import java.util.*;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
@@ -59,11 +61,12 @@ public class SlashdotRssReader implements RssReader
     public final void updateNewsData ()
     {
         // TODO 1/5/18 create a text file stream reader for offline use
-        // try (InputStream stream = new URL("http://rss.slashdot.org/Slashdot/slashdot").openStream())
-        try
+        try (InputStream stream = new URL("http://rss.slashdot.org/Slashdot/slashdot").openStream())
         {
+            Path path = Paths.get(SLASHDOT_RSS_FILE);
+            Files.write(path, stream.readAllBytes());
             DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
-            Document document = builder.parse(Paths.get(SLASHDOT_RSS_FILE).toUri().toString());
+            Document document = builder.parse(path.toUri().toString());
             List<Element> tempList = createList(document.getDocumentElement().getChildNodes());
             elementList = tempList.stream().filter(e ->
             {

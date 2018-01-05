@@ -3,6 +3,7 @@ package com.arivan.amin.widget;
 import com.arivan.amin.widget.cpu.CpuProgressBar;
 import com.arivan.amin.widget.forecast.WeatherPane;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
+import com.arivan.amin.widget.news.feed.RssReaderBox;
 import com.arivan.amin.widget.system.details.SystemDetailsPane;
 import javafx.animation.*;
 import javafx.application.Application;
@@ -35,7 +36,7 @@ public class ApplicationMain extends Application
     }
     
     @Override
-    public void start (Stage primaryStage) throws Exception
+    public void start (Stage primaryStage)
     {
         properties = PropertiesManager.newInstance();
         primaryStage.initStyle(StageStyle.UTILITY);
@@ -69,18 +70,22 @@ public class ApplicationMain extends Application
         weatherVBox.getChildren().add(WeatherPane.newInstance(weatherVBox));
         clockWeatherHBox.getChildren().addAll(clockDateVBox, weatherVBox);
         topVBox.getChildren().add(clockWeatherHBox);
-        VBox bottomVBox = new VBox(new Label("bottom V box"));
-        leftVBox.getChildren().addAll(topVBox, bottomVBox);
+        HBox bottomHBox = new HBox();
+        leftVBox.getChildren().addAll(topVBox, bottomHBox);
+        VBox rssVBox = new VBox();
+        VBox topProcessesVBox = new VBox(new Label("top processes"));
+        VBox todoVBox = new VBox(new Label("todo"));
+        bottomHBox.getChildren().addAll(rssVBox, topProcessesVBox, todoVBox);
         VBox rightVBox = new VBox();
         rightVBox.getChildren().add(CpuProgressBar.newInstance(rightVBox));
         rightVBox.getChildren().add(MemoryProgressBar.newInstance(rightVBox));
+        rssVBox.getChildren().add(RssReaderBox.newInstance());
         mainHBox.getChildren().addAll(leftVBox, rightVBox);
         primaryStage.setScene(scene);
         primaryStage.setX(properties.getX());
         primaryStage.setY(properties.getY());
         mainHBox.prefWidthProperty().bind(scene.widthProperty());
         mainHBox.prefHeightProperty().bind(scene.heightProperty());
-        // TODO 1/3/18 refactoring of these binding values
         leftVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(LEFT_BOX_WIDTH));
         rightVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(RIGHT_BOX_WIDTH));
         leftVBox.prefHeightProperty().bind(mainHBox.heightProperty());
@@ -88,7 +93,8 @@ public class ApplicationMain extends Application
         topVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
         clockWeatherHBox.prefHeightProperty().bind(topVBox.widthProperty());
         clockWeatherHBox.prefHeightProperty().bind(topVBox.heightProperty());
-        bottomVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
+        bottomHBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
+        bottomHBox.prefWidthProperty().bind(leftVBox.widthProperty());
         clockDateVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
         weatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.66));
         clockDateVBox.prefHeightProperty().bind(clockWeatherHBox.heightProperty());
@@ -97,10 +103,15 @@ public class ApplicationMain extends Application
         systemDetailsVBox.prefWidthProperty().bind(clockDateVBox.widthProperty());
         dateTimeVBox.prefHeightProperty().bind(clockDateVBox.heightProperty().multiply(0.33));
         systemDetailsVBox.prefHeightProperty().bind(clockDateVBox.heightProperty().multiply(0.66));
+        rssVBox.prefWidthProperty().bind(bottomHBox.widthProperty().multiply(0.49));
+        topProcessesVBox.prefWidthProperty().bind(bottomHBox.widthProperty().multiply(0.29));
+        todoVBox.prefWidthProperty().bind(bottomHBox.widthProperty().multiply(0.2));
+        rssVBox.prefHeightProperty().bind(bottomHBox.heightProperty());
+        topProcessesVBox.prefHeightProperty().bind(bottomHBox.heightProperty());
+        todoVBox.prefHeightProperty().bind(bottomHBox.heightProperty());
         setStageChangeListeners(primaryStage);
         primaryStage.getIcons().add(new Image("widget icon.png"));
         primaryStage.show();
-        primaryStage.setMaximized(true);
     }
     
     @NotNull

@@ -19,3 +19,7 @@
 {
     -fx-font-size: 1.2em;
 }
+.rss-item
+{
+    /*-fx-font-size: 0.9em;*/
+}

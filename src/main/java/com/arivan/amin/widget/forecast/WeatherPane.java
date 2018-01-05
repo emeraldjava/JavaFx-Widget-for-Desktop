@@ -35,7 +35,7 @@ public class WeatherPane extends Pane
         weatherData = OpenWeatherMap.newInstance(TextFileWeatherProvider.newInstance());
         HBox mainHBox = new HBox(10);
         getChildren().add(mainHBox);
-        VBox todayVBox = new VBox(10);
+        VBox todayVBox = new VBox(5);
         HBox iconHBox = new HBox(10);
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
