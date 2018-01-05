@@ -19,10 +19,10 @@ public class SystemDetailsPane extends Pane
     {
         super();
         systemDetails = LinuxSystemDetails.newInstance();
-        HBox mainHBox = new HBox(10);
+        VBox mainHBox = new VBox(10);
         VBox iconVBox = new VBox();
         iconVBox.setAlignment(Pos.CENTER);
-        ImageView icon = new ImageView(new Image("linux2.png"));
+        ImageView icon = new ImageView(new Image("linux.png"));
         icon.setPreserveRatio(true);
         iconVBox.getChildren().add(icon);
         VBox detailsVBox = new VBox();
@@ -41,12 +41,12 @@ public class SystemDetailsPane extends Pane
         homeLabel.getStyleClass().add("system-detail-label");
         detailsVBox.getChildren().addAll(systemNameLabel, archLabel, osLabel, homeLabel);
         mainHBox.getChildren().addAll(iconVBox, detailsVBox);
-        iconVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.25));
-        detailsVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.75));
-        iconVBox.prefHeightProperty().bind(mainHBox.heightProperty());
-        detailsVBox.prefHeightProperty().bind(mainHBox.heightProperty());
-        icon.fitWidthProperty().bind(iconVBox.widthProperty().multiply(0.95));
-        icon.fitHeightProperty().bind(iconVBox.heightProperty().multiply(0.95));
+        iconVBox.prefWidthProperty().bind(mainHBox.widthProperty());
+        detailsVBox.prefWidthProperty().bind(mainHBox.widthProperty());
+        iconVBox.prefHeightProperty().bind(mainHBox.heightProperty().multiply(0.5));
+        detailsVBox.prefHeightProperty().bind(mainHBox.heightProperty().multiply(0.5));
+        icon.fitWidthProperty().bind(iconVBox.widthProperty().multiply(0.99));
+        icon.fitHeightProperty().bind(iconVBox.heightProperty().multiply(0.99));
         getChildren().add(mainHBox);
     }
     
