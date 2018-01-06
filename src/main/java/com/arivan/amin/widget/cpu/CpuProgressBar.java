@@ -14,7 +14,7 @@ public class CpuProgressBar extends Pane
 {
     private static final int ANIMATION_SPEED = 300;
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final Monitor processor;
+    private final CpuMonitor processor;
     private final ProgressBar cpuBar;
     private final Label cpuLabel;
     private Pane pane;
@@ -22,7 +22,7 @@ public class CpuProgressBar extends Pane
     private CpuProgressBar (@NotNull Pane pane)
     {
         super();
-        processor = LinuxMonitor.newInstance();
+        processor = LinuxCpuMonitor.newInstance();
         VBox mainVBox = new VBox(5);
         mainVBox.setPadding(new Insets(10));
         cpuBar = new ProgressBar();

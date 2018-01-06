@@ -1,7 +1,6 @@
 package com.arivan.amin.widget.news.feed;
 
-import javafx.animation.KeyFrame;
-import javafx.animation.Timeline;
+import javafx.animation.*;
 import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
@@ -27,6 +26,7 @@ public class RssReaderBox extends VBox
             updateValues();
         }));
         timeline.getKeyFrames().add(new KeyFrame(Duration.minutes(PERIOD_BETWEEN_RSS_UPDATES)));
+        timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
     }
     

@@ -6,7 +6,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.List;
 import java.util.regex.Pattern;
 
-public interface Monitor
+public interface CpuMonitor
 {
     double PERCENT = 100.0;
     Pattern NON_DIGITS = Pattern.compile("[a-z :/A-Z]+");

@@ -56,7 +56,7 @@ public class LinuxMonitor implements Monitor
     @Override
     public String toString ()
     {
-        return "LinuxMonitor{" + "topCommand=" + topCommand + ", weatherData=" + Arrays.toString(data) +
+        return "LinuxCpuMonitor{" + "topCommand=" + topCommand + ", weatherData=" + Arrays.toString(data) +
                 '}';
     }
 }

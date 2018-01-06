@@ -117,7 +117,7 @@ gradle-app.setting
 ### Linux template
 *~
 
-# temporary files which can be created if a process still has a handle open of a deleted file
+# temporary files which can be created if a applications still has a handle open of a deleted file
 .fuse_hidden*
 
 # KDE directory preferences
@@ -129,7 +129,7 @@ gradle-app.setting
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 ### Android template
-# Built application files
+# Built applications files
 *.apk
 *.ap_
 

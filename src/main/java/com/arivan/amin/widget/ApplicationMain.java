@@ -1,5 +1,6 @@
 package com.arivan.amin.widget;
 
+import com.arivan.amin.widget.applications.usage.UsageMonitorBox;
 import com.arivan.amin.widget.cpu.CpuProgressBar;
 import com.arivan.amin.widget.forecast.WeatherPane;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
@@ -74,13 +75,14 @@ public class ApplicationMain extends Application
         HBox bottomHBox = new HBox();
         leftVBox.getChildren().addAll(topVBox, bottomHBox);
         VBox rssVBox = new VBox();
-        VBox topProcessesVBox = new VBox(new Label("top processes"));
+        VBox topProcessesVBox = new VBox();
         VBox todoVBox = new VBox();
         bottomHBox.getChildren().addAll(rssVBox, topProcessesVBox, todoVBox);
         VBox rightVBox = new VBox();
         rightVBox.getChildren().add(CpuProgressBar.newInstance(rightVBox));
         rightVBox.getChildren().add(MemoryProgressBar.newInstance(rightVBox));
         rssVBox.getChildren().add(RssReaderBox.newInstance());
+        topProcessesVBox.getChildren().add(UsageMonitorBox.newInstance());
         todoVBox.getChildren().add(TasksBox.newInstance());
         mainHBox.getChildren().addAll(leftVBox, rightVBox);
         primaryStage.setScene(scene);

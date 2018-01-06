@@ -65,7 +65,7 @@ public class MemoryProgressBar extends Pane
     @Override
     public String toString ()
     {
-        return "MemoryProgressBar{" + "monitor=" + monitor + ", memoryBar=" + memoryBar +
+        return "MemoryProgressBar{" + "usage=" + monitor + ", memoryBar=" + memoryBar +
                 ", memoryLabel=" + memoryLabel + ", pane=" + pane + '}';
     }
 }

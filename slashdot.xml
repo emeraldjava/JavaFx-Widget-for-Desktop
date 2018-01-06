@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-06T17:17:11+00:00</dc:date>
+<dc:date>2018-01-06T20:51:06+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,9 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -28,9 +31,6 @@
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,78 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Linus Torvalds Says Intel Needs To Admit It Has Issues With CPUs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/owaLqkudWzk/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus</link>
+<description>troublemaker_23 shares an article from ITWire:
+
+Linux creator Linus Torvalds has had some harsh words for Intel in the course of a discussion about patches for two bugs that were found to affect most of the company's processors... Torvalds was clearly unimpressed by Intel's bid to play down the crisis through its media statements, saying: "I think somebody inside of Intel needs to really take a long hard look at their CPUs, and actually admit that they have issues instead of writing PR blurbs that say that everything works as designed... Or is Intel basically saying 'we are committed to selling you shit forever and ever, and never fixing anything'?" he asked. "Because if that's the case, maybe we should start looking towards the ARM64 people more." 
+Elsewhere Linus told ZDNet that "there's no one number" for the performance drop users will experience after patches. "It will depend on your hardware and on your load. I think 5 percent for a load with a noticeable kernel component (e.g. a database) is roughly in the right ballpark. But if you do micro-benchmarks that really try to stress it, you might see double-digit performance degradation. A number of loads will spend almost all their time in user space, and not see much of an impact at all."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Linus+Torvalds+Says+Intel+Needs+To+Admit+It+Has+Issues+With+CPUs%3A+http%3A%2F%2Fbit.ly%2F2CMNMqW"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F06%2F014226%2Flinus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574419&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/owaLqkudWzk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-06T19:54:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>chips-on-his-shoulder</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>37</slash:comments>
+<slash:hit_parade>37,36,18,15,3,1,1</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Bitcoin Debit Cards Suspended After Upstream Visa Rules Infraction</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9YFdOK5YtOc/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction</link>
+<description>At least four pre-paid debit cards that accept cryptocurrencies abruptly suspended service on Friday. An anonymous reader quotes TheNextWeb:
+Speaking to their customers on Twitter, the affected companies have said the move is the result of actions from their card issuer, [WaveCrest], who was acting on behalf of Visa Europe... A statement from Visa Europe obtained by The Daily Beast reporter Joseph Cox said the action was taken due to WaveCrest's "non-compliance" with VISA's membership regulations... In its statement, Visa makes clear that this isn't a crackdown on cryptocurrencies, but rather action against one company that broke its rules. 
+"All funds stored on cards are safe and will be returned to your Cryptopay accounts ASAP," one of the affected debit card companies assured users on Twitter, adding "Sorry for all the inconvenience caused..." 
+According to the article, "Some users on Twitter are reportedly stranded abroad without funds."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Bitcoin+Debit+Cards+Suspended+After+Upstream+Visa+Rules+Infraction%3A+http%3A%2F%2Fbit.ly%2F2D2f61b"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F06%2F0612205%2Fbitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11575067&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9YFdOK5YtOc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-06T18:49:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>not-everywhere-you-want-to-be</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,36,18,14,7,2,2</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Rust 1.23.0 Released,  Community Urged To Blog Ideas For 2018 Roadmap</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LMv1CL7HSAc/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap</link>
+<description>An anonymous reader quotes the official Rust blog:
+The Rust team is happy to announce a new version of Rust, 1.23.0... New year, new Rust! For our first improvement today, we now avoid some unnecessary copies in certain situations. We've seen memory usage of using rustc to drop 5-10% with this change; it may be different with your programs...
+The documentation team has been on a long journey to move rustdoc to use CommonMark. Previously, rustdoc never guaranteed which markdown rendering engine it used, but we're finally committing to CommonMark. As part of this release, we render the documentation with our previous renderer, Hoedown, but also render it with a CommonMark compliant renderer, and warn if there are any differences. 
+
+A few new APIs were also stabilized in this release -- see the complete release notes here -- and you no longer need to import the trait AsciiExt to provide ASCII-related functionality on u8, char, [u8], and str. 
+
+The Rust blog made another announcement earlier this week. "As open source software becomes more and more ubiquitous and popular, the Rust team is interested in exploring new and innovative ways to solicit community feedback and participation." So while defining Rust's roadmap for 2018, "we'd like to try something new in addition to the RFC process: a call for community blog posts for ideas of what the goals should be."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Rust+1.23.0+Released%2C++Community+Urged+To+Blog+Ideas+For+2018+Roadmap%3A+http%3A%2F%2Fbit.ly%2F2AAva7w"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F06%2F0147234%2Frust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574479&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LMv1CL7HSAc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-06T17:44:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>requests-for-comments-on-requests-for-comments</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,36,10,8,3,1,0</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Lindows Resurrected! Freespire 3.0 and Linspire 7.0 Linux Distros Now Available</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4bCdjz-6MBE/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available</link>
@@ -60,8 +132,8 @@ The first question was "Why oh why?"&lt;p&gt;&lt;div class="share_submission" st
 <dc:subject>windows</dc:subject>
 <slash:department>eight-year-hiatus</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>13</slash:comments>
-<slash:hit_parade>13,12,6,4,0,0,0</slash:hit_parade>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,46,25,24,13,4,2</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>'The State of JavaScript Frameworks, 2017'</title>
@@ -86,8 +158,8 @@ The first post in a three-part series graphs the popularity and growth rate for 
 <dc:subject>programming</dc:subject>
 <slash:department>going-off-script</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>37</slash:comments>
-<slash:hit_parade>37,35,18,15,1,0,0</slash:hit_parade>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,65,40,30,7,1,0</slash:hit_parade>
 <feedburner:origLink>https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Intel Hit With Three Class-Action Lawsuits Over Meltdown and Spectre Bugs</title>
@@ -106,8 +178,8 @@ The first post in a three-part series graphs the popularity and growth rate for 
 <dc:subject>intel</dc:subject>
 <slash:department>when-it-rains-it-pours</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>104</slash:comments>
-<slash:hit_parade>104,98,55,51,10,6,2</slash:hit_parade>
+<slash:comments>151</slash:comments>
+<slash:hit_parade>151,143,79,73,17,10,8</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>A Cryptocurrency Based On a Dog Meme Is Now Worth Over $1 Billion</title>
@@ -128,8 +200,8 @@ Even Jackson Palmer, one of the founders of the coin, expressed concern about th
 <dc:subject>bitcoin</dc:subject>
 <slash:department>what's-the-world-coming-to</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>75</slash:comments>
-<slash:hit_parade>75,69,41,30,12,6,2</slash:hit_parade>
+<slash:comments>105</slash:comments>
+<slash:hit_parade>105,100,69,55,16,7,6</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ancient DNA Reveals a Completely Unknown Population of Native Americans</title>
@@ -150,8 +222,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>earth</dc:subject>
 <slash:department>unknown-to-history</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>65</slash:comments>
-<slash:hit_parade>65,61,36,29,10,5,4</slash:hit_parade>
+<slash:comments>77</slash:comments>
+<slash:hit_parade>77,71,47,40,16,8,5</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Why Twitter Hasn't Banned President Trump</title>
@@ -170,8 +242,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>twitter</dc:subject>
 <slash:department>cease-and-desist</slash:department>
 <slash:section>politics</slash:section>
-<slash:comments>340</slash:comments>
-<slash:hit_parade>340,332,196,155,45,18,14</slash:hit_parade>
+<slash:comments>372</slash:comments>
+<slash:hit_parade>372,364,211,168,49,20,17</slash:hit_parade>
 <feedburner:origLink>https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Don't Pirate Or We'll Mess With Your Connected Thermostats, Warns East Coast ISP</title>
@@ -190,8 +262,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>piracy</dc:subject>
 <slash:department>cold-moves</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>225</slash:comments>
-<slash:hit_parade>225,222,128,108,26,13,7</slash:hit_parade>
+<slash:comments>232</slash:comments>
+<slash:hit_parade>232,229,137,114,30,14,10</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>SoundCloud Refutes Decreasing Audio Quality, Cites Standard Testing</title>
@@ -210,8 +282,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>communications</dc:subject>
 <slash:department>he-said-she-said</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>45</slash:comments>
-<slash:hit_parade>45,43,23,17,6,5,4</slash:hit_parade>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,46,23,17,6,5,4</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple Product Delays Have More Than Doubled Under Tim Cook's Watch, Says Report</title>
@@ -230,8 +302,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>business</dc:subject>
 <slash:department>day-late-and-a-dollar-short</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>72</slash:comments>
-<slash:hit_parade>72,71,39,28,6,1,1</slash:hit_parade>
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,73,40,29,6,2,1</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>New US Customs Guidelines Limit Copying Files and Searching Cloud Data</title>
@@ -250,8 +322,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>cloud</dc:subject>
 <slash:department>devil-is-in-the-detail</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>62</slash:comments>
-<slash:hit_parade>62,62,37,33,8,3,1</slash:hit_parade>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,65,38,35,8,5,4</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Eben Upton Explains Why Raspberry Pi Isn't Vulnerable To Spectre Or Meltdown</title>
@@ -272,8 +344,8 @@ In conclusion: "Modern processors go to great lengths to preserve the abstractio
 <dc:subject>os</dc:subject>
 <slash:department>worry-free</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>106</slash:comments>
-<slash:hit_parade>106,102,50,45,8,6,6</slash:hit_parade>
+<slash:comments>112</slash:comments>
+<slash:hit_parade>112,108,55,49,12,8,6</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>NASA Launches a Mission To Study the Border of Earth and Space</title>
@@ -292,69 +364,9 @@ In conclusion: "Modern processors go to great lengths to preserve the abstractio
 <dc:subject>earth</dc:subject>
 <slash:department>final-frontier</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>43</slash:comments>
-<slash:hit_parade>43,39,11,9,0,0,0</slash:hit_parade>
+<slash:comments>45</slash:comments>
+<slash:hit_parade>45,41,11,9,0,0,0</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ex-NSA Hacker Is Building an AI To Find Hate and Far-Right Symbols on Twitter and Facebook</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Z11BYEPEVas/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook</link>
-<description>Motherboard reporter Lorenzo Franceschi-Bicchierai has interviewed Emily Crose, a former NSA hacker, who has built NEMESIS, an AI-powered program that can help spot symbols that have been co-opted by hate groups to signal to each other in plain sight. Crose, who has also moderated Reddit in the past, thought of building NEMESIS after the Charlottesville, Virginia incident last year. From the report: Crose's motivation is to expose white nationalists who use more or less obscure, mundane, or abstract symbols -- or so-called dog whistles -- in their posts, such as the Black Sun and certain Pepe the frog memes. Crose's goal is not only to expose people who use these symbols online but hopefully also push the social media companies to clamp down on hateful rhetoric online. "The real goal is to educate people," Crose told me in a phone call. "And a secondary goal: I'd really like to get the social media platforms to start thinking how they can enforce some decency on their own platforms, a certain level of decorum." [...] At a glance, the way NEMESIS works is relatively simple. There's an "inference graph," which is a mathematical representation of trained images, classified as Nazi or white supremacist symbols. This inference graph trains the system with machine learning to identify the symbols in the wild, whether they are in pictures or videos. In a way, NEMESIS is dumb, according to Crose, because there are still humans involved, at least at the beginning. NEMESIS needs a human to curate the pictures of the symbols in the inference graph and make sure they are being used in a white supremacist context. For Crose, that's the key to the whole project -- she absolutely does not want NEMESIS to flag users who post Hindu swastikas, for example -- so NEMESIS needs to understand the context. "It takes thousands and thousands of images to get it to work just right," she said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ex-NSA+Hacker+Is+Building+an+AI+To+Find+Hate+and+Far-Right+Symbols+on+Twitter+and+Facebook%3A+http%3A%2F%2Fbit.ly%2F2CKyEdE"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F2040221%2Fex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574125&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Z11BYEPEVas" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T21:00:00+00:00</dc:date>
-<dc:subject>ai</dc:subject>
-<slash:department>one-man-army</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>417</slash:comments>
-<slash:hit_parade>417,406,207,179,55,28,16</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ford is Giving Its Factory Workers Robot Exo-suits To Ease To Burden of Building Cars</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Qvuhx8N0yBQ/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars</link>
-<description>Mike Murphy, writing for Quartz: Ford's cars are getting closer to driving themselves, but they still need humans to build them. And because people aren't quite as durable as robots, it's trying to make those jobs easier by developing a suit with Ekso Bionics that takes the stress out of working long hours on a car assembly floor. Ekes, founded in 2005 in California, builds exoskeletons, essentially robotic assistive systems that people strap into to make walking, lifting, and standing easier. It's worked with the US military to build suits for soldiers. The system Ekso developed with Ford, called the EksoVest, doesn't use any motors to make working on factory lines less stressful, and it's nothing like what you see in movies, as it simply uses hydraulics to redistribute weight so that workers can comfortably raise their arms above their heads for extended periods of time. The suit can be worn by anyone from 5 ft to 6 ft 4 inches tall, and can provide lift assistance up to 15 pounds per arm. Some assembly-line workers at the average Ford plant lift their arms 4,600 times a day -- or about 1 million times a year, the company said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ford+is+Giving+Its+Factory+Workers+Robot+Exo-suits+To+Ease+To+Burden+of+Building+Cars%3A+http%3A%2F%2Fbit.ly%2F2CYal8Q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F05%2F209240%2Fford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574089&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Qvuhx8N0yBQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T20:19:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>next-up</slash:department>
-<slash:section>slashdot</slash:section>
-<slash:comments>47</slash:comments>
-<slash:hit_parade>47,47,29,26,6,2,1</slash:hit_parade>
-<feedburner:origLink>https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Arbitrary Deadlines Are the Enemy of Creativity, According to Harvard Research</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/kzF59nFJeyM/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research</link>
-<description>Time can feel like the enemy to an employee in any role, and in any industry, but it's most acutely threatening to creative types. From a report: We may tease them for their diva-like behaviors when they feel persecuted by a deadline, but we have to admit that "develop an amazing new idea" is not something that slides into your schedule, like pick up lunch or respond to new clients. Nor can systems be tweaked and extra hands hired to help hit a goal that requires innovation, the way they can when mundane busy work is piling up. And yet deadlines are a fact of life for any company that wants to stay competitive. In a recent Harvard Business School podcast, professor Teresa Amabile, whose academic career has focused on individuals, teams, and creativity, offers some guidance for managers who struggle to support or coax their creative talent. She explains that although the creative process itself can't be controlled, certain structures can set up the conditions to move it along. When possible, managers should avoid tight deadlines for creative projects. In her work, Amabile found that creative teams can produce ideas on a deadline, and creative people may feel productive on high-pressured days, but their ideas won't be inspired.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Arbitrary+Deadlines+Are+the+Enemy+of+Creativity%2C+According+to+Harvard+Research%3A+http%3A%2F%2Fbit.ly%2F2CJWdDc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F05%2F1940255%2Farbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574051&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/kzF59nFJeyM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T19:40:00+00:00</dc:date>
-<dc:subject>science</dc:subject>
-<slash:department>how-we-work</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>110</slash:comments>
-<slash:hit_parade>110,108,73,67,26,13,7</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
