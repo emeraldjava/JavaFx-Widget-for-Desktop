@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-06T16:32:12+00:00</dc:date>
+<dc:date>2018-01-06T17:17:11+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,7 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -30,7 +31,6 @@
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/05/190236/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,28 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Lindows Resurrected! Freespire 3.0 and Linspire 7.0 Linux Distros Now Available</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4bCdjz-6MBE/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available</link>
+<description>BrianFagioli writes: About 16 years ago, a for-pay Linux distribution caused quite a stir all because of its name -- Lindows. Yes, someone actually thought kicking the billion dollar hornets nest that is Microsoft by playing off of the "Windows" name was a good idea. To be honest, from a marketing perspective, it was brilliant -- it got tons of free press. Microsoft eventually killed the Lindows name by use of money and the legal system, however. Ultimately, the Linux distro was renamed "Linspire." Comically, there was a Lindows Insiders program way before Windows Insiders! After losing the Lindows name, the operating system largely fell out of the spotlight, and its 15 minutes of fame ended. After all, without the gimmicky name, it was hard to compete with free Linux distros with a paid OS. Not to mention, Richard Stallman famously denounced the OS for its non-free ways. The company eventually created a free version of its OS called Freespire, but by 2008, both projects were shut down by its then-owner, Xandros. Today, however, a new Linspire owner emerges -- PC/OpenSystems LLC. And yes, Lindows is rising from the grave -- as Freespire 3.0 and Linspire 7.0! "Today the development team at PC/Opensystems LLC is pleased to announce the release of Freespire 3.0 and Linspire 7.0. While both contain common kernel and common utilities, they are targeted towards two different user bases. Freespire is a FOSS distribution geared for the general Linux community, making use of only open source components, containing no proprietary applications. This is not necessarily a limitation : through our software center and extensive repositories, Freespire users can install any application that they wish," says PC/OpenSystems LLC. Back in 2003 the CEO of Lindows answered questions from Slashdot readers. 
+
+The first question was "Why oh why?"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Lindows+Resurrected!+Freespire+3.0+and+Linspire+7.0+Linux+Distros+Now+Available%3A+http%3A%2F%2Fbit.ly%2F2EdAYG8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F06%2F0755206%2Flindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11575599&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4bCdjz-6MBE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-06T16:39:00+00:00</dc:date>
+<dc:subject>windows</dc:subject>
+<slash:department>eight-year-hiatus</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>13</slash:comments>
+<slash:hit_parade>13,12,6,4,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>'The State of JavaScript Frameworks, 2017'</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/b4TirzT7SSY/the-state-of-javascript-frameworks-2017</link>
@@ -64,8 +86,8 @@ The first post in a three-part series graphs the popularity and growth rate for 
 <dc:subject>programming</dc:subject>
 <slash:department>going-off-script</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>23</slash:comments>
-<slash:hit_parade>23,21,9,9,0,0,0</slash:hit_parade>
+<slash:comments>37</slash:comments>
+<slash:hit_parade>37,35,18,15,1,0,0</slash:hit_parade>
 <feedburner:origLink>https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Intel Hit With Three Class-Action Lawsuits Over Meltdown and Spectre Bugs</title>
@@ -84,8 +106,8 @@ The first post in a three-part series graphs the popularity and growth rate for 
 <dc:subject>intel</dc:subject>
 <slash:department>when-it-rains-it-pours</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>83</slash:comments>
-<slash:hit_parade>83,77,37,35,9,6,2</slash:hit_parade>
+<slash:comments>104</slash:comments>
+<slash:hit_parade>104,98,55,51,10,6,2</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>A Cryptocurrency Based On a Dog Meme Is Now Worth Over $1 Billion</title>
@@ -106,8 +128,8 @@ Even Jackson Palmer, one of the founders of the coin, expressed concern about th
 <dc:subject>bitcoin</dc:subject>
 <slash:department>what's-the-world-coming-to</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>69</slash:comments>
-<slash:hit_parade>69,63,36,27,11,6,1</slash:hit_parade>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,69,41,30,12,6,2</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ancient DNA Reveals a Completely Unknown Population of Native Americans</title>
@@ -128,8 +150,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>earth</dc:subject>
 <slash:department>unknown-to-history</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>53</slash:comments>
-<slash:hit_parade>53,49,32,26,9,5,2</slash:hit_parade>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,61,36,29,10,5,4</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Why Twitter Hasn't Banned President Trump</title>
@@ -148,8 +170,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>twitter</dc:subject>
 <slash:department>cease-and-desist</slash:department>
 <slash:section>politics</slash:section>
-<slash:comments>324</slash:comments>
-<slash:hit_parade>324,316,186,145,43,19,16</slash:hit_parade>
+<slash:comments>340</slash:comments>
+<slash:hit_parade>340,332,196,155,45,18,14</slash:hit_parade>
 <feedburner:origLink>https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Don't Pirate Or We'll Mess With Your Connected Thermostats, Warns East Coast ISP</title>
@@ -168,8 +190,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>piracy</dc:subject>
 <slash:department>cold-moves</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>220</slash:comments>
-<slash:hit_parade>220,217,124,105,26,13,7</slash:hit_parade>
+<slash:comments>225</slash:comments>
+<slash:hit_parade>225,222,128,108,26,13,7</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>SoundCloud Refutes Decreasing Audio Quality, Cites Standard Testing</title>
@@ -188,8 +210,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>communications</dc:subject>
 <slash:department>he-said-she-said</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>42</slash:comments>
-<slash:hit_parade>42,40,23,17,6,4,3</slash:hit_parade>
+<slash:comments>45</slash:comments>
+<slash:hit_parade>45,43,23,17,6,5,4</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple Product Delays Have More Than Doubled Under Tim Cook's Watch, Says Report</title>
@@ -208,8 +230,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>business</dc:subject>
 <slash:department>day-late-and-a-dollar-short</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>71</slash:comments>
-<slash:hit_parade>71,70,39,28,5,1,1</slash:hit_parade>
+<slash:comments>72</slash:comments>
+<slash:hit_parade>72,71,39,28,6,1,1</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>New US Customs Guidelines Limit Copying Files and Searching Cloud Data</title>
@@ -228,8 +250,8 @@ Given the nature of this field of research -- and the scope of the new findings 
 <dc:subject>cloud</dc:subject>
 <slash:department>devil-is-in-the-detail</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>61</slash:comments>
-<slash:hit_parade>61,61,37,33,8,3,1</slash:hit_parade>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,62,37,33,8,3,1</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Eben Upton Explains Why Raspberry Pi Isn't Vulnerable To Spectre Or Meltdown</title>
@@ -290,8 +312,8 @@ In conclusion: "Modern processors go to great lengths to preserve the abstractio
 <dc:subject>ai</dc:subject>
 <slash:department>one-man-army</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>408</slash:comments>
-<slash:hit_parade>408,397,203,176,55,28,16</slash:hit_parade>
+<slash:comments>417</slash:comments>
+<slash:hit_parade>417,406,207,179,55,28,16</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ford is Giving Its Factory Workers Robot Exo-suits To Ease To Burden of Building Cars</title>
@@ -333,26 +355,6 @@ In conclusion: "Modern processors go to great lengths to preserve the abstractio
 <slash:comments>110</slash:comments>
 <slash:hit_parade>110,108,73,67,26,13,7</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://politics.slashdot.org/story/18/01/05/190236/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Leading Lobbying Group for Amazon, Facebook, Google and Other Tech Giants is Joining the Legal Battle To Restore Net Neutrality</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IVRR-Wi3OaY/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality</link>
-<description>A leading lobbying group for Amazon, Facebook, Google, Netflix, Twitter and other tech giants said Friday that it would be joining the coming legal crusade to restore the U.S. government's net neutrality rules. From a report: The Washington, D.C.-based Internet Association specifically plans to join a lawsuit as an intervening party, aiding the challenge to FCC Chairman Ajit Pai's vote in December to repeal regulations that required internet providers like AT&amp;amp;T and Comcast to treat all web traffic equally, its leader confirmed to Recode. Technically, the Internet Association isn't filing its own lawsuit. That task will fall to companies like Etsy, public advocates like Free Press and state attorneys general, all of which plan to contend they are most directly harmed by Pai's decision, as Recode first reported this week. As an intervener, though, the Internet Association still will play a crucial role, filing legal arguments in the coming case. And in formally participating, tech giants will have the right to appeal a judge's decision later if Silicon Valley comes out on the losing end. "The final version of Chairman Pai's rule, as expected, dismantles popular net neutrality protections for consumers," said the group's chief, Michael Beckerman, in a statement. "This rule defies the will of a bipartisan majority of Americans and fails to preserve a free and open internet."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Leading+Lobbying+Group+for+Amazon%2C+Facebook%2C+Google+and+Other+Tech+Giants+is+Joining+the+Legal+Battle+To+Restore+Net+Neutrality%3A+http%3A%2F%2Fbit.ly%2F2CKiHEi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F05%2F190236%2Fleading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/05/190236/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/05/190236/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11573989&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/IVRR-Wi3OaY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T19:00:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>let-the-fight-begin</slash:department>
-<slash:section>politics</slash:section>
-<slash:comments>76</slash:comments>
-<slash:hit_parade>76,75,37,34,9,3,3</slash:hit_parade>
-<feedburner:origLink>https://politics.slashdot.org/story/18/01/05/190236/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
