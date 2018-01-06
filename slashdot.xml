@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-05T20:25:10+00:00</dc:date>
+<dc:date>2018-01-06T16:32:12+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/05/190236/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/05/1812241/what-happens-when-states-have-their-own-net-neutrality-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/05/1732258/jimmy-iovine-to-leave-apple-music-in-august-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/05/1615209/white-noise-video-on-youtube-hit-by-five-copyright-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/1553257/amazon-alexa-is-coming-to-headphones-smart-watches-bathrooms-and-more?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/05/1522256/hp-recalls-50000-lithium-ion-laptop-batteries-over-fire-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/05/1443246/nope-no-intel-chip-recall-after-spectre-and-meltdown-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/05/142201/when-f00f-bug-hit-20-years-ago-intel-reacted-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/0016244/the-fcc-is-preparing-to-weaken-the-definition-of-broadband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/04/2352244/the-alien-megastructure-around-mysterious-tabbys-star-is-probably-just-dust-analysis-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/04/2251220/spacexs-latest-advantage-blowing-up-its-own-rocket-automatically?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/0318205/frances-president-macron-wants-to-block-websites-during-elections-to-fight-fake-news?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/04/2155237/how-do-americans-define-online-harassment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,258 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'The State of JavaScript Frameworks, 2017'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/b4TirzT7SSY/the-state-of-javascript-frameworks-2017</link>
+<description>An anonymous reader shares some new statistics from Laurie Voss, co-founder and COO of npm (the package manager/software registry for JavaScript):
+
+The sum of all the package downloads in the npm Registry shows that the npm ecosystem continues to experience explosive, continuous growth... Right now, we estimate about 75% of all JavaScript developers use npm, and that number is rising quickly to reach 100%. We believe there are about 10 million npm users right now. 
+
+The first post in a three-part series graphs the popularity and growth rate for seven JavaScript frameworks.
+
+ Preact is tiny but the fastest-growing. Vue is also very fast growing and neck and neck with Ember, Angular and Backbone Ember has grown more popular in the last 12 months. Angular and Backbone have both declined in popularity. jQuery remains hugely popular but decreasingly so. React is both huge and very fast-growing for its size.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='The+State+of+JavaScript+Frameworks%2C+2017'%3A+http%3A%2F%2Fbit.ly%2F2CND1EK"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F06%2F0535226%2Fthe-state-of-javascript-frameworks-2017%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574857&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/b4TirzT7SSY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-06T15:34:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>going-off-script</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>23</slash:comments>
+<slash:hit_parade>23,21,9,9,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel Hit With Three Class-Action Lawsuits Over Meltdown and Spectre Bugs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PvYYTPTcTc8/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs</link>
+<description>An anonymous reader quotes a report from The Guardian: Intel has been hit with at least three class-action lawsuits over the major processor vulnerabilities revealed this week. Three separate class-action lawsuits have been filed by plaintiffs in California, Oregon and Indiana seeking compensation, with more expected. All three cite the security vulnerability and Intel's delay in public disclosure from when it was first notified by researchers of the flaws in June. Intel said in a statement it "can confirm it is aware of the class actions but as these proceedings are ongoing, it would be inappropriate to comment." The plaintiffs also cite the alleged computer slowdown that will be caused by the fixes needed to address the security concerns, which Intel disputes is a major factor. "Contrary to some reports, any performance impacts are workload-dependent, and, for the average computer user, should not be significant and will be mitigated over time," Intel said in an earlier statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Hit+With+Three+Class-Action+Lawsuits+Over+Meltdown+and+Spectre+Bugs%3A+http%3A%2F%2Fbit.ly%2F2CNo0CS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F06%2F0131251%2Fintel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574443&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PvYYTPTcTc8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-06T13:00:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>when-it-rains-it-pours</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,77,37,35,9,6,2</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>A Cryptocurrency Based On a Dog Meme Is Now Worth Over $1 Billion</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VO8BT6KHG8I/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion</link>
+<description>Earlier today, the market capitlization of dogecoin, a cryptocurrency based on a meme about a Shiba Inu dog, passed the $1 billion mark for the first time. VICE News reports: Dogecoin was created back in the early days of the cryptocurrency craze. Launched in December 2013 as somewhat of a joke, the meme-inspired coin was dubbed "the internet currency" and designed to promote a sense of community and generosity rather than simply looking to make money. It gained fame during 2014 when it was used to send the Jamaican bobsled team to the Winter Olympics in Sochi and it even sponsored a Nascar team. The currency has been in relative stasis since, and despite no software updates being released in over two years, the cryptocurrency has risen more than 400 percent in the last month -- though one dogecoin is still worth just over 1 cent.
+ 
+Even Jackson Palmer, one of the founders of the coin, expressed concern about the hyperinflation of dogecoin. "It says a lot about the state of the cryptocurrency space in general that a currency with a dog on it which hasn't released a software update in over 2 years has a $1 billion+ market cap," Jackson told Coindesk.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=A+Cryptocurrency+Based+On+a+Dog+Meme+Is+Now+Worth+Over+%241+Billion%3A+http%3A%2F%2Fbit.ly%2F2D1WTkf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F05%2F228224%2Fa-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574257&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VO8BT6KHG8I" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-06T10:00:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>what's-the-world-coming-to</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,63,36,27,11,6,1</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ancient DNA Reveals a Completely Unknown Population of Native Americans</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dnYxOeTrlTs/ancient-dna-reveals-a-completely-unknown-population-of-native-americans</link>
+<description>schwit1 shares the findings of a new study of 11,500-year-old bones: Sunrise girl-child ("Xach'itee'aanenh T'eede Gaay") lived some 11,500 years ago in what is now called Alaska, and her ancient DNA reveals not only the origins of Native American society, but reminds the world of a whole population of people forgotten by history millennia ago. "We didn't know this population existed," says anthropologist Ben Potter from the University of Alaska Fairbanks. "It would be difficult to overstate the importance of this newly revealed people to our understanding of how ancient populations came to inhabit the Americas." In a new study published this week, the team reports that a genetic analysis of sunrise girl-child's DNA shows she belonged to a forgotten people called the Ancient Beringians, unknown to science until now. Before now, there were only two recognized branches of early Native Americans (referred to as Northern and Southern). But when the researchers sequenced sunrise girl-child's genome -- the earliest complete genetic profile of a New World human to date -- to their surprise it matched neither.
+ 
+Given the nature of this field of research -- and the scope of the new findings -- it's unlikely the new hypotheses will remain uncontested for long. But in the light of all the new evidence researchers are uncovering, it's clear the first settlers of America carried a more diverse lineage than we ever realized. "[This is] the first direct evidence of the initial founding Native American population," Potter says. "It is markedly more complex than we thought." The findings are reported in the journal Nature.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ancient+DNA+Reveals+a+Completely+Unknown+Population+of+Native+Americans%3A+http%3A%2F%2Fbit.ly%2F2D0BY19"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F05%2F2152242%2Fancient-dna-reveals-a-completely-unknown-population-of-native-americans%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574239&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dnYxOeTrlTs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-06T07:00:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>unknown-to-history</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>53</slash:comments>
+<slash:hit_parade>53,49,32,26,9,5,2</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why Twitter Hasn't Banned President Trump</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ot1yvNbReL8/why-twitter-hasnt-banned-president-trump</link>
+<description>An anonymous reader quotes a report from The Verge: Amid vocal calls for the company to act, Twitter today offered its first explanation for why it hasn't banned President Donald Trump -- without ever saying the man's name. "Elected world leaders play a critical role in that conversation because of their outsized impact on our society," the company said in a blog post. "Blocking a world leader from Twitter or removing their controversial Tweets, would hide important information people should be able to see and debate. It would also not silence that leader, but it would certainly hamper necessary discussion around their words and actions." In its blog post, Twitter reiterated its previous statement that all accounts still must follow the company's rules. The statement seemed to leave open the possibility that it might one day take action against Trump's account, or the accounts of other world leaders who might use the platform to incite violence or otherwise break its rules. "We review Tweets by leaders within the political context that defines them, and enforce our rules accordingly," it said. In response to the claims that Twitter doesn't ban President Trump because he draws attention -- and ad revenue -- to the company, Twitter said: "No one person's account drives Twitter's growth, or influences these decisions. We work hard to remain unbiased with the public interest in mind."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Twitter+Hasn't+Banned+President+Trump%3A+http%3A%2F%2Fbit.ly%2F2EeDXyd"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F05%2F222223%2Fwhy-twitter-hasnt-banned-president-trump%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574251&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ot1yvNbReL8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-06T03:30:00+00:00</dc:date>
+<dc:subject>twitter</dc:subject>
+<slash:department>cease-and-desist</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>324</slash:comments>
+<slash:hit_parade>324,316,186,145,43,19,16</slash:hit_parade>
+<feedburner:origLink>https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Don't Pirate Or We'll Mess With Your Connected Thermostats, Warns East Coast ISP</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FZSMhXZ9bLU/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp</link>
+<description>Internet service provider Armstrong Zoom has roughly a million subscribers in the Northeastern part of the U.S. and is keen to punish those it believes are using file-sharing services. According to Engadget, "the ISP's response to allegedly naughty customers is bandwidth throttling, which is when an ISP intentionally slows down your internet service based on what you're doing online. Armstrong Zoom's warning letter openly threatens its suspected file-sharing customers about its ability to use or control their webcams and connected thermostats." From the report: The East Coast company stated: "Please be advised that this may affect other services which you may have connected to your internet service, such as the ability to control your thermostat remotely or video monitoring services." All U.S. states served by Armstrong Zoom will be experiencing temperatures around or under freezing over the weekend and into the near future. Bandwidth throttling for customers in those areas who have connected thermostats could mean the difference between sickness and health, or even life and death. Seems like an extreme punishment for any allegedly downloaded Game of Thrones cam rips.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Don't+Pirate+Or+We'll+Mess+With+Your+Connected+Thermostats%2C+Warns+East+Coast+ISP%3A+http%3A%2F%2Fbit.ly%2F2EcUse2"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F2121224%2Fdont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574175&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FZSMhXZ9bLU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-06T01:00:00+00:00</dc:date>
+<dc:subject>piracy</dc:subject>
+<slash:department>cold-moves</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>220</slash:comments>
+<slash:hit_parade>220,217,124,105,26,13,7</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>SoundCloud Refutes Decreasing Audio Quality, Cites Standard Testing</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/p7XCglIkUY8/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing</link>
+<description>cordovaCon83 writes: NestHQ published an article today noting that online streaming service Soundcloud has implemented the Opus codec for its archive of music and started streaming at 64kbps instead of its prior 128kbps streams. Opus has been touted as a more efficient codec than the aging MP3 codec. Whether this will have a major effect on audio fidelity remains to be seen, as well as whether such a move will affect the already ailing music service's business. UPDATE: SoundCloud tells Billboard that this swap in codecs is nothing new and is part of frequent tests it runs with its audio -- just as other streaming services do regularly. "We always appreciate feedback, but these reports are inaccurate," a SoundCloud spokesperson told Billboard in a statement. "SoundCloud has not altered its approach to audio quality. We have been using the Opus codec (among others) since 2016, and we regularly test different combinations of encoding and streaming to offer listeners a quality experience on any device. Furthermore, we store all content from creators at its originally uploaded quality level so we can continually adapt to advances in encoding and playback."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=SoundCloud+Refutes+Decreasing+Audio+Quality%2C+Cites+Standard+Testing%3A+http%3A%2F%2Fbit.ly%2F2CZNNod"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F05%2F2140239%2Fsoundcloud-refutes-decreasing-audio-quality-cites-standard-testing%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574203&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/p7XCglIkUY8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-06T00:20:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>he-said-she-said</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>42</slash:comments>
+<slash:hit_parade>42,40,23,17,6,4,3</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Product Delays Have More Than Doubled Under Tim Cook's Watch, Says Report</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KUwOkYqStF8/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report</link>
+<description>An anonymous reader quotes a report from The Wall Street Journal (Warning: source may be paywalled; alternative source): Of the three major new products since Mr. Cook became chief executive in 2011, both AirPods earbuds in 2016 and last year's HomePod speaker missed Apple's publicly projected shipping dates. The Apple Watch, promised for early 2015, arrived late that April with lengthy wait times for delivery. Apple also was delayed in supplying the Apple Pencil and Smart Keyboard, two critical accessories for its iPad Pro. The delays have contributed to much longer waits between Apple announcing a product and shipping it: an average of 23 days for new and updated products over the past six years, compared with the 11-day average over the six years prior, according to a Wall Street Journal analysis of Apple public statements. Longer lead times between announcement and product release have the potential to hurt Apple on multiple fronts. Delays give rivals time to react, something the company tried to prevent in the past by keeping lead times short, analysts and former Apple employees said. They can stoke customer disappointment and have cost Apple sales.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Product+Delays+Have+More+Than+Doubled+Under+Tim+Cook's+Watch%2C+Says+Report%3A+http%3A%2F%2Fbit.ly%2F2EcDo86"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F05%2F2130256%2Fapple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574185&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KUwOkYqStF8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-05T23:40:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>day-late-and-a-dollar-short</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>71</slash:comments>
+<slash:hit_parade>71,70,39,28,5,1,1</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New US Customs Guidelines Limit Copying Files and Searching Cloud Data</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-SpGwgpFcHY/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data</link>
+<description>The U.S. Customs and Border Protection Agency has updated its guidelines for electronic border searches, adding new detail to border search rules that were last officially updated in 2009. The Verge reports: Officers can still request that people unlock electronic devices for inspection when they're entering the U.S., and they can still look through any files or apps on those devices. But consistent with a statement from acting commissioner Kevin McAleenan last summer, they're explicitly banned from accessing cloud data -- per these guidelines, that means anything that can't be accessed while the phone's data connection is disabled. The guidelines also draw a distinction between "basic" and "advanced" searches. If officers connect to the phone (through a wired or wireless connection) and copy or analyze anything on it using external devices, that's an advanced search, and it can only be carried out with reasonable suspicion of illegal activity or a national security concern. A supervisor can approve the search, and "many factors" might create reasonable suspicion, including a terrorist watchlist flag or "other articulable factors."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+US+Customs+Guidelines+Limit+Copying+Files+and+Searching+Cloud+Data%3A+http%3A%2F%2Fbit.ly%2F2EcjSsg"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F2220256%2Fnew-us-customs-guidelines-limit-copying-files-and-searching-cloud-data%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574277&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-SpGwgpFcHY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-05T23:00:00+00:00</dc:date>
+<dc:subject>cloud</dc:subject>
+<slash:department>devil-is-in-the-detail</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>61</slash:comments>
+<slash:hit_parade>61,61,37,33,8,3,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Eben Upton Explains Why Raspberry Pi Isn't Vulnerable To Spectre Or Meltdown</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mOHmWtpC3fY/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown</link>
+<description>Raspberry Pi founder and CEO Eben Upton says the Raspberry Pi isn't susceptible to the "Spectre" or "Meltdown" vulnerabilities because of the particular ARM cores they use. "Spectre allows an attacker to bypass software checks to read data from arbitrary locations in the current address space; Meltdown allows an attacker to read data from arbitrary locations in the operating system kernel's address space (which should normally be inaccessible to user programs)," Upton writes. He goes on to provide a "primer on some concepts in modern processor design" and "illustrate these concepts using simple programs in Python syntax..."
+ 
+In conclusion: "Modern processors go to great lengths to preserve the abstraction that they are in-order scalar machines that access memory directly, while in fact using a host of techniques including caching, instruction reordering, and speculation to deliver much higher performance than a simple processor could hope to achieve," writes Upton. "Meltdown and Spectre are examples of what happens when we reason about security in the context of that abstraction, and then encounter minor discrepancies between the abstraction and reality. The lack of speculation in the ARM1176, Cortex-A7, and Cortex-A53 cores used in Raspberry Pi render us immune to attacks of the sort."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Eben+Upton+Explains+Why+Raspberry+Pi+Isn't+Vulnerable+To+Spectre+Or+Meltdown%3A+http%3A%2F%2Fbit.ly%2F2Ec0WKl"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F05%2F2051204%2Feben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574131&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mOHmWtpC3fY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-05T22:20:00+00:00</dc:date>
+<dc:subject>os</dc:subject>
+<slash:department>worry-free</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>106</slash:comments>
+<slash:hit_parade>106,102,50,45,8,6,6</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NASA Launches a Mission To Study the Border of Earth and Space</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JyM13hxC_rQ/nasa-launches-a-mission-to-study-the-border-of-earth-and-space</link>
+<description>An anonymous reader quotes a report from Ars Technica: A new NASA mission, the first to hitch a ride on a commercial communications satellite, will examine Earth's upper atmosphere to see how the boundary between Earth and space changes over time. GOLD stands for Global-scale Observations of the Limb and Disk, and the mission will focus on the temperature and makeup of Earth's highest atmospheric layers. Along with another upcoming satellite, called ICON, GOLD will examine how weather on Earth -- and space weather caused by the sun -- affects those uppermost layers. GOLD, which will inspect the ultraviolet radiation that the upper atmosphere releases, will also be the first to take comprehensive records of that atmospheric layer's temperature. The satellite carrying GOLD will orbit 22,000 miles (35,400 kilometers) above Earth in a geostationary orbit, which means GOLD will stay fixed with respect to Earth's surface as the satellite orbits and the world turns. GOLD will pay particularly close attention to Earth's thermosphere, which is the gas that surrounds the Earth higher than 60 miles (97 km) up, and the layer called the ionosphere, which forms as radiation from the sun strips away electrons from particles to create charged ions. And although solar flares and other interactions on the sun do have a strong impact on those layers, scientists are learning that Earth's own weather has an impact on the layers, too.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NASA+Launches+a+Mission+To+Study+the+Border+of+Earth+and+Space%3A+http%3A%2F%2Fbit.ly%2F2Ec95OM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F05%2F210255%2Fnasa-launches-a-mission-to-study-the-border-of-earth-and-space%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574139&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/JyM13hxC_rQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-05T21:40:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>final-frontier</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,39,11,9,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ex-NSA Hacker Is Building an AI To Find Hate and Far-Right Symbols on Twitter and Facebook</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Z11BYEPEVas/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook</link>
+<description>Motherboard reporter Lorenzo Franceschi-Bicchierai has interviewed Emily Crose, a former NSA hacker, who has built NEMESIS, an AI-powered program that can help spot symbols that have been co-opted by hate groups to signal to each other in plain sight. Crose, who has also moderated Reddit in the past, thought of building NEMESIS after the Charlottesville, Virginia incident last year. From the report: Crose's motivation is to expose white nationalists who use more or less obscure, mundane, or abstract symbols -- or so-called dog whistles -- in their posts, such as the Black Sun and certain Pepe the frog memes. Crose's goal is not only to expose people who use these symbols online but hopefully also push the social media companies to clamp down on hateful rhetoric online. "The real goal is to educate people," Crose told me in a phone call. "And a secondary goal: I'd really like to get the social media platforms to start thinking how they can enforce some decency on their own platforms, a certain level of decorum." [...] At a glance, the way NEMESIS works is relatively simple. There's an "inference graph," which is a mathematical representation of trained images, classified as Nazi or white supremacist symbols. This inference graph trains the system with machine learning to identify the symbols in the wild, whether they are in pictures or videos. In a way, NEMESIS is dumb, according to Crose, because there are still humans involved, at least at the beginning. NEMESIS needs a human to curate the pictures of the symbols in the inference graph and make sure they are being used in a white supremacist context. For Crose, that's the key to the whole project -- she absolutely does not want NEMESIS to flag users who post Hindu swastikas, for example -- so NEMESIS needs to understand the context. "It takes thousands and thousands of images to get it to work just right," she said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ex-NSA+Hacker+Is+Building+an+AI+To+Find+Hate+and+Far-Right+Symbols+on+Twitter+and+Facebook%3A+http%3A%2F%2Fbit.ly%2F2CKyEdE"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F2040221%2Fex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574125&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Z11BYEPEVas" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-05T21:00:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>one-man-army</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>408</slash:comments>
+<slash:hit_parade>408,397,203,176,55,28,16</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2040221/ex-nsa-hacker-is-building-an-ai-to-find-hate-and-far-right-symbols-on-twitter-and-facebook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ford is Giving Its Factory Workers Robot Exo-suits To Ease To Burden of Building Cars</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Qvuhx8N0yBQ/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars</link>
@@ -58,8 +310,8 @@
 <dc:subject>business</dc:subject>
 <slash:department>next-up</slash:department>
 <slash:section>slashdot</slash:section>
-<slash:comments>3</slash:comments>
-<slash:hit_parade>3,3,2,2,0,0,0</slash:hit_parade>
+<slash:comments>47</slash:comments>
+<slash:hit_parade>47,47,29,26,6,2,1</slash:hit_parade>
 <feedburner:origLink>https://slashdot.org/story/18/01/05/209240/ford-is-giving-its-factory-workers-robot-exo-suits-to-ease-to-burden-of-building-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Arbitrary Deadlines Are the Enemy of Creativity, According to Harvard Research</title>
@@ -78,8 +330,8 @@
 <dc:subject>science</dc:subject>
 <slash:department>how-we-work</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>35</slash:comments>
-<slash:hit_parade>35,35,20,18,1,1,0</slash:hit_parade>
+<slash:comments>110</slash:comments>
+<slash:hit_parade>110,108,73,67,26,13,7</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/05/1940255/arbitrary-deadlines-are-the-enemy-of-creativity-according-to-harvard-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://politics.slashdot.org/story/18/01/05/190236/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Leading Lobbying Group for Amazon, Facebook, Google and Other Tech Giants is Joining the Legal Battle To Restore Net Neutrality</title>
@@ -98,262 +350,9 @@
 <dc:subject>business</dc:subject>
 <slash:department>let-the-fight-begin</slash:department>
 <slash:section>politics</slash:section>
-<slash:comments>31</slash:comments>
-<slash:hit_parade>31,30,17,15,3,1,0</slash:hit_parade>
+<slash:comments>76</slash:comments>
+<slash:hit_parade>76,75,37,34,9,3,3</slash:hit_parade>
 <feedburner:origLink>https://politics.slashdot.org/story/18/01/05/190236/leading-lobbying-group-for-amazon-facebook-google-and-other-tech-giants-is-joining-the-legal-battle-to-restore-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://politics.slashdot.org/story/18/01/05/1812241/what-happens-when-states-have-their-own-net-neutrality-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>What Happens When States Have Their Own Net Neutrality Rules?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5-xBLuOXUk8/what-happens-when-states-have-their-own-net-neutrality-rules</link>
-<description>Last month FCC Chairman Ajit Pai dismantled Obama-era rules on net neutrality. A handful of lawmakers in liberal-leaning U.S. states plan to spend this year building them back up. FCC anticipated the move -- the commission's rules include language forbidding states from doing this, warning against an unwieldy patchwork of regulations. But lawmakers in New York and California aren't aiming to be exceptions to the national rules; they're looking to, in effect, create their own. From a report: In New York, Assemblywoman Patricia Fahy introduced a bill that would make it a requirement for internet providers to adhere to the principles of net neutrality as a requirement for landing state contracts. This would mean they couldn't block or slow down certain web traffic, and couldn't offer faster speeds to companies who pay them directly. Fahy said the restrictions on contractors would apply even if the behaviors in question took place outside New York. She acknowledged that the approach could run afoul of limits on states attempting to regulate interstate commerce, but thought the bill could "thread the needle." Even supporters of state legislation on net neutrality think this may go too far. California State Senator Scott Wiener introduced a bill this week that would only apply to behavior within the state, saying any other approach would be too vulnerable to legal challenge. But this wouldn't be the first time a large state threw around its weight in ways that reverberate beyond its borders. The texbook industry, for instance, has long accommodated the standards of California and Texas. [...] The internet doesn't lend itself cleanly to state lines. It could be difficult for Comcast or Verizon to accept money from services seeking preferential treatment in one state, then make sure that its network didn't reflect those relationships in places where state lawmakers forbade them, said Geoffrey Manne, executive director of the International Center for Law &amp;amp; Economics, a research group.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=What+Happens+When+States+Have+Their+Own+Net+Neutrality+Rules%3F%3A+http%3A%2F%2Fbit.ly%2F2AxEhFO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F05%2F1812241%2Fwhat-happens-when-states-have-their-own-net-neutrality-rules%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/05/1812241/what-happens-when-states-have-their-own-net-neutrality-rules?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/05/1812241/what-happens-when-states-have-their-own-net-neutrality-rules?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11573909&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5-xBLuOXUk8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T18:12:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>fighting-back</slash:department>
-<slash:section>politics</slash:section>
-<slash:comments>100</slash:comments>
-<slash:hit_parade>100,100,63,58,10,2,1</slash:hit_parade>
-<feedburner:origLink>https://politics.slashdot.org/story/18/01/05/1812241/what-happens-when-states-have-their-own-net-neutrality-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/05/1732258/jimmy-iovine-to-leave-apple-music-in-august-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Jimmy Iovine To Leave Apple Music in August: Report</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lDI9VyUw2VY/jimmy-iovine-to-leave-apple-music-in-august-report</link>
-<description>An anonymous reader shares a report: Look for Jimmy Iovine to leave Apple Music in August. The former Interscope CEO joined Apple in 2014 after selling Beats, the the music service and electronics business that he and Dr. Dre co-founded, to the tech giant for $3 billion. It is believed his departure is timed to his Apple shares fully vesting, sources tell Billboard. Iovine's ties to Apple go back to 2003 when he first met Apple founder Steve Jobs and exec Eddy Cue, and was a key proponent of Apple's iTunes and iPod. Apple Music, Apple's subscription streaming service, has expanded to more than 30 million paying subscribers since its June 2015 launch. That success is, in part, due to Iovine's focus on content, including developing original programming.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Jimmy+Iovine+To+Leave+Apple+Music+in+August%3A+Report%3A+http%3A%2F%2Fbit.ly%2F2AwDuVR"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F05%2F1732258%2Fjimmy-iovine-to-leave-apple-music-in-august-report%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/05/1732258/jimmy-iovine-to-leave-apple-music-in-august-report?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/05/1732258/jimmy-iovine-to-leave-apple-music-in-august-report?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11573839&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lDI9VyUw2VY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T17:25:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>resters-and-vesters</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>35</slash:comments>
-<slash:hit_parade>35,31,18,16,1,0,0</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/05/1732258/jimmy-iovine-to-leave-apple-music-in-august-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/05/1615209/white-noise-video-on-youtube-hit-by-five-copyright-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>White Noise Video on YouTube Hit By Five Copyright Claims</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Oh3TuFZs5zo/white-noise-video-on-youtube-hit-by-five-copyright-claims</link>
-<description>Chris Baraniuk, reporting for BBC: A musician who made a 10-hour long video of continuous white noise -- indistinct electronic hissing -- has said five copyright infringement claims have been made against him. Sebastian Tomczak, who is based in Australia, said he made the video in 2015 and uploaded it to YouTube. The claimants accusing him of infringement include publishers of white noise intended for sleep therapy. "I will be disputing these claims," he told the BBC. In this case, those accusing Mr Tomczak are not demanding the video's removal, but instead the reward of any revenue made from advertising associated with it. Without the claims, Mr Tomczak would receive such revenue himself. "I am intrigued and perplexed that YouTube's automated content ID system will pattern-match white noise with multiple claims," he said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=White+Noise+Video+on+YouTube+Hit+By+Five+Copyright+Claims%3A+http%3A%2F%2Fbit.ly%2F2CLCpPZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F05%2F1615209%2Fwhite-noise-video-on-youtube-hit-by-five-copyright-claims%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/05/1615209/white-noise-video-on-youtube-hit-by-five-copyright-claims?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/05/1615209/white-noise-video-on-youtube-hit-by-five-copyright-claims?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11573689&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Oh3TuFZs5zo" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T16:44:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>not-the-onion</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>145</slash:comments>
-<slash:hit_parade>145,142,98,81,25,12,8</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/05/1615209/white-noise-video-on-youtube-hit-by-five-copyright-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/05/1553257/amazon-alexa-is-coming-to-headphones-smart-watches-bathrooms-and-more?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Amazon Alexa is Coming To Headphones, Smart Watches, Bathrooms and More</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RDNa_szXLKU/amazon-alexa-is-coming-to-headphones-smart-watches-bathrooms-and-more</link>
-<description>An anonymous reader shares a CNBC report: Amazon announced new tools on Friday that will allow gadget-makers to include the smart voice assistant in a whole array of new products. Alexa is Amazon's smart voice assistant and it has slowly made its way from the Amazon Echo into third-party speakers, refrigerators and, soon, even microwaves. Now, with Amazon's Alexa Mobile Accessory Kit, device makers will be able to build Alexa into headphones, smart watches, fitness trackers and more. That means you may soon be able to look down at your wrist and ask Alexa the weather, or to remind you to pick up eggs at the grocery store. CNET reports Kohler, a company that makes plumbing products, wants to bring Alexa to your bathroom as well.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+Alexa+is+Coming+To+Headphones%2C+Smart+Watches%2C+Bathrooms+and+More%3A+http%3A%2F%2Fbit.ly%2F2CKVWQs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F1553257%2Famazon-alexa-is-coming-to-headphones-smart-watches-bathrooms-and-more%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/1553257/amazon-alexa-is-coming-to-headphones-smart-watches-bathrooms-and-more?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/1553257/amazon-alexa-is-coming-to-headphones-smart-watches-bathrooms-and-more?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11573657&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/RDNa_szXLKU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T16:05:00+00:00</dc:date>
-<dc:subject>ai</dc:subject>
-<slash:department>shape-of-things-to-come</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>64</slash:comments>
-<slash:hit_parade>64,64,38,35,9,2,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/1553257/amazon-alexa-is-coming-to-headphones-smart-watches-bathrooms-and-more?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/05/1522256/hp-recalls-50000-lithium-ion-laptop-batteries-over-fire-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>HP Recalls 50,000 Lithium-Ion Laptop Batteries Over Fire Risk</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zzyJOVAjnqc/hp-recalls-50000-lithium-ion-laptop-batteries-over-fire-risk</link>
-<description>HP announced this week that it is recalling the lithium-ion batteries in more than 50,000 laptops because of the danger of fire in cases of battery malfunction. From a report: "These batteries have the potential to overheat, posing a fire and burn hazard to customers," the company said in a statement. "For this reason, it is extremely important to check whether your battery is affected." The recall affects the battery, not the entire computer. Consumers should run HP's Validation Utility software to determine if their battery has been recalled. If the battery needs to be replaced, they should then install an update that will put the device in Battery Safe Mode, which will discharge the battery and prevent it from being charged until it's replaced. This update will allow consumers to continue using the computers safely with AC power while they wait for a new battery. The recall affects batteries sold with, or as accessories for, the following models: HP Probook 640 G2, HP ProBook 640 G3, HP ProBook 645 G2, HP ProBook 645 G3, HP ProBook 650 G2, HP ProBook 650 G3, HP ProBook 655 G2, HP ProBook 655 G3, HP ZBook 17 G3, HP ZBook 17 G4, HP ZBook Studio G3, HP x360 310 G2, HP Pavilion x360, HP ENVY m6, and HP 11 Notebook PC.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=HP+Recalls+50%2C000+Lithium-Ion+Laptop+Batteries+Over+Fire+Risk%3A+http%3A%2F%2Fbit.ly%2F2Ax3RuR"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F05%2F1522256%2Fhp-recalls-50000-lithium-ion-laptop-batteries-over-fire-risk%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/05/1522256/hp-recalls-50000-lithium-ion-laptop-batteries-over-fire-risk?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/05/1522256/hp-recalls-50000-lithium-ion-laptop-batteries-over-fire-risk?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11573587&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zzyJOVAjnqc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T15:23:00+00:00</dc:date>
-<dc:subject>hp</dc:subject>
-<slash:department>things-to-note</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>34</slash:comments>
-<slash:hit_parade>34,34,21,20,2,0,0</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/05/1522256/hp-recalls-50000-lithium-ion-laptop-batteries-over-fire-risk?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/05/1443246/nope-no-intel-chip-recall-after-spectre-and-meltdown-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Nope, No Intel Chip Recall After Spectre and Meltdown, CEO Says</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/YAOh9NLhans/nope-no-intel-chip-recall-after-spectre-and-meltdown-ceo-says</link>
-<description>Hoping the Meltdown and Spectre security problems might mean Intel would be buying you a shiny new computer after a chip recall? Sorry, that's not on the cards. From a report: Intel famously paid hundreds of millions of dollars to recall its Pentium processors after the 1994 discovery of the "FDIV bug" that revealed rare but real calculation errors. But Intel CEO Brian Krzanich said the new problems are much more easily fixed -- and indeed are already well on their way to being fixed, at least in the case of Intel-powered PCs and servers. "This is very very different from FDIV," Krzanich said, criticizing media coverage of Meltdown and Spectre as overblown. "This is not an issue that is not fixable... we're seeing now the first iterations of patches." On Thursday, Intel said it was aiming to fix 90 percent of all Intel products that have been introduced within the past year by end of next week. CNET asked if the company was looking at older Intel processors? From the report: "We're working with [computer makers] to determine which ones to prioritize based on what they see as systems in the field," an executive at the company said. Intel also is fixing the problem in future chips, starting with products that will arrive later this year. Intel is effectively taking the software fixes being released now and building them directly into hardware, he said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Nope%2C+No+Intel+Chip+Recall+After+Spectre+and+Meltdown%2C+CEO+Says%3A+http%3A%2F%2Fbit.ly%2F2EaBV29"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F05%2F1443246%2Fnope-no-intel-chip-recall-after-spectre-and-meltdown-ceo-says%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/05/1443246/nope-no-intel-chip-recall-after-spectre-and-meltdown-ceo-says?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/05/1443246/nope-no-intel-chip-recall-after-spectre-and-meltdown-ceo-says?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11573525&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/YAOh9NLhans" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T14:44:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>aftermath</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>270</slash:comments>
-<slash:hit_parade>270,265,168,143,36,18,12</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/05/1443246/nope-no-intel-chip-recall-after-spectre-and-meltdown-ceo-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/05/142201/when-f00f-bug-hit-20-years-ago-intel-reacted-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>When F00F Bug Hit 20 Years Ago, Intel Reacted the Same Way</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zTLKah6_Hgg/when-f00f-bug-hit-20-years-ago-intel-reacted-the-same-way</link>
-<description>troublemaker_23 writes: A little more than 20 years ago, Intel faced a problem with its processors, though it was not as big an issue as compared to the speculative execution bugs that were revealed this week. The 1997 bug, which came to be known as the F00F bug, allowed a malicious person to freeze up Pentium MMX and "classic" Pentium computers. Any Intel Pentium/Pentium MMX could be remotely and anonymously caused to hang, merely by sending it the byte sequence "F0 0F C7 C8". At the time, Intel said it learnt about the bug on 7 November 1997, but a report said that at least two people had indicated on an Intel newsgroup that the company knew about it earlier before. The processor firm confirmed the existence on 10 November. But, says veteran Linux sysadmin Rick Moen, the company's reaction to that bug was quite similar to the way it has reacted to this week's disclosures. "Intel has a long history of trying to dissemble and misdirect their way out of paying for grave CPU flaws," Moen said in a post to Linux Users of Victoria mailing list. "Remember the 'Pentium Processor Invalid Instruction Erratum' of 1997, exposing all Intel Pentium and Pentium MMX CPUs to remote security attack, stopping them in their tracks if they could be induced to run processory instruction 'F0 0F C7 C8'? "No, of course you don't. That's why Intel gave it the mind-numbingly boring official name 'Pentium Processor Invalid Instruction Erratum', hoping to replace its popular names 'F00F bug' and 'Halt-and-Catch Fire bug'."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=When+F00F+Bug+Hit+20+Years+Ago%2C+Intel+Reacted+the+Same+Way%3A+http%3A%2F%2Fbit.ly%2F2EckE8r"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F05%2F142201%2Fwhen-f00f-bug-hit-20-years-ago-intel-reacted-the-same-way%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/05/142201/when-f00f-bug-hit-20-years-ago-intel-reacted-the-same-way?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/05/142201/when-f00f-bug-hit-20-years-ago-intel-reacted-the-same-way?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11573413&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zTLKah6_Hgg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-05T14:02:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>blast-from-the-past</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>111</slash:comments>
-<slash:hit_parade>111,111,64,53,12,7,3</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/05/142201/when-f00f-bug-hit-20-years-ago-intel-reacted-the-same-way?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/05/0016244/the-fcc-is-preparing-to-weaken-the-definition-of-broadband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The FCC Is Preparing To Weaken the Definition of Broadband</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_AnJ6D6G7QU/the-fcc-is-preparing-to-weaken-the-definition-of-broadband</link>
-<description>An anonymous reader quotes a report from DSLReports: Under Section 706 of the Telecommunications Act, the FCC is required to consistently measure whether broadband is being deployed to all Americans uniformly and "in a reasonable and timely fashion." If the FCC finds that broadband isn't being deployed quickly enough to the public, the agency is required by law to "take immediate action to accelerate deployment of such capability by removing barriers to infrastructure investment and by promoting competition in the telecommunications market." Unfortunately whenever the FCC is stocked by revolving door regulators all-too-focused on pleasing the likes of AT&amp;amp;T, Verizon and Comcast -- this dedication to expanding coverage and competition often tends to waver.
- 
-What's more, regulators beholden to regional duopolies often take things one-step further -- by trying to manipulate data to suggest that broadband is faster, cheaper, and more evenly deployed than it actually is. We saw this under former FCC boss Michael Powell (now the top lobbyist for the cable industry), and more recently when the industry cried incessantly when the base definition of broadband was bumped to 25 Mbps downstream, 4 Mbps upstream. We're about to see this effort take shape once again as the FCC prepares to vote in February for a new proposal that would dramatically weaken the definition of broadband. How? Under this new proposal, any area able to obtain wireless speeds of at least 10 Mbps down, 1 Mbps would be deemed good enough for American consumers, pre-empting any need to prod industry to speed up or expand broadband coverage.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+FCC+Is+Preparing+To+Weaken+the+Definition+of+Broadband%3A+http%3A%2F%2Fbit.ly%2F2CXiiv4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F0016244%2Fthe-fcc-is-preparing-to-weaken-the-definition-of-broadband%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/0016244/the-fcc-is-preparing-to-weaken-the-definition-of-broadband?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/0016244/the-fcc-is-preparing-to-weaken-the-definition-of-broadband?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11569465&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_AnJ6D6G7QU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T13:00:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>harder-better-faster</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>174</slash:comments>
-<slash:hit_parade>174,165,100,91,16,12,7</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/0016244/the-fcc-is-preparing-to-weaken-the-definition-of-broadband?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/04/2352244/the-alien-megastructure-around-mysterious-tabbys-star-is-probably-just-dust-analysis-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Alien Megastructure Around Mysterious 'Tabby's Star' Is Probably Just Dust, Analysis Shows </title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dIfqHvCbtkM/the-alien-megastructure-around-mysterious-tabbys-star-is-probably-just-dust-analysis-shows</link>
-<description>An analysis by more than 200 astronomers has been published that shows the mysterious dimming of star KIC 8462852 --
- nicknamed Tabby's star -- is not being produced by an alien megastructure. "The evidence points most strongly to a giant cloud of dust occasionally obscuring the star," reports The Guardian. From the report: KIC 8462852 is approximately 1,500 light years away from the Earth and hit the headlines in October 2015 when data from Nasa's Kepler space telescope showed that it was dimming by unexplainably large amounts. The star's light dropped by 20% first and then 15% making it unique. Even a large planet passing in front of the star would have blocked only about 1% of the light. For an object to block 15-20%, it would have to be approaching half the diameter of the star itself. With this realization, a few astronomers began whispering that such a signal would be the kind expected from a gigantic extraterrestrial construction orbiting in front of the star -- and the idea of the alien megastructure was born.
- 
-In the case of Tabby's star, the new observations show that it dims more at blue wavelengths than red. Thus, its light is passing through a dust cloud, not being blocked by an alien megastructure in orbit around the star. The new analysis of KIC 8462852 showing these results is to be published in The Astrophysical Journal Letters. It reinforces the conclusions reached by Huan Meng, University of Arizona, Tucson, and collaborators in October 2017. They monitored the star at multiple wavelengths using Nasa's Spitzer and Swift missions, and the Belgian AstroLAB IRIS observatory. These results were published in The Astrophysical Journal.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Alien+Megastructure+Around+Mysterious+'Tabby's+Star'+Is+Probably+Just+Dust%2C+Analysis+Shows+%3A+http%3A%2F%2Fbit.ly%2F2EbkU7P"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F04%2F2352244%2Fthe-alien-megastructure-around-mysterious-tabbys-star-is-probably-just-dust-analysis-shows%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/04/2352244/the-alien-megastructure-around-mysterious-tabbys-star-is-probably-just-dust-analysis-shows?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/04/2352244/the-alien-megastructure-around-mysterious-tabbys-star-is-probably-just-dust-analysis-shows?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11569437&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dIfqHvCbtkM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T10:00:00+00:00</dc:date>
-<dc:subject>space</dc:subject>
-<slash:department>anti-climactic</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>64</slash:comments>
-<slash:hit_parade>64,63,36,29,12,7,5</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/04/2352244/the-alien-megastructure-around-mysterious-tabbys-star-is-probably-just-dust-analysis-shows?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/04/2251220/spacexs-latest-advantage-blowing-up-its-own-rocket-automatically?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>SpaceX's Latest Advantage? Blowing Up Its Own Rocket, Automatically</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/H8u60FC0deY/spacexs-latest-advantage-blowing-up-its-own-rocket-automatically</link>
-<description>SpaceX has reportedly worked with the Air Force to develop a GPS-equipped on-board computer, called the "Automatic Flight Safety System," that will safely and automatically detonate a Falcon 9 rocket in the sky if the launch threatens to go awry. Previously, an Air Force range-safety officer was required to be in place, ready to transmit a signal to detonate the rocket. Quartz reports: No other U.S. rocket has this capability yet, and it could open up new advantages for SpaceX: The U.S. Air Force is considering launches to polar orbits from Cape Canaveral, but the flight path is only viable if the rockets don't need to be tracked for range-safety reasons. That means SpaceX is the only company that could take advantage of the new corridor to space. Rockets at the Cape normally launch satellites eastward over the Atlantic into orbits roughly parallel to the equator. Launches from Florida into orbits traveling from pole to pole generally sent rockets too close to populated areas for the Air Force's liking. The new rules allow them to thread a safe path southward, past Miami and over Cuba.
- 
-SpaceX pushed for the new automated system for several reasons. One was efficacy: The on-board computer can react more quickly than human beings relying on radar data and radio transmissions to signal across miles of airspace, which gives the rocket more time to correct its course before blowing up in the event of an error. As important, the automated system means the company doesn't need to pay for the full use of the Air Force radar installations on launch day, which means SpaceX doesn't need to pay for some 160 U.S. Air Force staff to be on duty for their launches, saving the company and its customers money. Most impressively, the automated system will make it possible for SpaceX to fly multiple boosters at once in a single launch.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=SpaceX's+Latest+Advantage%3F+Blowing+Up+Its+Own+Rocket%2C+Automatically%3A+http%3A%2F%2Fbit.ly%2F2CIkgCF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F04%2F2251220%2Fspacexs-latest-advantage-blowing-up-its-own-rocket-automatically%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/04/2251220/spacexs-latest-advantage-blowing-up-its-own-rocket-automatically?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/04/2251220/spacexs-latest-advantage-blowing-up-its-own-rocket-automatically?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11569343&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/H8u60FC0deY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T07:00:00+00:00</dc:date>
-<dc:subject>space</dc:subject>
-<slash:department>short-lived</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>108</slash:comments>
-<slash:hit_parade>108,107,70,67,19,9,5</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/04/2251220/spacexs-latest-advantage-blowing-up-its-own-rocket-automatically?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/05/0318205/frances-president-macron-wants-to-block-websites-during-elections-to-fight-fake-news?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>France's President Macron Wants To Block Websites During Elections To Fight 'Fake News'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gPt1zQb7AjE/frances-president-macron-wants-to-block-websites-during-elections-to-fight-fake-news</link>
-<description>French President Emmanuel Macron has a rather extreme approach to combat fake news: ban entire websites. In a speech to journalists on Wednesday, Macron said he planned to introduce new legislation to strictly regulate fake news during online political campaigns. Gizmodo reports: His proposal included a number of measures, most drastically "an emergency legal action" that could enable the government to either scrap "fake news" from a website or even block a website altogether. "If we want to protect liberal democracies, we must be strong and have clear rules," Macron said. "When fake news are spread, it will be possible to go to a judge... and if appropriate have content taken down, user accounts deleted and ultimately websites blocked."
- 
-Macron, himself a target of election interference, also outlined some less extreme measures in his speech yesterday. He proposed more rigid requirements around transparency, specifically in relation to online ads during elections. According to the Guardian, Macron said the legislation would force platforms to publicly identify who their advertisers are, as well as limit how much they can spend on ads over the course of an election campaign.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=France's+President+Macron+Wants+To+Block+Websites+During+Elections+To+Fight+'Fake+News'%3A+http%3A%2F%2Fbit.ly%2F2CInA0t"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F0318205%2Ffrances-president-macron-wants-to-block-websites-during-elections-to-fight-fake-news%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/0318205/frances-president-macron-wants-to-block-websites-during-elections-to-fight-fake-news?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/0318205/frances-president-macron-wants-to-block-websites-during-elections-to-fight-fake-news?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11569659&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gPt1zQb7AjE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T05:00:00+00:00</dc:date>
-<dc:subject>censorship</dc:subject>
-<slash:department>cease-and-desist</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>230</slash:comments>
-<slash:hit_parade>230,222,128,109,25,13,9</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/0318205/frances-president-macron-wants-to-block-websites-during-elections-to-fight-fake-news?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/04/2155237/how-do-americans-define-online-harassment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>How Do Americans Define Online Harassment?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8uoUpRqT_Wo/how-do-americans-define-online-harassment</link>
-<description>An anonymous reader quotes a report from The Verge: According to a new Pew Research Center survey, defining online harassment is just as complicated for the average American user as it is for huge social media companies -- and the line gets even more fuzzy when gender or race come into the picture. The survey polled 4,151 respondents on various scenarios and asked them whether each one crossed the threshold for online harassment. In one hypothetical, a private disagreement between a man and his friend David is forwarded to a third party and posted online, which escalates to David receiving "unkind" messages, "vulgar" messages, and eventually being doxxed and threatened. When asked whether or not David was harassed, 89 percent of respondents agreed that he was. However, opinions on exactly when the harassment began varied widely: 5 percent considered it harassment when David offends his friend; 48 percent said it's when the friend forwards the conversation; 54 percent said it's when the conversation is shared publicly. Others agreed it crossed the line when David received the unkind messages (72 percent), the vulgar messages (82 percent), is doxxed (85 percent), and threatened (85 percent). There was little difference in responses by gender.
- 
-Questions regarding sexual harassment, perhaps unsurprisingly, are more divisive -- especially between men and women. In a second example, a woman named Julie receives "vulgar messages" about her looks and sexual behavior after posting on social media about a controversial issue. Women were about three times more likely than men (24 percent vs. 9 percent) to label it online harassment when Julie's post is shared by a popular blogger with thousands of followers. Fifty percent of women vs. 35 percent of men consider it harassment when Julie starts getting unkind messages. When it comes to vulgar messages, threats, or Julie's photo being edited to include sexual imagery, 8 out of 10 men consider it harassment, as opposed to 9 out of 10 women.
- 
-There's also a curious division between acknowledging something as harassment and believing that action should be taken by social media platforms. In the case of sexual harassment, for example, 43 percent of respondents considered the unkind messages harassment -- yet only 20 percent thought the social media platform should intervene. In a scenario where a woman's picture is edited to include sexual imagery, 84 percent called it harassment, but only 71 percent thought platforms should step in. The same can be said of an example involving racial harassment. Although 82 percent of respondents called messages with racial slurs and insults harassment, only 57 percent thought the platform should step in; the same goes for the person having their picture edited to include racially insensitive images (80 percent vs. 57 percent) and threats (82 percent vs. 67 percent). In both cases, respondents' gender is not provided.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=How+Do+Americans+Define+Online+Harassment%3F%3A+http%3A%2F%2Fbit.ly%2F2ArTRD3"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F04%2F2155237%2Fhow-do-americans-define-online-harassment%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/04/2155237/how-do-americans-define-online-harassment?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/04/2155237/how-do-americans-define-online-harassment?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11569271&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8uoUpRqT_Wo" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T03:30:00+00:00</dc:date>
-<dc:subject>internet</dc:subject>
-<slash:department>matter-of-opinion</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>132</slash:comments>
-<slash:hit_parade>132,129,71,60,16,3,3</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/04/2155237/how-do-americans-define-online-harassment?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
