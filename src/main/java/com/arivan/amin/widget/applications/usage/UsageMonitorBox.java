@@ -1,7 +1,9 @@
 package com.arivan.amin.widget.applications.usage;
 
 import javafx.animation.*;
+import javafx.geometry.Insets;
 import javafx.scene.control.Label;
+import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
 import org.jetbrains.annotations.NotNull;
@@ -9,24 +11,29 @@ import org.jetbrains.annotations.NotNull;
 import java.util.List;
 import java.util.logging.Logger;
 
-public class UsageMonitorBox extends VBox
+public class UsageMonitorBox extends HBox
 {
+    private static final int SPACING = 7;
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final Label usageLabel;
     private final UsageMonitor usageMonitor;
+    private final VBox namesBox;
+    private final VBox cpuUsageBox;
     
     private UsageMonitorBox ()
     {
         super();
+        setPadding(new Insets(20));
         usageMonitor = LinuxUsageMonitor.newInstance();
-        usageLabel = new Label();
         Timeline timeline = new Timeline();
-        getChildren().add(usageLabel);
-        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), e ->
+        namesBox = new VBox(SPACING);
+        cpuUsageBox = new VBox(SPACING);
+        getChildren().addAll(namesBox, cpuUsageBox);
+        namesBox.prefWidthProperty().bind(widthProperty().multiply(0.5));
+        cpuUsageBox.prefWidthProperty().bind(widthProperty().multiply(0.5));
+        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(2), e ->
         {
             updateUsageData();
         }));
-        timeline.getKeyFrames().add(new KeyFrame(Duration.minutes(1)));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
     }
@@ -40,18 +47,12 @@ public class UsageMonitorBox extends VBox
     private void updateUsageData ()
     {
         List<UsageItem> items = usageMonitor.getProcessesUsage();
-        usageLabel.setText("");
+        namesBox.getChildren().clear();
+        cpuUsageBox.getChildren().clear();
         items.forEach(e ->
         {
-            usageLabel.setText(usageLabel.getText() + e.getCommand() + " " + e.getCpu() +
-                    System.lineSeparator());
+            namesBox.getChildren().add(new Label(e.getCommand()));
+            cpuUsageBox.getChildren().add(new Label(e.getCpu()));
         });
-    }
-    
-    @Override
-    public String toString ()
-    {
-        return "UsageMonitorBox{" + "usageLabel=" + usageLabel + ", usageMonitor=" + usageMonitor +
-                '}';
     }
 }

@@ -72,8 +72,9 @@ public class ApplicationMain extends Application
         weatherVBox.getChildren().add(WeatherPane.newInstance(weatherVBox));
         clockWeatherHBox.getChildren().addAll(clockDateVBox, weatherVBox);
         topVBox.getChildren().add(clockWeatherHBox);
+        HBox middleHBox = new HBox();
         HBox bottomHBox = new HBox();
-        leftVBox.getChildren().addAll(topVBox, bottomHBox);
+        leftVBox.getChildren().addAll(topVBox, middleHBox, bottomHBox);
         VBox rssVBox = new VBox();
         VBox topProcessesVBox = new VBox();
         VBox todoVBox = new VBox();
@@ -97,7 +98,8 @@ public class ApplicationMain extends Application
         topVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
         clockWeatherHBox.prefHeightProperty().bind(topVBox.widthProperty());
         clockWeatherHBox.prefHeightProperty().bind(topVBox.heightProperty());
-        bottomHBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
+        middleHBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.1));
+        bottomHBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.40));
         bottomHBox.prefWidthProperty().bind(leftVBox.widthProperty());
         clockDateVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
         weatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.66));

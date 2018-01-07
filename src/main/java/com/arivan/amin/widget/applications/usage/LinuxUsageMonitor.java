@@ -12,6 +12,7 @@ import java.util.regex.Pattern;
 public class LinuxUsageMonitor implements UsageMonitor
 {
     private static final Pattern EXTRA_SPACES = Pattern.compile(" {2,}");
+    private static final String[] TOP_COMMAND = { "top", "-d", "0.01", "-bn", "2" };
     private final Logger logger = Logger.getLogger(getClass().getName());
     
     private LinuxUsageMonitor ()
@@ -33,14 +34,11 @@ public class LinuxUsageMonitor implements UsageMonitor
         String str = "TIME+ COMMAND";
         output = output.substring(output.lastIndexOf(str) + str.length() + 1);
         output = EXTRA_SPACES.matcher(output).replaceAll(" ");
-        output = output.replaceAll(" ", ":");
-        System.out.println(output);
         String[] itemRows = output.split("\n");
         for (int i = 0; i < 10; i++)
         {
-            String[] row = itemRows[i].split(":");
-            System.out.println("making the list");
-            System.out.println(Arrays.toString(row));
+            itemRows[i] = itemRows[i].substring(1);
+            String[] row = itemRows[i].split(" ");
             list.add(UsageItem.newInstance(row[1], row[8], row[9], row[11]));
         }
         return list;
@@ -49,8 +47,7 @@ public class LinuxUsageMonitor implements UsageMonitor
     private String getCommandOutput ()
     {
         String data;
-        try (InputStream stream = new ProcessBuilder("top", "-d", "0.01", "-bn", "2").start()
-                .getInputStream())
+        try (InputStream stream = new ProcessBuilder(TOP_COMMAND).start().getInputStream())
         {
             data = new String(stream.readAllBytes(), StandardCharsets.UTF_8);
         }

@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-06T20:51:06+00:00</dc:date>
+<dc:date>2018-01-07T12:53:06+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,14 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -23,14 +31,6 @@
   <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,204 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Would You Use a Smartphone-Style Laptop With a Three-Day Battery Life?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KWED4w-VKYo/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life</link>
+<description>An anonymous reader quotes USA Today:
+
+"Always connected personal computers" -- or ACPCs -- refer to a new breed of Windows laptops with three key features: a battery that can last multiple days; instant-on access when you open the lid or touch a key; and an optional high-speed cellular connection, to avoid hunting for a Wi-Fi hotspot to get online. In other words, your laptop is going to behave a lot more like your smartphone... In fact, with the Qualcomm Snapdragon 835 processor, ASUS is claiming battery life of up to 22 hours of continuous video playback, and up to 30 days on standby. At $799, the ASUS NovaGo (model # TP370) will also be the first always-connected PC with a 360-degree flip hinge -- making it a "2-in-1" that can convert from laptop mode to a tablet by bending back the 13.3-inch screen -- and the first with Gigabit LTE speeds, for an always on, always connected experience. 
+ASUS's media relations director touts the high-speed cellular connections -- which consumers pay for separately -- as 3 to 7 times faster than broadband. "It allows you to download a 2-hour movie in about 10 seconds." 
+And Qualcomm's senior director of product management says there's more ways that it's like a smartphone. "Even when the screen is off, it's still connected, so when I open the lid, it does facial recognition, and I'm in."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Would+You+Use+a+Smartphone-Style+Laptop+With+a+Three-Day+Battery+Life%3F%3A+http%3A%2F%2Fbit.ly%2F2CZPkdL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F07%2F0759200%2Fwould-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577777&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KWED4w-VKYo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T11:34:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>decisions-decisions</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,36,22,21,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Loses Up to 250 Bikes a Week</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MHYxbjI9O-k/google-loses-up-to-250-bikes-a-week</link>
+<description>What's happening to Google's 1,100 Gbikes? The Mercury News reports:
+Last summer, it emerged that some of the company's bikes -- intended to help Googlers move quickly and in environmentally friendly fashion around the company's sprawling campus and surrounding areas -- were sleeping with the fishes in Stevens Creek. And now, a new report has revealed that 100 to 250 Google bikes go missing every week, on average. "The disappearances often aren't the work of ordinary thieves, however. Many residents of Mountain View, a city of 80,000 that has effectively become Google's company town, see the employee perk as a community service," the Wall Street Journal reported. 
+
+And for the company, here's one Google bike use case that's got to burn a little: 68-year-old Sharon Veach told the newspaper that she sometimes uses one of the bicycles as part of her commute: to the offices of Google's arch foe, Oracle... Mountain View Mayor Ken Rosenberg even admitted to helping himself to a Google bike to go to a movie after a meeting at the company's campus, according to the WSJ. 
+
+One Silicon Valley resident reportedly told a neighbor that "I've got a whole garage full of them," while Veach describes the bikes as "a reward for having to deal with the buses" that carry Google employees.
+Google has already hired 30 contractors to prowl the city in five vans looking for lost or stolen bikes -- only a third of which have GPS trackers -- and they eventually recover about two-thirds of the missing bikes.
+ 
+
+They've discovered them as far away as Mexico, Alaska, and the Burning Man festival in Nevada.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Loses+Up+to+250+Bikes+a+Week%3A+http%3A%2F%2Fbit.ly%2F2D2z0cw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F07%2F0711244%2Fgoogle-loses-up-to-250-bikes-a-week%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577689&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MHYxbjI9O-k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T08:34:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>I'm-feeling-lucky</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>76</slash:comments>
+<slash:hit_parade>76,71,33,28,5,2,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: What's the Best Media Streaming Device?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/V2WHMY14slk/ask-slashdot-whats-the-best-media-streaming-device</link>
+<description>The network card died on Thelasko's smart TV -- and rather than spend $65 on a new one, they're considering buying a nice, simple streaming box.
+I am running a Rygel server on my PC, but rarely use it... I primarily only watch Amazon Prime, Netflix, and YouTube for streaming, and am wondering what Slashdot users have found to be the best option. I'm considering Roku or Chromecast because they are well known and supported. However, I have heard a lot of news about Kodi devices being more hackable. 
+AppleTV? Amazon Fire TV? The Emtec GEM Box? Building your own from a Raspberry Pi? Leave your own thoughts and suggestions in the comments.
+ 
+What's the best media streaming device?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What's+the+Best+Media+Streaming+Device%3F%3A+http%3A%2F%2Fbit.ly%2F2Egtn9J"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F07%2F0035249%2Fask-slashdot-whats-the-best-media-streaming-device%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577375&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/V2WHMY14slk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T05:24:00+00:00</dc:date>
+<dc:subject>media</dc:subject>
+<slash:department>discerning-couch-potatoes</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>113</slash:comments>
+<slash:hit_parade>113,112,72,58,5,2,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Your Car May Soon Start Serving You Ads</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CfLTt7mO8l8/your-car-may-soon-start-serving-you-ads</link>
+<description>An anonymous reader quotes SiliconBeat:
+Santa Clara auto-tech firm Telenav has just announced an "in-car advertising platform" for cars that connect to the internet. Telenav wants to sell the system to major auto manufacturers. And although it's probably the last thing many consumers want, vehicle owners will pay more for connected-car services if they decline the ads. "This approach helps car makers offset costs related to connected services, such as wireless data, content, software and cloud services," a spokeswoman for Telenav said Jan. 5. "In return for accepting ads in vehicles, drivers benefit from access to connected services without subscription fees, as well as new driving experiences that come from the highly-targeted and relevant offers delivered based on information coming from the vehicle." 
+Auto makers including Toyota, Lexus, Ford, GM and Cadillac already use the company's connected-car products, the spokeswoman said. Telenav CEO H.P. Jin in a press release called the ad platform "an exciting new opportunity" for vehicle manufacturers to "monetize connectivity to cover service costs and even drive healthy profits while enriching the consumer experience with safely delivered, engaging and relevant offers"... 
+To prevent driver distraction, "ads only appear when the vehicle is stopped, such as at car startup, traffic lights and upon arrival," Telenav said... Of course, driver distraction won't be an issue in self-driving cars, and this technology suggests the captive audiences in those vehicles will likely be subjected to an ad barrage in robotic ride-sharing vehicles and automated cars whose owners decline to pay more to avoid in-car advertising.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Your+Car+May+Soon+Start+Serving+You+Ads%3A+http%3A%2F%2Fbit.ly%2F2Egelks"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F06%2F0014223%2Fyour-car-may-soon-start-serving-you-ads%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574369&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CfLTt7mO8l8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T02:19:00+00:00</dc:date>
+<dc:subject>advertising</dc:subject>
+<slash:department>pull-over-and-buy-something</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>198</slash:comments>
+<slash:hit_parade>198,196,115,104,24,12,7</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Can We Replace Intel x86 With an Open Source Chip?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/YygMg3UnrBQ/can-we-replace-intel-x86-with-an-open-source-chip</link>
+<description>An anonymous reader quotes, Jason Perlow, the senior technology editor at ZDNet:
+Perhaps the Meltdown and Spectre bugs are the impetus for making long-overdue changes to the core DNA of the semiconductor industry and how chip architectures are designed... Linux (and other related FOSS tech that forms the overall stack) is now a mainstream operating system that forms the basis of public cloud infrastructure and the foundational software technology in mobile and Internet of Things (IoT)... We need to develop a modern equivalent of an OpenSPARC that any processor foundry can build upon without licensing of IP, in order to drive down the costs of building microprocessors at immense scale for the cloud, for mobile and the IoT. It makes the $200 smartphone as well as hyperscale datacenter lifecycle management that much more viable and cost-effective. 
+
+Just as Linux and open source transformed how we view operating systems and application software, we need the equivalent for microprocessors in order to move out of the private datacenter rife with these legacy issues and into the green field of the cloud... The fact that we have these software technologies that now enable us to easily abstract from the chip hardware enables us to correct and improve the chips through community efforts as needs arise... We need to stop thinking about microprocessor systems' architectures as these licensed things that are developed in secrecy by mega-companies like Intel or AMD or even ARM... The reality is that we now need to create something new, free from any legacy entities and baggage that has been driving the industry and dragging it down the past 40 years. Just as was done with Linux. 
+The bigger question is which chip should take its place. "I don't see ARM donating its IP to this effort, and I think OpenSPARC may not be it either. Perhaps IBM OpenPOWER? It would certainly be a nice gesture of Big Blue to open their specification up further without any additional licensing, and it would help to maintain and establish the company's relevancy in the cloud going forward.
+ 
+"RISC-V, which is being developed by UC Berkeley, is completely Open Source."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Can+We+Replace+Intel+x86+With+an+Open+Source+Chip%3F%3A+http%3A%2F%2Fbit.ly%2F2ABhbOO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F06%2F0424200%2Fcan-we-replace-intel-x86-with-an-open-source-chip%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574643&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/YygMg3UnrBQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T00:14:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>chips-on-our-shoulders</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>225</slash:comments>
+<slash:hit_parade>225,220,140,122,25,13,9</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Orange Goo Used In Everything From Armor To Football Helmets</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Kj18pnAC9j0/the-orange-goo-used-in-everything-from-armor-to-football-helmets</link>
+<description>dryriver writes:
+CNN has a story about a slimy, gooey orange gel developed by British company D3O as far back as 1999 that is very soft and fluid-like normally, but that hardens immediately when it receives an impact: It's a gel that acts as both a liquid and a solid. When handled slowly the goo is soft and flexible but the moment it receives an impact, it hardens. It's all thanks to the gel's shock-absorbing properties... Felicity Boyce, a material developer at D3O, told CNN, "if you hit it with great force, it behaves more like a solid that's absorbing the shock and none of that impact goes through my hand." 
+American football has become a huge market for the British company, where the gel is incorporated in padding and helmets to absorb the impact of any hits a player receives. D3O claims it can reduce blunt impact by 53% compared to materials like foam. The material can also be put inside running shoes to improve performance and reduce the risk of foot injury. Usain Bolt ran with D3O gel insoles in his shoes at the 2016 Rio Olympics. 
+The material is being tested in body armor. "While we don't have a material that can stop a bullet, we do have a material that can reduce the amount of trauma that your body would experience if you got shot." There are also soft smartphone casings using the gel that harden when the phone is dropped and hits a hard surface.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Orange+Goo+Used+In+Everything+From+Armor+To+Football+Helmets%3A+http%3A%2F%2Fbit.ly%2F2D1aEQ4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F06%2F2035226%2Fthe-orange-goo-used-in-everything-from-armor-to-football-helmets%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577227&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Kj18pnAC9j0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-06T23:09:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>liquids-that-turn-solid</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>73</slash:comments>
+<slash:hit_parade>73,65,34,29,8,6,4</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Kansas 'Swat' Perpetrator Had Already Been To Prison For Fake Bomb Threats</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/t3XKWq2cePg/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats</link>
+<description>More details are emerging about an online gamer whose fake call to Kansas police led to a fatal shooting:
+
+ "After phoning in a false bomb threat to a Glendale, California TV station in 2015, Tyler Barriss threatened to kill his grandmother if she reported him, according to local reports and court documents." -- The Wichita Eagle "The Glendale Police Department confirmed to ABC News that Tyler Barriss made about 20 calls to universities and media outlets throughout the country around the time he was arrested for a bomb threat to Los Angeles ABC station KABC in 2015... He was sentenced to two years and eight months in jail, court records show." -- ABC News "Within months of his release in August, he had already become the target of a Los Angeles Police Department investigation into similar hoax calls... LAPD detectives were planning to meet with federal prosecutors to discuss their investigation..." -- The Los Angeles Times The Wichita Eagle reports that even after the police had fatally shot the person SWauTistic was pretending to be, he continued his phone call with the 911 operator for another 16 minutes -- on a call which lasted over half an hour. Brian Krebs reports that police may have been aided in their investigation by another reformed SWAT perpetrator -- adding that SWauTistic privately claimed to have already called in fake emergencies at approximately 100 schools and 10 homes.
+
+Just last month SWauTistic's Twitter account showed him bragging about a bomb threat which caused the evacuation of a Dallas convention center, according to the Daily Beast -- after which SWauTistic encouraged his Twitter followers to also follow him on a second account, "just in case twitter suspends me for being a god." Later the 25-year-old tweeted that "if you can't pull off a swat without getting busted you're not a leet hacking God its that simple."	 
+
+Barriss remains in jail in Los Angeles with no bond, though within three weeks he's expected to be extradited to Kansas for his next trial.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Kansas+'Swat'+Perpetrator+Had+Already+Been+To+Prison+For+Fake+Bomb+Threats%3A+http%3A%2F%2Fbit.ly%2F2EfJVyV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F06%2F2020206%2Fkansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577215&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/t3XKWq2cePg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-06T22:04:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>not-passing-Go</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>220</slash:comments>
+<slash:hit_parade>220,205,111,92,30,19,13</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Bill Gates Is First Guest Editor In Time Magazine's 94-Year History</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/K4eRmGIr1i0/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history</link>
+<description>Long-time Slashdot reader theodp writes: Time invited Bill Gates to be the first guest editor in the 94-year history of the magazine. Among the news Bill deemed fit to print in Time's first augmented-reality-enhanced issue were articles by wife Melinda and pal Bono, both of whom graced the cover of Time with Bill as the 2005 Persons of the Year... Another article reveals that "the four learning hacks Bill Gates swears by" include Khan Academy (a $10+ million Gates Foundation partner), tech-backed Code.org (to which Bill, the Gates Foundation, Microsoft, and Steve Ballmer have given somewhere north of $17M), the Big History Project (to which Bill had contributed a "modest $10 million" as of 2014), and The Teaching Company (which got Bill stoked about Big History). 
+The issue also includes Gates' "four favorite ways to give back" and "six innovations that could change the world." In fact, the theme of the whole issue is "optimism," with 62-year-old Gates writing that "On the whole, the world is getting better. This is not some naively optimistic view; it's backed by data. Look at the number of children who die before their fifth birthday. Since 1990, that figure has been cut in half. That means 122 million children have been saved in a quarter-century, and countless families have been spared the heartbreak of losing a child." 
+
+Another optimistic essay came from Daily Show host Trever Noah, who writes, "Mock millennials all you want. Here's why they give me hope."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Bill+Gates+Is+First+Guest+Editor+In+Time+Magazine's+94-Year+History%3A+http%3A%2F%2Fbit.ly%2F2Az4HY5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F06%2F1845251%2Fbill-gates-is-first-guest-editor-in-time-magazines-94-year-history%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577121&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/K4eRmGIr1i0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-06T20:59:00+00:00</dc:date>
+<dc:subject>themedia</dc:subject>
+<slash:department>Time-for-Bill-Gates</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>57</slash:comments>
+<slash:hit_parade>57,57,31,24,6,2,1</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Linus Torvalds Says Intel Needs To Admit It Has Issues With CPUs</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/owaLqkudWzk/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus</link>
@@ -61,8 +259,8 @@ Elsewhere Linus told ZDNet that "there's no one number" for the performance drop
 <dc:subject>intel</dc:subject>
 <slash:department>chips-on-his-shoulder</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>37</slash:comments>
-<slash:hit_parade>37,36,18,15,3,1,1</slash:hit_parade>
+<slash:comments>185</slash:comments>
+<slash:hit_parade>185,177,105,93,30,16,8</slash:hit_parade>
 <feedburner:origLink>https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Bitcoin Debit Cards Suspended After Upstream Visa Rules Infraction</title>
@@ -84,8 +282,8 @@ According to the article, "Some users on Twitter are reportedly stranded abroad 
 <dc:subject>money</dc:subject>
 <slash:department>not-everywhere-you-want-to-be</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,36,18,14,7,2,2</slash:hit_parade>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,61,35,29,8,4,3</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Rust 1.23.0 Released,  Community Urged To Blog Ideas For 2018 Roadmap</title>
@@ -110,8 +308,8 @@ The Rust blog made another announcement earlier this week. "As open source softw
 <dc:subject>programming</dc:subject>
 <slash:department>requests-for-comments-on-requests-for-comments</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,36,10,8,3,1,0</slash:hit_parade>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,61,27,19,6,4,0</slash:hit_parade>
 <feedburner:origLink>https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Lindows Resurrected! Freespire 3.0 and Linspire 7.0 Linux Distros Now Available</title>
@@ -132,8 +330,8 @@ The first question was "Why oh why?"&lt;p&gt;&lt;div class="share_submission" st
 <dc:subject>windows</dc:subject>
 <slash:department>eight-year-hiatus</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>48</slash:comments>
-<slash:hit_parade>48,46,25,24,13,4,2</slash:hit_parade>
+<slash:comments>68</slash:comments>
+<slash:hit_parade>68,65,31,29,13,6,2</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>'The State of JavaScript Frameworks, 2017'</title>
@@ -158,8 +356,8 @@ The first post in a three-part series graphs the popularity and growth rate for 
 <dc:subject>programming</dc:subject>
 <slash:department>going-off-script</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>69</slash:comments>
-<slash:hit_parade>69,65,40,30,7,1,0</slash:hit_parade>
+<slash:comments>104</slash:comments>
+<slash:hit_parade>104,99,50,38,9,2,0</slash:hit_parade>
 <feedburner:origLink>https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Intel Hit With Three Class-Action Lawsuits Over Meltdown and Spectre Bugs</title>
@@ -178,8 +376,8 @@ The first post in a three-part series graphs the popularity and growth rate for 
 <dc:subject>intel</dc:subject>
 <slash:department>when-it-rains-it-pours</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>151</slash:comments>
-<slash:hit_parade>151,143,79,73,17,10,8</slash:hit_parade>
+<slash:comments>207</slash:comments>
+<slash:hit_parade>207,193,103,91,20,13,10</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>A Cryptocurrency Based On a Dog Meme Is Now Worth Over $1 Billion</title>
@@ -200,173 +398,9 @@ Even Jackson Palmer, one of the founders of the coin, expressed concern about th
 <dc:subject>bitcoin</dc:subject>
 <slash:department>what's-the-world-coming-to</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>105</slash:comments>
-<slash:hit_parade>105,100,69,55,16,7,6</slash:hit_parade>
+<slash:comments>126</slash:comments>
+<slash:hit_parade>126,120,89,74,19,11,5</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ancient DNA Reveals a Completely Unknown Population of Native Americans</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dnYxOeTrlTs/ancient-dna-reveals-a-completely-unknown-population-of-native-americans</link>
-<description>schwit1 shares the findings of a new study of 11,500-year-old bones: Sunrise girl-child ("Xach'itee'aanenh T'eede Gaay") lived some 11,500 years ago in what is now called Alaska, and her ancient DNA reveals not only the origins of Native American society, but reminds the world of a whole population of people forgotten by history millennia ago. "We didn't know this population existed," says anthropologist Ben Potter from the University of Alaska Fairbanks. "It would be difficult to overstate the importance of this newly revealed people to our understanding of how ancient populations came to inhabit the Americas." In a new study published this week, the team reports that a genetic analysis of sunrise girl-child's DNA shows she belonged to a forgotten people called the Ancient Beringians, unknown to science until now. Before now, there were only two recognized branches of early Native Americans (referred to as Northern and Southern). But when the researchers sequenced sunrise girl-child's genome -- the earliest complete genetic profile of a New World human to date -- to their surprise it matched neither.
- 
-Given the nature of this field of research -- and the scope of the new findings -- it's unlikely the new hypotheses will remain uncontested for long. But in the light of all the new evidence researchers are uncovering, it's clear the first settlers of America carried a more diverse lineage than we ever realized. "[This is] the first direct evidence of the initial founding Native American population," Potter says. "It is markedly more complex than we thought." The findings are reported in the journal Nature.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ancient+DNA+Reveals+a+Completely+Unknown+Population+of+Native+Americans%3A+http%3A%2F%2Fbit.ly%2F2D0BY19"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F05%2F2152242%2Fancient-dna-reveals-a-completely-unknown-population-of-native-americans%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574239&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dnYxOeTrlTs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-06T07:00:00+00:00</dc:date>
-<dc:subject>earth</dc:subject>
-<slash:department>unknown-to-history</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>77</slash:comments>
-<slash:hit_parade>77,71,47,40,16,8,5</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/05/2152242/ancient-dna-reveals-a-completely-unknown-population-of-native-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Why Twitter Hasn't Banned President Trump</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ot1yvNbReL8/why-twitter-hasnt-banned-president-trump</link>
-<description>An anonymous reader quotes a report from The Verge: Amid vocal calls for the company to act, Twitter today offered its first explanation for why it hasn't banned President Donald Trump -- without ever saying the man's name. "Elected world leaders play a critical role in that conversation because of their outsized impact on our society," the company said in a blog post. "Blocking a world leader from Twitter or removing their controversial Tweets, would hide important information people should be able to see and debate. It would also not silence that leader, but it would certainly hamper necessary discussion around their words and actions." In its blog post, Twitter reiterated its previous statement that all accounts still must follow the company's rules. The statement seemed to leave open the possibility that it might one day take action against Trump's account, or the accounts of other world leaders who might use the platform to incite violence or otherwise break its rules. "We review Tweets by leaders within the political context that defines them, and enforce our rules accordingly," it said. In response to the claims that Twitter doesn't ban President Trump because he draws attention -- and ad revenue -- to the company, Twitter said: "No one person's account drives Twitter's growth, or influences these decisions. We work hard to remain unbiased with the public interest in mind."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Twitter+Hasn't+Banned+President+Trump%3A+http%3A%2F%2Fbit.ly%2F2EeDXyd"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F05%2F222223%2Fwhy-twitter-hasnt-banned-president-trump%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574251&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ot1yvNbReL8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-06T03:30:00+00:00</dc:date>
-<dc:subject>twitter</dc:subject>
-<slash:department>cease-and-desist</slash:department>
-<slash:section>politics</slash:section>
-<slash:comments>372</slash:comments>
-<slash:hit_parade>372,364,211,168,49,20,17</slash:hit_parade>
-<feedburner:origLink>https://politics.slashdot.org/story/18/01/05/222223/why-twitter-hasnt-banned-president-trump?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Don't Pirate Or We'll Mess With Your Connected Thermostats, Warns East Coast ISP</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FZSMhXZ9bLU/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp</link>
-<description>Internet service provider Armstrong Zoom has roughly a million subscribers in the Northeastern part of the U.S. and is keen to punish those it believes are using file-sharing services. According to Engadget, "the ISP's response to allegedly naughty customers is bandwidth throttling, which is when an ISP intentionally slows down your internet service based on what you're doing online. Armstrong Zoom's warning letter openly threatens its suspected file-sharing customers about its ability to use or control their webcams and connected thermostats." From the report: The East Coast company stated: "Please be advised that this may affect other services which you may have connected to your internet service, such as the ability to control your thermostat remotely or video monitoring services." All U.S. states served by Armstrong Zoom will be experiencing temperatures around or under freezing over the weekend and into the near future. Bandwidth throttling for customers in those areas who have connected thermostats could mean the difference between sickness and health, or even life and death. Seems like an extreme punishment for any allegedly downloaded Game of Thrones cam rips.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Don't+Pirate+Or+We'll+Mess+With+Your+Connected+Thermostats%2C+Warns+East+Coast+ISP%3A+http%3A%2F%2Fbit.ly%2F2EcUse2"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F2121224%2Fdont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574175&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FZSMhXZ9bLU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-06T01:00:00+00:00</dc:date>
-<dc:subject>piracy</dc:subject>
-<slash:department>cold-moves</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>232</slash:comments>
-<slash:hit_parade>232,229,137,114,30,14,10</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2121224/dont-pirate-or-well-mess-with-your-connected-thermostats-warns-east-coast-isp?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>SoundCloud Refutes Decreasing Audio Quality, Cites Standard Testing</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/p7XCglIkUY8/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing</link>
-<description>cordovaCon83 writes: NestHQ published an article today noting that online streaming service Soundcloud has implemented the Opus codec for its archive of music and started streaming at 64kbps instead of its prior 128kbps streams. Opus has been touted as a more efficient codec than the aging MP3 codec. Whether this will have a major effect on audio fidelity remains to be seen, as well as whether such a move will affect the already ailing music service's business. UPDATE: SoundCloud tells Billboard that this swap in codecs is nothing new and is part of frequent tests it runs with its audio -- just as other streaming services do regularly. "We always appreciate feedback, but these reports are inaccurate," a SoundCloud spokesperson told Billboard in a statement. "SoundCloud has not altered its approach to audio quality. We have been using the Opus codec (among others) since 2016, and we regularly test different combinations of encoding and streaming to offer listeners a quality experience on any device. Furthermore, we store all content from creators at its originally uploaded quality level so we can continually adapt to advances in encoding and playback."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=SoundCloud+Refutes+Decreasing+Audio+Quality%2C+Cites+Standard+Testing%3A+http%3A%2F%2Fbit.ly%2F2CZNNod"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F05%2F2140239%2Fsoundcloud-refutes-decreasing-audio-quality-cites-standard-testing%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574203&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/p7XCglIkUY8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-06T00:20:00+00:00</dc:date>
-<dc:subject>communications</dc:subject>
-<slash:department>he-said-she-said</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>48</slash:comments>
-<slash:hit_parade>48,46,23,17,6,5,4</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/05/2140239/soundcloud-refutes-decreasing-audio-quality-cites-standard-testing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple Product Delays Have More Than Doubled Under Tim Cook's Watch, Says Report</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KUwOkYqStF8/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report</link>
-<description>An anonymous reader quotes a report from The Wall Street Journal (Warning: source may be paywalled; alternative source): Of the three major new products since Mr. Cook became chief executive in 2011, both AirPods earbuds in 2016 and last year's HomePod speaker missed Apple's publicly projected shipping dates. The Apple Watch, promised for early 2015, arrived late that April with lengthy wait times for delivery. Apple also was delayed in supplying the Apple Pencil and Smart Keyboard, two critical accessories for its iPad Pro. The delays have contributed to much longer waits between Apple announcing a product and shipping it: an average of 23 days for new and updated products over the past six years, compared with the 11-day average over the six years prior, according to a Wall Street Journal analysis of Apple public statements. Longer lead times between announcement and product release have the potential to hurt Apple on multiple fronts. Delays give rivals time to react, something the company tried to prevent in the past by keeping lead times short, analysts and former Apple employees said. They can stoke customer disappointment and have cost Apple sales.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Product+Delays+Have+More+Than+Doubled+Under+Tim+Cook's+Watch%2C+Says+Report%3A+http%3A%2F%2Fbit.ly%2F2EcDo86"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F05%2F2130256%2Fapple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574185&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KUwOkYqStF8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T23:40:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>day-late-and-a-dollar-short</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>74</slash:comments>
-<slash:hit_parade>74,73,40,29,6,2,1</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/05/2130256/apple-product-delays-have-more-than-doubled-under-tim-cooks-watch-says-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>New US Customs Guidelines Limit Copying Files and Searching Cloud Data</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-SpGwgpFcHY/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data</link>
-<description>The U.S. Customs and Border Protection Agency has updated its guidelines for electronic border searches, adding new detail to border search rules that were last officially updated in 2009. The Verge reports: Officers can still request that people unlock electronic devices for inspection when they're entering the U.S., and they can still look through any files or apps on those devices. But consistent with a statement from acting commissioner Kevin McAleenan last summer, they're explicitly banned from accessing cloud data -- per these guidelines, that means anything that can't be accessed while the phone's data connection is disabled. The guidelines also draw a distinction between "basic" and "advanced" searches. If officers connect to the phone (through a wired or wireless connection) and copy or analyze anything on it using external devices, that's an advanced search, and it can only be carried out with reasonable suspicion of illegal activity or a national security concern. A supervisor can approve the search, and "many factors" might create reasonable suspicion, including a terrorist watchlist flag or "other articulable factors."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=New+US+Customs+Guidelines+Limit+Copying+Files+and+Searching+Cloud+Data%3A+http%3A%2F%2Fbit.ly%2F2EcjSsg"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F05%2F2220256%2Fnew-us-customs-guidelines-limit-copying-files-and-searching-cloud-data%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574277&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-SpGwgpFcHY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T23:00:00+00:00</dc:date>
-<dc:subject>cloud</dc:subject>
-<slash:department>devil-is-in-the-detail</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>65</slash:comments>
-<slash:hit_parade>65,65,38,35,8,5,4</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/05/2220256/new-us-customs-guidelines-limit-copying-files-and-searching-cloud-data?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Eben Upton Explains Why Raspberry Pi Isn't Vulnerable To Spectre Or Meltdown</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mOHmWtpC3fY/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown</link>
-<description>Raspberry Pi founder and CEO Eben Upton says the Raspberry Pi isn't susceptible to the "Spectre" or "Meltdown" vulnerabilities because of the particular ARM cores they use. "Spectre allows an attacker to bypass software checks to read data from arbitrary locations in the current address space; Meltdown allows an attacker to read data from arbitrary locations in the operating system kernel's address space (which should normally be inaccessible to user programs)," Upton writes. He goes on to provide a "primer on some concepts in modern processor design" and "illustrate these concepts using simple programs in Python syntax..."
- 
-In conclusion: "Modern processors go to great lengths to preserve the abstraction that they are in-order scalar machines that access memory directly, while in fact using a host of techniques including caching, instruction reordering, and speculation to deliver much higher performance than a simple processor could hope to achieve," writes Upton. "Meltdown and Spectre are examples of what happens when we reason about security in the context of that abstraction, and then encounter minor discrepancies between the abstraction and reality. The lack of speculation in the ARM1176, Cortex-A7, and Cortex-A53 cores used in Raspberry Pi render us immune to attacks of the sort."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Eben+Upton+Explains+Why+Raspberry+Pi+Isn't+Vulnerable+To+Spectre+Or+Meltdown%3A+http%3A%2F%2Fbit.ly%2F2Ec0WKl"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F05%2F2051204%2Feben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574131&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mOHmWtpC3fY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T22:20:00+00:00</dc:date>
-<dc:subject>os</dc:subject>
-<slash:department>worry-free</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>112</slash:comments>
-<slash:hit_parade>112,108,55,49,12,8,6</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/05/2051204/eben-upton-explains-why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>NASA Launches a Mission To Study the Border of Earth and Space</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JyM13hxC_rQ/nasa-launches-a-mission-to-study-the-border-of-earth-and-space</link>
-<description>An anonymous reader quotes a report from Ars Technica: A new NASA mission, the first to hitch a ride on a commercial communications satellite, will examine Earth's upper atmosphere to see how the boundary between Earth and space changes over time. GOLD stands for Global-scale Observations of the Limb and Disk, and the mission will focus on the temperature and makeup of Earth's highest atmospheric layers. Along with another upcoming satellite, called ICON, GOLD will examine how weather on Earth -- and space weather caused by the sun -- affects those uppermost layers. GOLD, which will inspect the ultraviolet radiation that the upper atmosphere releases, will also be the first to take comprehensive records of that atmospheric layer's temperature. The satellite carrying GOLD will orbit 22,000 miles (35,400 kilometers) above Earth in a geostationary orbit, which means GOLD will stay fixed with respect to Earth's surface as the satellite orbits and the world turns. GOLD will pay particularly close attention to Earth's thermosphere, which is the gas that surrounds the Earth higher than 60 miles (97 km) up, and the layer called the ionosphere, which forms as radiation from the sun strips away electrons from particles to create charged ions. And although solar flares and other interactions on the sun do have a strong impact on those layers, scientists are learning that Earth's own weather has an impact on the layers, too.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=NASA+Launches+a+Mission+To+Study+the+Border+of+Earth+and+Space%3A+http%3A%2F%2Fbit.ly%2F2Ec95OM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F05%2F210255%2Fnasa-launches-a-mission-to-study-the-border-of-earth-and-space%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574139&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/JyM13hxC_rQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-05T21:40:00+00:00</dc:date>
-<dc:subject>earth</dc:subject>
-<slash:department>final-frontier</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>45</slash:comments>
-<slash:hit_parade>45,41,11,9,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/05/210255/nasa-launches-a-mission-to-study-the-border-of-earth-and-space?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
