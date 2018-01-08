@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-08T11:28:07+00:00</dc:date>
+<dc:date>2018-01-08T14:40:18+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,9 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -28,9 +31,6 @@
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,71 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Halts Bitcoin Transactions Because It's An 'Unstable Currency'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/I8nXbYSxMPk/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency</link>
+<description>Catalin Cimpanu, reporting for BleepingComputers: Microsoft has stopped supporting Bitcoin as a payment method for Microsoft products, Bleeping Computer has learned. A Microsoft support staffer has told us the move is temporary and cited the unstable state of the Bitcoin currency. Microsoft added support for Bitcoin in 2014, and has previously temporarily stopped supporting Bitcoin in the past.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Halts+Bitcoin+Transactions+Because+It's+An+'Unstable+Currency'%3A+http%3A%2F%2Fbit.ly%2F2AF43YY"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F08%2F1423228%2Fmicrosoft-halts-bitcoin-transactions-because-its-an-unstable-currency%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11583207&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/I8nXbYSxMPk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-08T14:40:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>tread-with-caution</slash:department>
+<slash:section>news</slash:section>
+<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Alexa is Coming To Windows 10 PCs From HP, ASUS and Others</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ny5hV1fzJPY/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others</link>
+<description>An anonymous reader shares a report: Amazon's Alexa recently arrived on headphones and even toilets, but it's about to become much more ubiquitous by hitting Windows 10 PCs later this year. HP, ASUS and Acer have revealed that the voice assistant is coming to various models, including ASUS's ZenBook and VivoBook lineup, the HP Pavilion Wave, and select Acer Spin, Swift, Switch and Aspire notebooks. Amazon will release a special Alexa app in the spring, and laptop builders are tapping Intel's Smart Sound tech to make sure that the app can pick up your voice when you're not right next to your PC. "Hands-free access to Alexa on PCs can be helpful to customers in many ways, like making it simple to interact with your smart home, get news or weather, set timers, and more," Amazon Alexa VP Steve Rabuchin said in a statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Alexa+is+Coming+To+Windows+10+PCs+From+HP%2C+ASUS+and+Others%3A+http%3A%2F%2Fbit.ly%2F2EkLaN4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F08%2F1213249%2Falexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11582621&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ny5hV1fzJPY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-08T14:00:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>23</slash:comments>
+<slash:hit_parade>23,22,8,8,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>OpenBSD's De Raadt Pans 'Incredibly Bad' Disclsoure of Intel CPU Bug</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6b1MeWS-Axw/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug</link>
+<description>troublemaker_23 quotes ITWire:
+Disclosure of the Meltdown and Spectre vulnerabilities, which affect mainly Intel CPUs, was handled "in an incredibly bad way" by both Intel and Google, the leader of the OpenBSD project Theo de Raadt claims. "Only Tier-1 companies received advance information, and that is not responsible disclosure -- it is selective disclosure," De Raadt told iTWire in response to queries. "Everyone below Tier-1 has just gotten screwed." 
+In the interview de Raadt also faults intel for moving too fast in an attempt to beat their competition. "There are papers about the risky side-effects of speculative loads -- people knew... Intel engineers attended the same conferences as other company engineers, and read the same papers about performance enhancing strategies -- so it is hard to believe they ignored the risky aspects. I bet they were instructed to ignore the risk."
+ 
+He points out this will make it more difficult to develop kernel software, since "Suddenly the trickiest parts of a kernel need to do backflips to cope with problems deep in the micro-architecture." And he also complains that Intel "has been exceedingly clever to mix Meltdown (speculative loads) with a separate issue (Spectre). This is pulling the wool over the public's eyes..."
+ 
+"It is a scandal, and I want repaired processors for free."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=OpenBSD's+De+Raadt+Pans+'Incredibly+Bad'+Disclsoure+of+Intel+CPU+Bug%3A+http%3A%2F%2Fbit.ly%2F2CRnnYN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fbsd.slashdot.org%2Fstory%2F18%2F01%2F08%2F0533237%2Fopenbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11579585&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6b1MeWS-Axw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-08T11:34:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>what's-inside-besides-Intel</slash:department>
+<slash:section>bsd</slash:section>
+<slash:comments>117</slash:comments>
+<slash:hit_parade>117,112,74,63,29,16,10</slash:hit_parade>
+<feedburner:origLink>https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ask Slashdot:  How Should I Replace My Netbook?</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rFgz8Bp8PPo/ask-slashdot-how-should-i-replace-my-netbook</link>
@@ -62,8 +127,8 @@ Any suggestions? Leave your best thoughts and suggestions in the comments. What'
 <dc:subject>portables</dc:subject>
 <slash:department>back-to-the-future</slash:department>
 <slash:section>askslashdot</slash:section>
-<slash:comments>103</slash:comments>
-<slash:hit_parade>103,91,54,46,5,3,2</slash:hit_parade>
+<slash:comments>155</slash:comments>
+<slash:hit_parade>155,138,82,59,11,7,2</slash:hit_parade>
 <feedburner:origLink>https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Can Mesh Networks Save a Dying Web?</title>
@@ -86,8 +151,8 @@ He cites mega-projects "to rescue the web from the internet", which include prog
 <dc:subject>networking</dc:subject>
 <slash:department>peers-to-peers</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>106</slash:comments>
-<slash:hit_parade>106,98,63,50,16,6,4</slash:hit_parade>
+<slash:comments>131</slash:comments>
+<slash:hit_parade>131,123,76,65,19,10,5</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>SpaceX Completes First Launch of 2018: Secretive 'Zuma' Spacecraft</title>
@@ -107,8 +172,8 @@ After more than a month of delays, a SpaceX Falcon 9 rocket vaulted toward the s
 <dc:subject>business</dc:subject>
 <slash:department>if-I-told-you-it-wouldn't-be-a-secret</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>48</slash:comments>
-<slash:hit_parade>48,35,25,25,6,2,1</slash:hit_parade>
+<slash:comments>53</slash:comments>
+<slash:hit_parade>53,40,28,25,11,5,2</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Some Smartphone Salesmen Aren't Sold on the iPhone X</title>
@@ -132,8 +197,8 @@ Chatting next with an Apple store "Genius" (who was testing his iPhone 6), CNET'
 <dc:subject>iphone</dc:subject>
 <slash:department>down-on-upsells</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>136</slash:comments>
-<slash:hit_parade>136,124,74,54,14,7,3</slash:hit_parade>
+<slash:comments>160</slash:comments>
+<slash:hit_parade>160,147,85,69,20,11,8</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>C Programming Language 'Has Completed a Comeback'</title>
@@ -157,8 +222,8 @@ The rival Pypl Popularity of Programming Language index calculates that the most
 <dc:subject>programming</dc:subject>
 <slash:department>C-you-later</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>152</slash:comments>
-<slash:hit_parade>152,144,103,94,18,11,4</slash:hit_parade>
+<slash:comments>168</slash:comments>
+<slash:hit_parade>168,158,114,99,31,12,7</slash:hit_parade>
 <feedburner:origLink>https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Can You Install Linux On a 1993 PC?</title>
@@ -180,8 +245,8 @@ And there's one more added bonus. "Given the age of the 486 (1989 technology), i
 <dc:subject>linux</dc:subject>
 <slash:department>quarter-of-a-century</slash:department>
 <slash:section>linux</slash:section>
-<slash:comments>173</slash:comments>
-<slash:hit_parade>173,167,102,77,18,5,1</slash:hit_parade>
+<slash:comments>190</slash:comments>
+<slash:hit_parade>190,184,114,89,19,8,2</slash:hit_parade>
 <feedburner:origLink>https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Pentagon Seeks Laser-Powered Bat Drones</title>
@@ -252,8 +317,8 @@ In 2012 -- when he was in his 80s -- Young published a memoir titled Forever You
 <dc:subject>moon</dc:subject>
 <slash:department>real-life-space-odysseys</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>35</slash:comments>
-<slash:hit_parade>35,33,20,17,3,2,1</slash:hit_parade>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,34,20,17,3,2,1</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Google Sold 6.75 Million 'Google Home' Devices In the Last 80 Days</title>
@@ -276,8 +341,8 @@ Amazon is also believed to be losing money on the Echo Dot, which was similarly 
 <dc:subject>google</dc:subject>
 <slash:department>things-that-cost-$29</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>82</slash:comments>
-<slash:hit_parade>82,82,43,39,10,6,3</slash:hit_parade>
+<slash:comments>87</slash:comments>
+<slash:hit_parade>87,87,47,44,10,6,3</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Researchers Create 'Psychedelic' Stickers That Confuse AI Image Recognition</title>
@@ -300,8 +365,8 @@ The technique "works in the real world, and can be disguised as an innocuous sti
 <dc:subject>ai</dc:subject>
 <slash:department>Lucy-in-disguise-with-diamonds</slash:department>
 <slash:section>slashdot</slash:section>
-<slash:comments>99</slash:comments>
-<slash:hit_parade>99,96,63,58,21,4,3</slash:hit_parade>
+<slash:comments>102</slash:comments>
+<slash:hit_parade>102,99,63,58,21,5,4</slash:hit_parade>
 <feedburner:origLink>https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>NASA Tests a Drone To Explore Jupiter's Moon in Antarctica</title>
@@ -323,82 +388,9 @@ The new equipment includes sensors to monitor for organics and measure environme
 <dc:subject>space</dc:subject>
 <slash:department>very-cold-drones</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>60</slash:comments>
-<slash:hit_parade>60,56,32,29,3,1,0</slash:hit_parade>
+<slash:comments>61</slash:comments>
+<slash:hit_parade>61,57,32,30,5,1,0</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>A Popular Sugar Additive May Have Fueled the Spread of Two Superbugs</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HlFhNyiBEbE/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs</link>
-<description>Zorro (Slashdot reader #15,797) quotes the Los Angeles Times:
-Two bacterial strains that have plagued hospitals around the country may have been at least partly fueled by a sugar additive in our food products, scientists say. Trehalose, a sugar that is added to a wide range of food products, could have allowed certain strains of Clostridium difficile to become far more virulent than they were before, a new study finds. The results, described in the journal Nature, highlight the unintended consequences of introducing otherwise harmless additives to the food supply. 
-Nearly half a million people were sickened by C. difficile in 2011, when it was directly linked to 15,000 deaths.
-"The misuse and overuse of antibiotics has long been thought to be responsible for the rise of many kinds of antibiotic-resistant 'superbug'," notes the article, before citing a researcher who now believes "the circumstantial and experimental evidence points to trehalose as an unexpected culprit."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=A+Popular+Sugar+Additive+May+Have+Fueled+the+Spread+of+Two+Superbugs%3A+http%3A%2F%2Fbit.ly%2F2D3VEBf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F07%2F0418217%2Fa-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577521&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HlFhNyiBEbE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T15:34:00+00:00</dc:date>
-<dc:subject>medicine</dc:subject>
-<slash:department>not-so-sweet</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>98</slash:comments>
-<slash:hit_parade>98,95,74,64,19,11,8</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Nvidia Wants To Prohibit Consumer GPU Use In Datacenters</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DFlqOr5gHXw/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters</link>
-<description>The Register reports:
-Nvidia has banned the use of its GeForce and Titan gaming graphics cards in data centers -- forcing organizations to fork out for more expensive gear, like its latest Tesla V100 chips. The chip-design giant updated its GeForce and Titan software licensing in the past few days, adding a new clause that reads: "No Datacenter Deployment. The SOFTWARE is not licensed for datacenter deployment, except that blockchain processing in a datacenter is permitted." 
-
-Long-time Slashdot reader Xesdeeni has a few questions:
-Is this really even legal? First, because it changes use of existing hardware, already purchased, by changing software (with potentially required bug fixes) agreements retroactively. Second, because how can a customer (at least in the U.S.) be told they can't use a product in a particular place, unless it's a genuine safety or security concern (i.e. government regulation)!? 
-
-Nvidia expects that "working together with our user base on a case-by-case basis, we will be able to resolve any customer concerns," they told CNBC, adding that "those who don't download new drivers won't be held to the new terms."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Nvidia+Wants+To+Prohibit+Consumer+GPU+Use+In+Datacenters%3A+http%3A%2F%2Fbit.ly%2F2CQRorK"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F07%2F0010221%2Fnvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577367&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DFlqOr5gHXw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T14:34:00+00:00</dc:date>
-<dc:subject>hardware</dc:subject>
-<slash:department>get-off-of-my-cloud</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>277</slash:comments>
-<slash:hit_parade>277,274,162,131,41,23,17</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Would You Use a Smartphone-Style Laptop With a Three-Day Battery Life?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KWED4w-VKYo/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life</link>
-<description>An anonymous reader quotes USA Today:
-
-"Always connected personal computers" -- or ACPCs -- refer to a new breed of Windows laptops with three key features: a battery that can last multiple days; instant-on access when you open the lid or touch a key; and an optional high-speed cellular connection, to avoid hunting for a Wi-Fi hotspot to get online. In other words, your laptop is going to behave a lot more like your smartphone... In fact, with the Qualcomm Snapdragon 835 processor, ASUS is claiming battery life of up to 22 hours of continuous video playback, and up to 30 days on standby. At $799, the ASUS NovaGo (model # TP370) will also be the first always-connected PC with a 360-degree flip hinge -- making it a "2-in-1" that can convert from laptop mode to a tablet by bending back the 13.3-inch screen -- and the first with Gigabit LTE speeds, for an always on, always connected experience. 
-ASUS's media relations director touts the high-speed cellular connections -- which consumers pay for separately -- as 3 to 7 times faster than broadband. "It allows you to download a 2-hour movie in about 10 seconds." 
-And Qualcomm's senior director of product management says there's more ways that it's like a smartphone. "Even when the screen is off, it's still connected, so when I open the lid, it does facial recognition, and I'm in."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Would+You+Use+a+Smartphone-Style+Laptop+With+a+Three-Day+Battery+Life%3F%3A+http%3A%2F%2Fbit.ly%2F2CZPkdL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F07%2F0759200%2Fwould-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577777&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KWED4w-VKYo" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T11:34:00+00:00</dc:date>
-<dc:subject>cellphones</dc:subject>
-<slash:department>decisions-decisions</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>177</slash:comments>
-<slash:hit_parade>177,176,116,102,16,8,6</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

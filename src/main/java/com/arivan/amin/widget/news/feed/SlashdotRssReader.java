@@ -61,10 +61,23 @@ public class SlashdotRssReader implements RssReader
     public final void updateNewsData ()
     {
         // TODO 1/5/18 create a text file stream reader for offline use
+        Path path = Paths.get(SLASHDOT_RSS_FILE);
         try (InputStream stream = new URL("http://rss.slashdot.org/Slashdot/slashdot").openStream())
         {
-            Path path = Paths.get(SLASHDOT_RSS_FILE);
             Files.write(path, stream.readAllBytes());
+        }
+        catch (Exception e)
+        {
+            elementList = Collections.emptyList();
+            logger.warning(e.getMessage());
+        }
+        createElementsList(path);
+    }
+    
+    private void createElementsList (Path path)
+    {
+        try
+        {
             DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
             Document document = builder.parse(path.toUri().toString());
             List<Element> tempList = createList(document.getDocumentElement().getChildNodes());
@@ -75,8 +88,7 @@ public class SlashdotRssReader implements RssReader
         }
         catch (Exception e)
         {
-            elementList = Collections.emptyList();
-            logger.warning(e.getMessage());
+            e.printStackTrace();
         }
     }
     

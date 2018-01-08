@@ -37,6 +37,7 @@ public class WeatherPane extends Pane
         getChildren().add(mainHBox);
         VBox todayVBox = new VBox(5);
         HBox iconHBox = new HBox(10);
+        // TODO 1/8/18 when todo file is not created it won't add todo item
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
         iconHBox.getChildren().add(currentWeatherImage);
@@ -44,7 +45,6 @@ public class WeatherPane extends Pane
         humidityLabel = new Label();
         windLabel = new Label();
         cloudsLabel = new Label();
-        // TODO 1/7/18 replace top with /proc/stat in both cpu usage and cpu progress bar
         sunLabel = new Label();
         precipitationLabel = new Label();
         todayVBox.getChildren()
