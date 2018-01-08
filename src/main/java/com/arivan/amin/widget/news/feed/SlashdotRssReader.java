@@ -15,6 +15,7 @@ import java.util.stream.IntStream;
 
 public class SlashdotRssReader implements RssReader
 {
+    // TODO 1/8/18 spped test and connectivity to be moved to top processes box along with any other that doesn't fit in the right box
     private static final String SLASHDOT_RSS_FILE = "slashdot.xml";
     private final Logger logger = Logger.getLogger(getClass().getName());
     private List<Element> elementList;
@@ -60,7 +61,6 @@ public class SlashdotRssReader implements RssReader
     @Override
     public final void updateNewsData ()
     {
-        // TODO 1/5/18 create a text file stream reader for offline use
         Path path = Paths.get(SLASHDOT_RSS_FILE);
         try (InputStream stream = new URL("http://rss.slashdot.org/Slashdot/slashdot").openStream())
         {
@@ -88,7 +88,7 @@ public class SlashdotRssReader implements RssReader
         }
         catch (Exception e)
         {
-            e.printStackTrace();
+            logger.warning(e.getMessage());
         }
     }
     

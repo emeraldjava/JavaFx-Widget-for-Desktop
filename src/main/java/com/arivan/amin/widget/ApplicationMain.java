@@ -5,7 +5,7 @@ import com.arivan.amin.widget.forecast.WeatherPane;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
 import com.arivan.amin.widget.news.feed.RssReaderBox;
 import com.arivan.amin.widget.system.details.SystemDetailsPane;
-import com.arivan.amin.widget.todo.TasksBox;
+import com.arivan.amin.widget.todo.TodoItemsBox;
 import javafx.animation.*;
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -82,7 +82,7 @@ public class ApplicationMain extends Application
         rightVBox.getChildren().add(CpuProgressBar.newInstance(rightVBox));
         rightVBox.getChildren().add(MemoryProgressBar.newInstance(rightVBox));
         rssVBox.getChildren().add(RssReaderBox.newInstance());
-        todoVBox.getChildren().add(TasksBox.newInstance());
+        todoVBox.getChildren().add(TodoItemsBox.newInstance());
         mainHBox.getChildren().addAll(leftVBox, rightVBox);
         primaryStage.setScene(scene);
         primaryStage.setX(properties.getX());

@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-08T14:40:18+00:00</dc:date>
+<dc:date>2018-01-08T16:38:12+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,8 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -29,8 +31,6 @@
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,46 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>What's On Center Stage at the CES Tech Show? Your Voice</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/w-n5trPDlcA/whats-on-center-stage-at-the-ces-tech-show-your-voice</link>
+<description>An anonymous reader shares a report: Some of the most popular gadgets over the holiday season were smart speakers with digital assistants from Amazon and Google. Apple is coming out with its own speaker this year; Microsoft and Samsung have partnered on another. As the annual CES gadget show kicks off in Las Vegas this week, manufacturers are expected to unveil even more voice-controlled devices -- speakers and beyond -- as Amazon and Google make their digital assistants available on a wider array of products. If these prove popular, you'll soon be able to order around much more of your house, including kitchen appliances, washing machines and other devices.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=What's+On+Center+Stage+at+the+CES+Tech+Show%3F+Your+Voice%3A+http%3A%2F%2Fbit.ly%2F2AGdkQv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F08%2F1235214%2Fwhats-on-center-stage-at-the-ces-tech-show-your-voice%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11582807&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/w-n5trPDlcA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-08T16:00:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>shape-of-things-to-come</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,6,6,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Should Address Youth Phone Addiction, Say Two Large Investors</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ZZf7EQWH8gc/apple-should-address-youth-phone-addiction-say-two-large-investors</link>
+<description>Two large Apple shareholders, Jana Partners and the California State Teachers' Retirement System, are urging Apple to take steps to address what they say is a growing problem of young people getting addicted to Apple's iPhones, Jana partner Charles Penner said. From a report: Jana, a leading activist shareholder, and CalSTRS, one of the nation's largest public pension plans, delivered a letter to Apple on Saturday asking the company to consider developing software that would allow parents to limit children's phone use, the Wall Street Journal reported earlier on Sunday. Jana and CalSTRS also asked Apple to study the impact of excessive phone use on mental health, according to the publication. Jana and CalSTRS together control about $2 billion worth of Apple shares, the Journal reports.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Should+Address+Youth+Phone+Addiction%2C+Say+Two+Large+Investors%3A+http%3A%2F%2Fbit.ly%2F2CRTqYx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F08%2F120236%2Fapple-should-address-youth-phone-addiction-say-two-large-investors%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11582533&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ZZf7EQWH8gc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-08T15:20:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>time-to-address-the-issue</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,48,32,29,3,2,2</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Microsoft Halts Bitcoin Transactions Because It's An 'Unstable Currency'</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/I8nXbYSxMPk/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency</link>
@@ -58,7 +98,8 @@
 <dc:subject>microsoft</dc:subject>
 <slash:department>tread-with-caution</slash:department>
 <slash:section>news</slash:section>
-<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+<slash:comments>55</slash:comments>
+<slash:hit_parade>55,54,34,30,8,5,2</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Alexa is Coming To Windows 10 PCs From HP, ASUS and Others</title>
@@ -77,8 +118,8 @@
 <dc:subject>ai</dc:subject>
 <slash:department>next-up</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>23</slash:comments>
-<slash:hit_parade>23,22,8,8,1,0,0</slash:hit_parade>
+<slash:comments>47</slash:comments>
+<slash:hit_parade>47,46,24,21,10,5,2</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>OpenBSD's De Raadt Pans 'Incredibly Bad' Disclsoure of Intel CPU Bug</title>
@@ -103,8 +144,8 @@ He points out this will make it more difficult to develop kernel software, since
 <dc:subject>google</dc:subject>
 <slash:department>what's-inside-besides-Intel</slash:department>
 <slash:section>bsd</slash:section>
-<slash:comments>117</slash:comments>
-<slash:hit_parade>117,112,74,63,29,16,10</slash:hit_parade>
+<slash:comments>194</slash:comments>
+<slash:hit_parade>194,189,125,108,47,34,22</slash:hit_parade>
 <feedburner:origLink>https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ask Slashdot:  How Should I Replace My Netbook?</title>
@@ -127,8 +168,8 @@ Any suggestions? Leave your best thoughts and suggestions in the comments. What'
 <dc:subject>portables</dc:subject>
 <slash:department>back-to-the-future</slash:department>
 <slash:section>askslashdot</slash:section>
-<slash:comments>155</slash:comments>
-<slash:hit_parade>155,138,82,59,11,7,2</slash:hit_parade>
+<slash:comments>181</slash:comments>
+<slash:hit_parade>181,164,95,72,14,7,5</slash:hit_parade>
 <feedburner:origLink>https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Can Mesh Networks Save a Dying Web?</title>
@@ -151,8 +192,8 @@ He cites mega-projects "to rescue the web from the internet", which include prog
 <dc:subject>networking</dc:subject>
 <slash:department>peers-to-peers</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>131</slash:comments>
-<slash:hit_parade>131,123,76,65,19,10,5</slash:hit_parade>
+<slash:comments>146</slash:comments>
+<slash:hit_parade>146,137,87,74,25,13,7</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>SpaceX Completes First Launch of 2018: Secretive 'Zuma' Spacecraft</title>
@@ -172,8 +213,8 @@ After more than a month of delays, a SpaceX Falcon 9 rocket vaulted toward the s
 <dc:subject>business</dc:subject>
 <slash:department>if-I-told-you-it-wouldn't-be-a-secret</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>53</slash:comments>
-<slash:hit_parade>53,40,28,25,11,5,2</slash:hit_parade>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,53,36,33,13,8,3</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Some Smartphone Salesmen Aren't Sold on the iPhone X</title>
@@ -197,8 +238,8 @@ Chatting next with an Apple store "Genius" (who was testing his iPhone 6), CNET'
 <dc:subject>iphone</dc:subject>
 <slash:department>down-on-upsells</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>160</slash:comments>
-<slash:hit_parade>160,147,85,69,20,11,8</slash:hit_parade>
+<slash:comments>181</slash:comments>
+<slash:hit_parade>181,169,99,82,22,12,9</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>C Programming Language 'Has Completed a Comeback'</title>
@@ -222,8 +263,8 @@ The rival Pypl Popularity of Programming Language index calculates that the most
 <dc:subject>programming</dc:subject>
 <slash:department>C-you-later</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>168</slash:comments>
-<slash:hit_parade>168,158,114,99,31,12,7</slash:hit_parade>
+<slash:comments>187</slash:comments>
+<slash:hit_parade>187,177,124,108,45,16,10</slash:hit_parade>
 <feedburner:origLink>https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Can You Install Linux On a 1993 PC?</title>
@@ -245,8 +286,8 @@ And there's one more added bonus. "Given the age of the 486 (1989 technology), i
 <dc:subject>linux</dc:subject>
 <slash:department>quarter-of-a-century</slash:department>
 <slash:section>linux</slash:section>
-<slash:comments>190</slash:comments>
-<slash:hit_parade>190,184,114,89,19,8,2</slash:hit_parade>
+<slash:comments>203</slash:comments>
+<slash:hit_parade>203,197,122,97,19,8,2</slash:hit_parade>
 <feedburner:origLink>https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Pentagon Seeks Laser-Powered Bat Drones</title>
@@ -288,8 +329,8 @@ The article includes a link to a CalTech video showing footage of an advanced ro
 <dc:subject>bug</dc:subject>
 <slash:department>in-the-chips</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>71</slash:comments>
-<slash:hit_parade>71,64,32,26,7,2,2</slash:hit_parade>
+<slash:comments>72</slash:comments>
+<slash:hit_parade>72,65,32,24,9,6,2</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>John Young, Legendary Astronaut, Dies at Age 87</title>
@@ -341,56 +382,9 @@ Amazon is also believed to be losing money on the Echo Dot, which was similarly 
 <dc:subject>google</dc:subject>
 <slash:department>things-that-cost-$29</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>87</slash:comments>
-<slash:hit_parade>87,87,47,44,10,6,3</slash:hit_parade>
+<slash:comments>91</slash:comments>
+<slash:hit_parade>91,91,48,45,10,6,3</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Researchers Create 'Psychedelic' Stickers That Confuse AI Image Recognition</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eeGQljgYtOc/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition</link>
-<description>"Researchers at Google were able to create little stickers with 'psychedelic'-looking patterns on them that could trick computer AI image-classifying algorithms into mis-classifying images of objects that it would normally be able to recognize," writes amxcoder:
-The patterned stickers work by tricking the image recognition algorithm into focusing on, and studying, the little pattern on the small sticker -- and ignoring the rest of the image, including the actual object in the picture... The images on the stickers were created by the researchers using knowledge of features and shapes, patterns, and colors that the image recognition algorithms look for and focus on.
- 
-These stickers were created so that the algorithm finds them 'more interesting' than the rest of the image and will focus most of it's attention on analyzing the pattern, while giving the rest of the image content a lower importance, thus ignoring it or confusing it. 
-The technique "works in the real world, and can be disguised as an innocuous sticker," note the researchers -- describing them as "targeted adversarial image patches."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers+Create+'Psychedelic'+Stickers+That+Confuse+AI+Image+Recognition%3A+http%3A%2F%2Fbit.ly%2F2COPibN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F07%2F0619207%2Fresearchers-create-psychedelic-stickers-that-confuse-ai-image-recognition%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577629&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eeGQljgYtOc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T17:34:00+00:00</dc:date>
-<dc:subject>ai</dc:subject>
-<slash:department>Lucy-in-disguise-with-diamonds</slash:department>
-<slash:section>slashdot</slash:section>
-<slash:comments>102</slash:comments>
-<slash:hit_parade>102,99,63,58,21,5,4</slash:hit_parade>
-<feedburner:origLink>https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>NASA Tests a Drone To Explore Jupiter's Moon in Antarctica</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BrhrIXJ0nw4/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica</link>
-<description>Three months of research in Antarctica is just the beginning for one Georgia Tech researcher, according to an article shared by schwit1:
-The waters beneath our planet's ice sheet are fascinating, turning up species few people have ever laid eyes on. But they are not the final target of this chase. Icefin [a 10-foot-long subsea drone] is meant to search for alien life -- a "bug hunt," as some scientists cheerfully call it. It is bound for the icy waters of Jupiter's moon, Europa, possibly as soon as 2030...
- 
-The new equipment includes sensors to monitor for organics and measure environmental factors like the presence of dissolved oxygen and levels of acidity, all to see if Europa could (in theory) support life in its subterranean seas... The subsea drone is also smarter than its prototype predecessor, and that high-IQ autonomy would be needed on Europa. The probe must not only operate 400 million miles from Earth but also navigate all by itself under alien ice.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=NASA+Tests+a+Drone+To+Explore+Jupiter's+Moon+in+Antarctica%3A+http%3A%2F%2Fbit.ly%2F2CSqkbu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F07%2F0549201%2Fnasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577589&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BrhrIXJ0nw4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T16:34:00+00:00</dc:date>
-<dc:subject>space</dc:subject>
-<slash:department>very-cold-drones</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>61</slash:comments>
-<slash:hit_parade>61,57,32,30,5,1,0</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

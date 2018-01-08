@@ -34,10 +34,11 @@ public class WeatherPane extends Pane
         // weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
         weatherData = OpenWeatherMap.newInstance(TextFileWeatherProvider.newInstance());
         HBox mainHBox = new HBox(10);
+        
         getChildren().add(mainHBox);
         VBox todayVBox = new VBox(5);
         HBox iconHBox = new HBox(10);
-        // TODO 1/8/18 when todo file is not created it won't add todo item
+        // TODO 1/8/18 provide location selection for forecast
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
         iconHBox.getChildren().add(currentWeatherImage);
