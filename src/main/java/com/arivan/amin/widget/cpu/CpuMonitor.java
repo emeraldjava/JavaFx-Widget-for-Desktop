@@ -4,12 +4,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
-import java.util.regex.Pattern;
 
 public interface CpuMonitor
 {
     double PERCENT = 100.0;
-    Pattern NON_DIGITS = Pattern.compile("[a-z :/A-Z]+");
     
     default String getCommandOutput (List<String> command) throws IOException
     {
@@ -19,9 +17,5 @@ public interface CpuMonitor
         }
     }
     
-    void updateCommandData ();
-    
-    double getCommandData ();
-    
-    String removeUnnecessaryData (String output);
+    double getCpuUsage ();
 }

@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 public class CpuProgressBar extends Pane
 {
-    private static final int ANIMATION_SPEED = 300;
+    private static final int UPDATE_SPEED_IN_SECONDS = 1;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final CpuMonitor processor;
     private final ProgressBar cpuBar;
@@ -44,21 +44,21 @@ public class CpuProgressBar extends Pane
     
     private void animateBar ()
     {
-        Timeline cpuTimeline = new Timeline(new KeyFrame(Duration.millis(ANIMATION_SPEED), e ->
-        {
-            try
-            {
-                double data = processor.getCommandData();
-                cpuBar.setProgress(data);
-                cpuLabel.setText((int) (data * 100) + " ");
-            }
-            catch (Exception ex)
-            {
-                logger.warning(ex.getMessage());
-            }
-        }));
-        cpuTimeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1)));
-        cpuTimeline.setCycleCount(Animation.INDEFINITE);
-        cpuTimeline.play();
+        Timeline cpuTimeLine =
+                new Timeline(new KeyFrame(Duration.seconds(UPDATE_SPEED_IN_SECONDS), e ->
+                {
+                    try
+                    {
+                        double data = processor.getCpuUsage();
+                        cpuBar.setProgress(data);
+                        cpuLabel.setText((int) (data * 100) + " ");
+                    }
+                    catch (RuntimeException ex)
+                    {
+                        logger.warning(ex.getMessage());
+                    }
+                }));
+        cpuTimeLine.setCycleCount(Animation.INDEFINITE);
+        cpuTimeLine.play();
     }
 }

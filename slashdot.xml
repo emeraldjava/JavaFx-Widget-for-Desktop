@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-07T12:53:06+00:00</dc:date>
+<dc:date>2018-01-08T11:28:07+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,340 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot:  How Should I Replace My Netbook?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rFgz8Bp8PPo/ask-slashdot-how-should-i-replace-my-netbook</link>
+<description>Long-time Slashdot reader Kevin108 needs to replace his netbook:
+ I've used and loved my Eee 701 for many years. None of the diminutive ergonomics were ever an issue. But the low-res screen, 4 GB SSD, and 630 MHz Celeron are a useless combo for current web browsing and modern software. I'm now in the market for a new device in a similar form factor. 
+
+I need a Windows device for my preferred photo editor and some other software I use for maps. It will often be used offline for writing and watching MKVs in VLC. I'm okay with a notebook or tablet and keyboard combo, but I've not found anything in a similar size with my feature requirements. 
+Any suggestions? Leave your best thoughts and suggestions in the comments. What's the best way to replace a netbook?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A++How+Should+I+Replace+My+Netbook%3F%3A+http%3A%2F%2Fbit.ly%2F2AFIZkZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fask.slashdot.org%2Fstory%2F18%2F01%2F08%2F0510240%2Fask-slashdot-how-should-i-replace-my-netbook%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11579439&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rFgz8Bp8PPo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-08T08:34:00+00:00</dc:date>
+<dc:subject>portables</dc:subject>
+<slash:department>back-to-the-future</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>103</slash:comments>
+<slash:hit_parade>103,91,54,46,5,3,2</slash:hit_parade>
+<feedburner:origLink>https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Can Mesh Networks Save a Dying Web?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iDMf0XxU3l4/can-mesh-networks-save-a-dying-web</link>
+<description>From an anonymous reader:
+
+"The web is dying, but mesh networks could save it," writes open source hacker Andre Staltz. He warns that Facebook, Google, and Amazon plan to "grow beyond browsers, creating new virtual contexts where data is created and shared," and predicts the next wave of walled gardens will be a "social internet" bypassing the web altogether. "The Web may die like most other technologies do, simply by becoming less attractive than newer technologies." 
+He wants to build a mobile mesh web that works with or without internet access to reach the four billion people currently offline, adding that all the tools we need are already in our hands: smartphones, peer-to-peer protocols, and mesh networks. His vision? "Novel peer-to-peer protocols such as IPFS and Dat help replace HTTP and make the web a content-centered cyberspace... Browsers can be made to work like that, and although it's a small tweak to how the web works, it has massive effects on social structures in cyberspace... Now that we have experience with some of the intricacies of the social web, we can reinvent it to put people first without intermediate companies... We can actually beat the tech giants at this game by simply giving local and regional connectivity to people in developing countries. With mobile apps that are built mesh-first, the smartphones would make up self-organizing self-healing mobile ad-hoc networks... In internet-less regions, there is potential for scaling quickly, and through that, we can spawn a new industry around peer-to-peer wireless mesh networks." 
+He cites mega-projects "to rescue the web from the internet", which include progress on peer-to-peer and mesh networking protocols, followed by adoption on smartphones (and then a new wave of apps) -- plus a migration of existing web content to the new protocols, "to fix the overutilization of the wirenet and the underutilization of airnets, bringing balance to the wire-versus-air dichotomy, providing choice in how data should travel in each case...But it can only happen if the web takes a courageous step towards its next level."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Can+Mesh+Networks+Save+a+Dying+Web%3F%3A+http%3A%2F%2Fbit.ly%2F2ADMtEL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F08%2F0249206%2Fcan-mesh-networks-save-a-dying-web%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11579085&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iDMf0XxU3l4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-08T04:34:00+00:00</dc:date>
+<dc:subject>networking</dc:subject>
+<slash:department>peers-to-peers</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>106</slash:comments>
+<slash:hit_parade>106,98,63,50,16,6,4</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>SpaceX Completes First Launch of 2018: Secretive 'Zuma' Spacecraft</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eDg9mysvNto/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft</link>
+<description>SpaceX's first launch of 2018 was "a secretive spacecraft commissioned by the U.S. government for an undisclosed mission," reports TechCrunch. An anonymous reader quotes CNN:
+After more than a month of delays, a SpaceX Falcon 9 rocket vaulted toward the skies at 8 p.m. ET Sunday with the secretive payload. It launched from Cape Canaveral Air Force Station in Florida... The company [then] executed its signature move: guiding the first-stage rocket booster back to Earth for a safe landing. Just over two minutes after liftoff Sunday, the first-stage booster separated from the second stage and fired up its engines. The blaze allowed the rocket to safely cut back through the Earth's atmosphere and land on a pad at the Cape Canaveral Air Force Station... The company completed a record-setting 18 launches last year, and SpaceX plans to do even more this year, according to spokesman James Gleeson.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=SpaceX+Completes+First+Launch+of+2018%3A+Secretive+'Zuma'+Spacecraft%3A+http%3A%2F%2Fbit.ly%2F2CSaEVO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F08%2F0129233%2Fspacex-completes-first-launch-of-2018-secretive-zuma-spacecraft%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578945&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eDg9mysvNto" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-08T02:34:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>if-I-told-you-it-wouldn't-be-a-secret</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,35,25,25,6,2,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Some Smartphone Salesmen Aren't Sold on the iPhone X</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cpnL426eZ5w/some-smartphone-salesmen-arent-sold-on-the-iphone-x</link>
+<description>A CNET reporter visited four carrier stores to ask their salesmen if they'd recommend an iPhone X. But after visiting stores for Sprint, T-Mobile, AT&amp;amp;T, and Verizon, "I couldn't even find a salesperson to tell me it was the best iPhone I could buy." So he finally tried asking three salesmen at Apple Stores -- and still got equivocal answers. An anonymous reader quotes CNET's report:
+"Well, it depends on what you like," the salesman said, somewhat coyly. "The biggest problem I have with it is using Face ID for Apple Pay. You really have to put the phone at a certain angle or it doesn't work." He started with a problem. I was already suspicious. I was in something of a hurry, but I asked him: "So are you selling a lot more of these than other phones?" 
+He turned into a high-ranking member of a political party. "All our phones sell well," he said. Which sounded not entirely reassuring. Indeed, it sounded like a "no." 
+Chatting next with an Apple store "Genius" (who was testing his iPhone 6), CNET's reporter was told that "The X and the 8 are the same phone... Inside, I mean. With the X, you're just paying the extra money for the design." Unfortunately, that salesman's $999 iPhone X was wrapped in an ugly pink case, because after four weeks he'd already cracked it. And a third Apple salesman -- who touted the glories of an OLED screen -- also kept his iPhone X in a case at all times "It's glass," he explained. "You'll definitely need a case." 
+"But what about not being able to see the lovely phone?" 
+"Get a see-through case," he replied with a smile.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Some+Smartphone+Salesmen+Aren't+Sold+on+the+iPhone+X%3A+http%3A%2F%2Fbit.ly%2F2ElmNPd"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F07%2F2354218%2Fsome-smartphone-salesmen-arent-sold-on-the-iphone-x%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578859&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cpnL426eZ5w" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-08T00:34:00+00:00</dc:date>
+<dc:subject>iphone</dc:subject>
+<slash:department>down-on-upsells</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>136</slash:comments>
+<slash:hit_parade>136,124,74,54,14,7,3</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>C Programming Language 'Has Completed a Comeback'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yOjSv2hAhkI/c-programming-language-has-completed-a-comeback</link>
+<description>InfoWorld reports that "the once-declining C language" has "completed a comeback" -- citing its rise to second place in the Tiobe Index of language popularity, the biggest rise of any language in 2017. An anonymous reader quotes their report:
+Although the language only grew 1.69 percentage points in its rating year over year in the January index, that was enough beat out runners-up Python (1.21 percent gain) and Erlang (0.98 percent gain). Just five months ago, C was at its lowest-ever rating, at 6.477 percent; this month, its rating is 11.07 percent, once again putting it in second place behind Java (14.215 percent) -- although Java dropped 3.05 percent compared to January 2017. C's revival is possibly being fueled by its popularity in manufacturing and industry, including the automotive market, Tiobe believes... 
+But promising languages such as Julia, Hack, Rust, and Kotlin were not able to reach the top 20 or even the top 30, Tiobe pointed out. "Becoming part of the top 10 or even the top 20 requires a large ecosystem of communities and evangelists including conferences," said Paul Jansen, Tiobe managing director and compiler of the index. "This is not something that can be developed in one year's time." 
+For 2017 Tiobe also reports that after Java and C, the most popular programming languages were C++, Python, C#, JavaScript, Visual Basic .Net, R, PHP, and Perl.
+ 
+The rival Pypl Popularity of Programming Language index calculates that the most popular languages are Java, Python, PHP, JavaScript, C#, C++, C, R, Objective-C, and Swift.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=C+Programming+Language+'Has+Completed+a+Comeback'%3A+http%3A%2F%2Fbit.ly%2F2ABUVnX"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F07%2F1941209%2Fc-programming-language-has-completed-a-comeback%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578625&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yOjSv2hAhkI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T23:34:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>C-you-later</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>152</slash:comments>
+<slash:hit_parade>152,144,103,94,18,11,4</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Can You Install Linux On a 1993 PC?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7Qt6WSQ0JgY/can-you-install-linux-on-a-1993-pc</link>
+<description>The oldest x86 CPU that the Linux kernel supports today is theoretically the 486. However is this theory actually true in practice? I decided to put this theory to the test in my project. 
+His site describes installing Gentoo Linux on an "ancient" IBM PS/1 Consultant 2133 19C (released in 1993), with 64MB SIMM-72 RAM. (Though to speed things up, he compiled that minimal version of Gentoo on a modern Thinkpad T430 released in 2012.) "Due to the age of the PC, the BIOS only supports booting from the floppy drive or internal HDD," so there was also some disk partitioning and kernel configuration. ("Must disable 64-bit kernel for obvious reasons!") A half-hour video shows that it takes almost 11 minutes just to boot up -- and five and a half minutes to shut down. "Despite the many roadblocks I faced, I was impressed by the level of support Linux has for ancient hardware like this." 
+
+And there's one more added bonus. "Given the age of the 486 (1989 technology), it does not support branch prediction... Ironically this makes it safe from the Meltdown and Spectre attacks."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Can+You+Install+Linux+On+a+1993+PC%3F%3A+http%3A%2F%2Fbit.ly%2F2D47Txq"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F07%2F228222%2Fcan-you-install-linux-on-a-1993-pc%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578773&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7Qt6WSQ0JgY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T22:34:00+00:00</dc:date>
+<dc:subject>linux</dc:subject>
+<slash:department>quarter-of-a-century</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>173</slash:comments>
+<slash:hit_parade>173,167,102,77,18,5,1</slash:hit_parade>
+<feedburner:origLink>https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Pentagon Seeks Laser-Powered Bat Drones</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uS2fzS7cF-8/pentagon-seeks-laser-powered-bat-drones</link>
+<description>Zorro quotes DefenseOne:
+A new contest seeks flight systems inspired by Mother Nature and powered by directed-energy beams. Tired: multi-rotor copters and fixed-wing drones. Wired: flying robots that move like living animals, are crafted of next-generation materials, and draw their power not from batteries but energy beamed from nearby aircraft... 
+"The biological study of agile organisms such as bats and flying insects has yielded new insights into complex flight kinematics of systems with a large number of degrees of freedom, and the use of multi-functional flight surface materials," the announcement reads. The Air Force believes that more and more naturalistic design -- coupled with more powerful and smaller sensors to form a better picture of the outside world -- should yield "significant improvements in maneuverability, survivability and stealth over traditional quadcopter or fixed wing designs." 
+The article includes a link to a CalTech video showing footage of an advanced robotic bat.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Pentagon+Seeks+Laser-Powered+Bat+Drones%3A+http%3A%2F%2Fbit.ly%2F2D48Ci5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F07%2F2048221%2Fpentagon-seeks-laser-powered-bat-drones%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578699&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uS2fzS7cF-8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T21:34:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>flying-by-radar</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,38,21,17,2,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>After Intel ME, Researchers Find Security Bug In AMD's SPS Secret Chip-on-Chip</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zU2RmC8m_8o/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip</link>
+<description>An anonymous reader writes: AMD has fixed, but not yet released BIOS/UEFI/firmware updates for the general public for a security flaw affecting the AMD Secure Processor. This component, formerly known as AMD PSP (Platform Security Processor), is a chip-on-chip security system, similar to Intel's much-hated Management Engine (ME). Just like Intel ME, the AMD Secure Processor is an integrated coprocessor that sits next to the real AMD64 x86 CPU cores and runs a separate operating system tasked with handling various security-related operations. The security bug is a buffer overflow that allows code execution inside the AMD SPS TPM, the component that stores critical system data such as passwords, certificates, and encryption keys, in a secure environment and outside of the more easily accessible AMD cores. Intel fixed a similar flaw last year in the Intel ME.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=After+Intel+ME%2C+Researchers+Find+Security+Bug+In+AMD's+SPS+Secret+Chip-on-Chip%3A+http%3A%2F%2Fbit.ly%2F2CORjVv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F07%2F2015226%2Fafter-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578667&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zU2RmC8m_8o" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T20:34:00+00:00</dc:date>
+<dc:subject>bug</dc:subject>
+<slash:department>in-the-chips</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>71</slash:comments>
+<slash:hit_parade>71,64,32,26,7,2,2</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>John Young, Legendary Astronaut, Dies at Age 87</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4ecjK3HPqt8/john-young-legendary-astronaut-dies-at-age-87</link>
+<description>Legendary astronaut John Young -- who walked on the moon and piloted the first space shuttle -- died Friday at the age of 87. schwit1 shares a nice profile from CBS News:
+A naval aviator and test pilot, Young logged more than 15,275 hours flying time in a variety of aircraft, including 9,200 hours in T-38 jets. He spent 835 hours in space across his six NASA flights, serving as co-pilot of the first Gemini mission in 1965, commander of a second Gemini flight in 1966, lunar module pilot for Apollo 10 in 1969, commander of Apollo 16 in 1972 and commander of the first shuttle flight in 1981... Young was the first man to fly in space six times and the only astronaut to fly aboard Gemini and Apollo capsules and the space shuttle...
+He also brought a legendary cool nerve to an inherently dangerous job that amazed his compatriots. "I found out from the flight surgeon later on that my heartbeat was 144 at liftoff," Charlie Duke, one of Young's crewmates on the Apollo 16 moon landing mission, said of his reaction to launch atop a Saturn 5 rocket. "John's (heartbeat) was 70".
+
+ 
+
+On one space shuttle flight, two of the ship's three auxiliary power units actually caught on fire, and exploded just minutes after touchdown. But Young always kept his cool. In 2010 Slashdot remembered the first manned Gemini mission in 1965. When it reached orbit, Young surprised his fellow astronaut Gus Grissom by pulling a fresh corned beef sandwich out of his pocket. 
+An anonymous Slashdot reader writes: Andrew Chaikin, author of "A Man on the Moon: The Voyages of the Apollo Astronauts", remembers that Young "used to talk about how if we stay on this planet for too long, something's going to get us, whether it was a super volcano or whatever. He really was a true believer." NASA Administrator Robert Lightfoot added that Young's career "spanned three generations of spaceflight; we will stand on his shoulders as we look toward the next human frontier." 
+
+In 2012 -- when he was in his 80s -- Young published a memoir titled Forever Young: A Life of Adventure in Air and Space. "My life has been long, and it has been interesting. It's also been a lot of fun, and a lot of hard, challenging work. If I could do it over, I would do it over the very same way.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=John+Young%2C+Legendary+Astronaut%2C+Dies+at+Age+87%3A+http%3A%2F%2Fbit.ly%2F2Ejkf4i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F07%2F185257%2Fjohn-young-legendary-astronaut-dies-at-age-87%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578511&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4ecjK3HPqt8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T19:34:00+00:00</dc:date>
+<dc:subject>moon</dc:subject>
+<slash:department>real-life-space-odysseys</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>35</slash:comments>
+<slash:hit_parade>35,33,20,17,3,2,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Sold 6.75 Million 'Google Home' Devices In the Last 80 Days</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/evRJa6JqawE/google-sold-675-million-google-home-devices-in-the-last-80-days</link>
+<description>An anonymous reader quotes TechCrunch:
+Google today announced that it sold "tens of millions of Google devices for the home" over the course of the last year and that it sold "more than one Google Home device every second since Google Home Mini started shipping in October," with roughly 6.75 million seconds since October 19 (the day the Home Mini officially went on sale)... The launch of the Google Home Mini, which you could easily buy for $29 (and occasionally for $19 with store credit) gave the company a low-price competitor to Amazon's Echo Dots, and even though it's doubtful that Google made a lot of money of these sales, the move clearly paid off. 
+The Verge adds:
+Google is thought to be losing money on every unit of the Home Mini; Reuters reported on one analysis that pegged the device's parts alone at $26, not including the cost of developing the entire thing, supporting it, advertising it, shipping it, and so on. Of course, Google is in this for the long game -- the Assistant is an attempt to make sure Google remains the way people get information, and Google has plenty of options to make money through ads or the data it collects in the future... 
+Amazon is also believed to be losing money on the Echo Dot, which was similarly cut to $29 during the holiday season. Amazon never gives out specific sales figures, but it did say that "tens of millions" of its own Alexa-enabled devices were sold over the holidays, with the Echo Dot being one of the top sellers... These super cheap prices are getting people to buy smart speakers and commit to an ecosystem. These companies are clearly happy to spend a few dollars gaining customers in the short term so that they have an enormous audience available to them down the road.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Sold+6.75+Million+'Google+Home'+Devices+In+the+Last+80+Days%3A+http%3A%2F%2Fbit.ly%2F2AB9ckB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F07%2F171214%2Fgoogle-sold-675-million-google-home-devices-in-the-last-80-days%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578415&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/evRJa6JqawE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T18:34:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>things-that-cost-$29</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>82</slash:comments>
+<slash:hit_parade>82,82,43,39,10,6,3</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Researchers Create 'Psychedelic' Stickers That Confuse AI Image Recognition</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eeGQljgYtOc/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition</link>
+<description>"Researchers at Google were able to create little stickers with 'psychedelic'-looking patterns on them that could trick computer AI image-classifying algorithms into mis-classifying images of objects that it would normally be able to recognize," writes amxcoder:
+The patterned stickers work by tricking the image recognition algorithm into focusing on, and studying, the little pattern on the small sticker -- and ignoring the rest of the image, including the actual object in the picture... The images on the stickers were created by the researchers using knowledge of features and shapes, patterns, and colors that the image recognition algorithms look for and focus on.
+ 
+These stickers were created so that the algorithm finds them 'more interesting' than the rest of the image and will focus most of it's attention on analyzing the pattern, while giving the rest of the image content a lower importance, thus ignoring it or confusing it. 
+The technique "works in the real world, and can be disguised as an innocuous sticker," note the researchers -- describing them as "targeted adversarial image patches."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers+Create+'Psychedelic'+Stickers+That+Confuse+AI+Image+Recognition%3A+http%3A%2F%2Fbit.ly%2F2COPibN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F07%2F0619207%2Fresearchers-create-psychedelic-stickers-that-confuse-ai-image-recognition%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577629&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eeGQljgYtOc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T17:34:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>Lucy-in-disguise-with-diamonds</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>99</slash:comments>
+<slash:hit_parade>99,96,63,58,21,4,3</slash:hit_parade>
+<feedburner:origLink>https://slashdot.org/story/18/01/07/0619207/researchers-create-psychedelic-stickers-that-confuse-ai-image-recognition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NASA Tests a Drone To Explore Jupiter's Moon in Antarctica</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BrhrIXJ0nw4/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica</link>
+<description>Three months of research in Antarctica is just the beginning for one Georgia Tech researcher, according to an article shared by schwit1:
+The waters beneath our planet's ice sheet are fascinating, turning up species few people have ever laid eyes on. But they are not the final target of this chase. Icefin [a 10-foot-long subsea drone] is meant to search for alien life -- a "bug hunt," as some scientists cheerfully call it. It is bound for the icy waters of Jupiter's moon, Europa, possibly as soon as 2030...
+ 
+The new equipment includes sensors to monitor for organics and measure environmental factors like the presence of dissolved oxygen and levels of acidity, all to see if Europa could (in theory) support life in its subterranean seas... The subsea drone is also smarter than its prototype predecessor, and that high-IQ autonomy would be needed on Europa. The probe must not only operate 400 million miles from Earth but also navigate all by itself under alien ice.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NASA+Tests+a+Drone+To+Explore+Jupiter's+Moon+in+Antarctica%3A+http%3A%2F%2Fbit.ly%2F2CSqkbu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F07%2F0549201%2Fnasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577589&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BrhrIXJ0nw4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T16:34:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>very-cold-drones</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,56,32,29,3,1,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/07/0549201/nasa-tests-a-drone-to-explore-jupiters-moon-in-antarctica?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>A Popular Sugar Additive May Have Fueled the Spread of Two Superbugs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HlFhNyiBEbE/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs</link>
+<description>Zorro (Slashdot reader #15,797) quotes the Los Angeles Times:
+Two bacterial strains that have plagued hospitals around the country may have been at least partly fueled by a sugar additive in our food products, scientists say. Trehalose, a sugar that is added to a wide range of food products, could have allowed certain strains of Clostridium difficile to become far more virulent than they were before, a new study finds. The results, described in the journal Nature, highlight the unintended consequences of introducing otherwise harmless additives to the food supply. 
+Nearly half a million people were sickened by C. difficile in 2011, when it was directly linked to 15,000 deaths.
+"The misuse and overuse of antibiotics has long been thought to be responsible for the rise of many kinds of antibiotic-resistant 'superbug'," notes the article, before citing a researcher who now believes "the circumstantial and experimental evidence points to trehalose as an unexpected culprit."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=A+Popular+Sugar+Additive+May+Have+Fueled+the+Spread+of+Two+Superbugs%3A+http%3A%2F%2Fbit.ly%2F2D3VEBf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F07%2F0418217%2Fa-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577521&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HlFhNyiBEbE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T15:34:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>not-so-sweet</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>98</slash:comments>
+<slash:hit_parade>98,95,74,64,19,11,8</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/07/0418217/a-popular-sugar-additive-may-have-fueled-the-spread-of-two-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Nvidia Wants To Prohibit Consumer GPU Use In Datacenters</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DFlqOr5gHXw/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters</link>
+<description>The Register reports:
+Nvidia has banned the use of its GeForce and Titan gaming graphics cards in data centers -- forcing organizations to fork out for more expensive gear, like its latest Tesla V100 chips. The chip-design giant updated its GeForce and Titan software licensing in the past few days, adding a new clause that reads: "No Datacenter Deployment. The SOFTWARE is not licensed for datacenter deployment, except that blockchain processing in a datacenter is permitted." 
+
+Long-time Slashdot reader Xesdeeni has a few questions:
+Is this really even legal? First, because it changes use of existing hardware, already purchased, by changing software (with potentially required bug fixes) agreements retroactively. Second, because how can a customer (at least in the U.S.) be told they can't use a product in a particular place, unless it's a genuine safety or security concern (i.e. government regulation)!? 
+
+Nvidia expects that "working together with our user base on a case-by-case basis, we will be able to resolve any customer concerns," they told CNBC, adding that "those who don't download new drivers won't be held to the new terms."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Nvidia+Wants+To+Prohibit+Consumer+GPU+Use+In+Datacenters%3A+http%3A%2F%2Fbit.ly%2F2CQRorK"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F07%2F0010221%2Fnvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577367&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DFlqOr5gHXw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-07T14:34:00+00:00</dc:date>
+<dc:subject>hardware</dc:subject>
+<slash:department>get-off-of-my-cloud</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>277</slash:comments>
+<slash:hit_parade>277,274,162,131,41,23,17</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/07/0010221/nvidia-wants-to-prohibit-consumer-gpu-use-in-datacenters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Would You Use a Smartphone-Style Laptop With a Three-Day Battery Life?</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KWED4w-VKYo/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life</link>
@@ -62,345 +396,9 @@ And Qualcomm's senior director of product management says there's more ways that
 <dc:subject>cellphones</dc:subject>
 <slash:department>decisions-decisions</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>36</slash:comments>
-<slash:hit_parade>36,36,22,21,1,0,0</slash:hit_parade>
+<slash:comments>177</slash:comments>
+<slash:hit_parade>177,176,116,102,16,8,6</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/07/0759200/would-you-use-a-smartphone-style-laptop-with-a-three-day-battery-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google Loses Up to 250 Bikes a Week</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MHYxbjI9O-k/google-loses-up-to-250-bikes-a-week</link>
-<description>What's happening to Google's 1,100 Gbikes? The Mercury News reports:
-Last summer, it emerged that some of the company's bikes -- intended to help Googlers move quickly and in environmentally friendly fashion around the company's sprawling campus and surrounding areas -- were sleeping with the fishes in Stevens Creek. And now, a new report has revealed that 100 to 250 Google bikes go missing every week, on average. "The disappearances often aren't the work of ordinary thieves, however. Many residents of Mountain View, a city of 80,000 that has effectively become Google's company town, see the employee perk as a community service," the Wall Street Journal reported. 
-
-And for the company, here's one Google bike use case that's got to burn a little: 68-year-old Sharon Veach told the newspaper that she sometimes uses one of the bicycles as part of her commute: to the offices of Google's arch foe, Oracle... Mountain View Mayor Ken Rosenberg even admitted to helping himself to a Google bike to go to a movie after a meeting at the company's campus, according to the WSJ. 
-
-One Silicon Valley resident reportedly told a neighbor that "I've got a whole garage full of them," while Veach describes the bikes as "a reward for having to deal with the buses" that carry Google employees.
-Google has already hired 30 contractors to prowl the city in five vans looking for lost or stolen bikes -- only a third of which have GPS trackers -- and they eventually recover about two-thirds of the missing bikes.
- 
-
-They've discovered them as far away as Mexico, Alaska, and the Burning Man festival in Nevada.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Loses+Up+to+250+Bikes+a+Week%3A+http%3A%2F%2Fbit.ly%2F2D2z0cw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F07%2F0711244%2Fgoogle-loses-up-to-250-bikes-a-week%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577689&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MHYxbjI9O-k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T08:34:00+00:00</dc:date>
-<dc:subject>transportation</dc:subject>
-<slash:department>I'm-feeling-lucky</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>76</slash:comments>
-<slash:hit_parade>76,71,33,28,5,2,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/07/0711244/google-loses-up-to-250-bikes-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ask Slashdot: What's the Best Media Streaming Device?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/V2WHMY14slk/ask-slashdot-whats-the-best-media-streaming-device</link>
-<description>The network card died on Thelasko's smart TV -- and rather than spend $65 on a new one, they're considering buying a nice, simple streaming box.
-I am running a Rygel server on my PC, but rarely use it... I primarily only watch Amazon Prime, Netflix, and YouTube for streaming, and am wondering what Slashdot users have found to be the best option. I'm considering Roku or Chromecast because they are well known and supported. However, I have heard a lot of news about Kodi devices being more hackable. 
-AppleTV? Amazon Fire TV? The Emtec GEM Box? Building your own from a Raspberry Pi? Leave your own thoughts and suggestions in the comments.
- 
-What's the best media streaming device?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What's+the+Best+Media+Streaming+Device%3F%3A+http%3A%2F%2Fbit.ly%2F2Egtn9J"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F07%2F0035249%2Fask-slashdot-whats-the-best-media-streaming-device%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577375&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/V2WHMY14slk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T05:24:00+00:00</dc:date>
-<dc:subject>media</dc:subject>
-<slash:department>discerning-couch-potatoes</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>113</slash:comments>
-<slash:hit_parade>113,112,72,58,5,2,0</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/07/0035249/ask-slashdot-whats-the-best-media-streaming-device?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Your Car May Soon Start Serving You Ads</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CfLTt7mO8l8/your-car-may-soon-start-serving-you-ads</link>
-<description>An anonymous reader quotes SiliconBeat:
-Santa Clara auto-tech firm Telenav has just announced an "in-car advertising platform" for cars that connect to the internet. Telenav wants to sell the system to major auto manufacturers. And although it's probably the last thing many consumers want, vehicle owners will pay more for connected-car services if they decline the ads. "This approach helps car makers offset costs related to connected services, such as wireless data, content, software and cloud services," a spokeswoman for Telenav said Jan. 5. "In return for accepting ads in vehicles, drivers benefit from access to connected services without subscription fees, as well as new driving experiences that come from the highly-targeted and relevant offers delivered based on information coming from the vehicle." 
-Auto makers including Toyota, Lexus, Ford, GM and Cadillac already use the company's connected-car products, the spokeswoman said. Telenav CEO H.P. Jin in a press release called the ad platform "an exciting new opportunity" for vehicle manufacturers to "monetize connectivity to cover service costs and even drive healthy profits while enriching the consumer experience with safely delivered, engaging and relevant offers"... 
-To prevent driver distraction, "ads only appear when the vehicle is stopped, such as at car startup, traffic lights and upon arrival," Telenav said... Of course, driver distraction won't be an issue in self-driving cars, and this technology suggests the captive audiences in those vehicles will likely be subjected to an ad barrage in robotic ride-sharing vehicles and automated cars whose owners decline to pay more to avoid in-car advertising.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Your+Car+May+Soon+Start+Serving+You+Ads%3A+http%3A%2F%2Fbit.ly%2F2Egelks"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F06%2F0014223%2Fyour-car-may-soon-start-serving-you-ads%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574369&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CfLTt7mO8l8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T02:19:00+00:00</dc:date>
-<dc:subject>advertising</dc:subject>
-<slash:department>pull-over-and-buy-something</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>198</slash:comments>
-<slash:hit_parade>198,196,115,104,24,12,7</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/06/0014223/your-car-may-soon-start-serving-you-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Can We Replace Intel x86 With an Open Source Chip?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/YygMg3UnrBQ/can-we-replace-intel-x86-with-an-open-source-chip</link>
-<description>An anonymous reader quotes, Jason Perlow, the senior technology editor at ZDNet:
-Perhaps the Meltdown and Spectre bugs are the impetus for making long-overdue changes to the core DNA of the semiconductor industry and how chip architectures are designed... Linux (and other related FOSS tech that forms the overall stack) is now a mainstream operating system that forms the basis of public cloud infrastructure and the foundational software technology in mobile and Internet of Things (IoT)... We need to develop a modern equivalent of an OpenSPARC that any processor foundry can build upon without licensing of IP, in order to drive down the costs of building microprocessors at immense scale for the cloud, for mobile and the IoT. It makes the $200 smartphone as well as hyperscale datacenter lifecycle management that much more viable and cost-effective. 
-
-Just as Linux and open source transformed how we view operating systems and application software, we need the equivalent for microprocessors in order to move out of the private datacenter rife with these legacy issues and into the green field of the cloud... The fact that we have these software technologies that now enable us to easily abstract from the chip hardware enables us to correct and improve the chips through community efforts as needs arise... We need to stop thinking about microprocessor systems' architectures as these licensed things that are developed in secrecy by mega-companies like Intel or AMD or even ARM... The reality is that we now need to create something new, free from any legacy entities and baggage that has been driving the industry and dragging it down the past 40 years. Just as was done with Linux. 
-The bigger question is which chip should take its place. "I don't see ARM donating its IP to this effort, and I think OpenSPARC may not be it either. Perhaps IBM OpenPOWER? It would certainly be a nice gesture of Big Blue to open their specification up further without any additional licensing, and it would help to maintain and establish the company's relevancy in the cloud going forward.
- 
-"RISC-V, which is being developed by UC Berkeley, is completely Open Source."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Can+We+Replace+Intel+x86+With+an+Open+Source+Chip%3F%3A+http%3A%2F%2Fbit.ly%2F2ABhbOO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F06%2F0424200%2Fcan-we-replace-intel-x86-with-an-open-source-chip%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574643&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/YygMg3UnrBQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T00:14:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>chips-on-our-shoulders</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>225</slash:comments>
-<slash:hit_parade>225,220,140,122,25,13,9</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/06/0424200/can-we-replace-intel-x86-with-an-open-source-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Orange Goo Used In Everything From Armor To Football Helmets</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Kj18pnAC9j0/the-orange-goo-used-in-everything-from-armor-to-football-helmets</link>
-<description>dryriver writes:
-CNN has a story about a slimy, gooey orange gel developed by British company D3O as far back as 1999 that is very soft and fluid-like normally, but that hardens immediately when it receives an impact: It's a gel that acts as both a liquid and a solid. When handled slowly the goo is soft and flexible but the moment it receives an impact, it hardens. It's all thanks to the gel's shock-absorbing properties... Felicity Boyce, a material developer at D3O, told CNN, "if you hit it with great force, it behaves more like a solid that's absorbing the shock and none of that impact goes through my hand." 
-American football has become a huge market for the British company, where the gel is incorporated in padding and helmets to absorb the impact of any hits a player receives. D3O claims it can reduce blunt impact by 53% compared to materials like foam. The material can also be put inside running shoes to improve performance and reduce the risk of foot injury. Usain Bolt ran with D3O gel insoles in his shoes at the 2016 Rio Olympics. 
-The material is being tested in body armor. "While we don't have a material that can stop a bullet, we do have a material that can reduce the amount of trauma that your body would experience if you got shot." There are also soft smartphone casings using the gel that harden when the phone is dropped and hits a hard surface.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Orange+Goo+Used+In+Everything+From+Armor+To+Football+Helmets%3A+http%3A%2F%2Fbit.ly%2F2D1aEQ4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F06%2F2035226%2Fthe-orange-goo-used-in-everything-from-armor-to-football-helmets%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577227&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Kj18pnAC9j0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-06T23:09:00+00:00</dc:date>
-<dc:subject>biotech</dc:subject>
-<slash:department>liquids-that-turn-solid</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>73</slash:comments>
-<slash:hit_parade>73,65,34,29,8,6,4</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/06/2035226/the-orange-goo-used-in-everything-from-armor-to-football-helmets?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Kansas 'Swat' Perpetrator Had Already Been To Prison For Fake Bomb Threats</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/t3XKWq2cePg/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats</link>
-<description>More details are emerging about an online gamer whose fake call to Kansas police led to a fatal shooting:
-
- "After phoning in a false bomb threat to a Glendale, California TV station in 2015, Tyler Barriss threatened to kill his grandmother if she reported him, according to local reports and court documents." -- The Wichita Eagle "The Glendale Police Department confirmed to ABC News that Tyler Barriss made about 20 calls to universities and media outlets throughout the country around the time he was arrested for a bomb threat to Los Angeles ABC station KABC in 2015... He was sentenced to two years and eight months in jail, court records show." -- ABC News "Within months of his release in August, he had already become the target of a Los Angeles Police Department investigation into similar hoax calls... LAPD detectives were planning to meet with federal prosecutors to discuss their investigation..." -- The Los Angeles Times The Wichita Eagle reports that even after the police had fatally shot the person SWauTistic was pretending to be, he continued his phone call with the 911 operator for another 16 minutes -- on a call which lasted over half an hour. Brian Krebs reports that police may have been aided in their investigation by another reformed SWAT perpetrator -- adding that SWauTistic privately claimed to have already called in fake emergencies at approximately 100 schools and 10 homes.
-
-Just last month SWauTistic's Twitter account showed him bragging about a bomb threat which caused the evacuation of a Dallas convention center, according to the Daily Beast -- after which SWauTistic encouraged his Twitter followers to also follow him on a second account, "just in case twitter suspends me for being a god." Later the 25-year-old tweeted that "if you can't pull off a swat without getting busted you're not a leet hacking God its that simple."	 
-
-Barriss remains in jail in Los Angeles with no bond, though within three weeks he's expected to be extradited to Kansas for his next trial.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Kansas+'Swat'+Perpetrator+Had+Already+Been+To+Prison+For+Fake+Bomb+Threats%3A+http%3A%2F%2Fbit.ly%2F2EfJVyV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F06%2F2020206%2Fkansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577215&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/t3XKWq2cePg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-06T22:04:00+00:00</dc:date>
-<dc:subject>crime</dc:subject>
-<slash:department>not-passing-Go</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>220</slash:comments>
-<slash:hit_parade>220,205,111,92,30,19,13</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/06/2020206/kansas-swat-perpetrator-had-already-been-to-prison-for-fake-bomb-threats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Bill Gates Is First Guest Editor In Time Magazine's 94-Year History</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/K4eRmGIr1i0/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history</link>
-<description>Long-time Slashdot reader theodp writes: Time invited Bill Gates to be the first guest editor in the 94-year history of the magazine. Among the news Bill deemed fit to print in Time's first augmented-reality-enhanced issue were articles by wife Melinda and pal Bono, both of whom graced the cover of Time with Bill as the 2005 Persons of the Year... Another article reveals that "the four learning hacks Bill Gates swears by" include Khan Academy (a $10+ million Gates Foundation partner), tech-backed Code.org (to which Bill, the Gates Foundation, Microsoft, and Steve Ballmer have given somewhere north of $17M), the Big History Project (to which Bill had contributed a "modest $10 million" as of 2014), and The Teaching Company (which got Bill stoked about Big History). 
-The issue also includes Gates' "four favorite ways to give back" and "six innovations that could change the world." In fact, the theme of the whole issue is "optimism," with 62-year-old Gates writing that "On the whole, the world is getting better. This is not some naively optimistic view; it's backed by data. Look at the number of children who die before their fifth birthday. Since 1990, that figure has been cut in half. That means 122 million children have been saved in a quarter-century, and countless families have been spared the heartbreak of losing a child." 
-
-Another optimistic essay came from Daily Show host Trever Noah, who writes, "Mock millennials all you want. Here's why they give me hope."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Bill+Gates+Is+First+Guest+Editor+In+Time+Magazine's+94-Year+History%3A+http%3A%2F%2Fbit.ly%2F2Az4HY5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F06%2F1845251%2Fbill-gates-is-first-guest-editor-in-time-magazines-94-year-history%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11577121&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/K4eRmGIr1i0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-06T20:59:00+00:00</dc:date>
-<dc:subject>themedia</dc:subject>
-<slash:department>Time-for-Bill-Gates</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>57</slash:comments>
-<slash:hit_parade>57,57,31,24,6,2,1</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/06/1845251/bill-gates-is-first-guest-editor-in-time-magazines-94-year-history?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Linus Torvalds Says Intel Needs To Admit It Has Issues With CPUs</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/owaLqkudWzk/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus</link>
-<description>troublemaker_23 shares an article from ITWire:
-
-Linux creator Linus Torvalds has had some harsh words for Intel in the course of a discussion about patches for two bugs that were found to affect most of the company's processors... Torvalds was clearly unimpressed by Intel's bid to play down the crisis through its media statements, saying: "I think somebody inside of Intel needs to really take a long hard look at their CPUs, and actually admit that they have issues instead of writing PR blurbs that say that everything works as designed... Or is Intel basically saying 'we are committed to selling you shit forever and ever, and never fixing anything'?" he asked. "Because if that's the case, maybe we should start looking towards the ARM64 people more." 
-Elsewhere Linus told ZDNet that "there's no one number" for the performance drop users will experience after patches. "It will depend on your hardware and on your load. I think 5 percent for a load with a noticeable kernel component (e.g. a database) is roughly in the right ballpark. But if you do micro-benchmarks that really try to stress it, you might see double-digit performance degradation. A number of loads will spend almost all their time in user space, and not see much of an impact at all."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Linus+Torvalds+Says+Intel+Needs+To+Admit+It+Has+Issues+With+CPUs%3A+http%3A%2F%2Fbit.ly%2F2CMNMqW"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F06%2F014226%2Flinus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574419&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/owaLqkudWzk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-06T19:54:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>chips-on-his-shoulder</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>185</slash:comments>
-<slash:hit_parade>185,177,105,93,30,16,8</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/06/014226/linus-torvalds-says-intel-needs-to-admit-it-has-issues-with-cpus?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Bitcoin Debit Cards Suspended After Upstream Visa Rules Infraction</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9YFdOK5YtOc/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction</link>
-<description>At least four pre-paid debit cards that accept cryptocurrencies abruptly suspended service on Friday. An anonymous reader quotes TheNextWeb:
-Speaking to their customers on Twitter, the affected companies have said the move is the result of actions from their card issuer, [WaveCrest], who was acting on behalf of Visa Europe... A statement from Visa Europe obtained by The Daily Beast reporter Joseph Cox said the action was taken due to WaveCrest's "non-compliance" with VISA's membership regulations... In its statement, Visa makes clear that this isn't a crackdown on cryptocurrencies, but rather action against one company that broke its rules. 
-"All funds stored on cards are safe and will be returned to your Cryptopay accounts ASAP," one of the affected debit card companies assured users on Twitter, adding "Sorry for all the inconvenience caused..." 
-According to the article, "Some users on Twitter are reportedly stranded abroad without funds."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Bitcoin+Debit+Cards+Suspended+After+Upstream+Visa+Rules+Infraction%3A+http%3A%2F%2Fbit.ly%2F2D2f61b"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F06%2F0612205%2Fbitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11575067&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9YFdOK5YtOc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-06T18:49:00+00:00</dc:date>
-<dc:subject>money</dc:subject>
-<slash:department>not-everywhere-you-want-to-be</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,61,35,29,8,4,3</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/06/0612205/bitcoin-debit-cards-suspended-after-upstream-visa-rules-infraction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Rust 1.23.0 Released,  Community Urged To Blog Ideas For 2018 Roadmap</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LMv1CL7HSAc/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap</link>
-<description>An anonymous reader quotes the official Rust blog:
-The Rust team is happy to announce a new version of Rust, 1.23.0... New year, new Rust! For our first improvement today, we now avoid some unnecessary copies in certain situations. We've seen memory usage of using rustc to drop 5-10% with this change; it may be different with your programs...
-The documentation team has been on a long journey to move rustdoc to use CommonMark. Previously, rustdoc never guaranteed which markdown rendering engine it used, but we're finally committing to CommonMark. As part of this release, we render the documentation with our previous renderer, Hoedown, but also render it with a CommonMark compliant renderer, and warn if there are any differences. 
-
-A few new APIs were also stabilized in this release -- see the complete release notes here -- and you no longer need to import the trait AsciiExt to provide ASCII-related functionality on u8, char, [u8], and str. 
-
-The Rust blog made another announcement earlier this week. "As open source software becomes more and more ubiquitous and popular, the Rust team is interested in exploring new and innovative ways to solicit community feedback and participation." So while defining Rust's roadmap for 2018, "we'd like to try something new in addition to the RFC process: a call for community blog posts for ideas of what the goals should be."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Rust+1.23.0+Released%2C++Community+Urged+To+Blog+Ideas+For+2018+Roadmap%3A+http%3A%2F%2Fbit.ly%2F2AAva7w"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F06%2F0147234%2Frust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574479&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LMv1CL7HSAc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-06T17:44:00+00:00</dc:date>
-<dc:subject>programming</dc:subject>
-<slash:department>requests-for-comments-on-requests-for-comments</slash:department>
-<slash:section>developers</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,61,27,19,6,4,0</slash:hit_parade>
-<feedburner:origLink>https://developers.slashdot.org/story/18/01/06/0147234/rust-1230-released-community-urged-to-blog-ideas-for-2018-roadmap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Lindows Resurrected! Freespire 3.0 and Linspire 7.0 Linux Distros Now Available</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4bCdjz-6MBE/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available</link>
-<description>BrianFagioli writes: About 16 years ago, a for-pay Linux distribution caused quite a stir all because of its name -- Lindows. Yes, someone actually thought kicking the billion dollar hornets nest that is Microsoft by playing off of the "Windows" name was a good idea. To be honest, from a marketing perspective, it was brilliant -- it got tons of free press. Microsoft eventually killed the Lindows name by use of money and the legal system, however. Ultimately, the Linux distro was renamed "Linspire." Comically, there was a Lindows Insiders program way before Windows Insiders! After losing the Lindows name, the operating system largely fell out of the spotlight, and its 15 minutes of fame ended. After all, without the gimmicky name, it was hard to compete with free Linux distros with a paid OS. Not to mention, Richard Stallman famously denounced the OS for its non-free ways. The company eventually created a free version of its OS called Freespire, but by 2008, both projects were shut down by its then-owner, Xandros. Today, however, a new Linspire owner emerges -- PC/OpenSystems LLC. And yes, Lindows is rising from the grave -- as Freespire 3.0 and Linspire 7.0! "Today the development team at PC/Opensystems LLC is pleased to announce the release of Freespire 3.0 and Linspire 7.0. While both contain common kernel and common utilities, they are targeted towards two different user bases. Freespire is a FOSS distribution geared for the general Linux community, making use of only open source components, containing no proprietary applications. This is not necessarily a limitation : through our software center and extensive repositories, Freespire users can install any application that they wish," says PC/OpenSystems LLC. Back in 2003 the CEO of Lindows answered questions from Slashdot readers. 
-
-The first question was "Why oh why?"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Lindows+Resurrected!+Freespire+3.0+and+Linspire+7.0+Linux+Distros+Now+Available%3A+http%3A%2F%2Fbit.ly%2F2EdAYG8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F06%2F0755206%2Flindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11575599&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4bCdjz-6MBE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-06T16:39:00+00:00</dc:date>
-<dc:subject>windows</dc:subject>
-<slash:department>eight-year-hiatus</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>68</slash:comments>
-<slash:hit_parade>68,65,31,29,13,6,2</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/06/0755206/lindows-resurrected-freespire-30-and-linspire-70-linux-distros-now-available?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>'The State of JavaScript Frameworks, 2017'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/b4TirzT7SSY/the-state-of-javascript-frameworks-2017</link>
-<description>An anonymous reader shares some new statistics from Laurie Voss, co-founder and COO of npm (the package manager/software registry for JavaScript):
-
-The sum of all the package downloads in the npm Registry shows that the npm ecosystem continues to experience explosive, continuous growth... Right now, we estimate about 75% of all JavaScript developers use npm, and that number is rising quickly to reach 100%. We believe there are about 10 million npm users right now. 
-
-The first post in a three-part series graphs the popularity and growth rate for seven JavaScript frameworks.
-
- Preact is tiny but the fastest-growing. Vue is also very fast growing and neck and neck with Ember, Angular and Backbone Ember has grown more popular in the last 12 months. Angular and Backbone have both declined in popularity. jQuery remains hugely popular but decreasingly so. React is both huge and very fast-growing for its size.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status='The+State+of+JavaScript+Frameworks%2C+2017'%3A+http%3A%2F%2Fbit.ly%2F2CND1EK"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F06%2F0535226%2Fthe-state-of-javascript-frameworks-2017%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574857&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/b4TirzT7SSY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-06T15:34:00+00:00</dc:date>
-<dc:subject>programming</dc:subject>
-<slash:department>going-off-script</slash:department>
-<slash:section>developers</slash:section>
-<slash:comments>104</slash:comments>
-<slash:hit_parade>104,99,50,38,9,2,0</slash:hit_parade>
-<feedburner:origLink>https://developers.slashdot.org/story/18/01/06/0535226/the-state-of-javascript-frameworks-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Intel Hit With Three Class-Action Lawsuits Over Meltdown and Spectre Bugs</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PvYYTPTcTc8/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs</link>
-<description>An anonymous reader quotes a report from The Guardian: Intel has been hit with at least three class-action lawsuits over the major processor vulnerabilities revealed this week. Three separate class-action lawsuits have been filed by plaintiffs in California, Oregon and Indiana seeking compensation, with more expected. All three cite the security vulnerability and Intel's delay in public disclosure from when it was first notified by researchers of the flaws in June. Intel said in a statement it "can confirm it is aware of the class actions but as these proceedings are ongoing, it would be inappropriate to comment." The plaintiffs also cite the alleged computer slowdown that will be caused by the fixes needed to address the security concerns, which Intel disputes is a major factor. "Contrary to some reports, any performance impacts are workload-dependent, and, for the average computer user, should not be significant and will be mitigated over time," Intel said in an earlier statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Hit+With+Three+Class-Action+Lawsuits+Over+Meltdown+and+Spectre+Bugs%3A+http%3A%2F%2Fbit.ly%2F2CNo0CS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F06%2F0131251%2Fintel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574443&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PvYYTPTcTc8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-06T13:00:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>when-it-rains-it-pours</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>207</slash:comments>
-<slash:hit_parade>207,193,103,91,20,13,10</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/06/0131251/intel-hit-with-three-class-action-lawsuits-over-meltdown-and-spectre-bugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>A Cryptocurrency Based On a Dog Meme Is Now Worth Over $1 Billion</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VO8BT6KHG8I/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion</link>
-<description>Earlier today, the market capitlization of dogecoin, a cryptocurrency based on a meme about a Shiba Inu dog, passed the $1 billion mark for the first time. VICE News reports: Dogecoin was created back in the early days of the cryptocurrency craze. Launched in December 2013 as somewhat of a joke, the meme-inspired coin was dubbed "the internet currency" and designed to promote a sense of community and generosity rather than simply looking to make money. It gained fame during 2014 when it was used to send the Jamaican bobsled team to the Winter Olympics in Sochi and it even sponsored a Nascar team. The currency has been in relative stasis since, and despite no software updates being released in over two years, the cryptocurrency has risen more than 400 percent in the last month -- though one dogecoin is still worth just over 1 cent.
- 
-Even Jackson Palmer, one of the founders of the coin, expressed concern about the hyperinflation of dogecoin. "It says a lot about the state of the cryptocurrency space in general that a currency with a dog on it which hasn't released a software update in over 2 years has a $1 billion+ market cap," Jackson told Coindesk.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=A+Cryptocurrency+Based+On+a+Dog+Meme+Is+Now+Worth+Over+%241+Billion%3A+http%3A%2F%2Fbit.ly%2F2D1WTkf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F05%2F228224%2Fa-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11574257&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VO8BT6KHG8I" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-06T10:00:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>what's-the-world-coming-to</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>126</slash:comments>
-<slash:hit_parade>126,120,89,74,19,11,5</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/05/228224/a-cryptocurrency-based-on-a-dog-meme-is-now-worth-over-1-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
