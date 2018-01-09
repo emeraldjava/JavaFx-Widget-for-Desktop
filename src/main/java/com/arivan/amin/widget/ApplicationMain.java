@@ -75,9 +75,9 @@ public class ApplicationMain extends Application
         HBox bottomHBox = new HBox();
         leftVBox.getChildren().addAll(topVBox, middleHBox, bottomHBox);
         VBox rssVBox = new VBox();
-        VBox topProcessesVBox = new VBox();
+        VBox powerStateVBox = new VBox();
         VBox todoVBox = new VBox();
-        bottomHBox.getChildren().addAll(rssVBox, topProcessesVBox, todoVBox);
+        bottomHBox.getChildren().addAll(rssVBox, powerStateVBox, todoVBox);
         VBox rightVBox = new VBox();
         rightVBox.getChildren().add(CpuProgressBar.newInstance(rightVBox));
         rightVBox.getChildren().add(MemoryProgressBar.newInstance(rightVBox));
@@ -108,10 +108,10 @@ public class ApplicationMain extends Application
         dateTimeVBox.prefHeightProperty().bind(clockDateVBox.heightProperty().multiply(0.33));
         systemDetailsVBox.prefHeightProperty().bind(clockDateVBox.heightProperty().multiply(0.66));
         rssVBox.prefWidthProperty().bind(bottomHBox.widthProperty().multiply(0.49));
-        topProcessesVBox.prefWidthProperty().bind(bottomHBox.widthProperty().multiply(0.29));
+        powerStateVBox.prefWidthProperty().bind(bottomHBox.widthProperty().multiply(0.29));
         todoVBox.prefWidthProperty().bind(bottomHBox.widthProperty().multiply(0.2));
         rssVBox.prefHeightProperty().bind(bottomHBox.heightProperty());
-        topProcessesVBox.prefHeightProperty().bind(bottomHBox.heightProperty());
+        powerStateVBox.prefHeightProperty().bind(bottomHBox.heightProperty());
         todoVBox.prefHeightProperty().bind(bottomHBox.heightProperty());
         setStageChangeListeners(primaryStage);
         primaryStage.getIcons().add(new Image("widget icon.png"));

@@ -34,7 +34,6 @@ public class WeatherPane extends Pane
         // weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
         weatherData = OpenWeatherMap.newInstance(TextFileWeatherProvider.newInstance());
         HBox mainHBox = new HBox(10);
-        
         getChildren().add(mainHBox);
         VBox todayVBox = new VBox(5);
         HBox iconHBox = new HBox(10);
@@ -138,7 +137,7 @@ public class WeatherPane extends Pane
         dayIconHBox.getChildren().add(dayImageView);
         VBox labelsVBox = new VBox();
         labelsVBox.setPadding(new Insets(10, 0, 0, 0));
-        Label temperaturesLabel = new Label(maxTemp + "C,     " + minTemp + 'C');
+        Label temperaturesLabel = new Label(maxTemp + "C   /  " + minTemp + 'C');
         Label dateLabel = new Label(date);
         labelsVBox.getChildren().addAll(temperaturesLabel, dateLabel);
         dayHBox.getChildren().addAll(dayIconHBox, labelsVBox);
