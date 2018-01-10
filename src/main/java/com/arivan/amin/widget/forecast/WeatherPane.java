@@ -31,8 +31,7 @@ public class WeatherPane extends Pane
     {
         super();
         bindPanePropertiesWithContainer(pane);
-        // weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
-        weatherData = OpenWeatherMap.newInstance(TextFileWeatherProvider.newInstance());
+        weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
         HBox mainHBox = new HBox(10);
         getChildren().add(mainHBox);
         VBox todayVBox = new VBox(5);
