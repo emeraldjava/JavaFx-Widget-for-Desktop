@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-10T14:33:10+00:00</dc:date>
+<dc:date>2018-01-10T17:37:09+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,11 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -26,11 +31,6 @@
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,106 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Meltdown and Spectre Patches Bricking Ubuntu 16.04 Computers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/W1h4z_2JBqs/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers</link>
+<description>An anonymous reader writes: Ubuntu Xenial 16.04 users who updated to receive the Meltdown and Spectre patches are reporting they are unable to boot their systems and have been forced to roll back to an earlier Linux kernel image. The issues were reported by a large number of users on the Ubuntu forums and Ubuntu's Launchpad bug tracker. Only Ubuntu users running the Xenial 16.04 series appear to be affected. All users who reported issues said they were unable to boot after upgrading to Ubuntu 16.04 with kernel image 4.4.0-108. Canonical, the company behind Ubuntu OS, deployed Linux kernel image 4.4.0-108 as part of a security update for Ubuntu Xenial 16.04 users, yesterday, on January 9. According to Ubuntu Security Notice USN-3522-1 and an Ubuntu Wiki page, this was the update that delivered the Meltdown and Spectre patches.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Meltdown+and+Spectre+Patches+Bricking+Ubuntu+16.04+Computers%3A+http%3A%2F%2Fbit.ly%2F2ANBSah"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F10%2F1634215%2Fmeltdown-and-spectre-patches-bricking-ubuntu-1604-computers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595123&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/W1h4z_2JBqs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T17:21:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>things-going-south</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,17,9,8,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>North Carolina Congressional Map Ruled Unconstitutionally Gerrymandered</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gUdlxv_v5dk/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered</link>
+<description>An anonymous reader shares a report: A panel of federal judges struck down North Carolina's congressional map on Tuesday, condemning it as unconstitutional because Republicans had drawn the map seeking a political advantage (Editor's note: the link may be paywalled; alternative source). The ruling was the first time that a federal court had blocked a congressional map because of a partisan gerrymander, and it instantly endangered Republican seats in the coming elections. Judge James A. Wynn Jr., in a biting 191-page opinion, said that Republicans in North Carolina's Legislature had been "motivated by invidious partisan intent" as they carried out their obligation in 2016 to divide the state into 13 congressional districts, 10 of which are held by Republicans. The result, Judge Wynn wrote, violated the 14th Amendment's guarantee of equal protection. The ruling and its chief demand -- that the Republican-dominated Legislature create a new landscape of congressional districts by Jan. 24 -- infused new turmoil into the political chaos that has in recent years enveloped North Carolina. President Trump carried North Carolina in 2016, but the state elected a Democrat as its governor on the same day and in 2008 supported President Barack Obama.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=North+Carolina+Congressional+Map+Ruled+Unconstitutionally+Gerrymandered%3A+http%3A%2F%2Fbit.ly%2F2ANyT1q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F10%2F1622204%2Fnorth-carolina-congressional-map-ruled-unconstitutionally-gerrymandered%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595085&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gUdlxv_v5dk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T16:40:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>70</slash:comments>
+<slash:hit_parade>70,67,45,39,7,4,1</slash:hit_parade>
+<feedburner:origLink>https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>SourceForge Debuts New UI and GitHub Sync Tool</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_vktYKIWh6s/sourceforge-debuts-new-ui-and-github-sync-tool</link>
+<description>SourceForge on Tuesday introduced an overhaul of its website to give it a new look and add new features. Among the most notable additions, the popular repository, which hosts over 430,000 projects and 3.7 million registered developers, said it was creating a GitHub Importer tool which would enable developers to import their GitHub project to SourceForge and also sync their GitHub project file releases on SourceForce so they "can take advantage of the strengths of both platforms." In a blog post, the team wrote:We believe the open source community is always better served when there are multiple options for open source projects to live, and these options are not mutually exclusive. More improvements and new features are on track to be released throughout the year, the team wrote.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=SourceForge+Debuts+New+UI+and+GitHub+Sync+Tool%3A+http%3A%2F%2Fbit.ly%2F2Euqbrg"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F10%2F160222%2Fsourceforge-debuts-new-ui-and-github-sync-tool%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595037&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_vktYKIWh6s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T16:00:00+00:00</dc:date>
+<dc:subject>sourceforge</dc:subject>
+<slash:department>moving-forward</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,37,21,19,6,2,0</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NVIDIA GPUs Weren't Immune To Spectre Security Flaws Either</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/c5xPkHoE8og/nvidia-gpus-werent-immune-to-spectre-security-flaws-either</link>
+<description>Nvidia has became the latest chipmaker to release software patches for the Spectre microchip security threat, indicating that the chipset flaw was affecting graphic processors as well as CPUs. From a report: To that end, NVIDIA has detailed how its GPUs are affected by the speculative execution attacks and has started releasing updated drivers that tackle the issue. All its GeForce, Quadro, NVS, Tesla and GRID chips appear to be safe from Meltdown (aka variant 3 of the attacks), but are definitely susceptible to at least one version of Spectre (variant 1) and "potentially affected" by the other (variant 2). The new software mitigates the first Spectre flaw, but NVIDIA is promising future mitigations as well as eventual updates to address the second. Most of the updates are available now, although Tesla and GRID users will have to wait until late January.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NVIDIA+GPUs+Weren't+Immune+To+Spectre+Security+Flaws+Either%3A+http%3A%2F%2Fbit.ly%2F2Etr5En"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F10%2F1513248%2Fnvidia-gpus-werent-immune-to-spectre-security-flaws-either%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11594961&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/c5xPkHoE8og" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T15:21:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>patches-continue-to-pour</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>57</slash:comments>
+<slash:hit_parade>57,54,25,23,5,1,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Senator Wants Apple To Answer Questions on Slowing iPhones</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/v6Ll905ibH4/senator-wants-apple-to-answer-questions-on-slowing-iphones</link>
+<description>The chairman of a U.S. Senate committee overseeing business issues asked Apple to answer questions about its disclosure that it slowed older iPhones with flagging batteries, Reuters reported on Wednesday, citing a letter. From the report: The California-based company apologized over the issue on Dec. 28, cut battery replacement costs and said it will change its software to show users whether their phone battery is good. Senator John Thune, a Republican who chairs the Commerce, Science and Transportation Committee, said in a Jan. 9 letter to Apple Chief Executive Officer Tim Cook that "the large volume of consumer criticism leveled against the company in light of its admission suggests that there should have been better transparency."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Senator+Wants+Apple+To+Answer+Questions+on+Slowing+iPhones%3A+http%3A%2F%2Fbit.ly%2F2EuSXYC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F10%2F1442231%2Fsenator-wants-apple-to-answer-questions-on-slowing-iphones%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11594881&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/v6Ll905ibH4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T14:42:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,65,43,39,8,5,3</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Taiwanese Police Give Cyber-security Quiz Winners Infected Devices</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LAjrNDOHBDA/taiwanese-police-give-cyber-security-quiz-winners-infected-devices</link>
@@ -58,8 +158,8 @@
 <dc:subject>security</dc:subject>
 <slash:department>oops-they-did-it-again</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>9</slash:comments>
-<slash:hit_parade>9,9,6,5,1,0,0</slash:hit_parade>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,30,17,10,4,3,2</slash:hit_parade>
 <feedburner:origLink>https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Congress Is About To Vote On Expanding the Warrantless Surveillance of Americans</title>
@@ -80,8 +180,8 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <dc:subject>privacy</dc:subject>
 <slash:department>home-field-advantage</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,56,27,19,2,1,1</slash:hit_parade>
+<slash:comments>176</slash:comments>
+<slash:hit_parade>176,158,98,74,22,10,3</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Xbox One Adds New Achievement, Do Not Disturb Features In Previous Update</title>
@@ -100,8 +200,8 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <dc:subject>xbox</dc:subject>
 <slash:department>new-and-shiny</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>20</slash:comments>
-<slash:hit_parade>20,20,7,7,0,0,0</slash:hit_parade>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,29,16,13,2,0,0</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>'I Tried the First Phone With An In-Display Fingerprint Sensor'</title>
@@ -120,8 +220,8 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <dc:subject>cellphones</dc:subject>
 <slash:department>first-of-its-kind</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>35</slash:comments>
-<slash:hit_parade>35,35,19,17,3,0,0</slash:hit_parade>
+<slash:comments>53</slash:comments>
+<slash:hit_parade>53,53,29,27,5,1,1</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Rumors Swirl That Secret Zuma Satellite Launched By SpaceX Was Lost</title>
@@ -140,8 +240,8 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <dc:subject>space</dc:subject>
 <slash:department>top-secret</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>96</slash:comments>
-<slash:hit_parade>96,90,58,44,15,7,4</slash:hit_parade>
+<slash:comments>136</slash:comments>
+<slash:hit_parade>136,129,77,61,19,14,9</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Jack In the Box CEO Says 'It Just Makes Sense' To Replace Workers With Robots</title>
@@ -160,8 +260,8 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <dc:subject>business</dc:subject>
 <slash:department>repeal-and-replace</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>477</slash:comments>
-<slash:hit_parade>477,463,276,223,48,33,27</slash:hit_parade>
+<slash:comments>679</slash:comments>
+<slash:hit_parade>679,664,410,348,67,34,27</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>AT&amp;amp;T and Comcast Finalize Court Victory Over Nashville and Google Fiber</title>
@@ -180,8 +280,8 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <dc:subject>att</dc:subject>
 <slash:department>done-deal</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>77</slash:comments>
-<slash:hit_parade>77,75,48,39,15,9,6</slash:hit_parade>
+<slash:comments>94</slash:comments>
+<slash:hit_parade>94,92,62,52,16,9,6</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Tesla's New York Gigafactory Kicks Off Solar Roof Production</title>
@@ -200,8 +300,8 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <dc:subject>power</dc:subject>
 <slash:department>long-awaited</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>63</slash:comments>
-<slash:hit_parade>63,63,42,36,14,6,5</slash:hit_parade>
+<slash:comments>79</slash:comments>
+<slash:hit_parade>79,79,52,43,15,9,7</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Senate Bill to Block Net Neutrality Repeal Now Has 40 Co-Sponsors</title>
@@ -220,8 +320,8 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <dc:subject>government</dc:subject>
 <slash:department>fast-tracked</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>75</slash:comments>
-<slash:hit_parade>75,73,49,41,18,7,5</slash:hit_parade>
+<slash:comments>84</slash:comments>
+<slash:hit_parade>84,81,53,42,19,9,7</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>UK Backs Off From Banning Reidentification Research</title>
@@ -243,108 +343,6 @@ FISA was enacted in 1978, but Section 702, referred to by former FBI Director Ja
 <slash:comments>10</slash:comments>
 <slash:hit_parade>10,10,6,6,1,0,0</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Kodak Announces Its Own Cryptocurrency, Watches Stock Price Skyrocket</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CgJBh6t5gI0/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket</link>
-<description>Kodak has joined the cryptocurrency craze by launching its own KodakCoin, a cryptocurrency for photographers. As soon as the news was announced, Kodak's stock (KODK) jumped more than 60 percent. The Verge reports: KodakCoins will work as tokens inside the new blockchain-powered KodakOne rights management platform. The platform will supposedly create a digital ledger of rights ownership that photographers can use to register and license new and old work. Both the platform and cryptocurrency are supposed to "empower photographers and agencies to take greater control in image rights management," according to the press release. The digital currency is meant to create a new economy for photographers to receive payment and sell work on a secure platform. But while Kodak's proposed blockchain-powered platform and virtual coin sound good on paper, it's not clear why the photography company needs to use blockchain to achieve its goals, rather than just create another social media platform instead. It appears that Kodak, like the other tea and vape companies that received media attention last month for making the abrupt leap to blockchain, could just be trying to capitalize on the current cryptocurrency mania.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Kodak+Announces+Its+Own+Cryptocurrency%2C+Watches+Stock+Price+Skyrocket%3A+http%3A%2F%2Fbit.ly%2F2CVJ8GZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F09%2F2157204%2Fkodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590267&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CgJBh6t5gI0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-09T23:00:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>surprise-announcement</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>112</slash:comments>
-<slash:hit_parade>112,111,70,62,16,9,5</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple Planning New, 'Robust' Parental Controls To Help Protect Children, Teens</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gsbBHLVgDm8/apple-planning-new-robust-parental-controls-to-help-protect-children-teens</link>
-<description>An anonymous reader quotes a report from Ars Technica: An open letter to Apple from some investors sparked the tech giant to respond by promising new software tools for parents to restrict and monitor their kids' smartphone use. In a report by The Wall Street Journal, Apple states it has plans to create new software features that will make its current parental controls on iPhone and other devices "even more robust." "We think deeply about how our products are used and the impact they have on users and the people around them," Apple said in its statement to The Wall Street Journal. "We take this responsibility very seriously and we are committed to meeting and exceeding our customers' expectations, especially when it comes to protecting kids."
- 
-Apple didn't provide details on its planned, improved parental control features, but it did point back to the controls its software has had in place since 2008. The Settings app on every iPhone has a parental control section that allows adults to restrict website access, control in-app purchases, and install or delete apps, among other things. But those existing settings haven't been enough to quell the worries of the investors who wrote an open letter to Apple last week, expressing concern about the effect smartphones can have on kids who are glued to those devices.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Planning+New%2C+'Robust'+Parental+Controls+To+Help+Protect+Children%2C+Teens%3A+http%3A%2F%2Fbit.ly%2F2AITrbH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F09%2F2117238%2Fapple-planning-new-robust-parental-controls-to-help-protect-children-teens%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590191&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gsbBHLVgDm8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-09T22:20:00+00:00</dc:date>
-<dc:subject>ios</dc:subject>
-<slash:department>call-to-action</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>52</slash:comments>
-<slash:hit_parade>52,50,31,26,8,1,0</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>James Dolan, Co-Creator of SecureDrop, Dead At 36</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MeQA3O-EqNA/james-dolan-co-creator-of-securedrop-dead-at-36</link>
-<description>The Freedom of the Press Foundation is reporting that James Dolan, former Marine and co-creator of the whistleblower submission system SecureDrop alongside Aaron Swartz and Wired editor Kevin Poulsen, has died at age 36. He reportedly took his own life. Gizmodo reports: First deployed as StrongBox with The New Yorker, organizations such as the Washington Post, the New York Times, the Associated Press, and Gizmodo Media Group have all come to rely on SecureDrop -- which allows highly secure communication between journalists and sources in possession of sensitive information or documents. As an industry tool, it has become invaluable for reporters. Dolan joined the Freedom of the Press Foundation to maintain SecureDrop after co-creator Aaron Swartz took his life in 2013 at age 26, as pressure mounted in a federal investigation against him that many felt was overzealous. Memorial services have not yet been announced, and presently the circumstances of Dolan's death are not known.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=James+Dolan%2C+Co-Creator+of+SecureDrop%2C+Dead+At+36%3A+http%3A%2F%2Fbit.ly%2F2CXllqc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F09%2F2130255%2Fjames-dolan-co-creator-of-securedrop-dead-at-36%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590201&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MeQA3O-EqNA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-09T21:40:00+00:00</dc:date>
-<dc:subject>communications</dc:subject>
-<slash:department>rest-in-peace</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>169</slash:comments>
-<slash:hit_parade>169,167,77,64,15,9,6</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>A Crypto Website Changes Its Data, and $100 Billion in Market Value Vanishes</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0vMXCf6b3Mg/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes</link>
-<description>Paul Vigna, writing for WSJ: Prices for some of the most popular cryptocurrencies dropped sharply Monday. One apparent reason: an adjustment from a popular website on its digital-currency price quotes (Editor's note: the link may be paywalled; alternative source). A website called coinmarketcap.com on Monday removed data from some South Korean exchanges from its price quotes for a range of virtual currencies including bitcoin, Ethereum and Ripple's XRP. The move followed a South Korean government crackdown on cryptocurrencies. The move by coinmarketcap caused some amount of chaos when prices across the board suddenly plunged. In mid-Monday trading, XRP had fallen 26% over the past 24 hours, Bitcoin Cash was down 18%, and litecoin was down 12%. Of the top 40 cryptocurrencies, 31 were down, including bitcoin and Ethereum. [...] Coinmarketcap has become one of the most popular destinations for price quotes as the sector surged last year. According to Amazon's web-ranking service, coinmarketcap is currently the 154th most popular website in the world, in the same ballpark as Chinese retail giant Alibaba.com. The website's rejiggered prices led to a flip in market-value rankings on the site. Ethereum, with a $109 billion total market valuation, moved into second place, the spot previously occupied by XRP, which fell to third place with a $97 billion market value. Bitcoin remained number one, with a $255 billion market value.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=A+Crypto+Website+Changes+Its+Data%2C+and+%24100+Billion+in+Market+Value+Vanishes%3A+http%3A%2F%2Fbit.ly%2F2AJwd59"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F09%2F2054251%2Fa-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590143&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0vMXCf6b3Mg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-09T20:55:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>house-of-cards</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>65</slash:comments>
-<slash:hit_parade>65,64,37,31,9,4,2</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Dell's Mobile Connect Application Will Allow Users To Easily Mirror Their Smartphone on PC; To Come Pre-installed On Company's Future PCs</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CTZTNFeLNqg/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs</link>
-<description>From a report on VentureBeat: Smartphones and computers were designed in different eras, and they don't really work well together, forcing us to split our time between them. But Dell is trying to change that with Dell Mobile Connect software, which makes the two devices more interoperable. [...] You can now make and receive phone calls directly from your computer, and you can also send and receive text messages on your PC screen. This allows you to stay connected on your PC without worrying that you're missing phone notifications or calls. And you can use any Android app on your PC. That allows you to bring your small-screen apps like games to a bigger screen. If your computer doesn't have a touchscreen, you can control the mirrored phone game with a keyboard and mouse. [...] Dell will preload the software on new Dell consumer and business PCs, and it has a free smartphone app that works on either Android or iOS. Dell Mobile Connect will be available on all new Dell Inspiron, XPS, Vostro, or Alienware purchased worldwide in January 2018 or later.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Dell's+Mobile+Connect+Application+Will+Allow+Users+To+Easily+Mirror+Their+Smartphone+on+PC%3B+To+Come+Pre-installed+On+Company's+Future+PCs%3A+http%3A%2F%2Fbit.ly%2F2DbxJzR"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F09%2F2010217%2Fdells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590027&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CTZTNFeLNqg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-09T20:10:00+00:00</dc:date>
-<dc:subject>software</dc:subject>
-<slash:department>up-next</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>58</slash:comments>
-<slash:hit_parade>58,56,43,40,13,2,0</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

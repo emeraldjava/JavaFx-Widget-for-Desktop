@@ -44,7 +44,7 @@ public class RssReaderBox extends VBox
         Label label = new Label();
         label.setWrapText(true);
         label.getStyleClass().add("rss-item");
-        for (int i = 0; i < 7; i++)
+        for (int i = 0; i < items.size(); i++)
         {
             label.setText(label.getText() + (i + 1) + "-- " + items.get(i).getTitle() +
                     System.lineSeparator() + System.lineSeparator());

@@ -12,20 +12,22 @@ import java.util.logging.Logger;
 
 public class BatteryStateBox extends VBox
 {
+    private static final int IMAGE_ROTATION_DEGREE = 90;
     private final Logger logger = Logger.getLogger(getClass().getName());
-    BatteryState batteryState;
+    private BatteryState batteryState;
     private final Label stateLabel;
     private final Label timeRemainingLabel;
     private final ImageView iconImageView;
     
     private BatteryStateBox ()
     {
-        // TODO 1/10/18 bind image size to box size
         super();
+        setSpacing(10);
         batteryState = LinuxBatteryState.newInstance();
         stateLabel = new Label();
         timeRemainingLabel = new Label();
         iconImageView = new ImageView();
+        iconImageView.setRotate(IMAGE_ROTATION_DEGREE);
         getChildren().addAll(stateLabel, timeRemainingLabel, iconImageView);
         setUpdateAnimation();
     }
@@ -37,7 +39,6 @@ public class BatteryStateBox extends VBox
         {
             updateValues();
         }));
-        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(30)));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
     }

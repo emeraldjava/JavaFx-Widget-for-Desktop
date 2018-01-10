@@ -15,7 +15,6 @@ import java.util.stream.IntStream;
 
 public class SlashdotRssReader implements RssReader
 {
-    // TODO 1/8/18 spped test and connectivity to be moved to top processes box along with any other that doesn't fit in the right box
     private static final String SLASHDOT_RSS_FILE = "slashdot.xml";
     private final Logger logger = Logger.getLogger(getClass().getName());
     private List<Element> elementList;
@@ -44,14 +43,14 @@ public class SlashdotRssReader implements RssReader
     }
     
     @NotNull
-    private static RssItem createRssItem (@NotNull Node element)
+    private RssItem createRssItem (@NotNull Node element)
     {
         List<Element> list = createList(element.getChildNodes());
         return RssItem.newInstance(list.get(0).getTextContent(), list.get(1).getTextContent(),
                 list.get(2).getTagName());
     }
     
-    private static List<Element> createList (@NotNull NodeList nodes)
+    private List<Element> createList (@NotNull NodeList nodes)
     {
         return IntStream.range(0, nodes.getLength()).mapToObj(nodes::item)
                 .filter(item -> item instanceof Element).map(item -> (Element) item)
@@ -59,7 +58,7 @@ public class SlashdotRssReader implements RssReader
     }
     
     @Override
-    public final void updateNewsData ()
+    public void updateNewsData ()
     {
         Path path = Paths.get(SLASHDOT_RSS_FILE);
         try (InputStream stream = new URL("http://rss.slashdot.org/Slashdot/slashdot").openStream())

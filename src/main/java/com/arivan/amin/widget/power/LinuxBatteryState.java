@@ -29,12 +29,6 @@ public class LinuxBatteryState implements BatteryState
         return new LinuxBatteryState();
     }
     
-    @Override
-    public String batteryState ()
-    {
-        return getProperty("state:");
-    }
-    
     @NotNull
     private String getProperty (String propertyName)
     {
@@ -42,6 +36,12 @@ public class LinuxBatteryState implements BatteryState
         data = data.substring(data.indexOf(propertyName) + propertyName.length());
         data = data.substring(0, data.indexOf(System.lineSeparator()));
         return data;
+    }
+    
+    @Override
+    public String batteryState ()
+    {
+        return getProperty("state:");
     }
     
     @Override
