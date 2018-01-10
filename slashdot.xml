@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-08T16:38:12+00:00</dc:date>
+<dc:date>2018-01-10T14:33:10+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,350 +41,310 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>What's On Center Stage at the CES Tech Show? Your Voice</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/w-n5trPDlcA/whats-on-center-stage-at-the-ces-tech-show-your-voice</link>
-<description>An anonymous reader shares a report: Some of the most popular gadgets over the holiday season were smart speakers with digital assistants from Amazon and Google. Apple is coming out with its own speaker this year; Microsoft and Samsung have partnered on another. As the annual CES gadget show kicks off in Las Vegas this week, manufacturers are expected to unveil even more voice-controlled devices -- speakers and beyond -- as Amazon and Google make their digital assistants available on a wider array of products. If these prove popular, you'll soon be able to order around much more of your house, including kitchen appliances, washing machines and other devices.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=What's+On+Center+Stage+at+the+CES+Tech+Show%3F+Your+Voice%3A+http%3A%2F%2Fbit.ly%2F2AGdkQv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F08%2F1235214%2Fwhats-on-center-stage-at-the-ces-tech-show-your-voice%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Taiwanese Police Give Cyber-security Quiz Winners Infected Devices</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LAjrNDOHBDA/taiwanese-police-give-cyber-security-quiz-winners-infected-devices</link>
+<description>Taiwan's national police agency said 54 of the flash drives it gave out at an event highlighting a government's cybercrime crackdown contained malware. From a report: The virus, which can steal personal data and has been linked to fraud, was added inadvertently, it said. The Criminal Investigation Bureau (CIB) apologised for the error and blamed the mishap on a third-party contractor. It said 20 of the drives had been recovered. Around 250 flash drives were given out at the expo, which was hosted by Taiwan's Presidential Office from 11-15 December and aimed to highlight the government's determination to crack down on cybercrime.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Taiwanese+Police+Give+Cyber-security+Quiz+Winners+Infected+Devices%3A+http%3A%2F%2Fbit.ly%2F2Er0Qyv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F10%2F1349211%2Ftaiwanese-police-give-cyber-security-quiz-winners-infected-devices%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11582807&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/w-n5trPDlcA" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11594743&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LAjrNDOHBDA" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-08T16:00:00+00:00</dc:date>
-<dc:subject>ai</dc:subject>
-<slash:department>shape-of-things-to-come</slash:department>
-<slash:section>slashdot</slash:section>
-<slash:comments>14</slash:comments>
-<slash:hit_parade>14,14,6,6,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://slashdot.org/story/18/01/08/1235214/whats-on-center-stage-at-the-ces-tech-show-your-voice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple Should Address Youth Phone Addiction, Say Two Large Investors</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ZZf7EQWH8gc/apple-should-address-youth-phone-addiction-say-two-large-investors</link>
-<description>Two large Apple shareholders, Jana Partners and the California State Teachers' Retirement System, are urging Apple to take steps to address what they say is a growing problem of young people getting addicted to Apple's iPhones, Jana partner Charles Penner said. From a report: Jana, a leading activist shareholder, and CalSTRS, one of the nation's largest public pension plans, delivered a letter to Apple on Saturday asking the company to consider developing software that would allow parents to limit children's phone use, the Wall Street Journal reported earlier on Sunday. Jana and CalSTRS also asked Apple to study the impact of excessive phone use on mental health, according to the publication. Jana and CalSTRS together control about $2 billion worth of Apple shares, the Journal reports.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Should+Address+Youth+Phone+Addiction%2C+Say+Two+Large+Investors%3A+http%3A%2F%2Fbit.ly%2F2CRTqYx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F08%2F120236%2Fapple-should-address-youth-phone-addiction-say-two-large-investors%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11582533&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ZZf7EQWH8gc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-08T15:20:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>time-to-address-the-issue</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>48</slash:comments>
-<slash:hit_parade>48,48,32,29,3,2,2</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/08/120236/apple-should-address-youth-phone-addiction-say-two-large-investors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Microsoft Halts Bitcoin Transactions Because It's An 'Unstable Currency'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/I8nXbYSxMPk/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency</link>
-<description>Catalin Cimpanu, reporting for BleepingComputers: Microsoft has stopped supporting Bitcoin as a payment method for Microsoft products, Bleeping Computer has learned. A Microsoft support staffer has told us the move is temporary and cited the unstable state of the Bitcoin currency. Microsoft added support for Bitcoin in 2014, and has previously temporarily stopped supporting Bitcoin in the past.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Halts+Bitcoin+Transactions+Because+It's+An+'Unstable+Currency'%3A+http%3A%2F%2Fbit.ly%2F2AF43YY"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F08%2F1423228%2Fmicrosoft-halts-bitcoin-transactions-because-its-an-unstable-currency%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11583207&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/I8nXbYSxMPk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-08T14:40:00+00:00</dc:date>
-<dc:subject>microsoft</dc:subject>
-<slash:department>tread-with-caution</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>55</slash:comments>
-<slash:hit_parade>55,54,34,30,8,5,2</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/08/1423228/microsoft-halts-bitcoin-transactions-because-its-an-unstable-currency?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Alexa is Coming To Windows 10 PCs From HP, ASUS and Others</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ny5hV1fzJPY/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others</link>
-<description>An anonymous reader shares a report: Amazon's Alexa recently arrived on headphones and even toilets, but it's about to become much more ubiquitous by hitting Windows 10 PCs later this year. HP, ASUS and Acer have revealed that the voice assistant is coming to various models, including ASUS's ZenBook and VivoBook lineup, the HP Pavilion Wave, and select Acer Spin, Swift, Switch and Aspire notebooks. Amazon will release a special Alexa app in the spring, and laptop builders are tapping Intel's Smart Sound tech to make sure that the app can pick up your voice when you're not right next to your PC. "Hands-free access to Alexa on PCs can be helpful to customers in many ways, like making it simple to interact with your smart home, get news or weather, set timers, and more," Amazon Alexa VP Steve Rabuchin said in a statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Alexa+is+Coming+To+Windows+10+PCs+From+HP%2C+ASUS+and+Others%3A+http%3A%2F%2Fbit.ly%2F2EkLaN4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F08%2F1213249%2Falexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11582621&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ny5hV1fzJPY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-08T14:00:00+00:00</dc:date>
-<dc:subject>ai</dc:subject>
-<slash:department>next-up</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>47</slash:comments>
-<slash:hit_parade>47,46,24,21,10,5,2</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/08/1213249/alexa-is-coming-to-windows-10-pcs-from-hp-asus-and-others?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>OpenBSD's De Raadt Pans 'Incredibly Bad' Disclsoure of Intel CPU Bug</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6b1MeWS-Axw/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug</link>
-<description>troublemaker_23 quotes ITWire:
-Disclosure of the Meltdown and Spectre vulnerabilities, which affect mainly Intel CPUs, was handled "in an incredibly bad way" by both Intel and Google, the leader of the OpenBSD project Theo de Raadt claims. "Only Tier-1 companies received advance information, and that is not responsible disclosure -- it is selective disclosure," De Raadt told iTWire in response to queries. "Everyone below Tier-1 has just gotten screwed." 
-In the interview de Raadt also faults intel for moving too fast in an attempt to beat their competition. "There are papers about the risky side-effects of speculative loads -- people knew... Intel engineers attended the same conferences as other company engineers, and read the same papers about performance enhancing strategies -- so it is hard to believe they ignored the risky aspects. I bet they were instructed to ignore the risk."
+<dc:date>2018-01-10T14:00:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>oops-they-did-it-again</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>9</slash:comments>
+<slash:hit_parade>9,9,6,5,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Congress Is About To Vote On Expanding the Warrantless Surveillance of Americans</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ph63uH8aXOI/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans</link>
+<description>An anonymous reader quotes a report from Motherboard: On Tuesday afternoon, a handful of U.S. Representatives will convene to review an amendment that would reauthorize warrantless foreign surveillance and expand the law so that it could include American citizens. It would, in effect, legalize a surveillance practice abandoned by the NSA in 2017 in order to appease the Foreign Intelligence Surveillance Court, which found the NSA to have abused its collection capacity several times. If it passes Tuesday's review, the bill may be voted on by the U.S. House of Representatives as early as Thursday. Drafted by the House Intelligence Committee last December, the FISA Amendments Reauthorization Act of 2017 is an amendment to Section 702 of the Foreign Intelligence Surveillance Act (FISA). It is one of six different FISA-related bills under consideration by Congress at the moment, but by far the most damaging to the privacy rights of American citizens.
  
-He points out this will make it more difficult to develop kernel software, since "Suddenly the trickiest parts of a kernel need to do backflips to cope with problems deep in the micro-architecture." And he also complains that Intel "has been exceedingly clever to mix Meltdown (speculative loads) with a separate issue (Spectre). This is pulling the wool over the public's eyes..."
- 
-"It is a scandal, and I want repaired processors for free."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=OpenBSD's+De+Raadt+Pans+'Incredibly+Bad'+Disclsoure+of+Intel+CPU+Bug%3A+http%3A%2F%2Fbit.ly%2F2CRnnYN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fbsd.slashdot.org%2Fstory%2F18%2F01%2F08%2F0533237%2Fopenbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+FISA was enacted in 1978, but Section 702, referred to by former FBI Director James Comey as the "crown jewels of the intelligence community," wasn't added until 2008. This section allows intelligence agencies to surveil any foreigner outside the U.S. without a warrant that the agency considers a target. The problem is that this often resulted in the warrantless surveillance of U.S. citizens as well due to two loopholes known as "backdoor searches" and "about collection." Backdoor search refers to a roundabout way of monitoring Americans' communications. Since intelligence agencies are able to designate any foreigner's communications as a target for surveillance, if this foreigner has communicated with an American this means this American's communications are then also considered fair game for surveillance by the agency.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Congress+Is+About+To+Vote+On+Expanding+the+Warrantless+Surveillance+of+Americans%3A+http%3A%2F%2Fbit.ly%2F2DgPQEC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F10%2F014238%2Fcongress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11579585&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6b1MeWS-Axw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-08T11:34:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>what's-inside-besides-Intel</slash:department>
-<slash:section>bsd</slash:section>
-<slash:comments>194</slash:comments>
-<slash:hit_parade>194,189,125,108,47,34,22</slash:hit_parade>
-<feedburner:origLink>https://bsd.slashdot.org/story/18/01/08/0533237/openbsds-de-raadt-pans-incredibly-bad-disclsoure-of-intel-cpu-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ask Slashdot:  How Should I Replace My Netbook?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rFgz8Bp8PPo/ask-slashdot-how-should-i-replace-my-netbook</link>
-<description>Long-time Slashdot reader Kevin108 needs to replace his netbook:
- I've used and loved my Eee 701 for many years. None of the diminutive ergonomics were ever an issue. But the low-res screen, 4 GB SSD, and 630 MHz Celeron are a useless combo for current web browsing and modern software. I'm now in the market for a new device in a similar form factor. 
-
-I need a Windows device for my preferred photo editor and some other software I use for maps. It will often be used offline for writing and watching MKVs in VLC. I'm okay with a notebook or tablet and keyboard combo, but I've not found anything in a similar size with my feature requirements. 
-Any suggestions? Leave your best thoughts and suggestions in the comments. What's the best way to replace a netbook?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A++How+Should+I+Replace+My+Netbook%3F%3A+http%3A%2F%2Fbit.ly%2F2AFIZkZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fask.slashdot.org%2Fstory%2F18%2F01%2F08%2F0510240%2Fask-slashdot-how-should-i-replace-my-netbook%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11579439&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rFgz8Bp8PPo" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-08T08:34:00+00:00</dc:date>
-<dc:subject>portables</dc:subject>
-<slash:department>back-to-the-future</slash:department>
-<slash:section>askslashdot</slash:section>
-<slash:comments>181</slash:comments>
-<slash:hit_parade>181,164,95,72,14,7,5</slash:hit_parade>
-<feedburner:origLink>https://ask.slashdot.org/story/18/01/08/0510240/ask-slashdot-how-should-i-replace-my-netbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Can Mesh Networks Save a Dying Web?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iDMf0XxU3l4/can-mesh-networks-save-a-dying-web</link>
-<description>From an anonymous reader:
-
-"The web is dying, but mesh networks could save it," writes open source hacker Andre Staltz. He warns that Facebook, Google, and Amazon plan to "grow beyond browsers, creating new virtual contexts where data is created and shared," and predicts the next wave of walled gardens will be a "social internet" bypassing the web altogether. "The Web may die like most other technologies do, simply by becoming less attractive than newer technologies." 
-He wants to build a mobile mesh web that works with or without internet access to reach the four billion people currently offline, adding that all the tools we need are already in our hands: smartphones, peer-to-peer protocols, and mesh networks. His vision? "Novel peer-to-peer protocols such as IPFS and Dat help replace HTTP and make the web a content-centered cyberspace... Browsers can be made to work like that, and although it's a small tweak to how the web works, it has massive effects on social structures in cyberspace... Now that we have experience with some of the intricacies of the social web, we can reinvent it to put people first without intermediate companies... We can actually beat the tech giants at this game by simply giving local and regional connectivity to people in developing countries. With mobile apps that are built mesh-first, the smartphones would make up self-organizing self-healing mobile ad-hoc networks... In internet-less regions, there is potential for scaling quickly, and through that, we can spawn a new industry around peer-to-peer wireless mesh networks." 
-He cites mega-projects "to rescue the web from the internet", which include progress on peer-to-peer and mesh networking protocols, followed by adoption on smartphones (and then a new wave of apps) -- plus a migration of existing web content to the new protocols, "to fix the overutilization of the wirenet and the underutilization of airnets, bringing balance to the wire-versus-air dichotomy, providing choice in how data should travel in each case...But it can only happen if the web takes a courageous step towards its next level."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Can+Mesh+Networks+Save+a+Dying+Web%3F%3A+http%3A%2F%2Fbit.ly%2F2ADMtEL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F08%2F0249206%2Fcan-mesh-networks-save-a-dying-web%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11579085&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iDMf0XxU3l4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-08T04:34:00+00:00</dc:date>
-<dc:subject>networking</dc:subject>
-<slash:department>peers-to-peers</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>146</slash:comments>
-<slash:hit_parade>146,137,87,74,25,13,7</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/08/0249206/can-mesh-networks-save-a-dying-web?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>SpaceX Completes First Launch of 2018: Secretive 'Zuma' Spacecraft</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eDg9mysvNto/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft</link>
-<description>SpaceX's first launch of 2018 was "a secretive spacecraft commissioned by the U.S. government for an undisclosed mission," reports TechCrunch. An anonymous reader quotes CNN:
-After more than a month of delays, a SpaceX Falcon 9 rocket vaulted toward the skies at 8 p.m. ET Sunday with the secretive payload. It launched from Cape Canaveral Air Force Station in Florida... The company [then] executed its signature move: guiding the first-stage rocket booster back to Earth for a safe landing. Just over two minutes after liftoff Sunday, the first-stage booster separated from the second stage and fired up its engines. The blaze allowed the rocket to safely cut back through the Earth's atmosphere and land on a pad at the Cape Canaveral Air Force Station... The company completed a record-setting 18 launches last year, and SpaceX plans to do even more this year, according to spokesman James Gleeson.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=SpaceX+Completes+First+Launch+of+2018%3A+Secretive+'Zuma'+Spacecraft%3A+http%3A%2F%2Fbit.ly%2F2CSaEVO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F08%2F0129233%2Fspacex-completes-first-launch-of-2018-secretive-zuma-spacecraft%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578945&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eDg9mysvNto" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-08T02:34:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>if-I-told-you-it-wouldn't-be-a-secret</slash:department>
-<slash:section>science</slash:section>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590509&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ph63uH8aXOI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-10T13:00:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>home-field-advantage</slash:department>
+<slash:section>yro</slash:section>
 <slash:comments>67</slash:comments>
-<slash:hit_parade>67,53,36,33,13,8,3</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/08/0129233/spacex-completes-first-launch-of-2018-secretive-zuma-spacecraft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Some Smartphone Salesmen Aren't Sold on the iPhone X</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cpnL426eZ5w/some-smartphone-salesmen-arent-sold-on-the-iphone-x</link>
-<description>A CNET reporter visited four carrier stores to ask their salesmen if they'd recommend an iPhone X. But after visiting stores for Sprint, T-Mobile, AT&amp;amp;T, and Verizon, "I couldn't even find a salesperson to tell me it was the best iPhone I could buy." So he finally tried asking three salesmen at Apple Stores -- and still got equivocal answers. An anonymous reader quotes CNET's report:
-"Well, it depends on what you like," the salesman said, somewhat coyly. "The biggest problem I have with it is using Face ID for Apple Pay. You really have to put the phone at a certain angle or it doesn't work." He started with a problem. I was already suspicious. I was in something of a hurry, but I asked him: "So are you selling a lot more of these than other phones?" 
-He turned into a high-ranking member of a political party. "All our phones sell well," he said. Which sounded not entirely reassuring. Indeed, it sounded like a "no." 
-Chatting next with an Apple store "Genius" (who was testing his iPhone 6), CNET's reporter was told that "The X and the 8 are the same phone... Inside, I mean. With the X, you're just paying the extra money for the design." Unfortunately, that salesman's $999 iPhone X was wrapped in an ugly pink case, because after four weeks he'd already cracked it. And a third Apple salesman -- who touted the glories of an OLED screen -- also kept his iPhone X in a case at all times "It's glass," he explained. "You'll definitely need a case." 
-"But what about not being able to see the lovely phone?" 
-"Get a see-through case," he replied with a smile.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Some+Smartphone+Salesmen+Aren't+Sold+on+the+iPhone+X%3A+http%3A%2F%2Fbit.ly%2F2ElmNPd"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F07%2F2354218%2Fsome-smartphone-salesmen-arent-sold-on-the-iphone-x%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:hit_parade>67,56,27,19,2,1,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Xbox One Adds New Achievement, Do Not Disturb Features In Previous Update</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bDJoRDOWNbw/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update</link>
+<description>A Preview alpha build is now available for some Xbox One users who take part in the Insiders Program, which allows players to test out new system and game features before they go live to the public. This build contains several new features, such as the Next Achievements feature and a Do Not Disturb feature. GameSpot reports: The biggest addition coming for Xbox Insiders is the Next Achievements feature in the guide. Now, those who test new features and games from Xbox One will be able sort a cross-games list of upcoming Achievements. This way, you can easily see which Achievements you're closest to and quickly launch the game to achieve them. You can also sort your Achievements by how rare they are. There are also a few tweaks to social settings. A Do Not Disturb online status is coming, which will suppress notifications and let your friends know you're unavailable at the moment. Comments on community posts are also getting an adjustment, and soon you'll be able to peek at the most recent comment and see who has liked your comments. The Narrator is also now able to read large amounts of text.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Xbox+One+Adds+New+Achievement%2C+Do+Not+Disturb+Features+In+Previous+Update%3A+http%3A%2F%2Fbit.ly%2F2De0ThA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F0541208%2Fxbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578859&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cpnL426eZ5w" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-08T00:34:00+00:00</dc:date>
-<dc:subject>iphone</dc:subject>
-<slash:department>down-on-upsells</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>181</slash:comments>
-<slash:hit_parade>181,169,99,82,22,12,9</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/07/2354218/some-smartphone-salesmen-arent-sold-on-the-iphone-x?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>C Programming Language 'Has Completed a Comeback'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yOjSv2hAhkI/c-programming-language-has-completed-a-comeback</link>
-<description>InfoWorld reports that "the once-declining C language" has "completed a comeback" -- citing its rise to second place in the Tiobe Index of language popularity, the biggest rise of any language in 2017. An anonymous reader quotes their report:
-Although the language only grew 1.69 percentage points in its rating year over year in the January index, that was enough beat out runners-up Python (1.21 percent gain) and Erlang (0.98 percent gain). Just five months ago, C was at its lowest-ever rating, at 6.477 percent; this month, its rating is 11.07 percent, once again putting it in second place behind Java (14.215 percent) -- although Java dropped 3.05 percent compared to January 2017. C's revival is possibly being fueled by its popularity in manufacturing and industry, including the automotive market, Tiobe believes... 
-But promising languages such as Julia, Hack, Rust, and Kotlin were not able to reach the top 20 or even the top 30, Tiobe pointed out. "Becoming part of the top 10 or even the top 20 requires a large ecosystem of communities and evangelists including conferences," said Paul Jansen, Tiobe managing director and compiler of the index. "This is not something that can be developed in one year's time." 
-For 2017 Tiobe also reports that after Java and C, the most popular programming languages were C++, Python, C#, JavaScript, Visual Basic .Net, R, PHP, and Perl.
- 
-The rival Pypl Popularity of Programming Language index calculates that the most popular languages are Java, Python, PHP, JavaScript, C#, C++, C, R, Objective-C, and Swift.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=C+Programming+Language+'Has+Completed+a+Comeback'%3A+http%3A%2F%2Fbit.ly%2F2ABUVnX"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F07%2F1941209%2Fc-programming-language-has-completed-a-comeback%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578625&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yOjSv2hAhkI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T23:34:00+00:00</dc:date>
-<dc:subject>programming</dc:subject>
-<slash:department>C-you-later</slash:department>
-<slash:section>developers</slash:section>
-<slash:comments>187</slash:comments>
-<slash:hit_parade>187,177,124,108,45,16,10</slash:hit_parade>
-<feedburner:origLink>https://developers.slashdot.org/story/18/01/07/1941209/c-programming-language-has-completed-a-comeback?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Can You Install Linux On a 1993 PC?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7Qt6WSQ0JgY/can-you-install-linux-on-a-1993-pc</link>
-<description>The oldest x86 CPU that the Linux kernel supports today is theoretically the 486. However is this theory actually true in practice? I decided to put this theory to the test in my project. 
-His site describes installing Gentoo Linux on an "ancient" IBM PS/1 Consultant 2133 19C (released in 1993), with 64MB SIMM-72 RAM. (Though to speed things up, he compiled that minimal version of Gentoo on a modern Thinkpad T430 released in 2012.) "Due to the age of the PC, the BIOS only supports booting from the floppy drive or internal HDD," so there was also some disk partitioning and kernel configuration. ("Must disable 64-bit kernel for obvious reasons!") A half-hour video shows that it takes almost 11 minutes just to boot up -- and five and a half minutes to shut down. "Despite the many roadblocks I faced, I was impressed by the level of support Linux has for ancient hardware like this." 
-
-And there's one more added bonus. "Given the age of the 486 (1989 technology), it does not support branch prediction... Ironically this makes it safe from the Meltdown and Spectre attacks."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Can+You+Install+Linux+On+a+1993+PC%3F%3A+http%3A%2F%2Fbit.ly%2F2D47Txq"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F07%2F228222%2Fcan-you-install-linux-on-a-1993-pc%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578773&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7Qt6WSQ0JgY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T22:34:00+00:00</dc:date>
-<dc:subject>linux</dc:subject>
-<slash:department>quarter-of-a-century</slash:department>
-<slash:section>linux</slash:section>
-<slash:comments>203</slash:comments>
-<slash:hit_parade>203,197,122,97,19,8,2</slash:hit_parade>
-<feedburner:origLink>https://linux.slashdot.org/story/18/01/07/228222/can-you-install-linux-on-a-1993-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Pentagon Seeks Laser-Powered Bat Drones</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uS2fzS7cF-8/pentagon-seeks-laser-powered-bat-drones</link>
-<description>Zorro quotes DefenseOne:
-A new contest seeks flight systems inspired by Mother Nature and powered by directed-energy beams. Tired: multi-rotor copters and fixed-wing drones. Wired: flying robots that move like living animals, are crafted of next-generation materials, and draw their power not from batteries but energy beamed from nearby aircraft... 
-"The biological study of agile organisms such as bats and flying insects has yielded new insights into complex flight kinematics of systems with a large number of degrees of freedom, and the use of multi-functional flight surface materials," the announcement reads. The Air Force believes that more and more naturalistic design -- coupled with more powerful and smaller sensors to form a better picture of the outside world -- should yield "significant improvements in maneuverability, survivability and stealth over traditional quadcopter or fixed wing designs." 
-The article includes a link to a CalTech video showing footage of an advanced robotic bat.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Pentagon+Seeks+Laser-Powered+Bat+Drones%3A+http%3A%2F%2Fbit.ly%2F2D48Ci5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F07%2F2048221%2Fpentagon-seeks-laser-powered-bat-drones%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578699&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uS2fzS7cF-8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T21:34:00+00:00</dc:date>
-<dc:subject>military</dc:subject>
-<slash:department>flying-by-radar</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>43</slash:comments>
-<slash:hit_parade>43,38,21,17,2,0,0</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/07/2048221/pentagon-seeks-laser-powered-bat-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>After Intel ME, Researchers Find Security Bug In AMD's SPS Secret Chip-on-Chip</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zU2RmC8m_8o/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip</link>
-<description>An anonymous reader writes: AMD has fixed, but not yet released BIOS/UEFI/firmware updates for the general public for a security flaw affecting the AMD Secure Processor. This component, formerly known as AMD PSP (Platform Security Processor), is a chip-on-chip security system, similar to Intel's much-hated Management Engine (ME). Just like Intel ME, the AMD Secure Processor is an integrated coprocessor that sits next to the real AMD64 x86 CPU cores and runs a separate operating system tasked with handling various security-related operations. The security bug is a buffer overflow that allows code execution inside the AMD SPS TPM, the component that stores critical system data such as passwords, certificates, and encryption keys, in a secure environment and outside of the more easily accessible AMD cores. Intel fixed a similar flaw last year in the Intel ME.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=After+Intel+ME%2C+Researchers+Find+Security+Bug+In+AMD's+SPS+Secret+Chip-on-Chip%3A+http%3A%2F%2Fbit.ly%2F2CORjVv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F07%2F2015226%2Fafter-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578667&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zU2RmC8m_8o" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T20:34:00+00:00</dc:date>
-<dc:subject>bug</dc:subject>
-<slash:department>in-the-chips</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11591275&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/bDJoRDOWNbw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-10T11:30:00+00:00</dc:date>
+<dc:subject>xbox</dc:subject>
+<slash:department>new-and-shiny</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>72</slash:comments>
-<slash:hit_parade>72,65,32,24,9,6,2</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/07/2015226/after-intel-me-researchers-find-security-bug-in-amds-sps-secret-chip-on-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>John Young, Legendary Astronaut, Dies at Age 87</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4ecjK3HPqt8/john-young-legendary-astronaut-dies-at-age-87</link>
-<description>Legendary astronaut John Young -- who walked on the moon and piloted the first space shuttle -- died Friday at the age of 87. schwit1 shares a nice profile from CBS News:
-A naval aviator and test pilot, Young logged more than 15,275 hours flying time in a variety of aircraft, including 9,200 hours in T-38 jets. He spent 835 hours in space across his six NASA flights, serving as co-pilot of the first Gemini mission in 1965, commander of a second Gemini flight in 1966, lunar module pilot for Apollo 10 in 1969, commander of Apollo 16 in 1972 and commander of the first shuttle flight in 1981... Young was the first man to fly in space six times and the only astronaut to fly aboard Gemini and Apollo capsules and the space shuttle...
-He also brought a legendary cool nerve to an inherently dangerous job that amazed his compatriots. "I found out from the flight surgeon later on that my heartbeat was 144 at liftoff," Charlie Duke, one of Young's crewmates on the Apollo 16 moon landing mission, said of his reaction to launch atop a Saturn 5 rocket. "John's (heartbeat) was 70".
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,20,7,7,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'I Tried the First Phone With An In-Display Fingerprint Sensor'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rqP0TZlfWfU/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor</link>
+<description>Vlad Savov from The Verge reports of his experience using the first smartphone with a fingerprint scanner built into the display: After an entire year of speculation about whether Apple or Samsung might integrate the fingerprint sensor under the display of their flagship phones, it is actually China's Vivo that has gotten there first. At CES 2018, I got to grips with the first smartphone to have this futuristic tech built in, and I was left a little bewildered by the experience. The mechanics of setting up your fingerprint on the phone and then using it to unlock the device and do things like authenticate payments are the same as with a traditional fingerprint sensor. The only difference I experienced was that the Vivo handset was slower -- both to learn the contours of my fingerprint and to unlock once I put my thumb on the on-screen fingerprint prompt -- but not so much as to be problematic. Basically, every other fingerprint sensor these days is ridiculously fast and accurate, so with this being newer tech, its slight lag feels more palpable. Vivo is using a Synaptics optical sensor called Clear ID that works by peering through the gaps between the pixels in an OLED display (LCDs wouldn't work because of their need for a backlight) and scanning your uniquely patterned epidermis. The sensor is already in mass production and should be incorporated in several flagship devices later this year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='I+Tried+the+First+Phone+With+An+In-Display+Fingerprint+Sensor'%3A+http%3A%2F%2Fbit.ly%2F2CYrmmF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F0529226%2Fi-tried-the-first-phone-with-an-in-display-fingerprint-sensor%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
- 
-
-On one space shuttle flight, two of the ship's three auxiliary power units actually caught on fire, and exploded just minutes after touchdown. But Young always kept his cool. In 2010 Slashdot remembered the first manned Gemini mission in 1965. When it reached orbit, Young surprised his fellow astronaut Gus Grissom by pulling a fresh corned beef sandwich out of his pocket. 
-An anonymous Slashdot reader writes: Andrew Chaikin, author of "A Man on the Moon: The Voyages of the Apollo Astronauts", remembers that Young "used to talk about how if we stay on this planet for too long, something's going to get us, whether it was a super volcano or whatever. He really was a true believer." NASA Administrator Robert Lightfoot added that Young's career "spanned three generations of spaceflight; we will stand on his shoulders as we look toward the next human frontier." 
-
-In 2012 -- when he was in his 80s -- Young published a memoir titled Forever Young: A Life of Adventure in Air and Space. "My life has been long, and it has been interesting. It's also been a lot of fun, and a lot of hard, challenging work. If I could do it over, I would do it over the very same way.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=John+Young%2C+Legendary+Astronaut%2C+Dies+at+Age+87%3A+http%3A%2F%2Fbit.ly%2F2Ejkf4i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F07%2F185257%2Fjohn-young-legendary-astronaut-dies-at-age-87%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578511&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4ecjK3HPqt8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T19:34:00+00:00</dc:date>
-<dc:subject>moon</dc:subject>
-<slash:department>real-life-space-odysseys</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11591197&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rqP0TZlfWfU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-10T10:00:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>first-of-its-kind</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>35</slash:comments>
+<slash:hit_parade>35,35,19,17,3,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Rumors Swirl That Secret Zuma Satellite Launched By SpaceX Was Lost</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mcI7Iumrr2U/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost</link>
+<description>Many media outlets are reporting that the U.S. government's top-secret Zuma satellite may have run into some serious problems during or shortly after its Sunday launch. Zuma was launched atop a SpaceX Falcon 9 rocket from Florida's Cape Canaveral Air Force Station Sunday evening -- a launch that also featured a successful landing back on Earth by the booster's first stage. While everything seemed fine at the time, rumors began swirling within the spaceflight community that something had happened to Zuma. "According to one source, the payload fell back to Earth along with the spent upper stage of the Falcon 9 rocket," Ars Technica's Eric Berger wrote. Scientific American reports: To be clear: There is no official word of any bad news, just some rumblings to that effect. And the rocket apparently did its job properly, SpaceX representatives said. "We do not comment on missions of this nature, but as of right now, reviews of the data indicate Falcon 9 performed nominally," company spokesman James Gleeson told Space.com via email. Space.com also reached out to representatives of aerospace company Northrop Grumman, which built Zuma for the U.S. government. "This is a classified mission. We cannot comment on classified missions," Northrop Grumman spokesman Lon Rains said via email. All we know about the satellite itself is that it was destined for a low-Earth orbit and built for the U.S. government. We will update this story if we hear anything else about Zuma's status.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Rumors+Swirl+That+Secret+Zuma+Satellite+Launched+By+SpaceX+Was+Lost%3A+http%3A%2F%2Fbit.ly%2F2ErXQBR"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F10%2F0053229%2Frumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590499&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mcI7Iumrr2U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-10T07:00:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>top-secret</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>36</slash:comments>
-<slash:hit_parade>36,34,20,17,3,2,1</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/07/185257/john-young-legendary-astronaut-dies-at-age-87?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google Sold 6.75 Million 'Google Home' Devices In the Last 80 Days</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/evRJa6JqawE/google-sold-675-million-google-home-devices-in-the-last-80-days</link>
-<description>An anonymous reader quotes TechCrunch:
-Google today announced that it sold "tens of millions of Google devices for the home" over the course of the last year and that it sold "more than one Google Home device every second since Google Home Mini started shipping in October," with roughly 6.75 million seconds since October 19 (the day the Home Mini officially went on sale)... The launch of the Google Home Mini, which you could easily buy for $29 (and occasionally for $19 with store credit) gave the company a low-price competitor to Amazon's Echo Dots, and even though it's doubtful that Google made a lot of money of these sales, the move clearly paid off. 
-The Verge adds:
-Google is thought to be losing money on every unit of the Home Mini; Reuters reported on one analysis that pegged the device's parts alone at $26, not including the cost of developing the entire thing, supporting it, advertising it, shipping it, and so on. Of course, Google is in this for the long game -- the Assistant is an attempt to make sure Google remains the way people get information, and Google has plenty of options to make money through ads or the data it collects in the future... 
-Amazon is also believed to be losing money on the Echo Dot, which was similarly cut to $29 during the holiday season. Amazon never gives out specific sales figures, but it did say that "tens of millions" of its own Alexa-enabled devices were sold over the holidays, with the Echo Dot being one of the top sellers... These super cheap prices are getting people to buy smart speakers and commit to an ecosystem. These companies are clearly happy to spend a few dollars gaining customers in the short term so that they have an enormous audience available to them down the road.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Sold+6.75+Million+'Google+Home'+Devices+In+the+Last+80+Days%3A+http%3A%2F%2Fbit.ly%2F2AB9ckB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F07%2F171214%2Fgoogle-sold-675-million-google-home-devices-in-the-last-80-days%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>96</slash:comments>
+<slash:hit_parade>96,90,58,44,15,7,4</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Jack In the Box CEO Says 'It Just Makes Sense' To Replace Workers With Robots</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GLLyxhzfMdc/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots</link>
+<description>An anonymous reader quotes a report from Grub Street: Per Business Insider, Jack in the Box CEO Leonard Comma told an industry crowd that "it just makes sense" to swap cashiers for inanimate machines in the year 2018. Not because he thinks 2018 will be the year that fast food gets technologized so much as it's the year that Jack in the Box's home state of California increases the minimum wage to $11. In fact, wage bumps hit 18 states this year, with California on pace to become the first $15-wage state in coming years -- a prospect that terrifies industry executives. Jack in the Box has flirted with the idea of installing automated kiosks before. As early as 2009, it tested them out, and apparently found that they increase store efficiency and average check totals -- not bad at all if money's your bottom line. But according to Comma, the chain's executives balked because the upfront cost of converting from people to machines was still too great. What a difference a dollar an hour apparently makes: He told the crowd that with "the rising costs of labor," it's time to start thinking about automating restaurants.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Jack+In+the+Box+CEO+Says+'It+Just+Makes+Sense'+To+Replace+Workers+With+Robots%3A+http%3A%2F%2Fbit.ly%2F2DdHCNi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F002255%2Fjack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11578415&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/evRJa6JqawE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-07T18:34:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>things-that-cost-$29</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590445&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GLLyxhzfMdc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-10T03:30:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>repeal-and-replace</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>477</slash:comments>
+<slash:hit_parade>477,463,276,223,48,33,27</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>AT&amp;amp;T and Comcast Finalize Court Victory Over Nashville and Google Fiber</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/40MtkOxzhl8/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber</link>
+<description>"AT&amp;amp;T and Comcast have solidified a court victory over the metro government in Nashville, Tennessee, nullifying a rule that was meant to help Google Fiber compete against the incumbent broadband providers," reports Ars Technica. From the report: The case involved Nashville's "One Touch Make Ready" ordinance that was supposed to give Google Fiber and other new ISPs faster access to utility poles. The ordinance let a single company make all of the necessary wire adjustments on utility poles itself instead of having to wait for incumbent providers like AT&amp;amp;T and Comcast to send work crews to move their own wires. But AT&amp;amp;T and Comcast sued the metro government to eliminate the rule and won a preliminary victory in November when a U.S. District Court judge in Tennessee nullified the rule as it applies to poles owned by AT&amp;amp;T and other private parties. The next step for AT&amp;amp;T and Comcast was overturning the rule as it applies to poles owned by the municipal Nashville Electric Service (NES), which owns around 80 percent of the Nashville poles. AT&amp;amp;T and Comcast achieved that on Friday with a new ruling from U.S. District Court Judge Aleta Trauger. Nashville's One Touch Make Ready ordinance "is ultra vires and void or voidable as to utility poles owned by Nashville Electric Service because adoption of the Ordinance exceeded Metro Nashville's authority and violated the Metro Charter," the ruling said. Nashville is "permanently enjoined from applying the Ordinance to utility poles owned by Nashville Electric Service." The Nashville government isn't planning to appeal the decision, a spokesperson for Nashville Mayor Megan Barry told Ars today.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=AT%26amp%3BT+and+Comcast+Finalize+Court+Victory+Over+Nashville+and+Google+Fiber%3A+http%3A%2F%2Fbit.ly%2F2CXKn8E"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F10%2F0027250%2Fatt-and-comcast-finalize-court-victory-over-nashville-and-google-fiber%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590457&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/40MtkOxzhl8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-10T01:40:00+00:00</dc:date>
+<dc:subject>att</dc:subject>
+<slash:department>done-deal</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>77</slash:comments>
+<slash:hit_parade>77,75,48,39,15,9,6</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tesla's New York Gigafactory Kicks Off Solar Roof Production</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/XF-QeCVNlhQ/teslas-new-york-gigafactory-kicks-off-solar-roof-production</link>
+<description>In an email Tuesday, Tesla said that its manufacturing of the long-awaited electricity-producing shingles began last month at a factory in Buffalo built with backing from New York State. It comes more than a year after Tesla unveiled the shingles to a mix of fanfare and skepticism. Bloomberg reports: The appeal: a sleek, clean solar product, especially for homeowners seeking to replace aging roofs. The tiles -- from most angles -- look like ordinary shingles. They allow light to pass from above and onto a standard flat solar cell. Tesla, the biggest U.S. installer of rooftop-solar systems, piloted the product on the homes of several employees. The company expects to begin installing roofs for customers within the next few months. Tesla started production of solar cells and panels about four months ago at its Gigafactory 2 in Buffalo. New York committed $750 million to help build the 1.2 million-square-foot factory, which currently employs about 500 people. The plant will eventually create nearly 3,000 jobs in Western New York and nearly 5,000 statewide, Governor Andrew Cuomo said in 2015.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla's+New+York+Gigafactory+Kicks+Off+Solar+Roof+Production%3A+http%3A%2F%2Fbit.ly%2F2CWyDDo"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F09%2F2351236%2Fteslas-new-york-gigafactory-kicks-off-solar-roof-production%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590427&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/XF-QeCVNlhQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-10T01:00:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>long-awaited</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>63</slash:comments>
+<slash:hit_parade>63,63,42,36,14,6,5</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Senate Bill to Block Net Neutrality Repeal Now Has 40 Co-Sponsors</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6nwmTQPnkAQ/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors</link>
+<description>New submitter Rick Schumann writes: The senate bill to block the FCC repeal of Obama-era internet net neutrality rules now has 40 co-sponsors, up from the 30 co-sponsors it had yesterday. The bill, being driven by Senate minority Democrats, requires only a simple majority vote in order to be passed, although Washington insiders are currently predicting the bill will fail. "The bill would use authority under the Congressional Review Act (CRA) to block the FCC's repeal from going into effect," reports The Hill. "And with more than 30 senators on board, the legislation will be able to bypass the committee approval process and Democrats will be able to force a vote on the floor."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Senate+Bill+to+Block+Net+Neutrality+Repeal+Now+Has+40+Co-Sponsors%3A+http%3A%2F%2Fbit.ly%2F2CXoBC5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F09%2F2217226%2Fsenate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590303&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6nwmTQPnkAQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-10T00:20:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>fast-tracked</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,73,49,41,18,7,5</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>UK Backs Off From Banning Reidentification Research</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NnF_13x98-A/uk-backs-off-from-banning-reidentification-research</link>
+<description>An anonymous reader writes: The United Kingdom has recently debated banning reidentification in its new data privacy law. This proposal has quickly been identified as dangerous and criticized, as it was argued this is not only ineffective but would also put at risk legitimate security and privacy researchers. Following public outcry, the UK government amended the bill to include safe-guards allowing researchers to study anonymization weaknesses. Researchers will also gain a new channel of disclosure via the Information Commissioner Office (ICO). According to The Guardian, "Researchers will have to notify the ICO within three days of successfully deanonymizing data, and demonstrate that they had acted in the public interest and without intention to cause damage or distress in re-identifying data."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=UK+Backs+Off+From+Banning+Reidentification+Research%3A+http%3A%2F%2Fbit.ly%2F2ALbX2Q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F09%2F2225259%2Fuk-backs-off-from-banning-reidentification-research%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590311&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/NnF_13x98-A" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-09T23:40:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>quelling-fears</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>10</slash:comments>
+<slash:hit_parade>10,10,6,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Kodak Announces Its Own Cryptocurrency, Watches Stock Price Skyrocket</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CgJBh6t5gI0/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket</link>
+<description>Kodak has joined the cryptocurrency craze by launching its own KodakCoin, a cryptocurrency for photographers. As soon as the news was announced, Kodak's stock (KODK) jumped more than 60 percent. The Verge reports: KodakCoins will work as tokens inside the new blockchain-powered KodakOne rights management platform. The platform will supposedly create a digital ledger of rights ownership that photographers can use to register and license new and old work. Both the platform and cryptocurrency are supposed to "empower photographers and agencies to take greater control in image rights management," according to the press release. The digital currency is meant to create a new economy for photographers to receive payment and sell work on a secure platform. But while Kodak's proposed blockchain-powered platform and virtual coin sound good on paper, it's not clear why the photography company needs to use blockchain to achieve its goals, rather than just create another social media platform instead. It appears that Kodak, like the other tea and vape companies that received media attention last month for making the abrupt leap to blockchain, could just be trying to capitalize on the current cryptocurrency mania.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Kodak+Announces+Its+Own+Cryptocurrency%2C+Watches+Stock+Price+Skyrocket%3A+http%3A%2F%2Fbit.ly%2F2CVJ8GZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F09%2F2157204%2Fkodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590267&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CgJBh6t5gI0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-09T23:00:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>surprise-announcement</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>112</slash:comments>
+<slash:hit_parade>112,111,70,62,16,9,5</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/09/2157204/kodak-announces-its-own-cryptocurrency-watches-stock-price-skyrocket?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Planning New, 'Robust' Parental Controls To Help Protect Children, Teens</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gsbBHLVgDm8/apple-planning-new-robust-parental-controls-to-help-protect-children-teens</link>
+<description>An anonymous reader quotes a report from Ars Technica: An open letter to Apple from some investors sparked the tech giant to respond by promising new software tools for parents to restrict and monitor their kids' smartphone use. In a report by The Wall Street Journal, Apple states it has plans to create new software features that will make its current parental controls on iPhone and other devices "even more robust." "We think deeply about how our products are used and the impact they have on users and the people around them," Apple said in its statement to The Wall Street Journal. "We take this responsibility very seriously and we are committed to meeting and exceeding our customers' expectations, especially when it comes to protecting kids."
+ 
+Apple didn't provide details on its planned, improved parental control features, but it did point back to the controls its software has had in place since 2008. The Settings app on every iPhone has a parental control section that allows adults to restrict website access, control in-app purchases, and install or delete apps, among other things. But those existing settings haven't been enough to quell the worries of the investors who wrote an open letter to Apple last week, expressing concern about the effect smartphones can have on kids who are glued to those devices.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Planning+New%2C+'Robust'+Parental+Controls+To+Help+Protect+Children%2C+Teens%3A+http%3A%2F%2Fbit.ly%2F2AITrbH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F09%2F2117238%2Fapple-planning-new-robust-parental-controls-to-help-protect-children-teens%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590191&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gsbBHLVgDm8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-09T22:20:00+00:00</dc:date>
+<dc:subject>ios</dc:subject>
+<slash:department>call-to-action</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>52</slash:comments>
+<slash:hit_parade>52,50,31,26,8,1,0</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/09/2117238/apple-planning-new-robust-parental-controls-to-help-protect-children-teens?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>James Dolan, Co-Creator of SecureDrop, Dead At 36</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MeQA3O-EqNA/james-dolan-co-creator-of-securedrop-dead-at-36</link>
+<description>The Freedom of the Press Foundation is reporting that James Dolan, former Marine and co-creator of the whistleblower submission system SecureDrop alongside Aaron Swartz and Wired editor Kevin Poulsen, has died at age 36. He reportedly took his own life. Gizmodo reports: First deployed as StrongBox with The New Yorker, organizations such as the Washington Post, the New York Times, the Associated Press, and Gizmodo Media Group have all come to rely on SecureDrop -- which allows highly secure communication between journalists and sources in possession of sensitive information or documents. As an industry tool, it has become invaluable for reporters. Dolan joined the Freedom of the Press Foundation to maintain SecureDrop after co-creator Aaron Swartz took his life in 2013 at age 26, as pressure mounted in a federal investigation against him that many felt was overzealous. Memorial services have not yet been announced, and presently the circumstances of Dolan's death are not known.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=James+Dolan%2C+Co-Creator+of+SecureDrop%2C+Dead+At+36%3A+http%3A%2F%2Fbit.ly%2F2CXllqc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F09%2F2130255%2Fjames-dolan-co-creator-of-securedrop-dead-at-36%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590201&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MeQA3O-EqNA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-09T21:40:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>rest-in-peace</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>91</slash:comments>
-<slash:hit_parade>91,91,48,45,10,6,3</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/07/171214/google-sold-675-million-google-home-devices-in-the-last-80-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:comments>169</slash:comments>
+<slash:hit_parade>169,167,77,64,15,9,6</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/09/2130255/james-dolan-co-creator-of-securedrop-dead-at-36?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>A Crypto Website Changes Its Data, and $100 Billion in Market Value Vanishes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0vMXCf6b3Mg/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes</link>
+<description>Paul Vigna, writing for WSJ: Prices for some of the most popular cryptocurrencies dropped sharply Monday. One apparent reason: an adjustment from a popular website on its digital-currency price quotes (Editor's note: the link may be paywalled; alternative source). A website called coinmarketcap.com on Monday removed data from some South Korean exchanges from its price quotes for a range of virtual currencies including bitcoin, Ethereum and Ripple's XRP. The move followed a South Korean government crackdown on cryptocurrencies. The move by coinmarketcap caused some amount of chaos when prices across the board suddenly plunged. In mid-Monday trading, XRP had fallen 26% over the past 24 hours, Bitcoin Cash was down 18%, and litecoin was down 12%. Of the top 40 cryptocurrencies, 31 were down, including bitcoin and Ethereum. [...] Coinmarketcap has become one of the most popular destinations for price quotes as the sector surged last year. According to Amazon's web-ranking service, coinmarketcap is currently the 154th most popular website in the world, in the same ballpark as Chinese retail giant Alibaba.com. The website's rejiggered prices led to a flip in market-value rankings on the site. Ethereum, with a $109 billion total market valuation, moved into second place, the spot previously occupied by XRP, which fell to third place with a $97 billion market value. Bitcoin remained number one, with a $255 billion market value.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=A+Crypto+Website+Changes+Its+Data%2C+and+%24100+Billion+in+Market+Value+Vanishes%3A+http%3A%2F%2Fbit.ly%2F2AJwd59"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F09%2F2054251%2Fa-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590143&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0vMXCf6b3Mg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-09T20:55:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>house-of-cards</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,64,37,31,9,4,2</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/09/2054251/a-crypto-website-changes-its-data-and-100-billion-in-market-value-vanishes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Dell's Mobile Connect Application Will Allow Users To Easily Mirror Their Smartphone on PC; To Come Pre-installed On Company's Future PCs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/CTZTNFeLNqg/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs</link>
+<description>From a report on VentureBeat: Smartphones and computers were designed in different eras, and they don't really work well together, forcing us to split our time between them. But Dell is trying to change that with Dell Mobile Connect software, which makes the two devices more interoperable. [...] You can now make and receive phone calls directly from your computer, and you can also send and receive text messages on your PC screen. This allows you to stay connected on your PC without worrying that you're missing phone notifications or calls. And you can use any Android app on your PC. That allows you to bring your small-screen apps like games to a bigger screen. If your computer doesn't have a touchscreen, you can control the mirrored phone game with a keyboard and mouse. [...] Dell will preload the software on new Dell consumer and business PCs, and it has a free smartphone app that works on either Android or iOS. Dell Mobile Connect will be available on all new Dell Inspiron, XPS, Vostro, or Alienware purchased worldwide in January 2018 or later.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Dell's+Mobile+Connect+Application+Will+Allow+Users+To+Easily+Mirror+Their+Smartphone+on+PC%3B+To+Come+Pre-installed+On+Company's+Future+PCs%3A+http%3A%2F%2Fbit.ly%2F2DbxJzR"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F09%2F2010217%2Fdells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590027&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/CTZTNFeLNqg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-09T20:10:00+00:00</dc:date>
+<dc:subject>software</dc:subject>
+<slash:department>up-next</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>58</slash:comments>
+<slash:hit_parade>58,56,43,40,13,2,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/09/2010217/dells-mobile-connect-application-will-allow-users-to-easily-mirror-their-smartphone-on-pc-to-come-pre-installed-on-companys-future-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

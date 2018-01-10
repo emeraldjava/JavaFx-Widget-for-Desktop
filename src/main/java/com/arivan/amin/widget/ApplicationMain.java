@@ -95,11 +95,11 @@ public class ApplicationMain extends Application
         rightVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(RIGHT_BOX_WIDTH));
         leftVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         rightVBox.prefHeightProperty().bind(mainHBox.heightProperty());
-        topVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
+        topVBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.4));
         clockWeatherHBox.prefHeightProperty().bind(topVBox.widthProperty());
         clockWeatherHBox.prefHeightProperty().bind(topVBox.heightProperty());
         middleHBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.1));
-        bottomHBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.40));
+        bottomHBox.prefHeightProperty().bind(leftVBox.heightProperty().multiply(0.5));
         bottomHBox.prefWidthProperty().bind(leftVBox.widthProperty());
         clockDateVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.33));
         weatherVBox.prefWidthProperty().bind(clockWeatherHBox.widthProperty().multiply(0.66));
