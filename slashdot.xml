@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-11T15:18:04+00:00</dc:date>
+<dc:date>2018-01-11T18:37:07+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,11 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -26,11 +31,6 @@
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,106 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel Says Chip-Security Fixes Leave PCs No More Than 10% Slower</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0BajsWE9RcA/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower</link>
+<description>Intel trying to defuse concern that fixes to widespread chip security vulnerabilities will slow computers, released test results late Wednesday showing that personal computers won't be affected much and promised more information on servers. From a report: The chipmaker published a table of data showing that older processors handled typical tasks 10 percent slower at most, after being updated with security patches. The information covered three generations of processors, going back to 2015, running Microsoft's Windows 10 and Windows 7 computer operating systems. Further reporting: Intel, Microsoft offer differing views on impact of chip flaw&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Says+Chip-Security+Fixes+Leave+PCs+No+More+Than+10%25+Slower%3A+http%3A%2F%2Fbit.ly%2F2Dlvvhk"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F11%2F1733213%2Fintel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600501&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0BajsWE9RcA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T18:05:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>tussle-continues</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,16,10,5,1,1,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>House Passes Bill To Renew NSA Internet Spying Tool</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ekT7S_6a3fI/house-passes-bill-to-renew-nsa-internet-spying-tool</link>
+<description>Dustin Volz, reporting for Reuters: The U.S. House of Representatives on Thursday passed a bill to renew the National Security Agency's warrantless internet surveillance program, overcoming objections from privacy advocates and confusion prompted by morning tweets from President Donald Trump that initially questioned the spying tool. The legislation, which passed 256-164 and split party lines, is the culmination of a yearslong debate in Congress on the proper scope of U.S. intelligence collection -- one fueled by the 2013 disclosures of classified surveillance secrets by former NSA contractor Edward Snowden. Senior Democrats in the U.S. House of Representatives had urged cancellation of the vote after Trump appeared to cast doubt on the merits of the program, but Republicans forged ahead.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=House+Passes+Bill+To+Renew+NSA+Internet+Spying+Tool%3A+http%3A%2F%2Fbit.ly%2F2D1bsrq"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F1724213%2Fhouse-passes-bill-to-renew-nsa-internet-spying-tool%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600469&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ekT7S_6a3fI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T17:25:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>33</slash:comments>
+<slash:hit_parade>33,32,19,15,4,0,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Uber Used Another Secret Software To Evade Police, Report Says</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mD6vRBwSZJ0/uber-used-another-secret-software-to-evade-police-report-says</link>
+<description>schwit1 shares a Bloomberg report: In May 2015 about 10 investigators for the Quebec tax authority burst into Uber Technologies's office in Montreal. The authorities believed Uber had violated tax laws and had a warrant to collect evidence. Managers on-site knew what to do, say people with knowledge of the event. Like managers at Uber's hundreds of offices abroad, they'd been trained to page a number that alerted specially trained staff at company headquarters in San Francisco. When the call came in, staffers quickly remotely logged off every computer in the Montreal office, making it practically impossible for the authorities to retrieve the company records they'd obtained a warrant to collect. The investigators left without any evidence. Most tech companies don't expect police to regularly raid their offices, but Uber isn't most companies. The ride-hailing startup's reputation for flouting local labor laws and taxi rules has made it a favorite target for law enforcement agencies around the world. That's where this remote system, called Ripley, comes in. From spring 2015 until late 2016, Uber routinely used Ripley to thwart police raids in foreign countries, say three people with knowledge of the system. Allusions to its nature can be found in a smattering of court filings, but its details, scope, and origin haven't been previously reported. The Uber HQ team overseeing Ripley could remotely change passwords and otherwise lock up data on company-owned smartphones, laptops, and desktops as well as shut down the devices. This routine was initially called the unexpected visitor protocol. Employees aware of its existence eventually took to calling it Ripley, after Sigourney Weaver's flamethrower-wielding hero in the Alien movies. The nickname was inspired by a Ripley line in Aliens, after the acid-blooded extraterrestrials easily best a squad of ground troops. 'Nuke the entire site from orbit. It's the only way to be sure.'&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Uber+Used+Another+Secret+Software+To+Evade+Police%2C+Report+Says%3A+http%3A%2F%2Fbit.ly%2F2DhAcZn"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F1650216%2Fuber-used-another-secret-software-to-evade-police-report-says%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600381&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mD6vRBwSZJ0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T16:50:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>paint-us-surprised</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,75,52,43,12,5,2</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Top US Government Computers Linked to Revenge-Porn Site</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1Rzs7uEXDXg/top-us-government-computers-linked-to-revenge-porn-site</link>
+<description>Joseph Cox, reporting for The Daily Beast: Data obtained by a security analyst and shared with The Daily Beast reveals the behind-the-scenes of the epicenter of revenge porn: a notorious image board called Anon-IB, where users constantly upload non-consensual imagery, comment on it, and trade nudes like baseball cards. The data shows Anon-IB users connecting from U.S. Senate, Navy, and other government computers, including the Executive Office of the President, even as senators push for a bill that would further combat the practice, and after the military's own recent revenge-porn crisis. "Wow tig ol bitties. You have any nudes to share?" someone wrote in November, underneath a photo of a woman who apparently works in D.C., while connecting from an IP address registered to the U.S. Senate. Anon-IB is a free-to-use message board where users post images, typically of women, and which is split into various genre or location sections. Some parts are focused on countries, while U.S. sections may narrow down to a state. Many users pursue so-called wins, which are nude or explicit photos, and may egg each other on to share more images. Anon-IB was also intertwined with a 2014 breach of celebrity nudes referred to as The Fappening. "Looking for wins of [redacted]. She used to send nudes to my friend all of the time. Would love to see some more," someone connecting from the U.S. Senate IP address wrote last August.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Top+US+Government+Computers+Linked+to+Revenge-Porn+Site%3A+http%3A%2F%2Fbit.ly%2F2DlFaEv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F11%2F167245%2Ftop-us-government-computers-linked-to-revenge-porn-site%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600295&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1Rzs7uEXDXg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T16:08:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,34,17,12,5,0,0</slash:hit_parade>
+<feedburner:origLink>https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Invented Language That Found a Second Life Online</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zWl40fk9_sw/the-invented-language-that-found-a-second-life-online</link>
+<description>More than 100 years after it was invented, Esperanto is spoken by relatively few people. But the internet has brought new life to this intriguing, invented language. From a report: Since it [Esperanto] was first proposed in a small booklet written by Ludwik L Zamenhof in 1887, it has evolved into the quintessential invented language, the liveliest and most popular ever created. But, many would tell you, Esperanto is a failure. More than a century after it was created, its current speaker base is just some two million people -- a geeky niche, not unlike the fan base of any other obscure hobby. [...] Learning Esperanto used to be a solitary quest. You could practise it by sitting for weeks with a book and a dictionary, figuring out the rules and memorising the words. But there was usually no professor to correct your mistakes or polish your pronunciation. That's how Anna Lowenstein taught herself Esperanto in her teenage years, after becoming frustrated with the oddities of the French she was learning in school. In the last page of her textbook, there was an address for the British Esperanto Association. She sent a letter, and some time later was invited to a meeting of young speakers in St Albans. The global community that Lowenstein was joining was put together via snail mail, paper magazines and yearly meetings. [...] Newer generations are not as patient, and they don't have to be. Unlike most of their elders, who rarely had the chance to speak Esperanto, today's speakers can use the language every day online. Even old computer communication services like Usenet had Esperanto-speaking hubs, and a lot of pages and chat rooms sprouted in the early days of the Web. Today, the younger segment of the Esperantio is keen on using social media: they gather around several groups in Facebook and Telegram, a chat service.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Invented+Language+That+Found+a+Second+Life+Online%3A+http%3A%2F%2Fbit.ly%2F2AQ8mAR"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F11%2F1531217%2Fthe-invented-language-that-found-a-second-life-online%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600213&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zWl40fk9_sw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T15:31:00+00:00</dc:date>
+<dc:subject>news</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>108</slash:comments>
+<slash:hit_parade>108,107,74,62,12,5,3</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>More Colleges Than Ever Have Test-Optional Admissions Policies</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Xh9VOJkkx3g/more-colleges-than-ever-have-test-optional-admissions-policies</link>
@@ -58,8 +158,8 @@
 <dc:subject>education</dc:subject>
 <slash:department>moving-forward</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>25</slash:comments>
-<slash:hit_parade>25,25,16,13,2,0,0</slash:hit_parade>
+<slash:comments>124</slash:comments>
+<slash:hit_parade>124,123,73,55,12,5,1</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Bitcoin Conference Stops Accepting BTC Due To High Fees</title>
@@ -78,8 +178,8 @@
 <dc:subject>humor</dc:subject>
 <slash:department>not-the-onion</slash:department>
 <slash:section>entertainment</slash:section>
-<slash:comments>41</slash:comments>
-<slash:hit_parade>41,40,24,20,8,3,2</slash:hit_parade>
+<slash:comments>93</slash:comments>
+<slash:hit_parade>93,89,53,44,13,7,5</slash:hit_parade>
 <feedburner:origLink>https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>FBI Calls Apple 'Jerks' and 'Evil Geniuses' For Making iPhone Cracks Difficult</title>
@@ -98,8 +198,8 @@
 <dc:subject>encryption</dc:subject>
 <slash:department>two-sides-to-every-coin</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>111</slash:comments>
-<slash:hit_parade>111,108,72,61,26,14,11</slash:hit_parade>
+<slash:comments>221</slash:comments>
+<slash:hit_parade>221,215,147,128,39,18,15</slash:hit_parade>
 <feedburner:origLink>https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>New Ingestible Pill Can Track Your Farts In Real Time</title>
@@ -118,8 +218,8 @@
 <dc:subject>medicine</dc:subject>
 <slash:department>toot-tracker</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>54</slash:comments>
-<slash:hit_parade>54,53,30,27,7,2,2</slash:hit_parade>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,66,42,37,9,2,2</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Senior Citizens Will Lead the Self-Driving Revolution</title>
@@ -138,8 +238,8 @@
 <dc:subject>transportation</dc:subject>
 <slash:department>first-come-first-serve</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>86</slash:comments>
-<slash:hit_parade>86,85,52,44,20,13,8</slash:hit_parade>
+<slash:comments>121</slash:comments>
+<slash:hit_parade>121,120,76,60,20,12,10</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Violating a Website's Terms of Service Is Not a Crime, Federal Court Rules</title>
@@ -158,8 +258,8 @@
 <dc:subject>eff</dc:subject>
 <slash:department>better-luck-next-time</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>60</slash:comments>
-<slash:hit_parade>60,54,27,19,11,6,4</slash:hit_parade>
+<slash:comments>68</slash:comments>
+<slash:hit_parade>68,60,29,21,14,8,5</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Future Samsung Phones Will Have a Working FM Radio Chip</title>
@@ -178,8 +278,8 @@
 <dc:subject>cellphones</dc:subject>
 <slash:department>flip-of-a-switch</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>165</slash:comments>
-<slash:hit_parade>165,164,100,87,18,8,3</slash:hit_parade>
+<slash:comments>184</slash:comments>
+<slash:hit_parade>184,183,113,98,23,8,4</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple To Transfer Chinese iCloud Operations To Chinese Firm</title>
@@ -198,8 +298,8 @@
 <dc:subject>china</dc:subject>
 <slash:department>locally-sourced</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>63</slash:comments>
-<slash:hit_parade>63,63,41,35,9,4,2</slash:hit_parade>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,67,43,36,9,4,2</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Samsung Will Unveil the Galaxy S9 Next Month At Mobile World Congress</title>
@@ -218,8 +318,8 @@
 <dc:subject>cellphones</dc:subject>
 <slash:department>new-and-shiny</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,39,23,21,6,2,0</slash:hit_parade>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,43,26,23,5,2,0</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>NYC Sues Oil Companies Over Climate Change</title>
@@ -240,116 +340,9 @@ Court documents state that New York has suffered from flooding and erosion due t
 <dc:subject>court</dc:subject>
 <slash:department>cause-and-effect</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>290</slash:comments>
-<slash:hit_parade>290,282,160,131,32,17,9</slash:hit_parade>
+<slash:comments>347</slash:comments>
+<slash:hit_parade>347,338,202,170,41,24,10</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Power Outage Brings CES To a Standstill For Nearly 2 Hours</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KJA3wnCK424/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours</link>
-<description>A major power outage brought a major portion of the Consumer Electronics Show in the Las Vegas Center to a standstill for nearly 2 hours today. The lights went out at around 11:13 a.m. PT, just as the second day of CES 2018 was ramping up, and didn't turn back on until around 12:34 p.m. PT. CNET reports: It came a day after more than an inch of rain fell in Las Vegas, which caused flash flooding in the desert city. (Wednesday's weather is clear and warm, and it's unclear if the power outage was at all related.) The first reports of the blackout came from the convention center's Central Hall, which houses the giant booths for show mainstays including Sony, Samsung, LG and Intel -- though Samsung's booth still had limited electricity thanks to its own private backup power. By noon, security guards were refusing entry to parts of the Convention Center. The website of Nevada Energy, the power provider, listed the cause of the problem as "customer-owned electrical equipment."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Power+Outage+Brings+CES+To+a+Standstill+For+Nearly+2+Hours%3A+http%3A%2F%2Fbit.ly%2F2D0BV8E"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F2226236%2Fpower-outage-brings-ces-to-a-standstill-for-nearly-2-hours%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595809&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KJA3wnCK424" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T22:40:00+00:00</dc:date>
-<dc:subject>power</dc:subject>
-<slash:department>worst-case-scenario</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>52</slash:comments>
-<slash:hit_parade>52,51,26,21,5,3,0</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Microsoft: We're Not Giving Up On Cortana (Even In Home Automation)</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pZa8Ck_zGrA/microsoft-were-not-giving-up-on-cortana-even-in-home-automation</link>
-<description>Microsoft is trying to fight back against perceptions that Cortana may be its next consumer-centric technology to face the chopping block. Yesterday, the company issued a press release touting recent wins for Cortana. Among these are the officially unveiled Johnson Controls' Cortana-powered thermostat (which goes on sale for $319 starting in March). ZDNet reports the "other recent Cortana device partners": 
-
-Allwinner: This company has the Tech R16 Quad Core IoT solution (a reference design for device partners).
-Synaptics: This ODM (original design manufacturer) and far-field voice processing vendor produces reference designs for consumer IoT, smart speakers, PC, and more that integrate Cortana.
-TONLY: Another reference design vendor working with Microsoft on Cortana devices that make use of Skype.
-Qualcomm: In addition to partnering with Microsoft on Windows-on-ARM "Always Connected" PCs, Qualcomm is building reference designs on its Smart Audio and Mesh Networking platforms that use Cortana. "In addition to our currently supported home automation partners, we are announcing new partnerships with Ecobee, Geeni, Honeywell Lyric, IFTTT, LIFX, TP-Link Kasa, and Honeywell Total Connect Comfort. Cortana currently supports lights, outlets, switches, and thermostats across all providers," the spokesperson said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft%3A+We're+Not+Giving+Up+On+Cortana+(Even+In+Home+Automation)%3A+http%3A%2F%2Fbit.ly%2F2EuMrBm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F10%2F2119228%2Fmicrosoft-were-not-giving-up-on-cortana-even-in-home-automation%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595711&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/pZa8Ck_zGrA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T22:03:00+00:00</dc:date>
-<dc:subject>microsoft</dc:subject>
-<slash:department>under-the-radar</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>80</slash:comments>
-<slash:hit_parade>80,73,44,33,13,7,6</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>FCC Plan To Lower Broadband Standards Is Met With 'Mobile Only Challenge'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vxhoh298ZI4/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge</link>
-<description>An anonymous reader quotes a report from Ars Technica: Broadband consumer advocates have launched a "Mobile Only Challenge" to show U.S. regulators that cellular data should not be considered an adequate replacement for home Internet service. The awareness campaign comes as the Federal Communications Commission is considering a change to the standard it uses to judge whether broadband is being deployed to all Americans in a reasonable and timely fashion. While FCC Chairman Ajit Pai hasn't released his final plan yet, the FCC may soon declare that America's broadband deployment problem is solved as long as everyone has access to either fast home Internet or cellular Internet service with download speeds of at least 10Mbps. That would be a change from current FCC policy, which says that everyone should have access to both mobile data and fast home Internet services such as fiber or cable.
- 
-"The FCC wants to lower broadband standards," organizers of the Mobile Only Challenge say on the campaign's website. "Pledge to spend one day in January 2018 accessing the Internet only on your mobile device to tell them that's not OK." The Mobile Only Challenge was organized by Public Knowledge, Next Century Cities, New America's Open Technology Institute, the Institute for Local Self-Reliance, the National Hispanic Media Coalition (NHMC), and other groups. Participants are encouraged to share their experiences using the #MobileOnly hashtag.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=FCC+Plan+To+Lower+Broadband+Standards+Is+Met+With+'Mobile+Only+Challenge'%3A+http%3A%2F%2Fbit.ly%2F2AOSEWs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F218202%2Ffcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595687&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/vxhoh298ZI4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T21:25:00+00:00</dc:date>
-<dc:subject>communications</dc:subject>
-<slash:department>can-you-hear-me-now</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>130</slash:comments>
-<slash:hit_parade>130,125,84,66,7,2,1</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>macOS High Sierra's App Store System Preferences Can Be Unlocked With Any Password</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-mqHCIN9OVM/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password</link>
-<description>A bug report submitted on Open Radar this week reveals a security vulnerability in the current version of macOS High Sierra that allows the App Store menu in System Preferences to be unlocked with any password. From a report: MacRumors is able to reproduce the issue on macOS High Sierra version 10.13.2, the latest public release of the operating system, on an administrator-level account by following these steps: 1. Click on System Preferences. 2. Click on App Store. 3. Click on the padlock icon to lock it if necessary. 4. Click on the padlock icon again. 5. Enter your username and any password. 6. Click Unlock. As mentioned in the radar, System Preferences does not accept an incorrect password with a non-administrator account. We also weren't able to unlock any other System Preferences menus with an incorrect password. We're unable to reproduce the issue on the third or fourth betas of macOS High Sierra 10.13.3, suggesting Apple has fixed the security vulnerability in the upcoming release. However, the update currently remains in testing.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=macOS+High+Sierra's+App+Store+System+Preferences+Can+Be+Unlocked+With+Any+Password%3A+http%3A%2F%2Fbit.ly%2F2Evefpc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F10%2F2039203%2Fmacos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595651&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-mqHCIN9OVM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T20:45:00+00:00</dc:date>
-<dc:subject>mac</dc:subject>
-<slash:department>state-of-the-art-tech</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>56</slash:comments>
-<slash:hit_parade>56,51,26,22,10,3,3</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Astronomers May Be Closing in on Source of Mysterious Fast Radio Bursts</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-JHGAUMRXZg/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts</link>
-<description>Astronomers appear to be closing in on the source of enigmatic radio pulses emanating from space that have become the subject of intense scientific speculation. From a new report: Previous candidates for the origin of the fleeting blasts of radiation -- known as fast radio bursts, or FRBs -- have included exploding stars, the reverberations of weird objects called cosmic strings or even distant beacons from interstellar alien spaceships. Now, new observations provide backing for a scenario involving a rapidly rotating neutron star cocooned by an ultra-powerful magnetic field. The explanation is more orthodox than some of the alternatives offered, but could point astronomers towards some of the most extreme magnetic environments in the known universe. "Our preferred model is that they are coming from a neutron star ... that could be just 10 or 20 years old in an extreme magnetic environment," said Jason Hessels, a co-author of the new paper and astronomer at the Netherlands Institute for Radio Astronomy in the Dutch town of Dwingeloo. Fast radio bursts have perplexed astronomers ever since the signals were discovered in 2007 in earlier observation data from the Parkes radio telescope in Australia. About 30 of these objects have been discovered deep in space since the first was detected, all but one burping out a cataclysmic radio pulse exactly once and then disappearing into the night. Only one burster, known as FRB121102, after the date it was discovered (Nov. 2, 2012), has repeated itself, hundreds of times now.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Astronomers+May+Be+Closing+in+on+Source+of+Mysterious+Fast+Radio+Bursts%3A+http%3A%2F%2Fbit.ly%2F2ANp3wM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F10%2F202209%2Fastronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595581&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-JHGAUMRXZg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T20:05:00+00:00</dc:date>
-<dc:subject>space</dc:subject>
-<slash:department>out-there</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>53</slash:comments>
-<slash:hit_parade>53,49,31,23,9,6,4</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

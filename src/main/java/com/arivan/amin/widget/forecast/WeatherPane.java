@@ -1,6 +1,7 @@
 package com.arivan.amin.widget.forecast;
 
 import javafx.animation.*;
+import javafx.beans.property.DoubleProperty;
 import javafx.geometry.Insets;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
@@ -13,8 +14,9 @@ import java.time.LocalDate;
 import java.util.Locale;
 import java.util.logging.Logger;
 
-public class WeatherPane extends Pane
+public class WeatherPane extends HBox
 {
+    // TODO 1/8/18 provide location selection for forecast
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherData weatherData;
     private final Label temperatureLabel;
@@ -27,16 +29,15 @@ public class WeatherPane extends Pane
     private final VBox fourDaysVBox;
     private final Label precipitationLabel;
     
-    private WeatherPane (@NotNull Pane pane)
+    private WeatherPane (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         super();
-        bindPanePropertiesWithContainer(pane);
         weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
-        HBox mainHBox = new HBox(10);
-        getChildren().add(mainHBox);
+        prefWidthProperty().bind(parentWidth.multiply(0.66));
+        prefHeightProperty().bind(parentHeight);
+        setSpacing(10);
         VBox todayVBox = new VBox(5);
         HBox iconHBox = new HBox(10);
-        // TODO 1/8/18 provide location selection for forecast
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
         iconHBox.getChildren().add(currentWeatherImage);
@@ -50,18 +51,15 @@ public class WeatherPane extends Pane
                 .addAll(iconHBox, temperatureLabel, conditionLabel, humidityLabel, windLabel,
                         cloudsLabel, sunLabel, precipitationLabel);
         fourDaysVBox = new VBox();
-        mainHBox.getChildren().addAll(todayVBox, fourDaysVBox);
-        mainHBox.prefWidthProperty().bind(widthProperty());
-        mainHBox.prefHeightProperty().bind(heightProperty());
-        todayVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.4));
-        fourDaysVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.6));
-        todayVBox.prefHeightProperty().bind(mainHBox.heightProperty());
-        fourDaysVBox.prefHeightProperty().bind(mainHBox.heightProperty());
+        getChildren().addAll(todayVBox, fourDaysVBox);
+        todayVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.4));
+        fourDaysVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.6));
+        todayVBox.prefHeightProperty().bind(prefHeightProperty());
+        fourDaysVBox.prefHeightProperty().bind(prefHeightProperty());
         iconHBox.prefWidthProperty().bind(todayVBox.widthProperty());
         iconHBox.prefHeightProperty().bind(todayVBox.heightProperty().multiply(0.5));
         currentWeatherImage.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.85));
         currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.9));
-        updateValues();
         fetchDataPeriodically();
     }
     
@@ -75,12 +73,6 @@ public class WeatherPane extends Pane
         timeline.getKeyFrames().add(new KeyFrame(Duration.hours(1)));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
-    }
-    
-    private void bindPanePropertiesWithContainer (@NotNull Pane pane)
-    {
-        prefWidthProperty().bind(pane.widthProperty());
-        prefHeightProperty().bind(pane.heightProperty());
     }
     
     private void createWeatherBoxes ()
@@ -123,9 +115,9 @@ public class WeatherPane extends Pane
     }
     
     @NotNull
-    public static WeatherPane newInstance (Pane pane)
+    public static WeatherPane newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        return new WeatherPane(pane);
+        return new WeatherPane(parentWidth, parentHeight);
     }
     
     private void createWeatherBox (String weatherIcon, int maxTemp, int minTemp, String date)
@@ -136,12 +128,12 @@ public class WeatherPane extends Pane
         dayIconHBox.getChildren().add(dayImageView);
         VBox labelsVBox = new VBox();
         labelsVBox.setPadding(new Insets(10, 0, 0, 0));
-        Label temperaturesLabel = new Label(maxTemp + "C   /  " + minTemp + 'C');
+        Label temperaturesLabel = new Label(maxTemp + "C   -  " + minTemp + 'C');
         Label dateLabel = new Label(date);
         labelsVBox.getChildren().addAll(temperaturesLabel, dateLabel);
         dayHBox.getChildren().addAll(dayIconHBox, labelsVBox);
         dayHBox.prefWidthProperty().bind(fourDaysVBox.widthProperty());
-        dayHBox.prefHeightProperty().bind(fourDaysVBox.heightProperty().multiply(0.245));
+        dayHBox.prefHeightProperty().bind(fourDaysVBox.heightProperty().multiply(0.23));
         dayIconHBox.prefWidthProperty().bind(dayHBox.widthProperty().multiply(0.4));
         dayIconHBox.prefHeightProperty().bind(dayHBox.heightProperty());
         dayImageView.fitWidthProperty().bind(dayIconHBox.widthProperty().multiply(0.9));

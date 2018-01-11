@@ -10,24 +10,22 @@ import org.jetbrains.annotations.NotNull;
 
 public class LeftBottomBox extends HBox
 {
-    private LeftBottomBox (@NotNull DoubleProperty parentWidthProperty,
-            @NotNull DoubleProperty parentHeightProperty)
+    private LeftBottomBox (@NotNull DoubleProperty parentWidth,
+            @NotNull DoubleProperty parentHeight)
     {
         super();
-        prefWidthProperty().bind(parentWidthProperty);
-        prefHeightProperty().bind(parentHeightProperty.multiply(0.5));
+        prefWidthProperty().bind(parentWidth);
+        prefHeightProperty().bind(parentHeight.multiply(0.5));
         VBox rssVBox = new VBox();
-        VBox batteryStateVBox = new VBox();
         VBox todoVBox = new VBox();
-        getChildren().addAll(rssVBox, batteryStateVBox, todoVBox);
+        getChildren().add(rssVBox);
+        getChildren().add(BatteryStateBox.newInstance(prefWidthProperty(), prefHeightProperty()));
+        getChildren().add(todoVBox);
         rssVBox.getChildren().add(RssReaderBox.newInstance());
-        batteryStateVBox.getChildren().add(BatteryStateBox.newInstance());
         todoVBox.getChildren().add(TodoItemsBox.newInstance());
-        rssVBox.prefWidthProperty().bind(widthProperty().multiply(0.49));
-        batteryStateVBox.prefWidthProperty().bind(widthProperty().multiply(0.29));
-        todoVBox.prefWidthProperty().bind(widthProperty().multiply(0.2));
+        rssVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.5));
+        todoVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.2));
         rssVBox.prefHeightProperty().bind(heightProperty());
-        batteryStateVBox.prefHeightProperty().bind(heightProperty());
         todoVBox.prefHeightProperty().bind(heightProperty());
     }
     

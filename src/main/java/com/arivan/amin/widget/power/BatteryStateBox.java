@@ -1,6 +1,7 @@
 package com.arivan.amin.widget.power;
 
 import javafx.animation.*;
+import javafx.beans.property.DoubleProperty;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
@@ -15,22 +16,25 @@ public class BatteryStateBox extends VBox
 {
     private static final int IMAGE_ROTATION_DEGREE = 90;
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private BatteryState batteryState;
+    private final BatteryState batteryState;
     private final Label stateLabel;
     private final Label timeRemainingLabel;
     private final ImageView iconImageView;
     
-    private BatteryStateBox ()
+    private BatteryStateBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         super();
-        setSpacing(10);
+        prefWidthProperty().bind(parentWidth.multiply(0.3));
+        prefHeightProperty().bind(parentHeight);
         setAlignment(Pos.TOP_CENTER);
         batteryState = LinuxBatteryState.newInstance();
         stateLabel = new Label();
         timeRemainingLabel = new Label();
         iconImageView = new ImageView();
         iconImageView.setRotate(IMAGE_ROTATION_DEGREE);
-        getChildren().addAll(stateLabel, timeRemainingLabel, iconImageView);
+        getChildren().addAll(iconImageView, stateLabel, timeRemainingLabel);
+        iconImageView.setPreserveRatio(true);
+        iconImageView.fitWidthProperty().bind(prefWidthProperty().multiply(0.1));
         setUpdateAnimation();
     }
     
@@ -67,8 +71,9 @@ public class BatteryStateBox extends VBox
     }
     
     @NotNull
-    public static BatteryStateBox newInstance ()
+    public static BatteryStateBox newInstance (DoubleProperty parentWidth,
+            DoubleProperty parentHeight)
     {
-        return new BatteryStateBox();
+        return new BatteryStateBox(parentWidth, parentHeight);
     }
 }
