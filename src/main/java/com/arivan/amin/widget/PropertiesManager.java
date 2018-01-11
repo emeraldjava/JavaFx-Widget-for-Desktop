@@ -1,11 +1,9 @@
 package com.arivan.amin.widget;
 
-import org.jetbrains.annotations.Contract;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.*;
 import java.util.Properties;
-import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 
 public final class PropertiesManager
@@ -14,21 +12,23 @@ public final class PropertiesManager
     private static final String HEIGHT_KEY = "height";
     private static final String X_KEY = "x";
     private static final String Y_KEY = "y";
+    private static final String IS_MAXIMIZED_KEY = "is-maximized";
     private static final String PROPERTY_FILE = "widget.properties";
     private static final int DEFAULT_WIDTH = 1200;
     private static final int DEFAULT_HEIGHT = 700;
     private static final int DEFAULT_X = 10;
     private static final int DEFAULT_Y = 10;
+    private static final boolean DEFAULT_MAXIMIZED_STATE = false;
     private final Logger logger = Logger.getLogger(getClass().getName() + ".log");
     private int width;
     private int height;
-    private int x;
-    private int y;
+    private int stageX;
+    private int stageY;
+    private boolean isStageMaximized;
     
     private PropertiesManager ()
     {
         super();
-        attachHandler();
         loadProperties();
     }
     
@@ -55,8 +55,9 @@ public final class PropertiesManager
         Properties properties = new Properties();
         properties.setProperty(WIDTH_KEY, String.valueOf(width));
         properties.setProperty(HEIGHT_KEY, String.valueOf(height));
-        properties.setProperty(X_KEY, String.valueOf(x));
-        properties.setProperty(Y_KEY, String.valueOf(y));
+        properties.setProperty(X_KEY, String.valueOf(stageX));
+        properties.setProperty(Y_KEY, String.valueOf(stageY));
+        properties.setProperty(IS_MAXIMIZED_KEY, String.valueOf(isStageMaximized));
         properties.store(getOutputStream(), "");
     }
     
@@ -74,15 +75,17 @@ public final class PropertiesManager
             properties.load(getInputStream());
             width = Integer.parseInt(properties.getProperty(WIDTH_KEY));
             height = Integer.parseInt(properties.getProperty(HEIGHT_KEY));
-            x = Integer.parseInt(properties.getProperty(X_KEY));
-            y = Integer.parseInt(properties.getProperty(Y_KEY));
+            stageX = Integer.parseInt(properties.getProperty(X_KEY));
+            stageY = Integer.parseInt(properties.getProperty(Y_KEY));
+            isStageMaximized = Boolean.parseBoolean(properties.getProperty(IS_MAXIMIZED_KEY));
         }
         catch (Exception e)
         {
             width = DEFAULT_WIDTH;
             height = DEFAULT_HEIGHT;
-            x = DEFAULT_X;
-            y = DEFAULT_Y;
+            stageX = DEFAULT_X;
+            stageY = DEFAULT_Y;
+            isStageMaximized = DEFAULT_MAXIMIZED_STATE;
             logger.warning(e.getMessage());
         }
     }
@@ -93,7 +96,6 @@ public final class PropertiesManager
         return new FileInputStream(PROPERTY_FILE);
     }
     
-    @Contract (pure = true)
     public int getWidth ()
     {
         return width;
@@ -108,7 +110,6 @@ public final class PropertiesManager
         this.width = width;
     }
     
-    @Contract (pure = true)
     public int getHeight ()
     {
         return height;
@@ -123,43 +124,40 @@ public final class PropertiesManager
         this.height = height;
     }
     
-    @Contract (pure = true)
-    public int getX ()
+    public int getStageX ()
     {
-        return x;
+        return stageX;
     }
     
-    public void setX (int x)
+    public void setStageX (int stageX)
     {
-        this.x = x;
+        this.stageX = stageX;
     }
     
-    @Contract (pure = true)
-    public int getY ()
+    public int getStageY ()
     {
-        return y;
+        return stageY;
     }
     
-    public void setY (int y)
+    public void setStageY (int stageY)
     {
-        this.y = y;
+        this.stageY = stageY;
     }
     
-    private void attachHandler ()
+    public boolean getIsStageMaximized ()
     {
-        try
-        {
-            logger.addHandler(new FileHandler());
-        }
-        catch (IOException e)
-        {
-            logger.warning(e.getMessage());
-        }
+        return isStageMaximized;
+    }
+    
+    public void setStageMaximized (boolean stageMaximized)
+    {
+        isStageMaximized = stageMaximized;
     }
     
     @Override
     public String toString ()
     {
-        return "PropertiesManager{" + "width=" + width + ", height=" + height + '}';
+        return "PropertiesManager{" + "width=" + width + ", height=" + height + ", stageX=" +
+                stageX + ", stageY=" + stageY + ", getIsStageMaximized=" + isStageMaximized + '}';
     }
 }

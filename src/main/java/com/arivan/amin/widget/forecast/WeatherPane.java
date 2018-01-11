@@ -53,14 +53,14 @@ public class WeatherPane extends Pane
         mainHBox.getChildren().addAll(todayVBox, fourDaysVBox);
         mainHBox.prefWidthProperty().bind(widthProperty());
         mainHBox.prefHeightProperty().bind(heightProperty());
-        todayVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.5));
-        fourDaysVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.5));
+        todayVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.4));
+        fourDaysVBox.prefWidthProperty().bind(mainHBox.widthProperty().multiply(0.6));
         todayVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         fourDaysVBox.prefHeightProperty().bind(mainHBox.heightProperty());
         iconHBox.prefWidthProperty().bind(todayVBox.widthProperty());
         iconHBox.prefHeightProperty().bind(todayVBox.heightProperty().multiply(0.5));
-        currentWeatherImage.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.95));
-        currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.95));
+        currentWeatherImage.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.85));
+        currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.9));
         updateValues();
         fetchDataPeriodically();
     }
@@ -144,7 +144,7 @@ public class WeatherPane extends Pane
         dayHBox.prefHeightProperty().bind(fourDaysVBox.heightProperty().multiply(0.245));
         dayIconHBox.prefWidthProperty().bind(dayHBox.widthProperty().multiply(0.4));
         dayIconHBox.prefHeightProperty().bind(dayHBox.heightProperty());
-        dayImageView.fitWidthProperty().bind(dayIconHBox.widthProperty().multiply(0.95));
+        dayImageView.fitWidthProperty().bind(dayIconHBox.widthProperty().multiply(0.9));
         dayImageView.fitHeightProperty().bind(dayIconHBox.heightProperty().multiply(0.95));
         fourDaysVBox.getChildren().add(dayHBox);
     }

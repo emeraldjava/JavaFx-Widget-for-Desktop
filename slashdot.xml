@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-10T17:52:14+00:00</dc:date>
+<dc:date>2018-01-11T11:54:11+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,308 +41,315 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Meltdown and Spectre Patches Bricking Ubuntu 16.04 Computers</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/W1h4z_2JBqs/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers</link>
-<description>An anonymous reader writes: Ubuntu Xenial 16.04 users who updated to receive the Meltdown and Spectre patches are reporting they are unable to boot their systems and have been forced to roll back to an earlier Linux kernel image. The issues were reported by a large number of users on the Ubuntu forums and Ubuntu's Launchpad bug tracker. Only Ubuntu users running the Xenial 16.04 series appear to be affected. All users who reported issues said they were unable to boot after upgrading to Ubuntu 16.04 with kernel image 4.4.0-108. Canonical, the company behind Ubuntu OS, deployed Linux kernel image 4.4.0-108 as part of a security update for Ubuntu Xenial 16.04 users, yesterday, on January 9. According to Ubuntu Security Notice USN-3522-1 and an Ubuntu Wiki page, this was the update that delivered the Meltdown and Spectre patches.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Meltdown+and+Spectre+Patches+Bricking+Ubuntu+16.04+Computers%3A+http%3A%2F%2Fbit.ly%2F2ANBSah"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F10%2F1634215%2Fmeltdown-and-spectre-patches-bricking-ubuntu-1604-computers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Ingestible Pill Can Track Your Farts In Real Time</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/B6Hb1TG2IIk/new-ingestible-pill-can-track-your-farts-in-real-time</link>
+<description>A group of Australian researchers have developed an ingestible electronic capsule to monitor gas levels in the human gut. "When it's paired with a pocket-sized receiver and a mobile phone app, the pill reports tail-wind conditions in real time as it passes from the stomach to the colon," reports Ars Technica. The invention has been reported in the journal Nature Electronics. From the report: The authors are optimistic that the capsule's gas readings can help clear the air over the inner workings of our intricate innards and the multitudes of microbes they contain. Such fume data could clarify the conditions of each section of the gut, what microbes are up to, and which foods may cause problems in the system. Until now, collecting such data has been a challenge. The capsule is 26mm in length, with a 9.8mm external diameter -- like a large vitamin. Its polymer shell surrounds sensors for temperature, CO2, H2, and O2, as well as a button-size silver oxide battery and a transmission system. One end of the capsule contains a gas-permeable membrane that allows for fast diffusion of gut gases.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Ingestible+Pill+Can+Track+Your+Farts+In+Real+Time%3A+http%3A%2F%2Fbit.ly%2F2AOwZxB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F11%2F0257258%2Fnew-ingestible-pill-can-track-your-farts-in-real-time%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595123&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/W1h4z_2JBqs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T17:21:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>things-going-south</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11596121&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/B6Hb1TG2IIk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T10:00:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>toot-tracker</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,14,13,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Senior Citizens Will Lead the Self-Driving Revolution</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Nr54BGorQj4/senior-citizens-will-lead-the-self-driving-revolution</link>
+<description>The Villages in Florida -- home to 125,000 residents, over 54,000 homes, 32 square miles, 750 miles of road, and three distinct downtowns -- will soon get a fleet of robot taxis. "Voyage, a startup that has been operating a handful of self-driving cars in the San Jose, California-based retirement community also called The Villages, announced today that later this year it will expand to the much-larger Villages north of Orlando," reports The Verge. "This is thanks to a successful Series A fundraising round that raked in $20 million in 2017." From the report: It's an indication that, strangely enough, many of the first people to fully experience the possibilities presented by self-driving cars will be over the age of 55. Most experts agree that robot cars will first roll out as fleets of self-driving taxis in controlled environments -- college campuses, business parks, dedicated freeway lanes, city centers, or retirement communities. Self-driving startups get to boast about providing a real service for people in need, while seniors get to lord over their grandchildren about being early adopters of a bold new technology. They're also getting something a little more valuable: Voyage is giving the owners of The Villages and the smaller San Jose development equity stakes of 0.3% and 0.2%, respectively, according to The Information. Voyage's self-driving cars aren't fully driverless. Safety drivers will remain behind the wheel just in case there's a need to intervene. And to compliment its digital mapping capabilities, the startup says it will partner with Carmera, a 3D mapmaker for autonomous vehicles. This type of partnership is necessary for what Voyage believes is "the largest deployment (by area size) of self-driving cars in the world."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Senior+Citizens+Will+Lead+the+Self-Driving+Revolution%3A+http%3A%2F%2Fbit.ly%2F2APn1Mx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F11%2F0042203%2Fsenior-citizens-will-lead-the-self-driving-revolution%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595963&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Nr54BGorQj4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T07:00:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>first-come-first-serve</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,39,23,19,1,0,0</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/10/1634215/meltdown-and-spectre-patches-bricking-ubuntu-1604-computers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>North Carolina Congressional Map Ruled Unconstitutionally Gerrymandered</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gUdlxv_v5dk/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered</link>
-<description>An anonymous reader shares a report: A panel of federal judges struck down North Carolina's congressional map on Tuesday, condemning it as unconstitutional because Republicans had drawn the map seeking a political advantage (Editor's note: the link may be paywalled; alternative source). The ruling was the first time that a federal court had blocked a congressional map because of a partisan gerrymander, and it instantly endangered Republican seats in the coming elections. Judge James A. Wynn Jr., in a biting 191-page opinion, said that Republicans in North Carolina's Legislature had been "motivated by invidious partisan intent" as they carried out their obligation in 2016 to divide the state into 13 congressional districts, 10 of which are held by Republicans. The result, Judge Wynn wrote, violated the 14th Amendment's guarantee of equal protection. The ruling and its chief demand -- that the Republican-dominated Legislature create a new landscape of congressional districts by Jan. 24 -- infused new turmoil into the political chaos that has in recent years enveloped North Carolina. President Trump carried North Carolina in 2016, but the state elected a Democrat as its governor on the same day and in 2008 supported President Barack Obama.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=North+Carolina+Congressional+Map+Ruled+Unconstitutionally+Gerrymandered%3A+http%3A%2F%2Fbit.ly%2F2ANyT1q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F10%2F1622204%2Fnorth-carolina-congressional-map-ruled-unconstitutionally-gerrymandered%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,48,30,26,8,2,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Violating a Website's Terms of Service Is Not a Crime, Federal Court Rules</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jQi2fjYIPPs/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules</link>
+<description>An anonymous reader quotes a report from the Electronic Frontier Foundation: Good news out of the Ninth Circuit: the federal court of appeals heeded EFF's advice and rejected an attempt by Oracle to hold a company criminally liable for accessing Oracle's website in a manner it didn't like. The court ruled back in 2012 that merely violating a website's terms of use is not a crime under the federal computer crime statute, the Computer Fraud and Abuse Act. But some companies, like Oracle, turned to state computer crime statutes -- in this case, California and Nevada -- to enforce their computer use preferences. This decision shores up the good precedent from 2012 and makes clear -- if it wasn't clear already -- that violating a corporate computer use policy is not a crime.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Violating+a+Website's+Terms+of+Service+Is+Not+a+Crime%2C+Federal+Court+Rules%3A+http%3A%2F%2Fbit.ly%2F2DivnPC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F003246%2Fviolating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595085&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gUdlxv_v5dk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T16:40:00+00:00</dc:date>
-<dc:subject>usa</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>politics</slash:section>
-<slash:comments>94</slash:comments>
-<slash:hit_parade>94,91,64,55,8,4,1</slash:hit_parade>
-<feedburner:origLink>https://politics.slashdot.org/story/18/01/10/1622204/north-carolina-congressional-map-ruled-unconstitutionally-gerrymandered?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>SourceForge Debuts New UI and GitHub Sync Tool</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_vktYKIWh6s/sourceforge-debuts-new-ui-and-github-sync-tool</link>
-<description>SourceForge on Tuesday introduced an overhaul of its website to give it a new look and add new features. Among the most notable additions, the popular repository, which hosts over 430,000 projects and 3.7 million registered developers, said it was creating a GitHub Importer tool which would enable developers to import their GitHub project to SourceForge and also sync their GitHub project file releases on SourceForce so they "can take advantage of the strengths of both platforms." In a blog post, the team wrote:We believe the open source community is always better served when there are multiple options for open source projects to live, and these options are not mutually exclusive. More improvements and new features are on track to be released throughout the year, the team wrote.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=SourceForge+Debuts+New+UI+and+GitHub+Sync+Tool%3A+http%3A%2F%2Fbit.ly%2F2Euqbrg"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F10%2F160222%2Fsourceforge-debuts-new-ui-and-github-sync-tool%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595037&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_vktYKIWh6s" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T16:00:00+00:00</dc:date>
-<dc:subject>sourceforge</dc:subject>
-<slash:department>moving-forward</slash:department>
-<slash:section>developers</slash:section>
-<slash:comments>40</slash:comments>
-<slash:hit_parade>40,39,24,20,7,3,0</slash:hit_parade>
-<feedburner:origLink>https://developers.slashdot.org/story/18/01/10/160222/sourceforge-debuts-new-ui-and-github-sync-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>NVIDIA GPUs Weren't Immune To Spectre Security Flaws Either</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/c5xPkHoE8og/nvidia-gpus-werent-immune-to-spectre-security-flaws-either</link>
-<description>Nvidia has became the latest chipmaker to release software patches for the Spectre microchip security threat, indicating that the chipset flaw was affecting graphic processors as well as CPUs. From a report: To that end, NVIDIA has detailed how its GPUs are affected by the speculative execution attacks and has started releasing updated drivers that tackle the issue. All its GeForce, Quadro, NVS, Tesla and GRID chips appear to be safe from Meltdown (aka variant 3 of the attacks), but are definitely susceptible to at least one version of Spectre (variant 1) and "potentially affected" by the other (variant 2). The new software mitigates the first Spectre flaw, but NVIDIA is promising future mitigations as well as eventual updates to address the second. Most of the updates are available now, although Tesla and GRID users will have to wait until late January.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=NVIDIA+GPUs+Weren't+Immune+To+Spectre+Security+Flaws+Either%3A+http%3A%2F%2Fbit.ly%2F2Etr5En"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F10%2F1513248%2Fnvidia-gpus-werent-immune-to-spectre-security-flaws-either%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11594961&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/c5xPkHoE8og" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T15:21:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>patches-continue-to-pour</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>64</slash:comments>
-<slash:hit_parade>64,61,27,24,5,2,0</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/10/1513248/nvidia-gpus-werent-immune-to-spectre-security-flaws-either?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Senator Wants Apple To Answer Questions on Slowing iPhones</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/v6Ll905ibH4/senator-wants-apple-to-answer-questions-on-slowing-iphones</link>
-<description>The chairman of a U.S. Senate committee overseeing business issues asked Apple to answer questions about its disclosure that it slowed older iPhones with flagging batteries, Reuters reported on Wednesday, citing a letter. From the report: The California-based company apologized over the issue on Dec. 28, cut battery replacement costs and said it will change its software to show users whether their phone battery is good. Senator John Thune, a Republican who chairs the Commerce, Science and Transportation Committee, said in a Jan. 9 letter to Apple Chief Executive Officer Tim Cook that "the large volume of consumer criticism leveled against the company in light of its admission suggests that there should have been better transparency."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Senator+Wants+Apple+To+Answer+Questions+on+Slowing+iPhones%3A+http%3A%2F%2Fbit.ly%2F2EuSXYC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F10%2F1442231%2Fsenator-wants-apple-to-answer-questions-on-slowing-iphones%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11594881&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/v6Ll905ibH4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T14:42:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>next-up</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>74</slash:comments>
-<slash:hit_parade>74,70,44,40,8,5,3</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/10/1442231/senator-wants-apple-to-answer-questions-on-slowing-iphones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Taiwanese Police Give Cyber-security Quiz Winners Infected Devices</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LAjrNDOHBDA/taiwanese-police-give-cyber-security-quiz-winners-infected-devices</link>
-<description>Taiwan's national police agency said 54 of the flash drives it gave out at an event highlighting a government's cybercrime crackdown contained malware. From a report: The virus, which can steal personal data and has been linked to fraud, was added inadvertently, it said. The Criminal Investigation Bureau (CIB) apologised for the error and blamed the mishap on a third-party contractor. It said 20 of the drives had been recovered. Around 250 flash drives were given out at the expo, which was hosted by Taiwan's Presidential Office from 11-15 December and aimed to highlight the government's determination to crack down on cybercrime.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Taiwanese+Police+Give+Cyber-security+Quiz+Winners+Infected+Devices%3A+http%3A%2F%2Fbit.ly%2F2Er0Qyv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F10%2F1349211%2Ftaiwanese-police-give-cyber-security-quiz-winners-infected-devices%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11594743&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LAjrNDOHBDA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T14:00:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>oops-they-did-it-again</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>32</slash:comments>
-<slash:hit_parade>32,32,18,11,5,3,2</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/10/1349211/taiwanese-police-give-cyber-security-quiz-winners-infected-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Congress Is About To Vote On Expanding the Warrantless Surveillance of Americans</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ph63uH8aXOI/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans</link>
-<description>An anonymous reader quotes a report from Motherboard: On Tuesday afternoon, a handful of U.S. Representatives will convene to review an amendment that would reauthorize warrantless foreign surveillance and expand the law so that it could include American citizens. It would, in effect, legalize a surveillance practice abandoned by the NSA in 2017 in order to appease the Foreign Intelligence Surveillance Court, which found the NSA to have abused its collection capacity several times. If it passes Tuesday's review, the bill may be voted on by the U.S. House of Representatives as early as Thursday. Drafted by the House Intelligence Committee last December, the FISA Amendments Reauthorization Act of 2017 is an amendment to Section 702 of the Foreign Intelligence Surveillance Act (FISA). It is one of six different FISA-related bills under consideration by Congress at the moment, but by far the most damaging to the privacy rights of American citizens.
- 
-FISA was enacted in 1978, but Section 702, referred to by former FBI Director James Comey as the "crown jewels of the intelligence community," wasn't added until 2008. This section allows intelligence agencies to surveil any foreigner outside the U.S. without a warrant that the agency considers a target. The problem is that this often resulted in the warrantless surveillance of U.S. citizens as well due to two loopholes known as "backdoor searches" and "about collection." Backdoor search refers to a roundabout way of monitoring Americans' communications. Since intelligence agencies are able to designate any foreigner's communications as a target for surveillance, if this foreigner has communicated with an American this means this American's communications are then also considered fair game for surveillance by the agency.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Congress+Is+About+To+Vote+On+Expanding+the+Warrantless+Surveillance+of+Americans%3A+http%3A%2F%2Fbit.ly%2F2DgPQEC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F10%2F014238%2Fcongress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590509&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ph63uH8aXOI" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595929&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jQi2fjYIPPs" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T13:00:00+00:00</dc:date>
-<dc:subject>privacy</dc:subject>
-<slash:department>home-field-advantage</slash:department>
+<dc:date>2018-01-11T03:30:00+00:00</dc:date>
+<dc:subject>eff</dc:subject>
+<slash:department>better-luck-next-time</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>180</slash:comments>
-<slash:hit_parade>180,162,100,76,24,10,3</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/10/014238/congress-is-about-to-vote-on-expanding-the-warrantless-surveillance-of-americans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Xbox One Adds New Achievement, Do Not Disturb Features In Previous Update</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bDJoRDOWNbw/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update</link>
-<description>A Preview alpha build is now available for some Xbox One users who take part in the Insiders Program, which allows players to test out new system and game features before they go live to the public. This build contains several new features, such as the Next Achievements feature and a Do Not Disturb feature. GameSpot reports: The biggest addition coming for Xbox Insiders is the Next Achievements feature in the guide. Now, those who test new features and games from Xbox One will be able sort a cross-games list of upcoming Achievements. This way, you can easily see which Achievements you're closest to and quickly launch the game to achieve them. You can also sort your Achievements by how rare they are. There are also a few tweaks to social settings. A Do Not Disturb online status is coming, which will suppress notifications and let your friends know you're unavailable at the moment. Comments on community posts are also getting an adjustment, and soon you'll be able to peek at the most recent comment and see who has liked your comments. The Narrator is also now able to read large amounts of text.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Xbox+One+Adds+New+Achievement%2C+Do+Not+Disturb+Features+In+Previous+Update%3A+http%3A%2F%2Fbit.ly%2F2De0ThA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F0541208%2Fxbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>51</slash:comments>
+<slash:hit_parade>51,48,23,13,11,6,4</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Future Samsung Phones Will Have a Working FM Radio Chip</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Cf0n2V1Ogas/future-samsung-phones-will-have-a-working-fm-radio-chip</link>
+<description>A few months ago, LG announced a partnership with NextRadio to unlock the FM chip in its smartphones. Now, Samsung is doing the same. Android Police reports: NextRadio made the announcement, rightly explaining that FM radio is essential in areas with low connectivity and in emergency and disaster situations where a connection might be difficult to obtain or maintain and where access to information could be a matter of life and death. With the chip unlocked, users will be able to listen to local radio on their phone using the NextRadio Android app. The press release mentions that "upcoming [Samsung] smartphone models in the U.S. and Canada" will have the FM chip unlocked, however I did find several existing Samsung devices with their FM chip enabled on NextRadio's site.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Future+Samsung+Phones+Will+Have+a+Working+FM+Radio+Chip%3A+http%3A%2F%2Fbit.ly%2F2AOZaMO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F2246225%2Ffuture-samsung-phones-will-have-a-working-fm-radio-chip%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11591275&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/bDJoRDOWNbw" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595835&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Cf0n2V1Ogas" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T11:30:00+00:00</dc:date>
-<dc:subject>xbox</dc:subject>
+<dc:date>2018-01-11T01:25:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>flip-of-a-switch</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>143</slash:comments>
+<slash:hit_parade>143,142,87,78,16,7,2</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple To Transfer Chinese iCloud Operations To Chinese Firm</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0gB4liKzHGY/apple-to-transfer-chinese-icloud-operations-to-chinese-firm</link>
+<description>Apple's iCloud services in mainland China will be operated by a Chinese company from next month, the tech giant has confirmed, though Apple will still have access to all data stored on iCloud. The company said it had made the move to comply with the country's cloud computing regulations. iCloud accounts registered outside of China are not affected. BBC reports: The Chinese cyber security rules, introduced in July last year, include a requirement for companies to store all data within China. The firm, Guizhou on the Cloud Big Data (GCBD), is owned by the Guizhou provincial government in southern China. Guizhou is where Apple opened a $1 billion data center last year to meet the regulations. iCloud data will be transferred from February 28, Apple said. Customers living in mainland China who did not want to use iCloud operated by GCBD were given the option to terminate their account. Apple said the "partnership" with GCBD would allow it to "improve the speed and reliability of our iCloud services products while also complying with newly passed regulations that cloud services be operated by Chinese companies." It added that Apple had "strong data privacy and security protections in place and no backdoors will be created into any of our systems." However, some on social media have said the step gives Beijing more opportunity to monitor its citizens and others living in the country.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+To+Transfer+Chinese+iCloud+Operations+To+Chinese+Firm%3A+http%3A%2F%2Fbit.ly%2F2Ev7cwS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F2215204%2Fapple-to-transfer-chinese-icloud-operations-to-chinese-firm%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595793&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0gB4liKzHGY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T00:45:00+00:00</dc:date>
+<dc:subject>china</dc:subject>
+<slash:department>locally-sourced</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,46,29,25,7,3,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Samsung Will Unveil the Galaxy S9 Next Month At Mobile World Congress</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/oK0tCwnd3YM/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress</link>
+<description>Samsung will unveil its next flagship handset, the Galaxy S9, next month at Mobile World Congress (MWC). DJ Koh, the company's smartphone chief, confirmed the launch to ZDNet at CES yesterday without offering a specific date. The Verge reports: The S9 (and, presumably, an S9 Plus) will be the successors to the S8 and S8 Plus, which launched at a Samsung event in New York last March before going on sale in April. The S8 and its bigger brother were a hit with critics, who praised the phones' gorgeous design and brilliant cameras. The phones were even good enough to make consumers forget about the disaster of the Galaxy Note 7 and its exploding batteries. Not much is known about the Galaxy S9 at this point, though we're not expecting any radical departures from the S8. A handful of leaked renders suggest it will look near-identical to its predecessor, with a slight tweak moving the rear fingerprint sensor to below the camera (rather than its current, awkward position of off to one side).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Samsung+Will+Unveil+the+Galaxy+S9+Next+Month+At+Mobile+World+Congress%3A+http%3A%2F%2Fbit.ly%2F2EvRZeV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F2136206%2Fsamsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595741&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/oK0tCwnd3YM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T00:03:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
 <slash:department>new-and-shiny</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>30</slash:comments>
-<slash:hit_parade>30,29,16,13,2,0,0</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/0541208/xbox-one-adds-new-achievement-do-not-disturb-features-in-previous-update?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>'I Tried the First Phone With An In-Display Fingerprint Sensor'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rqP0TZlfWfU/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor</link>
-<description>Vlad Savov from The Verge reports of his experience using the first smartphone with a fingerprint scanner built into the display: After an entire year of speculation about whether Apple or Samsung might integrate the fingerprint sensor under the display of their flagship phones, it is actually China's Vivo that has gotten there first. At CES 2018, I got to grips with the first smartphone to have this futuristic tech built in, and I was left a little bewildered by the experience. The mechanics of setting up your fingerprint on the phone and then using it to unlock the device and do things like authenticate payments are the same as with a traditional fingerprint sensor. The only difference I experienced was that the Vivo handset was slower -- both to learn the contours of my fingerprint and to unlock once I put my thumb on the on-screen fingerprint prompt -- but not so much as to be problematic. Basically, every other fingerprint sensor these days is ridiculously fast and accurate, so with this being newer tech, its slight lag feels more palpable. Vivo is using a Synaptics optical sensor called Clear ID that works by peering through the gaps between the pixels in an OLED display (LCDs wouldn't work because of their need for a backlight) and scanning your uniquely patterned epidermis. The sensor is already in mass production and should be incorporated in several flagship devices later this year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status='I+Tried+the+First+Phone+With+An+In-Display+Fingerprint+Sensor'%3A+http%3A%2F%2Fbit.ly%2F2CYrmmF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F0529226%2Fi-tried-the-first-phone-with-an-in-display-fingerprint-sensor%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>35</slash:comments>
+<slash:hit_parade>35,35,20,18,4,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NYC Sues Oil Companies Over Climate Change</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7uggRxsexMY/nyc-sues-oil-companies-over-climate-change</link>
+<description>An anonymous reader quotes a report from The Guardian: New York City is seeking to lead the assault on both climate change and the Trump administration with a plan to divest $5 billion from fossil fuels and sue the world's most powerful oil companies over their contribution to dangerous global warming. City officials have set a goal of divesting New York's $189 billion pension funds from fossil fuel companies within five years in what they say would be "among the most significant divestment efforts in the world to date." Currently, New York City's five pension funds have about $5 billion in fossil fuel investments. New York state has already announced it is exploring how to divest from fossil fuels. New York's Mayor, Bill de Blasio, said that the city is taking the five fossil fuel firms -- BP, Exxon Mobil, Chevron, ConocoPhillips and Shell -- to federal court due to their contribution to climate change.
+ 
+Court documents state that New York has suffered from flooding and erosion due to climate change and because of looming future threats it is seeking to "shift the costs of protecting the city from climate change impacts back on to the companies that have done nearly all they could to create this existential threat." The court filing claims that just 100 fossil fuel producers are responsible for nearly two-thirds of all greenhouse gas emissions since the industrial revolution, with the five targeted companies the largest contributors. The case will also point to evidence that firms such as Exxon knew of the impact of climate change for decades, only to downplay and even deny this in public.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NYC+Sues+Oil+Companies+Over+Climate+Change%3A+http%3A%2F%2Fbit.ly%2F2Et588v"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F10%2F224206%2Fnyc-sues-oil-companies-over-climate-change%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11591197&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rqP0TZlfWfU" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595773&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7uggRxsexMY" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T10:00:00+00:00</dc:date>
-<dc:subject>cellphones</dc:subject>
-<slash:department>first-of-its-kind</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>55</slash:comments>
-<slash:hit_parade>55,55,30,28,5,1,1</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/0529226/i-tried-the-first-phone-with-an-in-display-fingerprint-sensor?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Rumors Swirl That Secret Zuma Satellite Launched By SpaceX Was Lost</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mcI7Iumrr2U/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost</link>
-<description>Many media outlets are reporting that the U.S. government's top-secret Zuma satellite may have run into some serious problems during or shortly after its Sunday launch. Zuma was launched atop a SpaceX Falcon 9 rocket from Florida's Cape Canaveral Air Force Station Sunday evening -- a launch that also featured a successful landing back on Earth by the booster's first stage. While everything seemed fine at the time, rumors began swirling within the spaceflight community that something had happened to Zuma. "According to one source, the payload fell back to Earth along with the spent upper stage of the Falcon 9 rocket," Ars Technica's Eric Berger wrote. Scientific American reports: To be clear: There is no official word of any bad news, just some rumblings to that effect. And the rocket apparently did its job properly, SpaceX representatives said. "We do not comment on missions of this nature, but as of right now, reviews of the data indicate Falcon 9 performed nominally," company spokesman James Gleeson told Space.com via email. Space.com also reached out to representatives of aerospace company Northrop Grumman, which built Zuma for the U.S. government. "This is a classified mission. We cannot comment on classified missions," Northrop Grumman spokesman Lon Rains said via email. All we know about the satellite itself is that it was destined for a low-Earth orbit and built for the U.S. government. We will update this story if we hear anything else about Zuma's status.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Rumors+Swirl+That+Secret+Zuma+Satellite+Launched+By+SpaceX+Was+Lost%3A+http%3A%2F%2Fbit.ly%2F2ErXQBR"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F10%2F0053229%2Frumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590499&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mcI7Iumrr2U" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T07:00:00+00:00</dc:date>
-<dc:subject>space</dc:subject>
-<slash:department>top-secret</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>138</slash:comments>
-<slash:hit_parade>138,131,78,61,19,14,9</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/10/0053229/rumors-swirl-that-secret-zuma-satellite-launched-by-spacex-was-lost?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Jack In the Box CEO Says 'It Just Makes Sense' To Replace Workers With Robots</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GLLyxhzfMdc/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots</link>
-<description>An anonymous reader quotes a report from Grub Street: Per Business Insider, Jack in the Box CEO Leonard Comma told an industry crowd that "it just makes sense" to swap cashiers for inanimate machines in the year 2018. Not because he thinks 2018 will be the year that fast food gets technologized so much as it's the year that Jack in the Box's home state of California increases the minimum wage to $11. In fact, wage bumps hit 18 states this year, with California on pace to become the first $15-wage state in coming years -- a prospect that terrifies industry executives. Jack in the Box has flirted with the idea of installing automated kiosks before. As early as 2009, it tested them out, and apparently found that they increase store efficiency and average check totals -- not bad at all if money's your bottom line. But according to Comma, the chain's executives balked because the upfront cost of converting from people to machines was still too great. What a difference a dollar an hour apparently makes: He told the crowd that with "the rising costs of labor," it's time to start thinking about automating restaurants.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Jack+In+the+Box+CEO+Says+'It+Just+Makes+Sense'+To+Replace+Workers+With+Robots%3A+http%3A%2F%2Fbit.ly%2F2DdHCNi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F002255%2Fjack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590445&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GLLyxhzfMdc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T03:30:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>repeal-and-replace</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>692</slash:comments>
-<slash:hit_parade>692,677,417,353,70,34,27</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/002255/jack-in-the-box-ceo-says-it-just-makes-sense-to-replace-workers-with-robots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>AT&amp;amp;T and Comcast Finalize Court Victory Over Nashville and Google Fiber</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/40MtkOxzhl8/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber</link>
-<description>"AT&amp;amp;T and Comcast have solidified a court victory over the metro government in Nashville, Tennessee, nullifying a rule that was meant to help Google Fiber compete against the incumbent broadband providers," reports Ars Technica. From the report: The case involved Nashville's "One Touch Make Ready" ordinance that was supposed to give Google Fiber and other new ISPs faster access to utility poles. The ordinance let a single company make all of the necessary wire adjustments on utility poles itself instead of having to wait for incumbent providers like AT&amp;amp;T and Comcast to send work crews to move their own wires. But AT&amp;amp;T and Comcast sued the metro government to eliminate the rule and won a preliminary victory in November when a U.S. District Court judge in Tennessee nullified the rule as it applies to poles owned by AT&amp;amp;T and other private parties. The next step for AT&amp;amp;T and Comcast was overturning the rule as it applies to poles owned by the municipal Nashville Electric Service (NES), which owns around 80 percent of the Nashville poles. AT&amp;amp;T and Comcast achieved that on Friday with a new ruling from U.S. District Court Judge Aleta Trauger. Nashville's One Touch Make Ready ordinance "is ultra vires and void or voidable as to utility poles owned by Nashville Electric Service because adoption of the Ordinance exceeded Metro Nashville's authority and violated the Metro Charter," the ruling said. Nashville is "permanently enjoined from applying the Ordinance to utility poles owned by Nashville Electric Service." The Nashville government isn't planning to appeal the decision, a spokesperson for Nashville Mayor Megan Barry told Ars today.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=AT%26amp%3BT+and+Comcast+Finalize+Court+Victory+Over+Nashville+and+Google+Fiber%3A+http%3A%2F%2Fbit.ly%2F2CXKn8E"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F10%2F0027250%2Fatt-and-comcast-finalize-court-victory-over-nashville-and-google-fiber%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590457&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/40MtkOxzhl8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T01:40:00+00:00</dc:date>
-<dc:subject>att</dc:subject>
-<slash:department>done-deal</slash:department>
+<dc:date>2018-01-10T23:20:00+00:00</dc:date>
+<dc:subject>court</dc:subject>
+<slash:department>cause-and-effect</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>97</slash:comments>
-<slash:hit_parade>97,94,63,56,16,8,6</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/10/0027250/att-and-comcast-finalize-court-victory-over-nashville-and-google-fiber?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Tesla's New York Gigafactory Kicks Off Solar Roof Production</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/XF-QeCVNlhQ/teslas-new-york-gigafactory-kicks-off-solar-roof-production</link>
-<description>In an email Tuesday, Tesla said that its manufacturing of the long-awaited electricity-producing shingles began last month at a factory in Buffalo built with backing from New York State. It comes more than a year after Tesla unveiled the shingles to a mix of fanfare and skepticism. Bloomberg reports: The appeal: a sleek, clean solar product, especially for homeowners seeking to replace aging roofs. The tiles -- from most angles -- look like ordinary shingles. They allow light to pass from above and onto a standard flat solar cell. Tesla, the biggest U.S. installer of rooftop-solar systems, piloted the product on the homes of several employees. The company expects to begin installing roofs for customers within the next few months. Tesla started production of solar cells and panels about four months ago at its Gigafactory 2 in Buffalo. New York committed $750 million to help build the 1.2 million-square-foot factory, which currently employs about 500 people. The plant will eventually create nearly 3,000 jobs in Western New York and nearly 5,000 statewide, Governor Andrew Cuomo said in 2015.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla's+New+York+Gigafactory+Kicks+Off+Solar+Roof+Production%3A+http%3A%2F%2Fbit.ly%2F2CWyDDo"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F09%2F2351236%2Fteslas-new-york-gigafactory-kicks-off-solar-roof-production%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>233</slash:comments>
+<slash:hit_parade>233,227,130,102,20,8,5</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Power Outage Brings CES To a Standstill For Nearly 2 Hours</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KJA3wnCK424/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours</link>
+<description>A major power outage brought a major portion of the Consumer Electronics Show in the Las Vegas Center to a standstill for nearly 2 hours today. The lights went out at around 11:13 a.m. PT, just as the second day of CES 2018 was ramping up, and didn't turn back on until around 12:34 p.m. PT. CNET reports: It came a day after more than an inch of rain fell in Las Vegas, which caused flash flooding in the desert city. (Wednesday's weather is clear and warm, and it's unclear if the power outage was at all related.) The first reports of the blackout came from the convention center's Central Hall, which houses the giant booths for show mainstays including Sony, Samsung, LG and Intel -- though Samsung's booth still had limited electricity thanks to its own private backup power. By noon, security guards were refusing entry to parts of the Convention Center. The website of Nevada Energy, the power provider, listed the cause of the problem as "customer-owned electrical equipment."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Power+Outage+Brings+CES+To+a+Standstill+For+Nearly+2+Hours%3A+http%3A%2F%2Fbit.ly%2F2D0BV8E"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F2226236%2Fpower-outage-brings-ces-to-a-standstill-for-nearly-2-hours%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590427&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/XF-QeCVNlhQ" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595809&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KJA3wnCK424" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T01:00:00+00:00</dc:date>
+<dc:date>2018-01-10T22:40:00+00:00</dc:date>
 <dc:subject>power</dc:subject>
-<slash:department>long-awaited</slash:department>
+<slash:department>worst-case-scenario</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>79</slash:comments>
-<slash:hit_parade>79,79,52,43,15,9,7</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/09/2351236/teslas-new-york-gigafactory-kicks-off-solar-roof-production?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Senate Bill to Block Net Neutrality Repeal Now Has 40 Co-Sponsors</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6nwmTQPnkAQ/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors</link>
-<description>New submitter Rick Schumann writes: The senate bill to block the FCC repeal of Obama-era internet net neutrality rules now has 40 co-sponsors, up from the 30 co-sponsors it had yesterday. The bill, being driven by Senate minority Democrats, requires only a simple majority vote in order to be passed, although Washington insiders are currently predicting the bill will fail. "The bill would use authority under the Congressional Review Act (CRA) to block the FCC's repeal from going into effect," reports The Hill. "And with more than 30 senators on board, the legislation will be able to bypass the committee approval process and Democrats will be able to force a vote on the floor."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Senate+Bill+to+Block+Net+Neutrality+Repeal+Now+Has+40+Co-Sponsors%3A+http%3A%2F%2Fbit.ly%2F2CXoBC5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F09%2F2217226%2Fsenate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,49,25,20,5,3,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft: We're Not Giving Up On Cortana (Even In Home Automation)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pZa8Ck_zGrA/microsoft-were-not-giving-up-on-cortana-even-in-home-automation</link>
+<description>Microsoft is trying to fight back against perceptions that Cortana may be its next consumer-centric technology to face the chopping block. Yesterday, the company issued a press release touting recent wins for Cortana. Among these are the officially unveiled Johnson Controls' Cortana-powered thermostat (which goes on sale for $319 starting in March). ZDNet reports the "other recent Cortana device partners": 
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+Allwinner: This company has the Tech R16 Quad Core IoT solution (a reference design for device partners).
+Synaptics: This ODM (original design manufacturer) and far-field voice processing vendor produces reference designs for consumer IoT, smart speakers, PC, and more that integrate Cortana.
+TONLY: Another reference design vendor working with Microsoft on Cortana devices that make use of Skype.
+Qualcomm: In addition to partnering with Microsoft on Windows-on-ARM "Always Connected" PCs, Qualcomm is building reference designs on its Smart Audio and Mesh Networking platforms that use Cortana. "In addition to our currently supported home automation partners, we are announcing new partnerships with Ecobee, Geeni, Honeywell Lyric, IFTTT, LIFX, TP-Link Kasa, and Honeywell Total Connect Comfort. Cortana currently supports lights, outlets, switches, and thermostats across all providers," the spokesperson said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft%3A+We're+Not+Giving+Up+On+Cortana+(Even+In+Home+Automation)%3A+http%3A%2F%2Fbit.ly%2F2EuMrBm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F10%2F2119228%2Fmicrosoft-were-not-giving-up-on-cortana-even-in-home-automation%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590303&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6nwmTQPnkAQ" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595711&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/pZa8Ck_zGrA" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-10T00:20:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>fast-tracked</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>84</slash:comments>
-<slash:hit_parade>84,81,53,42,19,9,7</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/09/2217226/senate-bill-to-block-net-neutrality-repeal-now-has-40-co-sponsors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>UK Backs Off From Banning Reidentification Research</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NnF_13x98-A/uk-backs-off-from-banning-reidentification-research</link>
-<description>An anonymous reader writes: The United Kingdom has recently debated banning reidentification in its new data privacy law. This proposal has quickly been identified as dangerous and criticized, as it was argued this is not only ineffective but would also put at risk legitimate security and privacy researchers. Following public outcry, the UK government amended the bill to include safe-guards allowing researchers to study anonymization weaknesses. Researchers will also gain a new channel of disclosure via the Information Commissioner Office (ICO). According to The Guardian, "Researchers will have to notify the ICO within three days of successfully deanonymizing data, and demonstrate that they had acted in the public interest and without intention to cause damage or distress in re-identifying data."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=UK+Backs+Off+From+Banning+Reidentification+Research%3A+http%3A%2F%2Fbit.ly%2F2ALbX2Q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F09%2F2225259%2Fuk-backs-off-from-banning-reidentification-research%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-01-10T22:03:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>under-the-radar</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>73</slash:comments>
+<slash:hit_parade>73,69,37,29,9,5,4</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FCC Plan To Lower Broadband Standards Is Met With 'Mobile Only Challenge'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vxhoh298ZI4/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge</link>
+<description>An anonymous reader quotes a report from Ars Technica: Broadband consumer advocates have launched a "Mobile Only Challenge" to show U.S. regulators that cellular data should not be considered an adequate replacement for home Internet service. The awareness campaign comes as the Federal Communications Commission is considering a change to the standard it uses to judge whether broadband is being deployed to all Americans in a reasonable and timely fashion. While FCC Chairman Ajit Pai hasn't released his final plan yet, the FCC may soon declare that America's broadband deployment problem is solved as long as everyone has access to either fast home Internet or cellular Internet service with download speeds of at least 10Mbps. That would be a change from current FCC policy, which says that everyone should have access to both mobile data and fast home Internet services such as fiber or cable.
+ 
+"The FCC wants to lower broadband standards," organizers of the Mobile Only Challenge say on the campaign's website. "Pledge to spend one day in January 2018 accessing the Internet only on your mobile device to tell them that's not OK." The Mobile Only Challenge was organized by Public Knowledge, Next Century Cities, New America's Open Technology Institute, the Institute for Local Self-Reliance, the National Hispanic Media Coalition (NHMC), and other groups. Participants are encouraged to share their experiences using the #MobileOnly hashtag.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FCC+Plan+To+Lower+Broadband+Standards+Is+Met+With+'Mobile+Only+Challenge'%3A+http%3A%2F%2Fbit.ly%2F2AOSEWs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F218202%2Ffcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11590311&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/NnF_13x98-A" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595687&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/vxhoh298ZI4" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-09T23:40:00+00:00</dc:date>
-<dc:subject>privacy</dc:subject>
-<slash:department>quelling-fears</slash:department>
+<dc:date>2018-01-10T21:25:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>can-you-hear-me-now</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>122</slash:comments>
+<slash:hit_parade>122,117,76,58,7,2,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>macOS High Sierra's App Store System Preferences Can Be Unlocked With Any Password</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-mqHCIN9OVM/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password</link>
+<description>A bug report submitted on Open Radar this week reveals a security vulnerability in the current version of macOS High Sierra that allows the App Store menu in System Preferences to be unlocked with any password. From a report: MacRumors is able to reproduce the issue on macOS High Sierra version 10.13.2, the latest public release of the operating system, on an administrator-level account by following these steps: 1. Click on System Preferences. 2. Click on App Store. 3. Click on the padlock icon to lock it if necessary. 4. Click on the padlock icon again. 5. Enter your username and any password. 6. Click Unlock. As mentioned in the radar, System Preferences does not accept an incorrect password with a non-administrator account. We also weren't able to unlock any other System Preferences menus with an incorrect password. We're unable to reproduce the issue on the third or fourth betas of macOS High Sierra 10.13.3, suggesting Apple has fixed the security vulnerability in the upcoming release. However, the update currently remains in testing.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=macOS+High+Sierra's+App+Store+System+Preferences+Can+Be+Unlocked+With+Any+Password%3A+http%3A%2F%2Fbit.ly%2F2Evefpc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F10%2F2039203%2Fmacos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595651&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-mqHCIN9OVM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T20:45:00+00:00</dc:date>
+<dc:subject>mac</dc:subject>
+<slash:department>state-of-the-art-tech</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>54</slash:comments>
+<slash:hit_parade>54,49,24,21,10,3,3</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Astronomers May Be Closing in on Source of Mysterious Fast Radio Bursts</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-JHGAUMRXZg/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts</link>
+<description>Astronomers appear to be closing in on the source of enigmatic radio pulses emanating from space that have become the subject of intense scientific speculation. From a new report: Previous candidates for the origin of the fleeting blasts of radiation -- known as fast radio bursts, or FRBs -- have included exploding stars, the reverberations of weird objects called cosmic strings or even distant beacons from interstellar alien spaceships. Now, new observations provide backing for a scenario involving a rapidly rotating neutron star cocooned by an ultra-powerful magnetic field. The explanation is more orthodox than some of the alternatives offered, but could point astronomers towards some of the most extreme magnetic environments in the known universe. "Our preferred model is that they are coming from a neutron star ... that could be just 10 or 20 years old in an extreme magnetic environment," said Jason Hessels, a co-author of the new paper and astronomer at the Netherlands Institute for Radio Astronomy in the Dutch town of Dwingeloo. Fast radio bursts have perplexed astronomers ever since the signals were discovered in 2007 in earlier observation data from the Parkes radio telescope in Australia. About 30 of these objects have been discovered deep in space since the first was detected, all but one burping out a cataclysmic radio pulse exactly once and then disappearing into the night. Only one burster, known as FRB121102, after the date it was discovered (Nov. 2, 2012), has repeated itself, hundreds of times now.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Astronomers+May+Be+Closing+in+on+Source+of+Mysterious+Fast+Radio+Bursts%3A+http%3A%2F%2Fbit.ly%2F2ANp3wM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F10%2F202209%2Fastronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595581&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-JHGAUMRXZg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T20:05:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>out-there</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>47</slash:comments>
+<slash:hit_parade>47,45,25,18,8,5,5</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Announces First Mobile Carriers To Support Always Connected PCs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/V8OwC2Q98xI/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs</link>
+<description>An anonymous reader shares a report: The push behind the Always Connected PC vision has been ramping up in recent weeks, with manufacturers like HP, ASUS, and Lenovo all joining the fray with their own LTE PCs based on Qualcomm's Snapdragon platform. Now, Microsoft and Qualcomm have announced the first batch of mobile operators that will actively support Always Connected PCs around the world. These initial carriers will help to bring "easy and affordable connectivity plans to consumers on advanced LTE wireless networks," Microsoft and Qualcomm said in a press release. Throughout the first half of 2018 and beyond, the companies say, mobile operators in China, Italy, the UK, and the U.S. will officially support Always Connected PCs. Here's a look at the carriers you can expect to roll out support in each region: China -- China Telecom, Italy -- TIM (Telecom Italia), U.K. -- EE, U.S. -- Sprint, Verizon. In addition to supporting connected PCs on their LTE networks, you can expect each operator to stock Always Connected PCs in their retail store, Qualcomm and Microsoft say.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Announces+First+Mobile+Carriers+To+Support+Always+Connected+PCs%3A+http%3A%2F%2Fbit.ly%2F2EswYl6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F10%2F1926251%2Fmicrosoft-announces-first-mobile-carriers-to-support-always-connected-pcs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595497&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/V8OwC2Q98xI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T19:26:00+00:00</dc:date>
+<dc:subject>windows</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>97</slash:comments>
+<slash:hit_parade>97,95,63,57,11,5,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Yelp Accused Of Hiding Positive Reviews For Non-Advertiser</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/EJceoK9ShvQ/yelp-accused-of-hiding-positive-reviews-for-non-advertiser</link>
+<description>A Dallas business owner is accusing Yelp of hiding good reviews of his coffee shop after he refused to pay them for advertising. From a report on CBS Local: Bob Sinnott owns Toasted Coffee + Kitchen in Lower Greenville. He said after months of non-stop phone calls from Yelp, he claims his favorable rating dropped after he finally told the company he would not pay for advertising. "What I would compare it to, the mafia," said Sinnott. "You know, you do business with me or there's retaliation." Sinnott feels Yelp is hiding many of his 5-star reviews in the "not recommended" section because he chose not to pay for Yelp services. "The sales pitch is, pay us a monthly fee and we'll your help page," said Sinnott. He claims there were constant phone calls and emails from Yelp pitching the company's services. "It became what I would call borderline harassment," said Sinnott. After posting on Facebook about his experience, Sinnott said his rating went from a 4-star to a 3.5-star rating. Google rates Toasted at 4.1 and Facebook has the business at a 4.6 rating.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Yelp+Accused+Of+Hiding+Positive+Reviews+For+Non-Advertiser%3A+http%3A%2F%2Fbit.ly%2F2EuKHrV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F10%2F1728222%2Fyelp-accused-of-hiding-positive-reviews-for-non-advertiser%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595279&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/EJceoK9ShvQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T18:43:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>stranger-things</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>129</slash:comments>
+<slash:hit_parade>129,126,85,73,23,13,8</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>WhatsApp Security Flaws Could Be Exploited To Covertly Add Members To Group Chats</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3xTltIKHVAU/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats</link>
+<description>A group of crytopgraphers from Germany's Ruhr University Bochum have uncovered flaws in WhatsApp's security that compromise the instant messaging service's end-to-end encryption. WhatsApp, owned by Facebook, has over one billion active users. In a paper published last week, "More is Less: On the End-to-End Security of Group Chats in Signal, WhatsApp, and Threema," anyone who controls WhatsApp's servers, including company employees, can covertly add members to any group -- a claim that might not bode well with privacy enthusiasts. From the paper: The described weaknesses enable attacker A, who controls the WhatsApp server or can break the transport layer security, to take full control over a group. Entering the group however leaves traces since this operation is listed in the graphical user interface. The WhatsApp server can therefore use the fact that it can stealthily reorder and drop messages in the group. Thereby it can cache sent messages to the group, read their content first and decide in which order they are delivered to the members. Additionally the WhatsApp server can forward these messages to the members individually such that a subtly chosen combination of messages can help it to cover the traces. Further reading: Wired.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=WhatsApp+Security+Flaws+Could+Be+Exploited+To+Covertly+Add+Members+To+Group+Chats%3A+http%3A%2F%2Fbit.ly%2F2Ew7OSD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F10%2F1750226%2Fwhatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595325&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3xTltIKHVAU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-10T18:01:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>security-woes</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>10</slash:comments>
-<slash:hit_parade>10,10,6,6,1,0,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/09/2225259/uk-backs-off-from-banning-reidentification-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:comments>29</slash:comments>
+<slash:hit_parade>29,28,10,7,2,2,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
