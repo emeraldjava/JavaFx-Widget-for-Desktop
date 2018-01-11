@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-11T11:54:11+00:00</dc:date>
+<dc:date>2018-01-11T15:18:04+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,9 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -28,9 +31,6 @@
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,66 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>More Colleges Than Ever Have Test-Optional Admissions Policies</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Xh9VOJkkx3g/more-colleges-than-ever-have-test-optional-admissions-policies</link>
+<description>Back in the 1980s, Bates College and Bowdoin College were nearly the only liberal arts colleges not to require applicants to submit SAT or ACT test scores. On Jan. 10, FairTest, a Boston-based organization that has been pushing back against America's testing regime since 1985, announced that the number of colleges that are test-optional has now surpassed 1,000. From a report: This milestone means that more than one-third of America's four-year nonprofit colleges now reject the idea that a test score should strongly determine a student's future. The ranks of test-optional institutions include hundreds of prestigious private institutions, such as George Washington, New York University, Wesleyan University and Wake Forest University. The list also includes hundreds of public universities, such as George Mason, San Francisco State and Old Dominion.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=More+Colleges+Than+Ever+Have+Test-Optional+Admissions+Policies%3A+http%3A%2F%2Fbit.ly%2F2Eyab7R"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F11%2F1438218%2Fmore-colleges-than-ever-have-test-optional-admissions-policies%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600113&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Xh9VOJkkx3g" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T14:41:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>moving-forward</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>25</slash:comments>
+<slash:hit_parade>25,25,16,13,2,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Bitcoin Conference Stops Accepting BTC Due To High Fees</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KO-RMQEEmxQ/bitcoin-conference-stops-accepting-btc-due-to-high-fees</link>
+<description>An anonymous reader shares a report: Next week the popular cryptocurrency event, The North American Bitcoin Conference (TNABC) will be hosted in downtown Miami at the James L Knight Center, January 18-19. However, bitcoin proponents got some unfortunate news this week as the event organizers have announced they have stopped accepting bitcoin payments for conference tickets due to network fees and congestion. Bitcoin settlement times, and the fee market associated with transactions, have become a hot topic these days as on-chain fees have risen to $30-60 per transaction. These issues have made it extremely difficult for businesses to operate, and many merchants have stopped accepting bitcoin for services and goods altogether.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Bitcoin+Conference+Stops+Accepting+BTC+Due+To+High+Fees%3A+http%3A%2F%2Fbit.ly%2F2DiTNZ9"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F11%2F142223%2Fbitcoin-conference-stops-accepting-btc-due-to-high-fees%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11599999&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KO-RMQEEmxQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T14:02:00+00:00</dc:date>
+<dc:subject>humor</dc:subject>
+<slash:department>not-the-onion</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>41</slash:comments>
+<slash:hit_parade>41,40,24,20,8,3,2</slash:hit_parade>
+<feedburner:origLink>https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FBI Calls Apple 'Jerks' and 'Evil Geniuses' For Making iPhone Cracks Difficult</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0WNXjWjExzQ/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult</link>
+<description>troublemaker_23 shares a report from iTWire: A forensics expert from the FBI has lashed out at Apple, calling the company's security team a bunch of "jerks" and "evil geniuses" for making it more difficult to circumvent the encryption on its devices. Stephen Flatley told the International Conference on Cyber Security in New York on Wednesday that one example of the way that Apple had made it harder for him and his colleagues to break into the iPhone was by recently making the password guesses slower, with a change in hash iterations from 10,000 to 10,000,000. A report on the Motherboard website said Flatley explained that this change meant that the speed at which one could brute-force passwords went from 45 attempts a second to one every 18 seconds. "Your crack time just went from two days to two months," he was quoted as saying. "At what point is it just trying to one up things and at what point is it to thwart law enforcement? Apple is pretty good at evil genius stuff," Flatley added.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FBI+Calls+Apple+'Jerks'+and+'Evil+Geniuses'+For+Making+iPhone+Cracks+Difficult%3A+http%3A%2F%2Fbit.ly%2F2ExAQBF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F11%2F0011209%2Ffbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595933&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0WNXjWjExzQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T13:00:00+00:00</dc:date>
+<dc:subject>encryption</dc:subject>
+<slash:department>two-sides-to-every-coin</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>111</slash:comments>
+<slash:hit_parade>111,108,72,61,26,14,11</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>New Ingestible Pill Can Track Your Farts In Real Time</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/B6Hb1TG2IIk/new-ingestible-pill-can-track-your-farts-in-real-time</link>
@@ -58,8 +118,8 @@
 <dc:subject>medicine</dc:subject>
 <slash:department>toot-tracker</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>22</slash:comments>
-<slash:hit_parade>22,22,14,13,1,0,0</slash:hit_parade>
+<slash:comments>54</slash:comments>
+<slash:hit_parade>54,53,30,27,7,2,2</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Senior Citizens Will Lead the Self-Driving Revolution</title>
@@ -78,8 +138,8 @@
 <dc:subject>transportation</dc:subject>
 <slash:department>first-come-first-serve</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>48</slash:comments>
-<slash:hit_parade>48,48,30,26,8,2,0</slash:hit_parade>
+<slash:comments>86</slash:comments>
+<slash:hit_parade>86,85,52,44,20,13,8</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Violating a Website's Terms of Service Is Not a Crime, Federal Court Rules</title>
@@ -98,8 +158,8 @@
 <dc:subject>eff</dc:subject>
 <slash:department>better-luck-next-time</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>51</slash:comments>
-<slash:hit_parade>51,48,23,13,11,6,4</slash:hit_parade>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,54,27,19,11,6,4</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Future Samsung Phones Will Have a Working FM Radio Chip</title>
@@ -118,8 +178,8 @@
 <dc:subject>cellphones</dc:subject>
 <slash:department>flip-of-a-switch</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>143</slash:comments>
-<slash:hit_parade>143,142,87,78,16,7,2</slash:hit_parade>
+<slash:comments>165</slash:comments>
+<slash:hit_parade>165,164,100,87,18,8,3</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple To Transfer Chinese iCloud Operations To Chinese Firm</title>
@@ -138,8 +198,8 @@
 <dc:subject>china</dc:subject>
 <slash:department>locally-sourced</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>46</slash:comments>
-<slash:hit_parade>46,46,29,25,7,3,1</slash:hit_parade>
+<slash:comments>63</slash:comments>
+<slash:hit_parade>63,63,41,35,9,4,2</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Samsung Will Unveil the Galaxy S9 Next Month At Mobile World Congress</title>
@@ -158,8 +218,8 @@
 <dc:subject>cellphones</dc:subject>
 <slash:department>new-and-shiny</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>35</slash:comments>
-<slash:hit_parade>35,35,20,18,4,0,0</slash:hit_parade>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,39,23,21,6,2,0</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>NYC Sues Oil Companies Over Climate Change</title>
@@ -180,8 +240,8 @@ Court documents state that New York has suffered from flooding and erosion due t
 <dc:subject>court</dc:subject>
 <slash:department>cause-and-effect</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>233</slash:comments>
-<slash:hit_parade>233,227,130,102,20,8,5</slash:hit_parade>
+<slash:comments>290</slash:comments>
+<slash:hit_parade>290,282,160,131,32,17,9</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Power Outage Brings CES To a Standstill For Nearly 2 Hours</title>
@@ -200,8 +260,8 @@ Court documents state that New York has suffered from flooding and erosion due t
 <dc:subject>power</dc:subject>
 <slash:department>worst-case-scenario</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>50</slash:comments>
-<slash:hit_parade>50,49,25,20,5,3,0</slash:hit_parade>
+<slash:comments>52</slash:comments>
+<slash:hit_parade>52,51,26,21,5,3,0</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/2226236/power-outage-brings-ces-to-a-standstill-for-nearly-2-hours?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Microsoft: We're Not Giving Up On Cortana (Even In Home Automation)</title>
@@ -225,8 +285,8 @@ Qualcomm: In addition to partnering with Microsoft on Windows-on-ARM "Always Con
 <dc:subject>microsoft</dc:subject>
 <slash:department>under-the-radar</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>73</slash:comments>
-<slash:hit_parade>73,69,37,29,9,5,4</slash:hit_parade>
+<slash:comments>80</slash:comments>
+<slash:hit_parade>80,73,44,33,13,7,6</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/10/2119228/microsoft-were-not-giving-up-on-cortana-even-in-home-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>FCC Plan To Lower Broadband Standards Is Met With 'Mobile Only Challenge'</title>
@@ -247,8 +307,8 @@ Qualcomm: In addition to partnering with Microsoft on Windows-on-ARM "Always Con
 <dc:subject>communications</dc:subject>
 <slash:department>can-you-hear-me-now</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>122</slash:comments>
-<slash:hit_parade>122,117,76,58,7,2,1</slash:hit_parade>
+<slash:comments>130</slash:comments>
+<slash:hit_parade>130,125,84,66,7,2,1</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/10/218202/fcc-plan-to-lower-broadband-standards-is-met-with-mobile-only-challenge?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>macOS High Sierra's App Store System Preferences Can Be Unlocked With Any Password</title>
@@ -267,8 +327,8 @@ Qualcomm: In addition to partnering with Microsoft on Windows-on-ARM "Always Con
 <dc:subject>mac</dc:subject>
 <slash:department>state-of-the-art-tech</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>54</slash:comments>
-<slash:hit_parade>54,49,24,21,10,3,3</slash:hit_parade>
+<slash:comments>56</slash:comments>
+<slash:hit_parade>56,51,26,22,10,3,3</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/10/2039203/macos-high-sierras-app-store-system-preferences-can-be-unlocked-with-any-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Astronomers May Be Closing in on Source of Mysterious Fast Radio Bursts</title>
@@ -287,69 +347,9 @@ Qualcomm: In addition to partnering with Microsoft on Windows-on-ARM "Always Con
 <dc:subject>space</dc:subject>
 <slash:department>out-there</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>47</slash:comments>
-<slash:hit_parade>47,45,25,18,8,5,5</slash:hit_parade>
+<slash:comments>53</slash:comments>
+<slash:hit_parade>53,49,31,23,9,6,4</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/10/202209/astronomers-may-be-closing-in-on-source-of-mysterious-fast-radio-bursts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Microsoft Announces First Mobile Carriers To Support Always Connected PCs</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/V8OwC2Q98xI/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs</link>
-<description>An anonymous reader shares a report: The push behind the Always Connected PC vision has been ramping up in recent weeks, with manufacturers like HP, ASUS, and Lenovo all joining the fray with their own LTE PCs based on Qualcomm's Snapdragon platform. Now, Microsoft and Qualcomm have announced the first batch of mobile operators that will actively support Always Connected PCs around the world. These initial carriers will help to bring "easy and affordable connectivity plans to consumers on advanced LTE wireless networks," Microsoft and Qualcomm said in a press release. Throughout the first half of 2018 and beyond, the companies say, mobile operators in China, Italy, the UK, and the U.S. will officially support Always Connected PCs. Here's a look at the carriers you can expect to roll out support in each region: China -- China Telecom, Italy -- TIM (Telecom Italia), U.K. -- EE, U.S. -- Sprint, Verizon. In addition to supporting connected PCs on their LTE networks, you can expect each operator to stock Always Connected PCs in their retail store, Qualcomm and Microsoft say.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Announces+First+Mobile+Carriers+To+Support+Always+Connected+PCs%3A+http%3A%2F%2Fbit.ly%2F2EswYl6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F10%2F1926251%2Fmicrosoft-announces-first-mobile-carriers-to-support-always-connected-pcs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595497&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/V8OwC2Q98xI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T19:26:00+00:00</dc:date>
-<dc:subject>windows</dc:subject>
-<slash:department>next-up</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>97</slash:comments>
-<slash:hit_parade>97,95,63,57,11,5,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/10/1926251/microsoft-announces-first-mobile-carriers-to-support-always-connected-pcs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Yelp Accused Of Hiding Positive Reviews For Non-Advertiser</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/EJceoK9ShvQ/yelp-accused-of-hiding-positive-reviews-for-non-advertiser</link>
-<description>A Dallas business owner is accusing Yelp of hiding good reviews of his coffee shop after he refused to pay them for advertising. From a report on CBS Local: Bob Sinnott owns Toasted Coffee + Kitchen in Lower Greenville. He said after months of non-stop phone calls from Yelp, he claims his favorable rating dropped after he finally told the company he would not pay for advertising. "What I would compare it to, the mafia," said Sinnott. "You know, you do business with me or there's retaliation." Sinnott feels Yelp is hiding many of his 5-star reviews in the "not recommended" section because he chose not to pay for Yelp services. "The sales pitch is, pay us a monthly fee and we'll your help page," said Sinnott. He claims there were constant phone calls and emails from Yelp pitching the company's services. "It became what I would call borderline harassment," said Sinnott. After posting on Facebook about his experience, Sinnott said his rating went from a 4-star to a 3.5-star rating. Google rates Toasted at 4.1 and Facebook has the business at a 4.6 rating.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Yelp+Accused+Of+Hiding+Positive+Reviews+For+Non-Advertiser%3A+http%3A%2F%2Fbit.ly%2F2EuKHrV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F10%2F1728222%2Fyelp-accused-of-hiding-positive-reviews-for-non-advertiser%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595279&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/EJceoK9ShvQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T18:43:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>stranger-things</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>129</slash:comments>
-<slash:hit_parade>129,126,85,73,23,13,8</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/10/1728222/yelp-accused-of-hiding-positive-reviews-for-non-advertiser?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>WhatsApp Security Flaws Could Be Exploited To Covertly Add Members To Group Chats</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3xTltIKHVAU/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats</link>
-<description>A group of crytopgraphers from Germany's Ruhr University Bochum have uncovered flaws in WhatsApp's security that compromise the instant messaging service's end-to-end encryption. WhatsApp, owned by Facebook, has over one billion active users. In a paper published last week, "More is Less: On the End-to-End Security of Group Chats in Signal, WhatsApp, and Threema," anyone who controls WhatsApp's servers, including company employees, can covertly add members to any group -- a claim that might not bode well with privacy enthusiasts. From the paper: The described weaknesses enable attacker A, who controls the WhatsApp server or can break the transport layer security, to take full control over a group. Entering the group however leaves traces since this operation is listed in the graphical user interface. The WhatsApp server can therefore use the fact that it can stealthily reorder and drop messages in the group. Thereby it can cache sent messages to the group, read their content first and decide in which order they are delivered to the members. Additionally the WhatsApp server can forward these messages to the members individually such that a subtly chosen combination of messages can help it to cover the traces. Further reading: Wired.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=WhatsApp+Security+Flaws+Could+Be+Exploited+To+Covertly+Add+Members+To+Group+Chats%3A+http%3A%2F%2Fbit.ly%2F2Ew7OSD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F10%2F1750226%2Fwhatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595325&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3xTltIKHVAU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-10T18:01:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>security-woes</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>29</slash:comments>
-<slash:hit_parade>29,28,10,7,2,2,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/10/1750226/whatsapp-security-flaws-could-be-exploited-to-covertly-add-members-to-group-chats?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

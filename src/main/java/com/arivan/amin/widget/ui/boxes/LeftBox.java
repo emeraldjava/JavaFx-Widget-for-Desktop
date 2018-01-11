@@ -1,5 +1,6 @@
 package com.arivan.amin.widget.ui.boxes;
 
+import javafx.beans.property.DoubleProperty;
 import javafx.scene.layout.*;
 import org.jetbrains.annotations.NotNull;
 
@@ -10,21 +11,22 @@ public class LeftBox extends VBox
     private static final double LEFT_BOX_WIDTH = 0.80;
     private final Logger logger = Logger.getLogger(getClass().getName());
     
-    private LeftBox (@NotNull Pane container)
+    private LeftBox (DoubleProperty parentWidthProperty, DoubleProperty parentHeightProperty)
     {
         super();
-        prefWidthProperty().bind(container.widthProperty().multiply(LEFT_BOX_WIDTH));
-        prefHeightProperty().bind(container.heightProperty());
-        HBox middleHBox = new HBox();
-        middleHBox.prefHeightProperty().bind(heightProperty().multiply(0.1));
+        prefWidthProperty().bind(parentWidthProperty.multiply(LEFT_BOX_WIDTH));
+        prefHeightProperty().bind(parentHeightProperty);
+        HBox leftMiddleHBox = new HBox();
+        leftMiddleHBox.prefHeightProperty().bind(heightProperty().multiply(0.1));
         getChildren().add(LeftTopBox.newInstance(prefWidthProperty(), prefHeightProperty()));
-        getChildren().addAll(middleHBox);
+        getChildren().addAll(leftMiddleHBox);
         getChildren().add(LeftBottomBox.newInstance(prefWidthProperty(), prefHeightProperty()));
     }
     
     @NotNull
-    public static LeftBox newInstance (Pane pane)
+    public static LeftBox newInstance (DoubleProperty parentWidthProperty,
+            DoubleProperty parentHeightProperty)
     {
-        return new LeftBox(pane);
+        return new LeftBox(parentWidthProperty, parentHeightProperty);
     }
 }

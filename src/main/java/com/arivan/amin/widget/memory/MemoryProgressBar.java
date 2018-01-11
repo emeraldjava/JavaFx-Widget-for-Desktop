@@ -1,71 +1,72 @@
 package com.arivan.amin.widget.memory;
 
 import javafx.animation.*;
-import javafx.geometry.Insets;
+import javafx.beans.property.DoubleProperty;
 import javafx.scene.control.Label;
 import javafx.scene.control.ProgressBar;
-import javafx.scene.layout.*;
+import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.VBox;
 import javafx.util.Duration;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
-public class MemoryProgressBar extends Pane
+public class MemoryProgressBar extends VBox
 {
-    private static final int ANIMATION_SPEED = 300;
+    private static final int UPDATE_TIME_IN_SECONDS = 1;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final Monitor monitor;
     private final ProgressBar memoryBar;
     private final Label memoryLabel;
-    private Pane pane;
     
-    private MemoryProgressBar (@NotNull Pane pane)
+    private MemoryProgressBar (DoubleProperty parentWidthProperty,
+            DoubleProperty parentHeightProperty)
     {
         super();
         monitor = LinuxMonitor.newInstance();
-        VBox mainVBox = new VBox(5);
-        mainVBox.setPadding(new Insets(10));
+        setSpacing(5);
         memoryBar = new ProgressBar();
         memoryLabel = new Label();
         BorderPane memoryBorderPane = new BorderPane();
         memoryBorderPane.setLeft(new Label("RAM"));
         memoryBorderPane.setRight(memoryLabel);
-        mainVBox.getChildren().addAll(memoryBorderPane, memoryBar);
-        memoryBar.prefWidthProperty().bind(pane.widthProperty());
+        getChildren().addAll(memoryBorderPane, memoryBar);
+        memoryBar.prefWidthProperty().bind(parentWidthProperty);
         animateBar();
-        getChildren().add(mainVBox);
     }
     
     @NotNull
-    public static MemoryProgressBar newInstance (Pane pane)
+    public static MemoryProgressBar newInstance (DoubleProperty parentWidthProperty,
+            DoubleProperty parentHeightProperty)
     {
-        return new MemoryProgressBar(pane);
+        return new MemoryProgressBar(parentWidthProperty, parentHeightProperty);
     }
     
     private void animateBar ()
     {
-        Timeline cpuTimeline = new Timeline(new KeyFrame(Duration.millis(ANIMATION_SPEED), e ->
-        {
-            try
-            {
-                double data = monitor.getCommandData();
-                memoryBar.setProgress(data);
-                memoryLabel.setText((int) (data * 100) + " ");
-            }
-            catch (Exception ex)
-            {
-                logger.warning(ex.getMessage());
-            }
-        }));
-        cpuTimeline.getKeyFrames().add(new KeyFrame(Duration.seconds(5)));
-        cpuTimeline.setCycleCount(Animation.INDEFINITE);
-        cpuTimeline.play();
+        Timeline memoryTimeLine =
+                new Timeline(new KeyFrame(Duration.seconds(UPDATE_TIME_IN_SECONDS), e ->
+                {
+                    try
+                    {
+                        double data = monitor.getCommandData();
+                        memoryBar.setProgress(data);
+                        memoryLabel.setText((int) (data * 100) + " ");
+                    }
+                    catch (Exception ex)
+                    {
+                        logger.warning(ex.getMessage());
+                    }
+                }));
+        memoryTimeLine.getKeyFrames().add(new KeyFrame(Duration.seconds(5)));
+        memoryTimeLine.setCycleCount(Animation.INDEFINITE);
+        memoryTimeLine.play();
     }
     
     @Override
     public String toString ()
     {
-        return "MemoryProgressBar{" + "usage=" + monitor + ", memoryBar=" + memoryBar +
-                ", memoryLabel=" + memoryLabel + ", pane=" + pane + '}';
+        return "MemoryProgressBar{" + "monitor=" + monitor + ", memoryBar=" + memoryBar +
+                ", memoryLabel=" + memoryLabel + '}';
     }
 }

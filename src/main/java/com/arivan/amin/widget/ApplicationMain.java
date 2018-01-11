@@ -38,13 +38,15 @@ public class ApplicationMain extends Application
         mainHBox.setPadding(new Insets(10));
         scene = new Scene(mainHBox, properties.getWidth(), properties.getHeight());
         scene.getStylesheets().add("/MainStyle.css");
-        mainHBox.getChildren().add(LeftBox.newInstance(mainHBox));
-        mainHBox.getChildren().add(RightBox.newInstance(mainHBox));
+        mainHBox.prefWidthProperty().bind(scene.widthProperty());
+        mainHBox.prefHeightProperty().bind(scene.heightProperty());
+        mainHBox.getChildren().add(LeftBox
+                .newInstance(mainHBox.prefWidthProperty(), mainHBox.prefHeightProperty()));
+        mainHBox.getChildren().add(RightBox
+                .newInstance(mainHBox.prefWidthProperty(), mainHBox.prefHeightProperty()));
         primaryStage.setScene(scene);
         primaryStage.setX(properties.getStageX());
         primaryStage.setY(properties.getStageY());
-        mainHBox.prefWidthProperty().bind(scene.widthProperty());
-        mainHBox.prefHeightProperty().bind(scene.heightProperty());
         setStageChangeListeners(primaryStage);
         primaryStage.getIcons().add(new Image("widget icon.png"));
         primaryStage.show();

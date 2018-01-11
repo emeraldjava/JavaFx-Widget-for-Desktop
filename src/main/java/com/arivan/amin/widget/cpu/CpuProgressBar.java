@@ -1,45 +1,44 @@
 package com.arivan.amin.widget.cpu;
 
 import javafx.animation.*;
-import javafx.geometry.Insets;
+import javafx.beans.property.DoubleProperty;
 import javafx.scene.control.Label;
 import javafx.scene.control.ProgressBar;
-import javafx.scene.layout.*;
+import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.VBox;
 import javafx.util.Duration;
 import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
-public class CpuProgressBar extends Pane
+public class CpuProgressBar extends VBox
 {
     private static final int UPDATE_SPEED_IN_SECONDS = 1;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final CpuMonitor processor;
     private final ProgressBar cpuBar;
     private final Label cpuLabel;
-    private Pane pane;
     
-    private CpuProgressBar (@NotNull Pane pane)
+    private CpuProgressBar (DoubleProperty parentWidthProperty, DoubleProperty parentHeightProperty)
     {
         super();
         processor = LinuxCpuMonitor.newInstance();
-        VBox mainVBox = new VBox(5);
-        mainVBox.setPadding(new Insets(10));
+        setSpacing(5);
         cpuBar = new ProgressBar();
         cpuLabel = new Label();
         BorderPane cpuBorderPane = new BorderPane();
         cpuBorderPane.setLeft(new Label("CPU"));
         cpuBorderPane.setRight(cpuLabel);
-        mainVBox.getChildren().addAll(cpuBorderPane, cpuBar);
-        cpuBar.prefWidthProperty().bind(pane.widthProperty());
+        getChildren().addAll(cpuBorderPane, cpuBar);
+        cpuBar.prefWidthProperty().bind(parentWidthProperty);
         animateBar();
-        getChildren().add(mainVBox);
     }
     
     @NotNull
-    public static CpuProgressBar newInstance (Pane pane)
+    public static CpuProgressBar newInstance (DoubleProperty parentWidthProperty,
+            DoubleProperty parentHeightProperty)
     {
-        return new CpuProgressBar(pane);
+        return new CpuProgressBar(parentWidthProperty, parentHeightProperty);
     }
     
     private void animateBar ()
