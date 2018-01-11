@@ -14,6 +14,13 @@ public class LeftBottomBox extends HBox
             @NotNull DoubleProperty parentHeight)
     {
         super();
+        // todo show updates available
+        // todo show internet connection status 
+        // todo show wakatime chart
+        // todo show gmail status
+        // todo show article from wikipidia
+        // todo show cpu temp and fan status
+        
         prefWidthProperty().bind(parentWidth);
         prefHeightProperty().bind(parentHeight.multiply(0.5));
         VBox rssVBox = new VBox();
