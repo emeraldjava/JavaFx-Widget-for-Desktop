@@ -1,6 +1,7 @@
 package com.arivan.amin.widget.news.feed;
 
 import javafx.animation.*;
+import javafx.beans.property.DoubleProperty;
 import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
@@ -11,13 +12,15 @@ import java.util.logging.Logger;
 
 public class RssReaderBox extends VBox
 {
-    private static final int PERIOD_BETWEEN_RSS_UPDATES = 30;
+    private static final int MINUTES_BETWEEN_RSS_UPDATES = 20;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final RssReader rssReader;
     
-    private RssReaderBox ()
+    private RssReaderBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         super();
+        prefWidthProperty().bind(parentWidth.multiply(0.5));
+        prefHeightProperty().bind(parentHeight);
         rssReader = SlashdotRssReader.newInstance();
         setSpacing(10);
         Timeline timeline = new Timeline();
@@ -25,15 +28,15 @@ public class RssReaderBox extends VBox
         {
             updateValues();
         }));
-        timeline.getKeyFrames().add(new KeyFrame(Duration.minutes(PERIOD_BETWEEN_RSS_UPDATES)));
+        timeline.getKeyFrames().add(new KeyFrame(Duration.minutes(MINUTES_BETWEEN_RSS_UPDATES)));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
     }
     
     @NotNull
-    public static RssReaderBox newInstance ()
+    public static RssReaderBox newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        return new RssReaderBox();
+        return new RssReaderBox(parentWidth, parentHeight);
     }
     
     private void updateValues ()

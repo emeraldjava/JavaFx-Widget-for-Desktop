@@ -1,876 +1,356 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/"
-         xmlns:admin="http://webns.net/mvcb/"
-         xmlns:content="http://purl.org/rss/1.0/modules/content/"
-         xmlns:dc="http://purl.org/dc/elements/1.1/"
-         xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-         xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
-         xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
-         xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
 
-    <channel rdf:about="https://slashdot.org/">
-        <title>Slashdot</title>
-        <link>https://slashdot.org/</link>
-        <description>News for nerds, stuff that matters</description>
-        <dc:language>en-us</dc:language>
-        <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-        <dc:date>2018-01-11T18:37:07+00:00</dc:date>
-        <dc:publisher>Dice</dc:publisher>
-        <dc:creator>help@slashdot.org</dc:creator>
-        <dc:subject>Technology</dc:subject>
-        <syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
-        <syn:updateFrequency>1</syn:updateFrequency>
-        <syn:updatePeriod>hourly</syn:updatePeriod>
-        <items>
-            <rdf:Seq>
-                <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-                <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed"/>
-            </rdf:Seq>
-        </items>
-        <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif"/>
-        <textinput rdf:resource="https://slashdot.org/search.pl"/>
-        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self"
-                     type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot"/>
-        <feedburner:info uri="slashdot/slashdot"/>
-        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub"
-                     href="http://pubsubhubbub.appspot.com/"/>
-    </channel>
-    <image rdf:about="https://a.fsdn.com/sd/topics/topicslashdot.gif">
-        <title>Slashdot</title>
-        <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
-        <link>https://slashdot.org/</link>
-    </image>
-    <item rdf:about="https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Intel Says Chip-Security Fixes Leave PCs No More Than 10% Slower</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0BajsWE9RcA/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower
-        </link>
-        <description>Intel trying to defuse concern that fixes to widespread chip security
-            vulnerabilities will slow computers, released test results late Wednesday showing that
-            personal computers won't be affected much and promised more information on servers. From
-            a report: The chipmaker published a table of data showing that older processors handled
-            typical tasks 10 percent slower at most, after being updated with security patches. The
-            information covered three generations of processors, going back to 2015, running
-            Microsoft's Windows 10 and Windows 7 computer operating systems. Further reporting:
-            Intel, Microsoft offer differing views on impact of chip flaw&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Intel+Says+Chip-Security+Fixes+Leave+PCs+No+More+Than+10%25+Slower%3A+http%3A%2F%2Fbit.ly%2F2Dlvvhk"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F11%2F1733213%2Fintel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<channel rdf:about="https://slashdot.org/">
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+<dc:date>2018-01-12T12:42:05+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="https://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="https://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<item rdf:about="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Sea Turtles Under Threat As Climate Change Turns Most Babies Female</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/985v37ioZvU/sea-turtles-under-threat-as-climate-change-turns-most-babies-female</link>
+<description>A new study published in the journal Current Biology found that as much as 99 percent of baby green sea turtles in warm equatorial regions are being born female. "The study took a look at turtle populations at nesting sites at Raine Island and Moulter Cay in the northern Great Barrier Reef, an area plagued with unprecedented levels of coral bleaching from high temperatures," reports Futurism. "The researchers compared these populations with sea turtles living at sites in the cooler south." From the report: Using a new, non-invasive hormone test, the researchers from the U.S. National Oceanic and Atmospheric Administration (NOAA) Fisheries Department and the Queensland Department of Environment and Heritage Protection found that while 65 -69 percent of the turtles from the southern region were female, between 86.8 and 99.8 of turtles tested in the northern region were female, depending on age. The sex of green sea turtles, along with some other species of turtles, crocodiles, and alligators, is not regulated by the introduction of sex chromosomes at key points during early development, as seen in humans and other mammals. Their sex is actually influenced by the temperature at which the eggs are incubated, with warmer temperatures more likely to lead to females. The difference between predominately male and predominately female hatchlings is only a few degrees, such as that formerly found between the cool, damp bottom of a sandy sea turtle nest and the sun-warmed top. The ages of the female turtles in the north suggest that this population has experienced temperatures that cause this imbalance since at least the 1990s. Given that the warmer temperatures seen in northern Australia have been distributed around the globe, experts predict that other sea turtle populations in warm regions are also following the same trend.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Sea+Turtles+Under+Threat+As+Climate+Change+Turns+Most+Babies+Female%3A+http%3A%2F%2Fbit.ly%2F2AUjcFH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F12%2F0646225%2Fsea-turtles-under-threat-as-climate-change-turns-most-babies-female%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600501&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0BajsWE9RcA" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>msmash</dc:creator>
-        <dc:date>2018-01-11T18:05:00+00:00</dc:date>
-        <dc:subject>intel</dc:subject>
-        <slash:department>tussle-continues</slash:department>
-        <slash:section>technology</slash:section>
-        <slash:comments>17</slash:comments>
-        <slash:hit_parade>17,16,10,5,1,1,0</slash:hit_parade>
-        <feedburner:origLink>
-            https://tech.slashdot.org/story/18/01/11/1733213/intel-says-chip-security-fixes-leave-pcs-no-more-than-10-slower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>House Passes Bill To Renew NSA Internet Spying Tool</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ekT7S_6a3fI/house-passes-bill-to-renew-nsa-internet-spying-tool
-        </link>
-        <description>Dustin Volz, reporting for Reuters: The U.S. House of Representatives on
-            Thursday passed a bill to renew the National Security Agency's warrantless internet
-            surveillance program, overcoming objections from privacy advocates and confusion
-            prompted by morning tweets from President Donald Trump that initially questioned the
-            spying tool. The legislation, which passed 256-164 and split party lines, is the
-            culmination of a yearslong debate in Congress on the proper scope of U.S. intelligence
-            collection -- one fueled by the 2013 disclosures of classified surveillance secrets by
-            former NSA contractor Edward Snowden. Senior Democrats in the U.S. House of
-            Representatives had urged cancellation of the vote after Trump appeared to cast doubt on
-            the merits of the program, but Republicans forged ahead.&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=House+Passes+Bill+To+Renew+NSA+Internet+Spying+Tool%3A+http%3A%2F%2Fbit.ly%2F2D1bsrq"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F1724213%2Fhouse-passes-bill-to-renew-nsa-internet-spying-tool%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11602369&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/985v37ioZvU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T11:30:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>existential-threats</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,35,29,21,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ecuador Grants Citizenship To WikiLeaks Founder Julian Assange</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/N_PhJ1KCLQ8/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange</link>
+<description>hcs_$reboot writes: Ecuador has granted citizenship to Julian Assange, who has been holed up inside the Ecuadorian embassy in London for over five years. Quito, Ecuador, has said naturalization should provide Assange with another layer of protection. However, naturalization appeared to do little to help the Australian-born WikiLeaks founder's case, with the British foreign ministry stressing that the only way to resolve the issue was for "Assange to leave the embassy to face justice." Earlier on Thursday, Britain said that it had refused a request by Ecuador to grant Assange diplomatic status, which would have granted him special legal immunity and the right to safe passage under the Vienna Convention on Diplomatic Relations.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ecuador+Grants+Citizenship+To+WikiLeaks+Founder+Julian+Assange%3A+http%3A%2F%2Fbit.ly%2F2D3066m"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F12%2F050254%2Fecuador-grants-citizenship-to-wikileaks-founder-julian-assange%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600469&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ekT7S_6a3fI" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>msmash</dc:creator>
-        <dc:date>2018-01-11T17:25:00+00:00</dc:date>
-        <dc:subject>government</dc:subject>
-        <slash:department>next-up</slash:department>
-        <slash:section>yro</slash:section>
-        <slash:comments>33</slash:comments>
-        <slash:hit_parade>33,32,19,15,4,0,0</slash:hit_parade>
-        <feedburner:origLink>
-            https://yro.slashdot.org/story/18/01/11/1724213/house-passes-bill-to-renew-nsa-internet-spying-tool?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Uber Used Another Secret Software To Evade Police, Report Says</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mD6vRBwSZJ0/uber-used-another-secret-software-to-evade-police-report-says
-        </link>
-        <description>schwit1 shares a Bloomberg report: In May 2015 about 10 investigators for the
-            Quebec tax authority burst into Uber Technologies's office in Montreal. The authorities
-            believed Uber had violated tax laws and had a warrant to collect evidence. Managers
-            on-site knew what to do, say people with knowledge of the event. Like managers at Uber's
-            hundreds of offices abroad, they'd been trained to page a number that alerted specially
-            trained staff at company headquarters in San Francisco. When the call came in, staffers
-            quickly remotely logged off every computer in the Montreal office, making it practically
-            impossible for the authorities to retrieve the company records they'd obtained a warrant
-            to collect. The investigators left without any evidence. Most tech companies don't
-            expect police to regularly raid their offices, but Uber isn't most companies. The
-            ride-hailing startup's reputation for flouting local labor laws and taxi rules has made
-            it a favorite target for law enforcement agencies around the world. That's where this
-            remote system, called Ripley, comes in. From spring 2015 until late 2016, Uber routinely
-            used Ripley to thwart police raids in foreign countries, say three people with knowledge
-            of the system. Allusions to its nature can be found in a smattering of court filings,
-            but its details, scope, and origin haven't been previously reported. The Uber HQ team
-            overseeing Ripley could remotely change passwords and otherwise lock up data on
-            company-owned smartphones, laptops, and desktops as well as shut down the devices. This
-            routine was initially called the unexpected visitor protocol. Employees aware of its
-            existence eventually took to calling it Ripley, after Sigourney Weaver's
-            flamethrower-wielding hero in the Alien movies. The nickname was inspired by a Ripley
-            line in Aliens, after the acid-blooded extraterrestrials easily best a squad of ground
-            troops. 'Nuke the entire site from orbit. It's the only way to be sure.'&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Uber+Used+Another+Secret+Software+To+Evade+Police%2C+Report+Says%3A+http%3A%2F%2Fbit.ly%2F2DhAcZn"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F1650216%2Fuber-used-another-secret-software-to-evade-police-report-says%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601711&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/N_PhJ1KCLQ8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T10:00:00+00:00</dc:date>
+<dc:subject>uk</dc:subject>
+<slash:department>get-moving</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>87</slash:comments>
+<slash:hit_parade>87,82,48,33,6,2,1</slash:hit_parade>
+<feedburner:origLink>https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ice Cliffs Spotted On Mars</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/YIE5qioQ0b0/ice-cliffs-spotted-on-mars</link>
+<description>sciencehabit writes from a report via Science Magazine: Scientists have discovered eight cliffs of nearly pure water ice on Mars, some of which stand nearly 100 meters tall. The discovery points to large stores of underground ice buried only a meter or two below the surface at surprisingly low martian latitudes, in regions where ice had not yet been detected. Each cliff seems to be the naked face of a glacier, tantalizing scientists with the promise of a layer-cake record of past martian climates and space enthusiasts with a potential resource for future human bases. Scientists discovered the cliffs with a high-resolution camera on the Mars Reconnaissance Orbiter, revisiting the sites to show their subsequent retreat as a result of vaporization, and their persistence in the martian summer. The hunt should now be on, scientists say, for similar sites closer to the equator. The findings have been reported in this week's issue of Science.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ice+Cliffs+Spotted+On+Mars%3A+http%3A%2F%2Fbit.ly%2F2ASmxW7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F11%2F2137208%2Fice-cliffs-spotted-on-mars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600381&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mD6vRBwSZJ0" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>msmash</dc:creator>
-        <dc:date>2018-01-11T16:50:00+00:00</dc:date>
-        <dc:subject>business</dc:subject>
-        <slash:department>paint-us-surprised</slash:department>
-        <slash:section>yro</slash:section>
-        <slash:comments>75</slash:comments>
-        <slash:hit_parade>75,75,52,43,12,5,2</slash:hit_parade>
-        <feedburner:origLink>
-            https://yro.slashdot.org/story/18/01/11/1650216/uber-used-another-secret-software-to-evade-police-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Top US Government Computers Linked to Revenge-Porn Site</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1Rzs7uEXDXg/top-us-government-computers-linked-to-revenge-porn-site
-        </link>
-        <description>Joseph Cox, reporting for The Daily Beast: Data obtained by a security analyst
-            and shared with The Daily Beast reveals the behind-the-scenes of the epicenter of
-            revenge porn: a notorious image board called Anon-IB, where users constantly upload
-            non-consensual imagery, comment on it, and trade nudes like baseball cards. The data
-            shows Anon-IB users connecting from U.S. Senate, Navy, and other government computers,
-            including the Executive Office of the President, even as senators push for a bill that
-            would further combat the practice, and after the military's own recent revenge-porn
-            crisis. "Wow tig ol bitties. You have any nudes to share?" someone wrote in November,
-            underneath a photo of a woman who apparently works in D.C., while connecting from an IP
-            address registered to the U.S. Senate. Anon-IB is a free-to-use message board where
-            users post images, typically of women, and which is split into various genre or location
-            sections. Some parts are focused on countries, while U.S. sections may narrow down to a
-            state. Many users pursue so-called wins, which are nude or explicit photos, and may egg
-            each other on to share more images. Anon-IB was also intertwined with a 2014 breach of
-            celebrity nudes referred to as The Fappening. "Looking for wins of [redacted]. She used
-            to send nudes to my friend all of the time. Would love to see some more," someone
-            connecting from the U.S. Senate IP address wrote last August.&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Top+US+Government+Computers+Linked+to+Revenge-Porn+Site%3A+http%3A%2F%2Fbit.ly%2F2DlFaEv"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F11%2F167245%2Ftop-us-government-computers-linked-to-revenge-porn-site%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601009&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/YIE5qioQ0b0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T07:00:00+00:00</dc:date>
+<dc:subject>mars</dc:subject>
+<slash:department>looking-for-signs-of-life</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>47</slash:comments>
+<slash:hit_parade>47,44,30,23,5,1,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hackers Could Blow Up Factories Using Smartphone Apps</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zLpb_h9mI8c/hackers-could-blow-up-factories-using-smartphone-apps</link>
+<description>An anonymous reader quotes a report from MIT Technology Review: Two security researchers, Alexander Bolshev of IOActive and Ivan Yushkevich of Embedi, spent last year examining 34 apps from companies including Siemens and Schneider Electric. They found a total of 147 security holes in the apps, which were chosen at random from the Google Play Store. Bolshev declined to say which companies were the worst offenders or reveal the flaws in specific apps, but he said only two of the 34 had none at all. Some of the vulnerabilities the researchers discovered would allow hackers to interfere with data flowing between an app and the machine or process it's linked to. So an engineer could be tricked into thinking that, say, a machine is running at a safe temperature when in fact it's overheating. Another flaw would let attackers insert malicious code on a mobile device so that it issues rogue commands to servers controlling many machines. It's not hard to imagine this causing mayhem on an assembly line or explosions in an oil refinery. The researchers say they haven't looked at whether any of the flaws has actually been exploited. Before publishing their findings, they contacted the companies whose apps had flaws in them. Some have already fixed the holes; many have yet to respond.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hackers+Could+Blow+Up+Factories+Using+Smartphone+Apps%3A+http%3A%2F%2Fbit.ly%2F2Dn4cDk"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F11%2F2123259%2Fhackers-could-blow-up-factories-using-smartphone-apps%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600295&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1Rzs7uEXDXg" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>msmash</dc:creator>
-        <dc:date>2018-01-11T16:08:00+00:00</dc:date>
-        <dc:subject>usa</dc:subject>
-        <slash:department>closer-look</slash:department>
-        <slash:section>politics</slash:section>
-        <slash:comments>38</slash:comments>
-        <slash:hit_parade>38,34,17,12,5,0,0</slash:hit_parade>
-        <feedburner:origLink>
-            https://politics.slashdot.org/story/18/01/11/167245/top-us-government-computers-linked-to-revenge-porn-site?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>The Invented Language That Found a Second Life Online</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zWl40fk9_sw/the-invented-language-that-found-a-second-life-online
-        </link>
-        <description>More than 100 years after it was invented, Esperanto is spoken by relatively
-            few people. But the internet has brought new life to this intriguing, invented language.
-            From a report: Since it [Esperanto] was first proposed in a small booklet written by
-            Ludwik L Zamenhof in 1887, it has evolved into the quintessential invented language, the
-            liveliest and most popular ever created. But, many would tell you, Esperanto is a
-            failure. More than a century after it was created, its current speaker base is just some
-            two million people -- a geeky niche, not unlike the fan base of any other obscure hobby.
-            [...] Learning Esperanto used to be a solitary quest. You could practise it by sitting
-            for weeks with a book and a dictionary, figuring out the rules and memorising the words.
-            But there was usually no professor to correct your mistakes or polish your
-            pronunciation. That's how Anna Lowenstein taught herself Esperanto in her teenage years,
-            after becoming frustrated with the oddities of the French she was learning in school. In
-            the last page of her textbook, there was an address for the British Esperanto
-            Association. She sent a letter, and some time later was invited to a meeting of young
-            speakers in St Albans. The global community that Lowenstein was joining was put together
-            via snail mail, paper magazines and yearly meetings. [...] Newer generations are not as
-            patient, and they don't have to be. Unlike most of their elders, who rarely had the
-            chance to speak Esperanto, today's speakers can use the language every day online. Even
-            old computer communication services like Usenet had Esperanto-speaking hubs, and a lot
-            of pages and chat rooms sprouted in the early days of the Web. Today, the younger
-            segment of the Esperantio is keen on using social media: they gather around several
-            groups in Facebook and Telegram, a chat service.&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=The+Invented+Language+That+Found+a+Second+Life+Online%3A+http%3A%2F%2Fbit.ly%2F2AQ8mAR"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F11%2F1531217%2Fthe-invented-language-that-found-a-second-life-online%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600975&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zLpb_h9mI8c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T03:30:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>remote-control</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>76</slash:comments>
+<slash:hit_parade>76,70,44,37,13,4,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FCC Undoing Rules That Make It Easier For Small ISPs To Compete With Big Telecom</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0_4u0ICJpkQ/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom</link>
+<description>An anonymous reader quotes a report from Motherboard: The Federal Communications Commission is currently considering a rule change that would alter how it doles out licenses for wireless spectrum. These changes would make it easier and more affordable for Big Telecom to scoop up licenses, while making it almost impossible for small, local wireless ISPs to compete. The Citizens Broadband Radio Service (CBRS) spectrum is the rather earnest name for a chunk of spectrum that the federal government licenses out to businesses. It covers 3550-3700 MHz, which is considered a "midband" spectrum. It can get complicated, but it helps to think of it how radio channels work: There are specific channels that can be used to broadcast, and companies buy the license to broadcast over that particular channel. The FCC will be auctioning off licenses for the CBRS, and many local wireless ISPs -- internet service providers that use wireless signal, rather than cables, to connect customers to the internet -- have been hoping to buy licenses to make it easier to reach their most remote customers.
+ 
+The CBRS spectrum was designed for Navy radar, and when it was opened up for auction, the traditional model favored Big Telecom cell phone service providers. That's because the spectrum would be auctioned off in pieces that were too big for smaller companies to afford -- and covered more area than they needed to serve their customers. But in 2015, under the Obama administration, the FCC changed the rules for how the CBRS spectrum would be divvied up, allowing companies to bid on the spectrum for a much smaller area of land. Just as these changes were being finalized this past fall, Trump's FCC proposed going back to the old method. This would work out well for Big Telecom, which would want larger swaths of coverage anyway, and would have the added bonus of being able to price out smaller competitors (because the larger areas of coverage will inherently cost more.) As for why the FCC is even considering this? You can blame T-Mobile. "According to the agency's proposal, because T-Mobile and CTIA, a trade group that represents all major cellphone providers, 'ask[ed] the Commission to reexamine several of the [...] licensing rules,'" reports Motherboard. The proposal reads: "Licensing on a census tract-basis -- which could result in over 500,000 [licenses] -- will be challenging for Administrators, the Commission, and licensees to manage, and will create unnecessary interference risks due to the large number of border areas that will need to be managed and maintained."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FCC+Undoing+Rules+That+Make+It+Easier+For+Small+ISPs+To+Compete+With+Big+Telecom%3A+http%3A%2F%2Fbit.ly%2F2EyGGT5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F11%2F2226209%2Ffcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600213&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zWl40fk9_sw" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>msmash</dc:creator>
-        <dc:date>2018-01-11T15:31:00+00:00</dc:date>
-        <dc:subject>news</dc:subject>
-        <slash:department>closer-look</slash:department>
-        <slash:section>news</slash:section>
-        <slash:comments>108</slash:comments>
-        <slash:hit_parade>108,107,74,62,12,5,3</slash:hit_parade>
-        <feedburner:origLink>
-            https://news.slashdot.org/story/18/01/11/1531217/the-invented-language-that-found-a-second-life-online?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>More Colleges Than Ever Have Test-Optional Admissions Policies</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Xh9VOJkkx3g/more-colleges-than-ever-have-test-optional-admissions-policies
-        </link>
-        <description>Back in the 1980s, Bates College and Bowdoin College were nearly the only
-            liberal arts colleges not to require applicants to submit SAT or ACT test scores. On
-            Jan. 10, FairTest, a Boston-based organization that has been pushing back against
-            America's testing regime since 1985, announced that the number of colleges that are
-            test-optional has now surpassed 1,000. From a report: This milestone means that more
-            than one-third of America's four-year nonprofit colleges now reject the idea that a test
-            score should strongly determine a student's future. The ranks of test-optional
-            institutions include hundreds of prestigious private institutions, such as George
-            Washington, New York University, Wesleyan University and Wake Forest University. The
-            list also includes hundreds of public universities, such as George Mason, San Francisco
-            State and Old Dominion.&lt;p&gt;&lt;div class="share_submission"
-            style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=More+Colleges+Than+Ever+Have+Test-Optional+Admissions+Policies%3A+http%3A%2F%2Fbit.ly%2F2Eyab7R"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F11%2F1438218%2Fmore-colleges-than-ever-have-test-optional-admissions-policies%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601083&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0_4u0ICJpkQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T01:30:00+00:00</dc:date>
+<dc:subject>wireless</dc:subject>
+<slash:department>edit-undo</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>66</slash:comments>
+<slash:hit_parade>66,63,44,40,13,6,2</slash:hit_parade>
+<feedburner:origLink>https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Scientists Change Our Understanding of How Anaesthesia Messes With the Brain</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FAuM9ObWW-E/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain</link>
+<description>schwit1 shares a report from ScienceAlert: It's crazy to think that we still don't quite understand the mechanism behind one of the most common medical interventions -- general anaesthetic. But researchers in Australia just got a step closer by discovering that one of the most commonly used anesthetic drugs doesn't just put us to sleep; it also disrupts communication between brain cells. The team investigated the drug propofol, a super-popular option for surgeries worldwide. A potent sedative, the drug is thought to put us to sleep through its effect on the GABA neurotransmitter system, the main regulator of our sleep-and-wake cycles in the brain. But anyone who's been "put under" will know that waking up from a general anesthetic feels rather different from your usual morning grogginess. On top of that, some people can experience serious side-effects, so scientists have been trying to figure out what else the drugs might be doing in the brain. Using live neuron cell samples from rats and fruit flies, the researchers were able to track neurotransmitter activity thanks to a super-resolution microscope, and discovered that propofol messes with a key protein that nerve cells use to communicate with each other. This protein, called syntaxin1A, isn't just found in animal models - people have it, too. And it looks like the anesthetic drug puts the brakes on this protein, making otherwise normal brain cell connections sluggish, at least for a while. The researchers think this disruption could be key to how propofol allows for pain-free surgery to take place - first it knocks us out as a normal sleeping pill would, and then takes things up a notch by disrupting brain connectivity. The research has been published in Cell Reports.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Change+Our+Understanding+of+How+Anaesthesia+Messes+With+the+Brain%3A+http%3A%2F%2Fbit.ly%2F2DmhlfH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F11%2F2214235%2Fscientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600113&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Xh9VOJkkx3g" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>msmash</dc:creator>
-        <dc:date>2018-01-11T14:41:00+00:00</dc:date>
-        <dc:subject>education</dc:subject>
-        <slash:department>moving-forward</slash:department>
-        <slash:section>news</slash:section>
-        <slash:comments>124</slash:comments>
-        <slash:hit_parade>124,123,73,55,12,5,1</slash:hit_parade>
-        <feedburner:origLink>
-            https://news.slashdot.org/story/18/01/11/1438218/more-colleges-than-ever-have-test-optional-admissions-policies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Bitcoin Conference Stops Accepting BTC Due To High Fees</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KO-RMQEEmxQ/bitcoin-conference-stops-accepting-btc-due-to-high-fees
-        </link>
-        <description>An anonymous reader shares a report: Next week the popular cryptocurrency
-            event, The North American Bitcoin Conference (TNABC) will be hosted in downtown Miami at
-            the James L Knight Center, January 18-19. However, bitcoin proponents got some
-            unfortunate news this week as the event organizers have announced they have stopped
-            accepting bitcoin payments for conference tickets due to network fees and congestion.
-            Bitcoin settlement times, and the fee market associated with transactions, have become a
-            hot topic these days as on-chain fees have risen to $30-60 per transaction. These issues
-            have made it extremely difficult for businesses to operate, and many merchants have
-            stopped accepting bitcoin for services and goods altogether.&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Bitcoin+Conference+Stops+Accepting+BTC+Due+To+High+Fees%3A+http%3A%2F%2Fbit.ly%2F2DiTNZ9"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F11%2F142223%2Fbitcoin-conference-stops-accepting-btc-due-to-high-fees%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601069&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FAuM9ObWW-E" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T00:50:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>behind-the-scenes</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>70</slash:comments>
+<slash:hit_parade>70,66,48,41,11,3,2</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>South Korea Plans To Ban Cryptocurrency Trading</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MYrO26AZ9Ps/south-korea-plans-to-ban-cryptocurrency-trading</link>
+<description>South Korea's government said on Thursday it plans to ban cryptocurrency trading, sending bitcoin prices plummeting and throwing the virtual coin market into turmoil as the nation's police and tax authorities raided local exchanges on alleged tax evasion. Reuters reports: The clampdown in South Korea, a crucial source of global demand for cryptocurrency, came as policymakers around the world struggled to regulate an asset whose value has skyrocketed over the last year. Justice minister Park Sang-ki said the government was preparing a bill to ban trading of the virtual currency on domestic exchanges. Once a bill is drafted, legislation for an outright ban of virtual coin trading will require a majority vote of the total 297 members of the National Assembly, a process that could take months or even years. The local price of bitcoin plunged as much as 21 percent in midday trade to 18.3 million won (12,730.35 pounds) after the minister's comments. It still trades at around a 30 percent premium compared to other countries.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=South+Korea+Plans+To+Ban+Cryptocurrency+Trading%3A+http%3A%2F%2Fbit.ly%2F2DiV7v7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F2155216%2Fsouth-korea-plans-to-ban-cryptocurrency-trading%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11599999&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KO-RMQEEmxQ" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>msmash</dc:creator>
-        <dc:date>2018-01-11T14:02:00+00:00</dc:date>
-        <dc:subject>humor</dc:subject>
-        <slash:department>not-the-onion</slash:department>
-        <slash:section>entertainment</slash:section>
-        <slash:comments>93</slash:comments>
-        <slash:hit_parade>93,89,53,44,13,7,5</slash:hit_parade>
-        <feedburner:origLink>
-            https://entertainment.slashdot.org/story/18/01/11/142223/bitcoin-conference-stops-accepting-btc-due-to-high-fees?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>FBI Calls Apple 'Jerks' and 'Evil Geniuses' For Making iPhone Cracks Difficult
-        </title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0WNXjWjExzQ/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult
-        </link>
-        <description>troublemaker_23 shares a report from iTWire: A forensics expert from the FBI
-            has lashed out at Apple, calling the company's security team a bunch of "jerks" and
-            "evil geniuses" for making it more difficult to circumvent the encryption on its
-            devices. Stephen Flatley told the International Conference on Cyber Security in New York
-            on Wednesday that one example of the way that Apple had made it harder for him and his
-            colleagues to break into the iPhone was by recently making the password guesses slower,
-            with a change in hash iterations from 10,000 to 10,000,000. A report on the Motherboard
-            website said Flatley explained that this change meant that the speed at which one could
-            brute-force passwords went from 45 attempts a second to one every 18 seconds. "Your
-            crack time just went from two days to two months," he was quoted as saying. "At what
-            point is it just trying to one up things and at what point is it to thwart law
-            enforcement? Apple is pretty good at evil genius stuff," Flatley added.&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=FBI+Calls+Apple+'Jerks'+and+'Evil+Geniuses'+For+Making+iPhone+Cracks+Difficult%3A+http%3A%2F%2Fbit.ly%2F2ExAQBF"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F11%2F0011209%2Ffbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601053&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MYrO26AZ9Ps" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T00:10:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>time-is-ticking</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,58,29,20,6,3,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>TiVo Sues Comcast Again, Alleging Operator's X1 Infringes Eight Patents</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vyM9UtjZ2B8/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents</link>
+<description>TiVo's Rovi subsidiary on Wednesday filed two lawsuits in federal district courts, alleging Comcast's X1 platform infringes eight TiVo-owned patents. "That includes technology covering pausing and resuming shows on different devices; restarting live programming in progress; certain advanced DVR recording features; and advanced search and voice functionality," reports Variety. From the report: A Comcast spokeswoman said the company will "aggressively defend" itself. "Comcast engineers independently created our X1 products and services, and through its litigation campaign against Comcast, Rovi seeks to charge Comcast and its customers for technology Rovi didn't create," the Comcast rep said in a statement. "Rovi's attempt to extract these unfounded payments for its aging and increasingly obsolete patent portfolio has failed to date."
+ 
+TiVo's legal action comes after entertainment-tech vendor Rovi (which acquired the DVR company in 2016 and adopted the TiVo name) sued Comcast and its set-top suppliers in April 2016, alleging infringement of 14 patents. In November 2017, the U.S. International Trade Commission ruled that Comcast infringed two Rovi patents -- with the cable operator prevailing on most of the patents at issue. However, because one of the TiVo patents Comcast was found to have violated covered cloud-based DVR functions, the cable operator disabled that feature for X1 customers. Comcast is appealing the ITC ruling.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=TiVo+Sues+Comcast+Again%2C+Alleging+Operator's+X1+Infringes+Eight+Patents%3A+http%3A%2F%2Fbit.ly%2F2D2euvI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F2130249%2Ftivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595933&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0WNXjWjExzQ" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>BeauHD</dc:creator>
-        <dc:date>2018-01-11T13:00:00+00:00</dc:date>
-        <dc:subject>encryption</dc:subject>
-        <slash:department>two-sides-to-every-coin</slash:department>
-        <slash:section>it</slash:section>
-        <slash:comments>221</slash:comments>
-        <slash:hit_parade>221,215,147,128,39,18,15</slash:hit_parade>
-        <feedburner:origLink>
-            https://it.slashdot.org/story/18/01/11/0011209/fbi-calls-apple-jerks-and-evil-geniuses-for-making-iphone-cracks-difficult?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>New Ingestible Pill Can Track Your Farts In Real Time</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/B6Hb1TG2IIk/new-ingestible-pill-can-track-your-farts-in-real-time
-        </link>
-        <description>A group of Australian researchers have developed an ingestible electronic
-            capsule to monitor gas levels in the human gut. "When it's paired with a pocket-sized
-            receiver and a mobile phone app, the pill reports tail-wind conditions in real time as
-            it passes from the stomach to the colon," reports Ars Technica. The invention has been
-            reported in the journal Nature Electronics. From the report: The authors are optimistic
-            that the capsule's gas readings can help clear the air over the inner workings of our
-            intricate innards and the multitudes of microbes they contain. Such fume data could
-            clarify the conditions of each section of the gut, what microbes are up to, and which
-            foods may cause problems in the system. Until now, collecting such data has been a
-            challenge. The capsule is 26mm in length, with a 9.8mm external diameter -- like a large
-            vitamin. Its polymer shell surrounds sensors for temperature, CO2, H2, and O2, as well
-            as a button-size silver oxide battery and a transmission system. One end of the capsule
-            contains a gas-permeable membrane that allows for fast diffusion of gut gases.&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=New+Ingestible+Pill+Can+Track+Your+Farts+In+Real+Time%3A+http%3A%2F%2Fbit.ly%2F2AOwZxB"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F11%2F0257258%2Fnew-ingestible-pill-can-track-your-farts-in-real-time%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600979&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/vyM9UtjZ2B8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T23:30:00+00:00</dc:date>
+<dc:subject>patents</dc:subject>
+<slash:department>family-feud</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>41</slash:comments>
+<slash:hit_parade>41,39,23,22,6,3,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Circuit City Is Coming Back</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/N0XQLEcGkr0/circuit-city-is-coming-back</link>
+<description>Following a tease of a CES announcement, current Circuit City CEO Ronny Shmoel confirmed on Monday that something called Circuit City will arrive as "a new, more personalized online shopping experience" starting February 15. The announcement even included promises of AI-driven recommendations fueled by IBM's Watson platform, plus unexplained "augmented reality" and "search by photo" features. Ars Technica reports: Curiously, Shmoel also promised "real-time tech support via video chat," but it's unclear whether this feature will include two-way video feeds -- and, thus, whether Circuit City is prepared for a deluge of Chatroulette-caliber video surprises from trolls. This online Circuit City rebirth may very well actually come to exist, as Shmoel claims that the company has put together a fully fledged inventory and distribution system, with a mix of known electronics brand names and "tier-two and tier-three" names (Shamsung? Panafauxnoic?). The same cannot be said for its CES tease of eventual brick-and-mortar showrooms in the neighborhood of 8,000-10,000 square feet, however. Shmoel already backtracked on similar showroom promises in 2016, and his CES pronouncement of future shops included no hard confirmations of locations or dates. But for anybody who dares to dream, Circuit City's showroom design partner, Taylored Group, released a concept render of its store vision which looks like a Radio Shack as if rendered in a Taiwanese hot-take news video.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Circuit+City+Is+Coming+Back%3A+http%3A%2F%2Fbit.ly%2F2D3x0UB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F11%2F216201%2Fcircuit-city-is-coming-back%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11596121&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/B6Hb1TG2IIk" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>BeauHD</dc:creator>
-        <dc:date>2018-01-11T10:00:00+00:00</dc:date>
-        <dc:subject>medicine</dc:subject>
-        <slash:department>toot-tracker</slash:department>
-        <slash:section>science</slash:section>
-        <slash:comments>67</slash:comments>
-        <slash:hit_parade>67,66,42,37,9,2,2</slash:hit_parade>
-        <feedburner:origLink>
-            https://science.slashdot.org/story/18/01/11/0257258/new-ingestible-pill-can-track-your-farts-in-real-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Senior Citizens Will Lead the Self-Driving Revolution</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Nr54BGorQj4/senior-citizens-will-lead-the-self-driving-revolution
-        </link>
-        <description>The Villages in Florida -- home to 125,000 residents, over 54,000 homes, 32
-            square miles, 750 miles of road, and three distinct downtowns -- will soon get a fleet
-            of robot taxis. "Voyage, a startup that has been operating a handful of self-driving
-            cars in the San Jose, California-based retirement community also called The Villages,
-            announced today that later this year it will expand to the much-larger Villages north of
-            Orlando," reports The Verge. "This is thanks to a successful Series A fundraising round
-            that raked in $20 million in 2017." From the report: It's an indication that, strangely
-            enough, many of the first people to fully experience the possibilities presented by
-            self-driving cars will be over the age of 55. Most experts agree that robot cars will
-            first roll out as fleets of self-driving taxis in controlled environments -- college
-            campuses, business parks, dedicated freeway lanes, city centers, or retirement
-            communities. Self-driving startups get to boast about providing a real service for
-            people in need, while seniors get to lord over their grandchildren about being early
-            adopters of a bold new technology. They're also getting something a little more
-            valuable: Voyage is giving the owners of The Villages and the smaller San Jose
-            development equity stakes of 0.3% and 0.2%, respectively, according to The Information.
-            Voyage's self-driving cars aren't fully driverless. Safety drivers will remain behind
-            the wheel just in case there's a need to intervene. And to compliment its digital
-            mapping capabilities, the startup says it will partner with Carmera, a 3D mapmaker for
-            autonomous vehicles. This type of partnership is necessary for what Voyage believes is
-            "the largest deployment (by area size) of self-driving cars in the world."&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Senior+Citizens+Will+Lead+the+Self-Driving+Revolution%3A+http%3A%2F%2Fbit.ly%2F2APn1Mx"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F11%2F0042203%2Fsenior-citizens-will-lead-the-self-driving-revolution%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600951&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/N0XQLEcGkr0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T22:50:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>back-from-the-dead</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,65,41,35,5,3,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Health Data Is Being Used As Evidence In a Rape and Murder Investigation</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5VCACsyLW1c/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation</link>
+<description>An anonymous reader quotes a report from Motherboard: Hussein K., an Afghan refugee in Freiburg, has been on trial since September for allegedly raping and murdering a student in Freiburg, and disposing of her body in a river. But many of the details of the trial have been hazy -- no one can agree on his real age, and most notably, there's a mysterious chunk of time missing from the geodata and surveillance video analysis of his whereabouts at the time of the crime. He refused to give authorities the passcode to his iPhone, but investigators hired a Munich company (which one is not publicly known) to gain access to his device, according to German news outlet Welt. They searched through Apple's Health app, which was added to all iPhones with the release of iOS 8 in 2014, and were able to gain more data about what he was doing that day. The app records how many steps he took and what kind of activity he was doing throughout that day. The app recorded a portion of his activity as "climbing stairs," which authorities were able to correlate with the time he would have dragged his victim down the river embankment, and then climbed back up. Freiburg police sent an investigator to the scene to replicate his movements, and sure enough, his Health app activity correlated with what was recorded on the defendant's phone.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Health+Data+Is+Being+Used+As+Evidence+In+a+Rape+and+Murder+Investigation%3A+http%3A%2F%2Fbit.ly%2F2ARGtIx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F11%2F2116216%2Fapple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595963&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Nr54BGorQj4" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>BeauHD</dc:creator>
-        <dc:date>2018-01-11T07:00:00+00:00</dc:date>
-        <dc:subject>transportation</dc:subject>
-        <slash:department>first-come-first-serve</slash:department>
-        <slash:section>news</slash:section>
-        <slash:comments>121</slash:comments>
-        <slash:hit_parade>121,120,76,60,20,12,10</slash:hit_parade>
-        <feedburner:origLink>
-            https://news.slashdot.org/story/18/01/11/0042203/senior-citizens-will-lead-the-self-driving-revolution?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Violating a Website's Terms of Service Is Not a Crime, Federal Court Rules</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jQi2fjYIPPs/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules
-        </link>
-        <description>An anonymous reader quotes a report from the Electronic Frontier Foundation:
-            Good news out of the Ninth Circuit: the federal court of appeals heeded EFF's advice and
-            rejected an attempt by Oracle to hold a company criminally liable for accessing Oracle's
-            website in a manner it didn't like. The court ruled back in 2012 that merely violating a
-            website's terms of use is not a crime under the federal computer crime statute, the
-            Computer Fraud and Abuse Act. But some companies, like Oracle, turned to state computer
-            crime statutes -- in this case, California and Nevada -- to enforce their computer use
-            preferences. This decision shores up the good precedent from 2012 and makes clear -- if
-            it wasn't clear already -- that violating a corporate computer use policy is not a
-            crime.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Violating+a+Website's+Terms+of+Service+Is+Not+a+Crime%2C+Federal+Court+Rules%3A+http%3A%2F%2Fbit.ly%2F2DivnPC"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F003246%2Fviolating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600965&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5VCACsyLW1c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T22:10:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>every-breath-you-take</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>143</slash:comments>
+<slash:hit_parade>143,137,91,78,25,11,6</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Dropbox Files Confidentially For IPO</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/E4eiULVD2qU/dropbox-files-confidentially-for-ipo</link>
+<description>Dropbox, the file-sharing private company valued at $10 billion, has filed confidentially for a U.S. initial public offering. From the report: Goldman Sachs Group Inc. and JPMorgan Chase &amp;amp; Co. will lead the potential listing, according to the people, who asked not to be identified because the filing wasn't public. Dropbox is talking to other banks this month to fill additional roles on the IPO, the people said. The company is aiming to list in the first half of this year, one of the people said. Dropbox could be one of the biggest U.S. enterprise technology companies to list domestically in recent years.
+ 
+Dropbox is likely to tout its biggest investment in recent years: its own cloud. It's spent hundreds of millions of dollars to build data centers and mostly wean itself off of Amazon.com Inc.'s servers, a rare feat for a software business with hundreds of millions of users. That's made it easier for Dropbox to cut costs while speeding file transfers, Chief Operating Officer Dennis Woodside said in an interview last year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Dropbox+Files+Confidentially+For+IPO%3A+http%3A%2F%2Fbit.ly%2F2ATmp8Q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F11%2F2027238%2Fdropbox-files-confidentially-for-ipo%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595929&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jQi2fjYIPPs" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>BeauHD</dc:creator>
-        <dc:date>2018-01-11T03:30:00+00:00</dc:date>
-        <dc:subject>eff</dc:subject>
-        <slash:department>better-luck-next-time</slash:department>
-        <slash:section>yro</slash:section>
-        <slash:comments>68</slash:comments>
-        <slash:hit_parade>68,60,29,21,14,8,5</slash:hit_parade>
-        <feedburner:origLink>
-            https://yro.slashdot.org/story/18/01/11/003246/violating-a-websites-terms-of-service-is-not-a-crime-federal-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Future Samsung Phones Will Have a Working FM Radio Chip</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Cf0n2V1Ogas/future-samsung-phones-will-have-a-working-fm-radio-chip
-        </link>
-        <description>A few months ago, LG announced a partnership with NextRadio to unlock the FM
-            chip in its smartphones. Now, Samsung is doing the same. Android Police reports:
-            NextRadio made the announcement, rightly explaining that FM radio is essential in areas
-            with low connectivity and in emergency and disaster situations where a connection might
-            be difficult to obtain or maintain and where access to information could be a matter of
-            life and death. With the chip unlocked, users will be able to listen to local radio on
-            their phone using the NextRadio Android app. The press release mentions that "upcoming
-            [Samsung] smartphone models in the U.S. and Canada" will have the FM chip unlocked,
-            however I did find several existing Samsung devices with their FM chip enabled on
-            NextRadio's site.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Future+Samsung+Phones+Will+Have+a+Working+FM+Radio+Chip%3A+http%3A%2F%2Fbit.ly%2F2AOZaMO"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F2246225%2Ffuture-samsung-phones-will-have-a-working-fm-radio-chip%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600887&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/E4eiULVD2qU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-11T21:47:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>file-sharing</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>19</slash:comments>
+<slash:hit_parade>19,16,8,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Pandora CEO Roger Lynch Wants To Create the Podcast Genome Project</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5NlPdMGpOdM/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project</link>
+<description>Janko Roettgers, reporting for Variety: Pandora's new CEO Roger Lynch has big plans for podcasts: Lynch told Variety on the sidelines of CES in Las Vegas Thursday that he wants to create "the equivalent of the podcast genome project" as the company plans to add many more podcasts to its catalog. Lynch, who joined Pandora as president and CEO in September, said that the company is working on a deep integration of podcasts that will allow users of the service to easily browse and discover new shows. Describing these efforts as a kind of podcast genome project is a nod to Pandora's Music Genome Project -- a massive database of dozens of musical attributes for every single song in the company's music library that is being used to compile stations and aid discovery. Pandora is also looking to offer podcasters monetization options that will be superior to the current state of podcast advertising. Currently, many podcasters still rely on ads that they read themselves on air, Lynch said. "It is not the most effective advertising model."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Pandora+CEO+Roger+Lynch+Wants+To+Create+the+Podcast+Genome+Project%3A+http%3A%2F%2Fbit.ly%2F2DlyO8i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F11%2F1940223%2Fpandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595835&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Cf0n2V1Ogas" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>BeauHD</dc:creator>
-        <dc:date>2018-01-11T01:25:00+00:00</dc:date>
-        <dc:subject>cellphones</dc:subject>
-        <slash:department>flip-of-a-switch</slash:department>
-        <slash:section>hardware</slash:section>
-        <slash:comments>184</slash:comments>
-        <slash:hit_parade>184,183,113,98,23,8,4</slash:hit_parade>
-        <feedburner:origLink>
-            https://hardware.slashdot.org/story/18/01/10/2246225/future-samsung-phones-will-have-a-working-fm-radio-chip?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Apple To Transfer Chinese iCloud Operations To Chinese Firm</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0gB4liKzHGY/apple-to-transfer-chinese-icloud-operations-to-chinese-firm
-        </link>
-        <description>Apple's iCloud services in mainland China will be operated by a Chinese company
-            from next month, the tech giant has confirmed, though Apple will still have access to
-            all data stored on iCloud. The company said it had made the move to comply with the
-            country's cloud computing regulations. iCloud accounts registered outside of China are
-            not affected. BBC reports: The Chinese cyber security rules, introduced in July last
-            year, include a requirement for companies to store all data within China. The firm,
-            Guizhou on the Cloud Big Data (GCBD), is owned by the Guizhou provincial government in
-            southern China. Guizhou is where Apple opened a $1 billion data center last year to meet
-            the regulations. iCloud data will be transferred from February 28, Apple said. Customers
-            living in mainland China who did not want to use iCloud operated by GCBD were given the
-            option to terminate their account. Apple said the "partnership" with GCBD would allow it
-            to "improve the speed and reliability of our iCloud services products while also
-            complying with newly passed regulations that cloud services be operated by Chinese
-            companies." It added that Apple had "strong data privacy and security protections in
-            place and no backdoors will be created into any of our systems." However, some on social
-            media have said the step gives Beijing more opportunity to monitor its citizens and
-            others living in the country.&lt;p&gt;&lt;div class="share_submission"
-            style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Apple+To+Transfer+Chinese+iCloud+Operations+To+Chinese+Firm%3A+http%3A%2F%2Fbit.ly%2F2Ev7cwS"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F2215204%2Fapple-to-transfer-chinese-icloud-operations-to-chinese-firm%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600813&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5NlPdMGpOdM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T21:25:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,9,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>When It Comes to Gorillas, Google Photos Remains Blind</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PvKz_nnJfl0/when-it-comes-to-gorillas-google-photos-remains-blind</link>
+<description>Tom Simonite, writing for Wired: In 2015, a black software developer embarrassed Google by tweeting that the company's Photos service had labeled photos of him with a black friend as "gorillas." Google declared itself "appalled and genuinely sorry." An engineer who became the public face of the clean-up operation said the label gorilla would no longer be applied to groups of images, and that Google was "working on longer-term fixes." More than two years later, one of those fixes is erasing gorillas, and some other primates, from the service's lexicon. The awkward workaround illustrates the difficulties Google and other tech companies face in advancing image-recognition technology, which the companies hope to use in self-driving cars, personal assistants, and other products. WIRED tested Google Photos using a collection of 40,000 images well-stocked with animals. It performed impressively at finding many creatures, including pandas and poodles. But the service reported "no results" for the search terms "gorilla," "chimp," "chimpanzee," and "monkey."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=When+It+Comes+to+Gorillas%2C+Google+Photos+Remains+Blind%3A+http%3A%2F%2Fbit.ly%2F2D29cR0"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F11%2F199217%2Fwhen-it-comes-to-gorillas-google-photos-remains-blind%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595793&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0gB4liKzHGY" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>BeauHD</dc:creator>
-        <dc:date>2018-01-11T00:45:00+00:00</dc:date>
-        <dc:subject>china</dc:subject>
-        <slash:department>locally-sourced</slash:department>
-        <slash:section>hardware</slash:section>
-        <slash:comments>67</slash:comments>
-        <slash:hit_parade>67,67,43,36,9,4,2</slash:hit_parade>
-        <feedburner:origLink>
-            https://hardware.slashdot.org/story/18/01/10/2215204/apple-to-transfer-chinese-icloud-operations-to-chinese-firm?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>Samsung Will Unveil the Galaxy S9 Next Month At Mobile World Congress</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/oK0tCwnd3YM/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress
-        </link>
-        <description>Samsung will unveil its next flagship handset, the Galaxy S9, next month at
-            Mobile World Congress (MWC). DJ Koh, the company's smartphone chief, confirmed the
-            launch to ZDNet at CES yesterday without offering a specific date. The Verge reports:
-            The S9 (and, presumably, an S9 Plus) will be the successors to the S8 and S8 Plus, which
-            launched at a Samsung event in New York last March before going on sale in April. The S8
-            and its bigger brother were a hit with critics, who praised the phones' gorgeous design
-            and brilliant cameras. The phones were even good enough to make consumers forget about
-            the disaster of the Galaxy Note 7 and its exploding batteries. Not much is known about
-            the Galaxy S9 at this point, though we're not expecting any radical departures from the
-            S8. A handful of leaked renders suggest it will look near-identical to its predecessor,
-            with a slight tweak moving the rear fingerprint sensor to below the camera (rather than
-            its current, awkward position of off to one side).&lt;p&gt;&lt;div
-            class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=Samsung+Will+Unveil+the+Galaxy+S9+Next+Month+At+Mobile+World+Congress%3A+http%3A%2F%2Fbit.ly%2F2EvRZeV"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F10%2F2136206%2Fsamsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600707&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PvKz_nnJfl0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T20:45:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>234</slash:comments>
+<slash:hit_parade>234,223,128,101,23,11,10</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Partners with Signal to Bring End-To-End Encryption to Skype</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cukoVA-toGw/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype</link>
+<description>Microsoft and Open Whisper Systems (makers of the Signal app) surprised many on Thursday when they said they are partnering to bring support for end-to-end (E2E) encrypted conversations to Skype. From a report: The new feature, called Skype Private Conversations has been rolled out for initial tests with Skype Insider builds. Private Conversations will encrypt Skype audio calls and text messages. Images, audio or video files sent via Skype's text messaging feature will also be encrypted. Microsoft will be using the Signal open-source protocol to encrypt these communications. This is the same end-to-end encryption protocol used by Facebook for WhatsApp and Facebook Messenger, and by Google for the Allo app.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Partners+with+Signal+to+Bring+End-To-End+Encryption+to+Skype%3A+http%3A%2F%2Fbit.ly%2F2Di9mAl"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F1848206%2Fmicrosoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595741&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/oK0tCwnd3YM" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>BeauHD</dc:creator>
-        <dc:date>2018-01-11T00:03:00+00:00</dc:date>
-        <dc:subject>cellphones</dc:subject>
-        <slash:department>new-and-shiny</slash:department>
-        <slash:section>hardware</slash:section>
-        <slash:comments>43</slash:comments>
-        <slash:hit_parade>43,43,26,23,5,2,0</slash:hit_parade>
-        <feedburner:origLink>
-            https://hardware.slashdot.org/story/18/01/10/2136206/samsung-will-unveil-the-galaxy-s9-next-month-at-mobile-world-congress?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <item rdf:about="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-        <title>NYC Sues Oil Companies Over Climate Change</title>
-        <link>
-            http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7uggRxsexMY/nyc-sues-oil-companies-over-climate-change
-        </link>
-        <description>An anonymous reader quotes a report from The Guardian: New York City is seeking
-            to lead the assault on both climate change and the Trump administration with a plan to
-            divest $5 billion from fossil fuels and sue the world's most powerful oil companies over
-            their contribution to dangerous global warming. City officials have set a goal of
-            divesting New York's $189 billion pension funds from fossil fuel companies within five
-            years in what they say would be "among the most significant divestment efforts in the
-            world to date." Currently, New York City's five pension funds have about $5 billion in
-            fossil fuel investments. New York state has already announced it is exploring how to
-            divest from fossil fuels. New York's Mayor, Bill de Blasio, said that the city is taking
-            the five fossil fuel firms -- BP, Exxon Mobil, Chevron, ConocoPhillips and Shell -- to
-            federal court due to their contribution to climate change.
 
-            Court documents state that New York has suffered from flooding and erosion due to
-            climate change and because of looming future threats it is seeking to "shift the costs
-            of protecting the city from climate change impacts back on to the companies that have
-            done nearly all they could to create this existential threat." The court filing claims
-            that just 100 fossil fuel producers are responsible for nearly two-thirds of all
-            greenhouse gas emissions since the industrial revolution, with the five targeted
-            companies the largest contributors. The case will also point to evidence that firms such
-            as Exxon knew of the impact of climate change for decades, only to downplay and even
-            deny this in public.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-            &lt;a class="slashpop"
-            href="http://twitter.com/home?status=NYC+Sues+Oil+Companies+Over+Climate+Change%3A+http%3A%2F%2Fbit.ly%2F2Et588v"&gt;&lt;img
-            src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-            &lt;a class="slashpop"
-            href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F10%2F224206%2Fnyc-sues-oil-companies-over-climate-change%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img
-            src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600665&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cukoVA-toGw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T20:05:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>catching-up</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,62,30,25,11,7,3</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Chinese Workers Abandon Silicon Valley for Riches Back Home</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iT6wxnaCaCI/chinese-workers-abandon-silicon-valley-for-riches-back-home</link>
+<description>From a report on Bloomberg: U.S.-trained Chinese-born talent is becoming a key force in driving Chinese companies' global expansion and the country's efforts to dominate next-generation technologies like artificial intelligence and machine learning. Where college graduates once coveted a prestigious overseas job and foreign citizenship, many today gravitate toward career opportunities at home, where venture capital is now plentiful and the government dangles financial incentives for cutting-edge research. "More and more talent is moving over because China is really getting momentum in the innovation area," said Ken Qi, a headhunter for Spencer Stuart and leader of its technology practice. "This is only the beginning." Chinese have worked or studied abroad and then returned home long enough that there's a term for them -- "sea turtles." But while a job at a U.S. tech giant once conferred near-unparalleled status, homegrown companies -- from giants like Tencent to up-and-comers like news giant Toutiao -- are now often just as prestigious. Baidu Inc. -- a search giant little-known outside of China -- convinced ex-Microsoft standout Qi Lu to helm its efforts in AI, making him one of the highest-profile returnees of recent years.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Chinese+Workers+Abandon+Silicon+Valley+for+Riches+Back+Home%3A+http%3A%2F%2Fbit.ly%2F2ARB9Vo"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F11%2F1836249%2Fchinese-workers-abandon-silicon-valley-for-riches-back-home%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-            &lt;a class="nobg"
-            href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=slashdot&amp;amp;utm_medium=googleplus"
-            onclick="javascript:window.open(this.href,'',
-            'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return
-            false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on
-            Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-            &lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a
-            href="https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read
-            more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe
-            src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11595773&amp;amp;smallembed=1"
-            style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img
-            src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7uggRxsexMY" height="1"
-            width="1" alt=""/&gt;
-        </description>
-        <dc:creator>BeauHD</dc:creator>
-        <dc:date>2018-01-10T23:20:00+00:00</dc:date>
-        <dc:subject>court</dc:subject>
-        <slash:department>cause-and-effect</slash:department>
-        <slash:section>yro</slash:section>
-        <slash:comments>347</slash:comments>
-        <slash:hit_parade>347,338,202,170,41,24,10</slash:hit_parade>
-        <feedburner:origLink>
-            https://yro.slashdot.org/story/18/01/10/224206/nyc-sues-oil-companies-over-climate-change?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed
-        </feedburner:origLink>
-    </item>
-    <textinput rdf:about="https://slashdot.org/search.pl">
-        <title>Search Slashdot</title>
-        <description>Search Slashdot stories</description>
-        <name>query</name>
-        <link>https://slashdot.org/search.pl</link>
-    </textinput>
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600651&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iT6wxnaCaCI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-11T19:25:00+00:00</dc:date>
+<dc:subject>china</dc:subject>
+<slash:department>change-in-paradigm</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>223</slash:comments>
+<slash:hit_parade>223,218,117,95,24,12,9</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
 </rdf:RDF>
