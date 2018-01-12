@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-12T13:06:11+00:00</dc:date>
+<dc:date>2018-01-12T14:52:15+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,8 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -29,8 +31,6 @@
   <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,46 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Cisco Can Now Sniff Out Malware Inside Encrypted Traffic</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zISUgA_oR6Q/cisco-can-now-sniff-out-malware-inside-encrypted-traffic</link>
+<description>Simon Sharwood, writing for The Register: Cisco has switched on latent features in its recent routers and switches, plus a cloud service, that together make it possible to detect the fingerprints of malware in encrypted traffic. Switchzilla has not made a dent in transport layer security (TLS) to make this possible. Instead, as we reported in July 2016, Cisco researchers found that malware leaves recognisable traces even in encrypted traffic. The company announced its intention to productise that research last year and this week exited trials to make the service -- now known as Encrypted Traffic Analytics (ETA) -- available to purchasers of its 4000 Series Integrated Service Routers, the 1000-series Aggregation Services Router and the model 1000V Cloud Services Router 1000V. Those devices can't do the job alone: users need to sign up for Cisco's StealthWatch service and let traffic from their kit flow to a cloud-based analytics service that inspects traffic and uses self-improving machine learning algorithms to spot dodgy traffic.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Cisco+Can+Now+Sniff+Out+Malware+Inside+Encrypted+Traffic%3A+http%3A%2F%2Fbit.ly%2F2D4t7hX"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F12%2F1441215%2Fcisco-can-now-sniff-out-malware-inside-encrypted-traffic%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605299&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zISUgA_oR6Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-12T14:41:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,4,3,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook Overhauls News Feed in Favor of 'Meaningful Social Interactions'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5Xvy0UFBZuM/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions</link>
+<description>Facebook said late Thursday it will begin to prioritize posts in the News Feed from friends and family over public content and posts from publishers. The company will also move away from using "time spent" on the platform as a metric of success and will instead focus on "engagement" with content, such as comments. From a report: The social media platform will de-prioritize videos, photos, and posts shared by businesses and media outlets, which Zuckerberg dubbed "public content," in favor of content produced by a user's friends and family. "The balance of what's in News Feed has shifted away from the most important thing Facebook can do -- help us connect with each other," Zuckerberg wrote in a Facebook post announcing the change. "We feel a responsibility to make sure our services aren't just fun to use, but also good for people's well-being."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Overhauls+News+Feed+in+Favor+of+'Meaningful+Social+Interactions'%3A+http%3A%2F%2Fbit.ly%2F2ATIT9B"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F141205%2Ffacebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605199&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5Xvy0UFBZuM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-12T14:00:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>shape-of-things</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,36,27,24,5,2,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>AMD Is Releasing Spectre Firmware Updates To Fix CPU Vulnerabilities</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AL6au7f0uXw/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities</link>
@@ -58,7 +98,8 @@
 <dc:subject>amd</dc:subject>
 <slash:department>brushed-under-the-rug</slash:department>
 <slash:section>hardware</slash:section>
-<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+<slash:comments>30</slash:comments>
+<slash:hit_parade>30,27,13,8,3,1,0</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Sea Turtles Under Threat As Climate Change Turns Most Babies Female</title>
@@ -77,8 +118,8 @@
 <dc:subject>earth</dc:subject>
 <slash:department>existential-threats</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>45</slash:comments>
-<slash:hit_parade>45,44,32,24,3,1,0</slash:hit_parade>
+<slash:comments>84</slash:comments>
+<slash:hit_parade>84,80,48,34,7,3,2</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ecuador Grants Citizenship To WikiLeaks Founder Julian Assange</title>
@@ -97,8 +138,8 @@
 <dc:subject>uk</dc:subject>
 <slash:department>get-moving</slash:department>
 <slash:section>politics</slash:section>
-<slash:comments>96</slash:comments>
-<slash:hit_parade>96,91,52,36,5,1,1</slash:hit_parade>
+<slash:comments>128</slash:comments>
+<slash:hit_parade>128,120,65,43,8,7,5</slash:hit_parade>
 <feedburner:origLink>https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ice Cliffs Spotted On Mars</title>
@@ -117,8 +158,8 @@
 <dc:subject>mars</dc:subject>
 <slash:department>looking-for-signs-of-life</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>48</slash:comments>
-<slash:hit_parade>48,45,31,24,6,1,1</slash:hit_parade>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,47,32,26,6,4,2</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Hackers Could Blow Up Factories Using Smartphone Apps</title>
@@ -137,8 +178,8 @@
 <dc:subject>security</dc:subject>
 <slash:department>remote-control</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>78</slash:comments>
-<slash:hit_parade>78,72,46,38,13,4,1</slash:hit_parade>
+<slash:comments>86</slash:comments>
+<slash:hit_parade>86,80,48,43,21,6,2</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>FCC Undoing Rules That Make It Easier For Small ISPs To Compete With Big Telecom</title>
@@ -159,8 +200,8 @@ The CBRS spectrum was designed for Navy radar, and when it was opened up for auc
 <dc:subject>wireless</dc:subject>
 <slash:department>edit-undo</slash:department>
 <slash:section>mobile</slash:section>
-<slash:comments>66</slash:comments>
-<slash:hit_parade>66,63,44,40,13,6,2</slash:hit_parade>
+<slash:comments>80</slash:comments>
+<slash:hit_parade>80,77,49,45,13,6,3</slash:hit_parade>
 <feedburner:origLink>https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Scientists Change Our Understanding of How Anaesthesia Messes With the Brain</title>
@@ -179,8 +220,8 @@ The CBRS spectrum was designed for Navy radar, and when it was opened up for auc
 <dc:subject>medicine</dc:subject>
 <slash:department>behind-the-scenes</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>72</slash:comments>
-<slash:hit_parade>72,68,49,41,11,6,2</slash:hit_parade>
+<slash:comments>81</slash:comments>
+<slash:hit_parade>81,76,54,44,14,6,4</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>South Korea Plans To Ban Cryptocurrency Trading</title>
@@ -199,8 +240,8 @@ The CBRS spectrum was designed for Navy radar, and when it was opened up for auc
 <dc:subject>bitcoin</dc:subject>
 <slash:department>time-is-ticking</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>65</slash:comments>
-<slash:hit_parade>65,58,29,20,6,3,1</slash:hit_parade>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,60,30,22,6,3,2</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>TiVo Sues Comcast Again, Alleging Operator's X1 Infringes Eight Patents</title>
@@ -221,8 +262,8 @@ TiVo's legal action comes after entertainment-tech vendor Rovi (which acquired t
 <dc:subject>patents</dc:subject>
 <slash:department>family-feud</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>43</slash:comments>
-<slash:hit_parade>43,41,24,23,6,3,1</slash:hit_parade>
+<slash:comments>45</slash:comments>
+<slash:hit_parade>45,43,24,23,6,3,1</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Circuit City Is Coming Back</title>
@@ -241,8 +282,8 @@ TiVo's legal action comes after entertainment-tech vendor Rovi (which acquired t
 <dc:subject>business</dc:subject>
 <slash:department>back-from-the-dead</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>65</slash:comments>
-<slash:hit_parade>65,65,41,35,5,3,1</slash:hit_parade>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,66,43,39,6,4,1</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple Health Data Is Being Used As Evidence In a Rape and Murder Investigation</title>
@@ -261,8 +302,8 @@ TiVo's legal action comes after entertainment-tech vendor Rovi (which acquired t
 <dc:subject>crime</dc:subject>
 <slash:department>every-breath-you-take</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>144</slash:comments>
-<slash:hit_parade>144,138,91,78,25,11,6</slash:hit_parade>
+<slash:comments>152</slash:comments>
+<slash:hit_parade>152,146,93,79,25,11,5</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Dropbox Files Confidentially For IPO</title>
@@ -303,49 +344,9 @@ Dropbox is likely to tout its biggest investment in recent years: its own cloud.
 <dc:subject>business</dc:subject>
 <slash:department>next-up</slash:department>
 <slash:section>entertainment</slash:section>
-<slash:comments>16</slash:comments>
-<slash:hit_parade>16,16,10,7,1,0,0</slash:hit_parade>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,17,10,7,1,0,0</slash:hit_parade>
 <feedburner:origLink>https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>When It Comes to Gorillas, Google Photos Remains Blind</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PvKz_nnJfl0/when-it-comes-to-gorillas-google-photos-remains-blind</link>
-<description>Tom Simonite, writing for Wired: In 2015, a black software developer embarrassed Google by tweeting that the company's Photos service had labeled photos of him with a black friend as "gorillas." Google declared itself "appalled and genuinely sorry." An engineer who became the public face of the clean-up operation said the label gorilla would no longer be applied to groups of images, and that Google was "working on longer-term fixes." More than two years later, one of those fixes is erasing gorillas, and some other primates, from the service's lexicon. The awkward workaround illustrates the difficulties Google and other tech companies face in advancing image-recognition technology, which the companies hope to use in self-driving cars, personal assistants, and other products. WIRED tested Google Photos using a collection of 40,000 images well-stocked with animals. It performed impressively at finding many creatures, including pandas and poodles. But the service reported "no results" for the search terms "gorilla," "chimp," "chimpanzee," and "monkey."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=When+It+Comes+to+Gorillas%2C+Google+Photos+Remains+Blind%3A+http%3A%2F%2Fbit.ly%2F2D29cR0"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F11%2F199217%2Fwhen-it-comes-to-gorillas-google-photos-remains-blind%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600707&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PvKz_nnJfl0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-11T20:45:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>237</slash:comments>
-<slash:hit_parade>237,226,129,102,23,11,10</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Microsoft Partners with Signal to Bring End-To-End Encryption to Skype</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cukoVA-toGw/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype</link>
-<description>Microsoft and Open Whisper Systems (makers of the Signal app) surprised many on Thursday when they said they are partnering to bring support for end-to-end (E2E) encrypted conversations to Skype. From a report: The new feature, called Skype Private Conversations has been rolled out for initial tests with Skype Insider builds. Private Conversations will encrypt Skype audio calls and text messages. Images, audio or video files sent via Skype's text messaging feature will also be encrypted. Microsoft will be using the Signal open-source protocol to encrypt these communications. This is the same end-to-end encryption protocol used by Facebook for WhatsApp and Facebook Messenger, and by Google for the Allo app.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Partners+with+Signal+to+Bring+End-To-End+Encryption+to+Skype%3A+http%3A%2F%2Fbit.ly%2F2Di9mAl"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F1848206%2Fmicrosoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600665&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cukoVA-toGw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-11T20:05:00+00:00</dc:date>
-<dc:subject>microsoft</dc:subject>
-<slash:department>catching-up</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>62</slash:comments>
-<slash:hit_parade>62,62,30,25,11,7,3</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

@@ -21,7 +21,6 @@ public class LeftBottomBox extends HBox
         prefWidthProperty().bind(parentWidth);
         prefHeightProperty().bind(parentHeight.multiply(0.5));
         getChildren().add(RssReaderBox.newInstance(prefWidthProperty(), prefHeightProperty()));
-        getChildren().add(BatteryStateBox.newInstance(prefWidthProperty(), prefHeightProperty()));
     }
     
     @NotNull

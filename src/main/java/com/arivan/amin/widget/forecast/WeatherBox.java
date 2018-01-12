@@ -34,13 +34,15 @@ public class WeatherBox extends HBox
     {
         super();
         weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
-        prefWidthProperty().bind(parentWidth.multiply(0.66));
+        prefWidthProperty().bind(parentWidth.multiply(0.4));
         prefHeightProperty().bind(parentHeight);
         setSpacing(10);
-        VBox todayVBox = new VBox(5);
-        HBox iconHBox = new HBox(10);
+        VBox todayVBox = new VBox();
+        HBox iconHBox = new HBox();
+        VBox labelsBox = new VBox(5);
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
+        currentWeatherImage.setPreserveRatio(true);
         iconHBox.getChildren().add(currentWeatherImage);
         conditionLabel = new Label();
         humidityLabel = new Label();
@@ -48,19 +50,20 @@ public class WeatherBox extends HBox
         cloudsLabel = new Label();
         sunLabel = new Label();
         precipitationLabel = new Label();
-        todayVBox.getChildren()
-                .addAll(iconHBox, temperatureLabel, conditionLabel, humidityLabel, windLabel,
-                        cloudsLabel, sunLabel, precipitationLabel);
+        labelsBox.getChildren()
+                .addAll(temperatureLabel, conditionLabel, humidityLabel, windLabel, cloudsLabel,
+                        sunLabel, precipitationLabel);
+        todayVBox.getChildren().addAll(iconHBox, labelsBox);
         fourDaysVBox = new VBox();
         getChildren().addAll(todayVBox, fourDaysVBox);
-        todayVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.5));
-        fourDaysVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.5));
-        todayVBox.prefHeightProperty().bind(prefHeightProperty());
-        fourDaysVBox.prefHeightProperty().bind(prefHeightProperty());
-        iconHBox.prefWidthProperty().bind(todayVBox.widthProperty());
-        iconHBox.prefHeightProperty().bind(todayVBox.heightProperty().multiply(0.5));
-        currentWeatherImage.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.85));
-        currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.9));
+        todayVBox.prefWidthProperty().bind(prefWidthProperty());
+        fourDaysVBox.prefWidthProperty().bind(prefWidthProperty());
+        todayVBox.prefHeightProperty().bind(prefHeightProperty().multiply(0.6));
+        fourDaysVBox.prefHeightProperty().bind(prefHeightProperty().multiply(0.3));
+        iconHBox.prefWidthProperty().bind(todayVBox.widthProperty().multiply(0.7));
+        iconHBox.prefHeightProperty().bind(todayVBox.heightProperty());
+        currentWeatherImage.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.95));
+        currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.95));
         fetchDataPeriodically();
     }
     
@@ -98,21 +101,19 @@ public class WeatherBox extends HBox
         switch (date.getDayOfMonth())
         {
             case 1:
-                day = String.valueOf(date.getDayOfMonth()) + "st of ";
+                day = String.valueOf(date.getDayOfMonth()) + "st";
                 break;
             case 2:
-                day = String.valueOf(date.getDayOfMonth()) + "nd of ";
+                day = String.valueOf(date.getDayOfMonth()) + "nd";
                 break;
             case 3:
-                day = String.valueOf(date.getDayOfMonth()) + "rd of ";
+                day = String.valueOf(date.getDayOfMonth()) + "rd";
                 break;
             default:
-                day = String.valueOf(date.getDayOfMonth()) + "th of ";
+                day = String.valueOf(date.getDayOfMonth()) + "th";
                 break;
         }
-        String month = date.getMonth().name().toLowerCase(Locale.ENGLISH);
-        month = month.substring(0, 1).toUpperCase(Locale.ENGLISH) + month.substring(1);
-        return dayOfWeek + "  " + day + month;
+        return dayOfWeek + "  " + day;
     }
     
     @NotNull
@@ -136,9 +137,10 @@ public class WeatherBox extends HBox
         dayHBox.getChildren().addAll(dayIconHBox, labelsVBox);
         dayHBox.prefWidthProperty().bind(fourDaysVBox.widthProperty());
         dayHBox.prefHeightProperty().bind(fourDaysVBox.heightProperty().multiply(0.23));
-        dayIconHBox.prefWidthProperty().bind(dayHBox.widthProperty().multiply(0.4));
-        dayIconHBox.prefHeightProperty().bind(dayHBox.heightProperty());
-        dayImageView.fitWidthProperty().bind(dayIconHBox.widthProperty().multiply(0.9));
+        dayIconHBox.prefWidthProperty().bind(dayHBox.prefWidthProperty().multiply(0.5));
+        dayIconHBox.prefHeightProperty().bind(dayHBox.prefHeightProperty());
+        labelsVBox.prefWidthProperty().bind(dayHBox.prefWidthProperty().multiply(0.5));
+        dayImageView.fitWidthProperty().bind(dayIconHBox.widthProperty().multiply(0.95));
         dayImageView.fitHeightProperty().bind(dayIconHBox.heightProperty().multiply(0.95));
         fourDaysVBox.getChildren().add(dayHBox);
     }

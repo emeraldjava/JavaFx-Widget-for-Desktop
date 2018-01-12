@@ -22,7 +22,7 @@ public class ClockBox extends VBox
     {
         super();
         setSpacing(20);
-        prefWidthProperty().bind(parentWidth.multiply(0.33));
+        prefWidthProperty().bind(parentWidth.multiply(0.3));
         prefHeightProperty().bind(parentHeight);
         VBox dateTimeVBox = new VBox();
         dateTimeVBox.setAlignment(Pos.TOP_CENTER);
