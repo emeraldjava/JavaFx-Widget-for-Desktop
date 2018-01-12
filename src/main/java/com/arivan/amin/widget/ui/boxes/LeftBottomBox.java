@@ -1,13 +1,12 @@
 package com.arivan.amin.widget.ui.boxes;
 
 import com.arivan.amin.widget.news.feed.RssReaderBox;
-import com.arivan.amin.widget.power.BatteryStateBox;
 import javafx.beans.property.DoubleProperty;
 import javafx.scene.layout.HBox;
 import org.jetbrains.annotations.NotNull;
 
 // todo show updates available
-// todo show internet connection status
+// todo show internet connection status and network statistics
 // todo show wakatime chart
 // todo show gmail status
 // todo show article from wikipedia
@@ -21,6 +20,7 @@ public class LeftBottomBox extends HBox
         prefWidthProperty().bind(parentWidth);
         prefHeightProperty().bind(parentHeight.multiply(0.5));
         getChildren().add(RssReaderBox.newInstance(prefWidthProperty(), prefHeightProperty()));
+        getChildren().add(WakaTimeBox.newInstance(prefWidthProperty(), prefHeightProperty()));
     }
     
     @NotNull

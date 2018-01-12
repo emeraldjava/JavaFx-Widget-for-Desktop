@@ -12,14 +12,14 @@ import java.util.logging.Logger;
 
 public class RssReaderBox extends VBox
 {
-    private static final int MINUTES_BETWEEN_RSS_UPDATES = 20;
+    private static final int MINUTES_BETWEEN_RSS_UPDATES = 10;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final RssReader rssReader;
     
-    private RssReaderBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    private RssReaderBox (@NotNull DoubleProperty parentWidth, @NotNull DoubleProperty parentHeight)
     {
         super();
-        prefWidthProperty().bind(parentWidth.multiply(0.5));
+        prefWidthProperty().bind(parentWidth.multiply(0.4));
         prefHeightProperty().bind(parentHeight);
         rssReader = SlashdotRssReader.newInstance();
         setSpacing(10);

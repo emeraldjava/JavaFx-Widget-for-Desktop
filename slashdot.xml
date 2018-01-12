@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-12T14:52:15+00:00</dc:date>
+<dc:date>2018-01-12T18:58:13+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,12 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -25,12 +31,6 @@
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,126 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel's Chip Bug Fixes Have Bugs of Their Own</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fXJl1j41TZs/intels-chip-bug-fixes-have-bugs-of-their-own</link>
+<description>From a report: Intel said late Thursday it is investigating an issue with Broadwell and Haswell CPUs after customers reported higher system reboot rates when they installed firmware updates for fixing the Spectre flaw. The hardware vendor said these systems are both home computers and data center servers. "We are working quickly with these customers to understand, diagnose and address this reboot issue," said Navin Shenoy, executive vice president and general manager of the Data Center Group at Intel Corporation. "If this requires a revised firmware update from Intel, we will distribute that update through the normal channels. We are also working directly with data center customers to discuss the issue," Shenoy added. The Intel exec said users shouldn't feel discouraged by these snags and continue to install updates from OS makers and OEMs.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel's+Chip+Bug+Fixes+Have+Bugs+of+Their+Own%3A+http%3A%2F%2Fbit.ly%2F2DoPNGA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F12%2F1837227%2Fintels-chip-bug-fixes-have-bugs-of-their-own%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605793&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fXJl1j41TZs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-12T18:42:00+00:00</dc:date>
+<dc:subject>bug</dc:subject>
+<slash:department>bugception</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>8</slash:comments>
+<slash:hit_parade>8,8,4,3,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apparently, People Say 'Thank You' To Self-Driving Pizza Delivery Vehicles</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-PBhdnZX2Wk/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles</link>
+<description>An anonymous reader shares a report: Last summer, Ford worked with Domino's Pizza on a test in Ann Arbor, Michigan, where it delivered pizza to randomly chosen customers in a self-driving Ford Fusion hybrid. An operator was inside the car, and a regular human-driven car trailed behind, videotaping the drive. Customers had to approach the car and enter a number on a touch screen on the side of the vehicle to get their pizza. Speaking at CES, the annual consumer electronics show, in Las Vegas this week, Jim Farley, Ford&amp;#226;(TM)s executive vice president, acknowledged that the idea sounds silly, "but we learned so freaking much," he said. Apparently, most people say "thank you" to the car after getting their pizza.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apparently%2C+People+Say+'Thank+You'+To+Self-Driving+Pizza+Delivery+Vehicles%3A+http%3A%2F%2Fbit.ly%2F2DrsgVq"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F12%2F1753215%2Fapparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605697&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-PBhdnZX2Wk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-12T18:01:00+00:00</dc:date>
+<dc:subject>humor</dc:subject>
+<slash:department>old-habits-die-hard</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,59,39,35,10,4,2</slash:hit_parade>
+<feedburner:origLink>https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Studios Sue Dragon Box in Latest Crackdown on Streaming Devices</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Z2-2JUbxbvQ/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices</link>
+<description>An anonymous reader shares a report: Netflix and Amazon joined with the major studios on Wednesday in a lawsuit against Dragon Box, as the studios continue their crackdown on streaming devices. The suit accuses Dragon Box of facilitating piracy by making it easy for customers to access illegal streams of movies and TV shows. Some of the films available are still in theaters, including Disney's "Coco," the suit alleges. Dragon Box has advertised the product as a means to avoid paying for authorized subscription services, the complaint alleges, quoting marketing material that encourages users to "Get rid of your premium channels ... [and] Stop paying for Netflix and Hulu." The same studios filed a similar complaint in October against TickBox, another device that enables users to watch streaming content. Both TickBox and Dragon Box make use of Kodi add-ons, a third-party software application.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Studios+Sue+Dragon+Box+in+Latest+Crackdown+on+Streaming+Devices%3A+http%3A%2F%2Fbit.ly%2F2DpwHAp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F12%2F1719253%2Fstudios-sue-dragon-box-in-latest-crackdown-on-streaming-devices%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605621&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Z2-2JUbxbvQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-12T17:21:00+00:00</dc:date>
+<dc:subject>piracy</dc:subject>
+<slash:department>crackdown-continues</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,25,16,11,4,1,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple's Indirect Presence Fades from CES</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ogEjrtSbRLQ/apples-indirect-presence-fades-from-ces</link>
+<description>Analyst Ben Bajarin writes: We would go to CES and remark at how Apple's dominance loomed over the show. Vendors of all shapes and sizes were rushing to be a part of the Apple ecosystem. Apple's ecosystem was front and center with everything from iOS apps, to accessories galore for iPhone and iPad, and even companies looking to copy Apple in many ways. The last year or so, things have dramatically changed, and that change is further evident at this year's CES. Gone are the days of Apple's presence, or observably "winning" of CES, even though they are not present. It was impossible to walk the show floor and not see a vast array of interesting innovations which touched the Apple ecosystem in some way. Now it is almost impossible to walk the floor and see any products that touch the Apple ecosystem in any way except for an app on the iOS App Store. The Apple ecosystem is no longer the star of CES but instead things like Amazon's Alexa voice platform, and now Google's assistant voice platform is the clear ecosystem winners of CES.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple's+Indirect+Presence+Fades+from+CES%3A+http%3A%2F%2Fbit.ly%2F2ATRHMM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F12%2F1634250%2Fapples-indirect-presence-fades-from-ces%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605537&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ogEjrtSbRLQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-12T16:42:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>59</slash:comments>
+<slash:hit_parade>59,59,30,27,11,6,0</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Will Cape Town be the First City To Run Out of Water?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LyTcsLSAXS8/will-cape-town-be-the-first-city-to-run-out-of-water</link>
+<description>Cape Town, home to Table Mountain, African penguins, sunshine and sea, is a world-renowned tourist destination. But soon it could also become famous for being the first major city in the world to run out of water. From a report: Most recent projections suggest that its water could run out as early as March. The crisis has been caused by three years of very low rainfall, coupled with increasing consumption by a growing population. The local government is racing to address the situation, with desalination plants to make sea water drinkable, groundwater collection projects, and water recycling programmes. Meanwhile Cape Town's four million residents are being urged to conserve water and use no more than 87 litres (19 gallons) a day. Car washing and filling up swimming pools has been banned.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Will+Cape+Town+be+the+First+City+To+Run+Out+of+Water%3F%3A+http%3A%2F%2Fbit.ly%2F2EAm6ls"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F12%2F1557233%2Fwill-cape-town-be-the-first-city-to-run-out-of-water%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605457&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LyTcsLSAXS8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-12T16:00:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>things-going-south</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>132</slash:comments>
+<slash:hit_parade>132,127,73,64,11,6,2</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ex-Google Employee's Memo Says Executives Shut Down Pro-Diversity Discussions</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fuA83ZfKjQI/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions</link>
+<description>An anonymous reader shares a report: A memo written by a former Google engineer claims that the company's human resources department and a senior vice president pressured him to stop discussing diversity initiatives on company forums, interactions that ultimately motivated him to leave the company. The document, which was written in 2016 and shared publicly this week, provides a striking counterpoint to allegations made by former Google employees James Damore and David Gudeman in a discrimination lawsuit filed against their former employer. Cory Altheide, the former employee who wrote the memo, began work as a security engineer at Google in 2010 and departed the company in January 2016. He recently published his account in a public Google document. Altheide posted several articles and comments to internal discussion groups that promoted diversity in the workplace and was chastised for doing so, he wrote.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ex-Google+Employee's+Memo+Says+Executives+Shut+Down+Pro-Diversity+Discussions%3A+http%3A%2F%2Fbit.ly%2F2ATxMgE"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F1520238%2Fex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605367&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fuA83ZfKjQI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-12T15:21:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>tussle-continues</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>205</slash:comments>
+<slash:hit_parade>205,201,113,90,31,14,6</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Cisco Can Now Sniff Out Malware Inside Encrypted Traffic</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zISUgA_oR6Q/cisco-can-now-sniff-out-malware-inside-encrypted-traffic</link>
@@ -58,8 +178,8 @@
 <dc:subject>security</dc:subject>
 <slash:department>next-up</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>4</slash:comments>
-<slash:hit_parade>4,4,4,3,0,0,0</slash:hit_parade>
+<slash:comments>57</slash:comments>
+<slash:hit_parade>57,56,34,23,13,9,7</slash:hit_parade>
 <feedburner:origLink>https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Facebook Overhauls News Feed in Favor of 'Meaningful Social Interactions'</title>
@@ -78,8 +198,8 @@
 <dc:subject>facebook</dc:subject>
 <slash:department>shape-of-things</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>36</slash:comments>
-<slash:hit_parade>36,36,27,24,5,2,0</slash:hit_parade>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,70,56,46,22,13,10</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>AMD Is Releasing Spectre Firmware Updates To Fix CPU Vulnerabilities</title>
@@ -98,8 +218,8 @@
 <dc:subject>amd</dc:subject>
 <slash:department>brushed-under-the-rug</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>30</slash:comments>
-<slash:hit_parade>30,27,13,8,3,1,0</slash:hit_parade>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,45,27,17,9,8,6</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Sea Turtles Under Threat As Climate Change Turns Most Babies Female</title>
@@ -118,8 +238,8 @@
 <dc:subject>earth</dc:subject>
 <slash:department>existential-threats</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>84</slash:comments>
-<slash:hit_parade>84,80,48,34,7,3,2</slash:hit_parade>
+<slash:comments>145</slash:comments>
+<slash:hit_parade>145,140,84,63,9,3,3</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ecuador Grants Citizenship To WikiLeaks Founder Julian Assange</title>
@@ -138,8 +258,8 @@
 <dc:subject>uk</dc:subject>
 <slash:department>get-moving</slash:department>
 <slash:section>politics</slash:section>
-<slash:comments>128</slash:comments>
-<slash:hit_parade>128,120,65,43,8,7,5</slash:hit_parade>
+<slash:comments>185</slash:comments>
+<slash:hit_parade>185,178,96,69,13,11,5</slash:hit_parade>
 <feedburner:origLink>https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ice Cliffs Spotted On Mars</title>
@@ -158,8 +278,8 @@
 <dc:subject>mars</dc:subject>
 <slash:department>looking-for-signs-of-life</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>50</slash:comments>
-<slash:hit_parade>50,47,32,26,6,4,2</slash:hit_parade>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,64,42,36,6,4,2</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Hackers Could Blow Up Factories Using Smartphone Apps</title>
@@ -178,8 +298,8 @@
 <dc:subject>security</dc:subject>
 <slash:department>remote-control</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>86</slash:comments>
-<slash:hit_parade>86,80,48,43,21,6,2</slash:hit_parade>
+<slash:comments>117</slash:comments>
+<slash:hit_parade>117,111,76,65,24,9,3</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>FCC Undoing Rules That Make It Easier For Small ISPs To Compete With Big Telecom</title>
@@ -200,8 +320,8 @@ The CBRS spectrum was designed for Navy radar, and when it was opened up for auc
 <dc:subject>wireless</dc:subject>
 <slash:department>edit-undo</slash:department>
 <slash:section>mobile</slash:section>
-<slash:comments>80</slash:comments>
-<slash:hit_parade>80,77,49,45,13,6,3</slash:hit_parade>
+<slash:comments>91</slash:comments>
+<slash:hit_parade>91,87,58,51,16,7,4</slash:hit_parade>
 <feedburner:origLink>https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Scientists Change Our Understanding of How Anaesthesia Messes With the Brain</title>
@@ -220,133 +340,9 @@ The CBRS spectrum was designed for Navy radar, and when it was opened up for auc
 <dc:subject>medicine</dc:subject>
 <slash:department>behind-the-scenes</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>81</slash:comments>
-<slash:hit_parade>81,76,54,44,14,6,4</slash:hit_parade>
+<slash:comments>85</slash:comments>
+<slash:hit_parade>85,80,58,45,16,9,6</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>South Korea Plans To Ban Cryptocurrency Trading</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MYrO26AZ9Ps/south-korea-plans-to-ban-cryptocurrency-trading</link>
-<description>South Korea's government said on Thursday it plans to ban cryptocurrency trading, sending bitcoin prices plummeting and throwing the virtual coin market into turmoil as the nation's police and tax authorities raided local exchanges on alleged tax evasion. Reuters reports: The clampdown in South Korea, a crucial source of global demand for cryptocurrency, came as policymakers around the world struggled to regulate an asset whose value has skyrocketed over the last year. Justice minister Park Sang-ki said the government was preparing a bill to ban trading of the virtual currency on domestic exchanges. Once a bill is drafted, legislation for an outright ban of virtual coin trading will require a majority vote of the total 297 members of the National Assembly, a process that could take months or even years. The local price of bitcoin plunged as much as 21 percent in midday trade to 18.3 million won (12,730.35 pounds) after the minister's comments. It still trades at around a 30 percent premium compared to other countries.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=South+Korea+Plans+To+Ban+Cryptocurrency+Trading%3A+http%3A%2F%2Fbit.ly%2F2DiV7v7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F2155216%2Fsouth-korea-plans-to-ban-cryptocurrency-trading%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601053&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MYrO26AZ9Ps" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T00:10:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>time-is-ticking</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,60,30,22,6,3,2</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>TiVo Sues Comcast Again, Alleging Operator's X1 Infringes Eight Patents</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vyM9UtjZ2B8/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents</link>
-<description>TiVo's Rovi subsidiary on Wednesday filed two lawsuits in federal district courts, alleging Comcast's X1 platform infringes eight TiVo-owned patents. "That includes technology covering pausing and resuming shows on different devices; restarting live programming in progress; certain advanced DVR recording features; and advanced search and voice functionality," reports Variety. From the report: A Comcast spokeswoman said the company will "aggressively defend" itself. "Comcast engineers independently created our X1 products and services, and through its litigation campaign against Comcast, Rovi seeks to charge Comcast and its customers for technology Rovi didn't create," the Comcast rep said in a statement. "Rovi's attempt to extract these unfounded payments for its aging and increasingly obsolete patent portfolio has failed to date."
- 
-TiVo's legal action comes after entertainment-tech vendor Rovi (which acquired the DVR company in 2016 and adopted the TiVo name) sued Comcast and its set-top suppliers in April 2016, alleging infringement of 14 patents. In November 2017, the U.S. International Trade Commission ruled that Comcast infringed two Rovi patents -- with the cable operator prevailing on most of the patents at issue. However, because one of the TiVo patents Comcast was found to have violated covered cloud-based DVR functions, the cable operator disabled that feature for X1 customers. Comcast is appealing the ITC ruling.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=TiVo+Sues+Comcast+Again%2C+Alleging+Operator's+X1+Infringes+Eight+Patents%3A+http%3A%2F%2Fbit.ly%2F2D2euvI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F11%2F2130249%2Ftivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600979&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/vyM9UtjZ2B8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-11T23:30:00+00:00</dc:date>
-<dc:subject>patents</dc:subject>
-<slash:department>family-feud</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>45</slash:comments>
-<slash:hit_parade>45,43,24,23,6,3,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Circuit City Is Coming Back</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/N0XQLEcGkr0/circuit-city-is-coming-back</link>
-<description>Following a tease of a CES announcement, current Circuit City CEO Ronny Shmoel confirmed on Monday that something called Circuit City will arrive as "a new, more personalized online shopping experience" starting February 15. The announcement even included promises of AI-driven recommendations fueled by IBM's Watson platform, plus unexplained "augmented reality" and "search by photo" features. Ars Technica reports: Curiously, Shmoel also promised "real-time tech support via video chat," but it's unclear whether this feature will include two-way video feeds -- and, thus, whether Circuit City is prepared for a deluge of Chatroulette-caliber video surprises from trolls. This online Circuit City rebirth may very well actually come to exist, as Shmoel claims that the company has put together a fully fledged inventory and distribution system, with a mix of known electronics brand names and "tier-two and tier-three" names (Shamsung? Panafauxnoic?). The same cannot be said for its CES tease of eventual brick-and-mortar showrooms in the neighborhood of 8,000-10,000 square feet, however. Shmoel already backtracked on similar showroom promises in 2016, and his CES pronouncement of future shops included no hard confirmations of locations or dates. But for anybody who dares to dream, Circuit City's showroom design partner, Taylored Group, released a concept render of its store vision which looks like a Radio Shack as if rendered in a Taiwanese hot-take news video.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Circuit+City+Is+Coming+Back%3A+http%3A%2F%2Fbit.ly%2F2D3x0UB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F11%2F216201%2Fcircuit-city-is-coming-back%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600951&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/N0XQLEcGkr0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-11T22:50:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>back-from-the-dead</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,66,43,39,6,4,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple Health Data Is Being Used As Evidence In a Rape and Murder Investigation</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5VCACsyLW1c/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation</link>
-<description>An anonymous reader quotes a report from Motherboard: Hussein K., an Afghan refugee in Freiburg, has been on trial since September for allegedly raping and murdering a student in Freiburg, and disposing of her body in a river. But many of the details of the trial have been hazy -- no one can agree on his real age, and most notably, there's a mysterious chunk of time missing from the geodata and surveillance video analysis of his whereabouts at the time of the crime. He refused to give authorities the passcode to his iPhone, but investigators hired a Munich company (which one is not publicly known) to gain access to his device, according to German news outlet Welt. They searched through Apple's Health app, which was added to all iPhones with the release of iOS 8 in 2014, and were able to gain more data about what he was doing that day. The app records how many steps he took and what kind of activity he was doing throughout that day. The app recorded a portion of his activity as "climbing stairs," which authorities were able to correlate with the time he would have dragged his victim down the river embankment, and then climbed back up. Freiburg police sent an investigator to the scene to replicate his movements, and sure enough, his Health app activity correlated with what was recorded on the defendant's phone.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Health+Data+Is+Being+Used+As+Evidence+In+a+Rape+and+Murder+Investigation%3A+http%3A%2F%2Fbit.ly%2F2ARGtIx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F11%2F2116216%2Fapple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600965&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5VCACsyLW1c" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-11T22:10:00+00:00</dc:date>
-<dc:subject>crime</dc:subject>
-<slash:department>every-breath-you-take</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>152</slash:comments>
-<slash:hit_parade>152,146,93,79,25,11,5</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Dropbox Files Confidentially For IPO</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/E4eiULVD2qU/dropbox-files-confidentially-for-ipo</link>
-<description>Dropbox, the file-sharing private company valued at $10 billion, has filed confidentially for a U.S. initial public offering. From the report: Goldman Sachs Group Inc. and JPMorgan Chase &amp;amp; Co. will lead the potential listing, according to the people, who asked not to be identified because the filing wasn't public. Dropbox is talking to other banks this month to fill additional roles on the IPO, the people said. The company is aiming to list in the first half of this year, one of the people said. Dropbox could be one of the biggest U.S. enterprise technology companies to list domestically in recent years.
- 
-Dropbox is likely to tout its biggest investment in recent years: its own cloud. It's spent hundreds of millions of dollars to build data centers and mostly wean itself off of Amazon.com Inc.'s servers, a rare feat for a software business with hundreds of millions of users. That's made it easier for Dropbox to cut costs while speeding file transfers, Chief Operating Officer Dennis Woodside said in an interview last year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Dropbox+Files+Confidentially+For+IPO%3A+http%3A%2F%2Fbit.ly%2F2ATmp8Q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F11%2F2027238%2Fdropbox-files-confidentially-for-ipo%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600887&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/E4eiULVD2qU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-11T21:47:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>file-sharing</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>19</slash:comments>
-<slash:hit_parade>19,16,8,6,1,0,0</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Pandora CEO Roger Lynch Wants To Create the Podcast Genome Project</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5NlPdMGpOdM/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project</link>
-<description>Janko Roettgers, reporting for Variety: Pandora's new CEO Roger Lynch has big plans for podcasts: Lynch told Variety on the sidelines of CES in Las Vegas Thursday that he wants to create "the equivalent of the podcast genome project" as the company plans to add many more podcasts to its catalog. Lynch, who joined Pandora as president and CEO in September, said that the company is working on a deep integration of podcasts that will allow users of the service to easily browse and discover new shows. Describing these efforts as a kind of podcast genome project is a nod to Pandora's Music Genome Project -- a massive database of dozens of musical attributes for every single song in the company's music library that is being used to compile stations and aid discovery. Pandora is also looking to offer podcasters monetization options that will be superior to the current state of podcast advertising. Currently, many podcasters still rely on ads that they read themselves on air, Lynch said. "It is not the most effective advertising model."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Pandora+CEO+Roger+Lynch+Wants+To+Create+the+Podcast+Genome+Project%3A+http%3A%2F%2Fbit.ly%2F2DlyO8i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F11%2F1940223%2Fpandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600813&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5NlPdMGpOdM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-11T21:25:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>next-up</slash:department>
-<slash:section>entertainment</slash:section>
-<slash:comments>17</slash:comments>
-<slash:hit_parade>17,17,10,7,1,0,0</slash:hit_parade>
-<feedburner:origLink>https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
