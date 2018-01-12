@@ -6,7 +6,8 @@ import javafx.geometry.Insets;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.layout.*;
+import javafx.scene.layout.HBox;
+import javafx.scene.layout.VBox;
 import javafx.util.Duration;
 import org.jetbrains.annotations.NotNull;
 
@@ -14,7 +15,7 @@ import java.time.LocalDate;
 import java.util.Locale;
 import java.util.logging.Logger;
 
-public class WeatherPane extends HBox
+public class WeatherBox extends HBox
 {
     // TODO 1/8/18 provide location selection for forecast
     private final Logger logger = Logger.getLogger(getClass().getName());
@@ -29,7 +30,7 @@ public class WeatherPane extends HBox
     private final VBox fourDaysVBox;
     private final Label precipitationLabel;
     
-    private WeatherPane (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    private WeatherBox (@NotNull DoubleProperty parentWidth, @NotNull DoubleProperty parentHeight)
     {
         super();
         weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
@@ -52,8 +53,8 @@ public class WeatherPane extends HBox
                         cloudsLabel, sunLabel, precipitationLabel);
         fourDaysVBox = new VBox();
         getChildren().addAll(todayVBox, fourDaysVBox);
-        todayVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.4));
-        fourDaysVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.6));
+        todayVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.5));
+        fourDaysVBox.prefWidthProperty().bind(prefWidthProperty().multiply(0.5));
         todayVBox.prefHeightProperty().bind(prefHeightProperty());
         fourDaysVBox.prefHeightProperty().bind(prefHeightProperty());
         iconHBox.prefWidthProperty().bind(todayVBox.widthProperty());
@@ -115,9 +116,9 @@ public class WeatherPane extends HBox
     }
     
     @NotNull
-    public static WeatherPane newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    public static WeatherBox newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        return new WeatherPane(parentWidth, parentHeight);
+        return new WeatherBox(parentWidth, parentHeight);
     }
     
     private void createWeatherBox (String weatherIcon, int maxTemp, int minTemp, String date)
@@ -125,6 +126,7 @@ public class WeatherPane extends HBox
         HBox dayHBox = new HBox();
         HBox dayIconHBox = new HBox();
         ImageView dayImageView = new ImageView(new Image(weatherIcon));
+        dayImageView.setPreserveRatio(true);
         dayIconHBox.getChildren().add(dayImageView);
         VBox labelsVBox = new VBox();
         labelsVBox.setPadding(new Insets(10, 0, 0, 0));
@@ -147,13 +149,12 @@ public class WeatherPane extends HBox
         currentWeatherImage.setImage(new Image(weatherData.weatherIcon()));
         temperatureLabel.setText(
                 "Temperature: " + weatherData.temperatureValue() + weatherData.temperatureUnit());
-        conditionLabel.setText("Weather condition: " + weatherData.weatherCondition());
+        conditionLabel.setText("Condition: " + weatherData.weatherCondition());
         humidityLabel.setText("Humidity: " + weatherData.humidityValue() + '%');
         windLabel.setText(
-                "Wind: " + weatherData.windName() + "  " + weatherData.windsSpeed() + " mps " +
-                        weatherData.windDirection());
+                "Wind: " + weatherData.windsSpeed() + " mps " + weatherData.windDirection());
         cloudsLabel.setText("Clouds: " + weatherData.cloudsRate() + '%');
-        sunLabel.setText("Sunrise: " + weatherData.sunrise() + " Sunset: " + weatherData.sunset());
+        sunLabel.setText("Sun rise: " + weatherData.sunrise() + " set: " + weatherData.sunset());
         if (!weatherData.precipitationType().isEmpty())
         {
             precipitationLabel.setText("Precipitation: " + weatherData.precipitationType() + "  " +
@@ -170,7 +171,7 @@ public class WeatherPane extends HBox
     @Override
     public String toString ()
     {
-        return "WeatherPane{" + "weatherData=" + weatherData + ", temperatureLabel=" +
+        return "WeatherBox{" + "weatherData=" + weatherData + ", temperatureLabel=" +
                 temperatureLabel + ", currentWeatherImage=" + currentWeatherImage +
                 ", conditionLabel=" + conditionLabel + ", humidityLabel=" + humidityLabel +
                 ", windLabel=" + windLabel + ", cloudsLabel=" + cloudsLabel + ", sunLabel=" +

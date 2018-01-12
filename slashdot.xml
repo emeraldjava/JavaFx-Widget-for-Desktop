@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-12T12:42:05+00:00</dc:date>
+<dc:date>2018-01-12T13:06:11+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,7 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -30,7 +31,6 @@
   <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,25 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>AMD Is Releasing Spectre Firmware Updates To Fix CPU Vulnerabilities</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AL6au7f0uXw/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities</link>
+<description>An anonymous reader quotes a report from The Verge: AMD's initial response to the Meltdown and Spectre CPU flaws made it clear "there is a near zero risk to AMD processors." That zero risk doesn't mean zero impact, as we're starting to discover today. "We have defined additional steps through a combination of processor microcode updates and OS patches that we will make available to AMD customers and partners to further mitigate the threat," says Mark Papermaster, AMD's chief technology officer. AMD is making firmware updates available for Ryzen and EPYC owners this week, and the company is planning to update older processors "over the coming weeks." Like Intel, these firmware updates will be provided to PC makers, and it will be up to suppliers to ensure customers receive these. AMD isn't saying whether there will be any performance impacts from applying these firmware updates, nor whether servers using EPYC processors will be greatly impacted or not. AMD is also revealing that its Radeon GPU architecture isn't impacted by Meltdown or Spectre, simply because those GPUs "do not use speculative execution and thus are not susceptible to these threats." AMD says it plans to issue further statements as it continues to develop security updates for its processors.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=AMD+Is+Releasing+Spectre+Firmware+Updates+To+Fix+CPU+Vulnerabilities%3A+http%3A%2F%2Fbit.ly%2F2EC2kWu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F12%2F0552259%2Famd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11602003&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AL6au7f0uXw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T13:00:00+00:00</dc:date>
+<dc:subject>amd</dc:subject>
+<slash:department>brushed-under-the-rug</slash:department>
+<slash:section>hardware</slash:section>
+<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Sea Turtles Under Threat As Climate Change Turns Most Babies Female</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/985v37ioZvU/sea-turtles-under-threat-as-climate-change-turns-most-babies-female</link>
@@ -58,8 +77,8 @@
 <dc:subject>earth</dc:subject>
 <slash:department>existential-threats</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>36</slash:comments>
-<slash:hit_parade>36,35,29,21,0,0,0</slash:hit_parade>
+<slash:comments>45</slash:comments>
+<slash:hit_parade>45,44,32,24,3,1,0</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ecuador Grants Citizenship To WikiLeaks Founder Julian Assange</title>
@@ -78,8 +97,8 @@
 <dc:subject>uk</dc:subject>
 <slash:department>get-moving</slash:department>
 <slash:section>politics</slash:section>
-<slash:comments>87</slash:comments>
-<slash:hit_parade>87,82,48,33,6,2,1</slash:hit_parade>
+<slash:comments>96</slash:comments>
+<slash:hit_parade>96,91,52,36,5,1,1</slash:hit_parade>
 <feedburner:origLink>https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ice Cliffs Spotted On Mars</title>
@@ -98,8 +117,8 @@
 <dc:subject>mars</dc:subject>
 <slash:department>looking-for-signs-of-life</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>47</slash:comments>
-<slash:hit_parade>47,44,30,23,5,1,1</slash:hit_parade>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,45,31,24,6,1,1</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Hackers Could Blow Up Factories Using Smartphone Apps</title>
@@ -118,8 +137,8 @@
 <dc:subject>security</dc:subject>
 <slash:department>remote-control</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>76</slash:comments>
-<slash:hit_parade>76,70,44,37,13,4,1</slash:hit_parade>
+<slash:comments>78</slash:comments>
+<slash:hit_parade>78,72,46,38,13,4,1</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>FCC Undoing Rules That Make It Easier For Small ISPs To Compete With Big Telecom</title>
@@ -160,8 +179,8 @@ The CBRS spectrum was designed for Navy radar, and when it was opened up for auc
 <dc:subject>medicine</dc:subject>
 <slash:department>behind-the-scenes</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>70</slash:comments>
-<slash:hit_parade>70,66,48,41,11,3,2</slash:hit_parade>
+<slash:comments>72</slash:comments>
+<slash:hit_parade>72,68,49,41,11,6,2</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/11/2155216/south-korea-plans-to-ban-cryptocurrency-trading?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>South Korea Plans To Ban Cryptocurrency Trading</title>
@@ -202,8 +221,8 @@ TiVo's legal action comes after entertainment-tech vendor Rovi (which acquired t
 <dc:subject>patents</dc:subject>
 <slash:department>family-feud</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>41</slash:comments>
-<slash:hit_parade>41,39,23,22,6,3,1</slash:hit_parade>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,41,24,23,6,3,1</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/11/2130249/tivo-sues-comcast-again-alleging-operators-x1-infringes-eight-patents?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/11/216201/circuit-city-is-coming-back?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Circuit City Is Coming Back</title>
@@ -242,8 +261,8 @@ TiVo's legal action comes after entertainment-tech vendor Rovi (which acquired t
 <dc:subject>crime</dc:subject>
 <slash:department>every-breath-you-take</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>143</slash:comments>
-<slash:hit_parade>143,137,91,78,25,11,6</slash:hit_parade>
+<slash:comments>144</slash:comments>
+<slash:hit_parade>144,138,91,78,25,11,6</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/11/2116216/apple-health-data-is-being-used-as-evidence-in-a-rape-and-murder-investigation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/11/2027238/dropbox-files-confidentially-for-ipo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Dropbox Files Confidentially For IPO</title>
@@ -284,8 +303,8 @@ Dropbox is likely to tout its biggest investment in recent years: its own cloud.
 <dc:subject>business</dc:subject>
 <slash:department>next-up</slash:department>
 <slash:section>entertainment</slash:section>
-<slash:comments>14</slash:comments>
-<slash:hit_parade>14,14,9,6,1,0,0</slash:hit_parade>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,16,10,7,1,0,0</slash:hit_parade>
 <feedburner:origLink>https://entertainment.slashdot.org/story/18/01/11/1940223/pandora-ceo-roger-lynch-wants-to-create-the-podcast-genome-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>When It Comes to Gorillas, Google Photos Remains Blind</title>
@@ -304,8 +323,8 @@ Dropbox is likely to tout its biggest investment in recent years: its own cloud.
 <dc:subject>google</dc:subject>
 <slash:department>closer-look</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>234</slash:comments>
-<slash:hit_parade>234,223,128,101,23,11,10</slash:hit_parade>
+<slash:comments>237</slash:comments>
+<slash:hit_parade>237,226,129,102,23,11,10</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/11/199217/when-it-comes-to-gorillas-google-photos-remains-blind?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Microsoft Partners with Signal to Bring End-To-End Encryption to Skype</title>
@@ -327,26 +346,6 @@ Dropbox is likely to tout its biggest investment in recent years: its own cloud.
 <slash:comments>62</slash:comments>
 <slash:hit_parade>62,62,30,25,11,7,3</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/11/1848206/microsoft-partners-with-signal-to-bring-end-to-end-encryption-to-skype?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Chinese Workers Abandon Silicon Valley for Riches Back Home</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iT6wxnaCaCI/chinese-workers-abandon-silicon-valley-for-riches-back-home</link>
-<description>From a report on Bloomberg: U.S.-trained Chinese-born talent is becoming a key force in driving Chinese companies' global expansion and the country's efforts to dominate next-generation technologies like artificial intelligence and machine learning. Where college graduates once coveted a prestigious overseas job and foreign citizenship, many today gravitate toward career opportunities at home, where venture capital is now plentiful and the government dangles financial incentives for cutting-edge research. "More and more talent is moving over because China is really getting momentum in the innovation area," said Ken Qi, a headhunter for Spencer Stuart and leader of its technology practice. "This is only the beginning." Chinese have worked or studied abroad and then returned home long enough that there's a term for them -- "sea turtles." But while a job at a U.S. tech giant once conferred near-unparalleled status, homegrown companies -- from giants like Tencent to up-and-comers like news giant Toutiao -- are now often just as prestigious. Baidu Inc. -- a search giant little-known outside of China -- convinced ex-Microsoft standout Qi Lu to helm its efforts in AI, making him one of the highest-profile returnees of recent years.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Chinese+Workers+Abandon+Silicon+Valley+for+Riches+Back+Home%3A+http%3A%2F%2Fbit.ly%2F2ARB9Vo"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F11%2F1836249%2Fchinese-workers-abandon-silicon-valley-for-riches-back-home%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600651&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iT6wxnaCaCI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-11T19:25:00+00:00</dc:date>
-<dc:subject>china</dc:subject>
-<slash:department>change-in-paradigm</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>223</slash:comments>
-<slash:hit_parade>223,218,117,95,24,12,9</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/11/1836249/chinese-workers-abandon-silicon-valley-for-riches-back-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
