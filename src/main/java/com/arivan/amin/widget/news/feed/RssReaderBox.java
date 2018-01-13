@@ -2,6 +2,7 @@ package com.arivan.amin.widget.news.feed;
 
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
+import javafx.event.ActionEvent;
 import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
@@ -14,23 +15,34 @@ public class RssReaderBox extends VBox
 {
     private static final int MINUTES_BETWEEN_RSS_UPDATES = 10;
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final RssReader rssReader;
+    private RssReader rssReader;
     
-    private RssReaderBox (@NotNull DoubleProperty parentWidth, @NotNull DoubleProperty parentHeight)
+    private RssReaderBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        super();
-        prefWidthProperty().bind(parentWidth.multiply(0.4));
-        prefHeightProperty().bind(parentHeight);
-        rssReader = SlashdotRssReader.newInstance();
-        setSpacing(10);
+        bindBoxSizeToParent(parentWidth, parentHeight);
+        determineRssReader();
+        setSpacing(5);
+        fetchNewsPeriodically();
+    }
+    
+    private void fetchNewsPeriodically ()
+    {
         Timeline timeline = new Timeline();
-        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), e ->
-        {
-            updateValues();
-        }));
+        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), this::newsUpdateHandler));
         timeline.getKeyFrames().add(new KeyFrame(Duration.minutes(MINUTES_BETWEEN_RSS_UPDATES)));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
+    }
+    
+    private void bindBoxSizeToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    {
+        prefWidthProperty().bind(parentWidth.multiply(0.4));
+        prefHeightProperty().bind(parentHeight);
+    }
+    
+    private void determineRssReader ()
+    {
+        rssReader = SlashdotRssReader.newInstance();
     }
     
     @NotNull
@@ -39,25 +51,42 @@ public class RssReaderBox extends VBox
         return new RssReaderBox(parentWidth, parentHeight);
     }
     
-    private void updateValues ()
+    @Override
+    public String toString ()
     {
-        getChildren().clear();
-        getChildren().add(new Label("Feed from Slashdot"));
+        return "RssReaderBox{" + "rssReader=" + rssReader + '}';
+    }
+    
+    private void newsUpdateHandler (ActionEvent e)
+    {
+        clearBox();
         List<RssItem> items = rssReader.newsList();
-        Label label = new Label();
-        label.setWrapText(true);
-        label.getStyleClass().add("rss-item");
+        Label label = createNewsLabel();
+        addNewsToLabel(items, label);
+        getChildren().add(label);
+    }
+    
+    private void addNewsToLabel (List<RssItem> items, Label label)
+    {
         for (int i = 0; i < items.size(); i++)
         {
             label.setText(label.getText() + (i + 1) + "-- " + items.get(i).getTitle() +
                     System.lineSeparator() + System.lineSeparator());
         }
-        getChildren().add(label);
     }
     
-    @Override
-    public String toString ()
+    @NotNull
+    private Label createNewsLabel ()
     {
-        return "RssReaderBox{" + "rssReader=" + rssReader + '}';
+        Label label = new Label();
+        label.setWrapText(true);
+        label.getStyleClass().add("rss-item");
+        return label;
+    }
+    
+    private void clearBox ()
+    {
+        getChildren().clear();
+        getChildren().add(new Label("Feed from Slashdot"));
     }
 }

@@ -7,25 +7,24 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.logging.Logger;
 
-public class LinuxMonitor implements Monitor
+public class LinuxMemoryMonitor implements MemoryMonitor
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final List<String> topCommand = List.of("top", "-d", "0.01", "-bn", "2");
     private String[] data;
     
-    private LinuxMonitor ()
+    private LinuxMemoryMonitor ()
     {
-        super();
     }
     
     @NotNull
-    public static LinuxMonitor newInstance ()
+    public static LinuxMemoryMonitor newInstance ()
     {
-        return new LinuxMonitor();
+        return new LinuxMemoryMonitor();
     }
     
     @Override
-    public void updateCommandData ()
+    public void updateData ()
     {
         try
         {
@@ -38,13 +37,12 @@ public class LinuxMonitor implements Monitor
     }
     
     @Override
-    public double getCommandData ()
+    public double getUsedMemory ()
     {
-        updateCommandData();
+        updateData();
         return (PERCENT * Double.parseDouble(data[2])) / Double.parseDouble(data[0]) / PERCENT;
     }
     
-    @Override
     public String removeUnnecessaryData (String output)
     {
         String mem = output.substring(output.indexOf("KiB Mem"));

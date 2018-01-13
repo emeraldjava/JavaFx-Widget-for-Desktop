@@ -15,13 +15,12 @@ import java.util.stream.IntStream;
 
 public class SlashdotRssReader implements RssReader
 {
-    private static final String SLASHDOT_RSS_FILE = "slashdot.xml";
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final String SLASHDOT_RSS_FILE = "slashdot.xml";
     private List<Element> elementList;
     
     private SlashdotRssReader ()
     {
-        super();
         updateNewsData();
     }
     

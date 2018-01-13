@@ -10,12 +10,10 @@ public class RssItem
     
     private RssItem ()
     {
-        super();
     }
     
     private RssItem (String title, String link, String description)
     {
-        super();
         this.title = title;
         this.link = link;
         this.description = description;
@@ -61,5 +59,12 @@ public class RssItem
     public void setDescription (String description)
     {
         this.description = description;
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "RssItem{" + "title='" + title + '\'' + ", link='" + link + '\'' +
+                ", description='" + description + '\'' + '}';
     }
 }

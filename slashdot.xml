@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-12T18:58:13+00:00</dc:date>
+<dc:date>2018-01-13T19:42:06+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,308 +41,330 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Intel's Chip Bug Fixes Have Bugs of Their Own</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fXJl1j41TZs/intels-chip-bug-fixes-have-bugs-of-their-own</link>
-<description>From a report: Intel said late Thursday it is investigating an issue with Broadwell and Haswell CPUs after customers reported higher system reboot rates when they installed firmware updates for fixing the Spectre flaw. The hardware vendor said these systems are both home computers and data center servers. "We are working quickly with these customers to understand, diagnose and address this reboot issue," said Navin Shenoy, executive vice president and general manager of the Data Center Group at Intel Corporation. "If this requires a revised firmware update from Intel, we will distribute that update through the normal channels. We are also working directly with data center customers to discuss the issue," Shenoy added. The Intel exec said users shouldn't feel discouraged by these snags and continue to install updates from OS makers and OEMs.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Intel's+Chip+Bug+Fixes+Have+Bugs+of+Their+Own%3A+http%3A%2F%2Fbit.ly%2F2DoPNGA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F12%2F1837227%2Fintels-chip-bug-fixes-have-bugs-of-their-own%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Peter Thiel Is Now Bidding on Gawker.com</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0WJj9GST1KA/peter-thiel-is-now-bidding-on-gawkercom</link>
+<description>An anonymous reader writes:
+Its official. "Venture capitalist Peter Thiel has made an offer for Gawker," reports Reuters, adding that the potential acquisition "would let him take down stories regarding his personal life that are still available on the website, and remove the scope for further litigation between him and Gawker." It was Thiel's 2016 lawsuit which bankrupted the site, prompting a Washington Post blogger to write that Thiel "killed Gawker once. Now it looks like he may kill it again." 
+Elsewhere the Washington Post argues the whole episode "highlighted the immense legal risk borne by news outlets already facing a precarious financial reality in the digital age." The Post's blogger describes Thiel as "a billionaire leveraging his wealth to obliterate a media outlet...as part of a personal vendetta." 
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+Last month former Gawker staffers attempted to crowdfund the purchase and relaunch of Gawker.com as a nonprofit media organization. But their 1,496 backers only pledged $89,844, far short of the campaign's $500,000 target.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Peter+Thiel+Is+Now+Bidding+on+Gawker.com%3A+http%3A%2F%2Fbit.ly%2F2DtBHUr"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F12%2F2325218%2Fpeter-thiel-is-now-bidding-on-gawkercom%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605793&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fXJl1j41TZs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-12T18:42:00+00:00</dc:date>
-<dc:subject>bug</dc:subject>
-<slash:department>bugception</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>8</slash:comments>
-<slash:hit_parade>8,8,4,3,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/12/1837227/intels-chip-bug-fixes-have-bugs-of-their-own?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apparently, People Say 'Thank You' To Self-Driving Pizza Delivery Vehicles</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-PBhdnZX2Wk/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles</link>
-<description>An anonymous reader shares a report: Last summer, Ford worked with Domino's Pizza on a test in Ann Arbor, Michigan, where it delivered pizza to randomly chosen customers in a self-driving Ford Fusion hybrid. An operator was inside the car, and a regular human-driven car trailed behind, videotaping the drive. Customers had to approach the car and enter a number on a touch screen on the side of the vehicle to get their pizza. Speaking at CES, the annual consumer electronics show, in Las Vegas this week, Jim Farley, Ford&amp;#226;(TM)s executive vice president, acknowledged that the idea sounds silly, "but we learned so freaking much," he said. Apparently, most people say "thank you" to the car after getting their pizza.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apparently%2C+People+Say+'Thank+You'+To+Self-Driving+Pizza+Delivery+Vehicles%3A+http%3A%2F%2Fbit.ly%2F2DrsgVq"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F12%2F1753215%2Fapparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605697&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-PBhdnZX2Wk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-12T18:01:00+00:00</dc:date>
-<dc:subject>humor</dc:subject>
-<slash:department>old-habits-die-hard</slash:department>
-<slash:section>entertainment</slash:section>
-<slash:comments>62</slash:comments>
-<slash:hit_parade>62,59,39,35,10,4,2</slash:hit_parade>
-<feedburner:origLink>https://entertainment.slashdot.org/story/18/01/12/1753215/apparently-people-say-thank-you-to-self-driving-pizza-delivery-vehicles?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Studios Sue Dragon Box in Latest Crackdown on Streaming Devices</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Z2-2JUbxbvQ/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices</link>
-<description>An anonymous reader shares a report: Netflix and Amazon joined with the major studios on Wednesday in a lawsuit against Dragon Box, as the studios continue their crackdown on streaming devices. The suit accuses Dragon Box of facilitating piracy by making it easy for customers to access illegal streams of movies and TV shows. Some of the films available are still in theaters, including Disney's "Coco," the suit alleges. Dragon Box has advertised the product as a means to avoid paying for authorized subscription services, the complaint alleges, quoting marketing material that encourages users to "Get rid of your premium channels ... [and] Stop paying for Netflix and Hulu." The same studios filed a similar complaint in October against TickBox, another device that enables users to watch streaming content. Both TickBox and Dragon Box make use of Kodi add-ons, a third-party software application.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Studios+Sue+Dragon+Box+in+Latest+Crackdown+on+Streaming+Devices%3A+http%3A%2F%2Fbit.ly%2F2DpwHAp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F12%2F1719253%2Fstudios-sue-dragon-box-in-latest-crackdown-on-streaming-devices%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606159&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0WJj9GST1KA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-13T18:49:00+00:00</dc:date>
+<dc:subject>themedia</dc:subject>
+<slash:department>bids-from-billionaires</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,31,12,8,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Will Facial Recognition in China Lead To Total Surveillance?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/h8FqIgQ7VGg/will-facial-recognition-in-china-lead-to-total-surveillance</link>
+<description>schwit1 shares a new Washington Post article about China's police and security state -- including the facial recognition cameras allow access to apartment buildings. "If I am carrying shopping bags in both hands, I just have to look ahead and the door swings open," one 40-year-old woman tells the Post. "And my 5-year-old daughter can just look up at the camera and get in. It's good for kids because they often lose their keys."
+But for the police, the cameras that replaced the residents' old entry cards serve quite a different purpose. Now they can see who's coming and going, and by combining artificial intelligence with a huge national bank of photos, the system in this pilot project should enable police to identify what one police report, shared with The Washington Post, called the "bad guys" who once might have slipped by... Banks, airports, hotels and even public toilets are all trying to verify people's identities by analyzing their faces. But the police and security state have been the most enthusiastic about embracing this new technology. 
+The pilot in Chongqing forms one tiny part of an ambitious plan, known as "Xue Liang," which can be translated as "Sharp Eyes." The intent is to connect the security cameras that already scan roads, shopping malls and transport hubs with private cameras on compounds and buildings, and integrate them into one nationwide surveillance and data-sharing platform... At the back end, these efforts merge with a vast database of information on every citizen, a "Police Cloud" that aims to scoop up such data as criminal and medical records, travel bookings, online purchase and even social media comments -- and link it to everyone's identity card and face.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Will+Facial+Recognition+in+China+Lead+To+Total+Surveillance%3F%3A+http%3A%2F%2Fbit.ly%2F2DsH5Yc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F13%2F0058205%2Fwill-facial-recognition-in-china-lead-to-total-surveillance%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605621&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Z2-2JUbxbvQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-12T17:21:00+00:00</dc:date>
-<dc:subject>piracy</dc:subject>
-<slash:department>crackdown-continues</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606265&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/h8FqIgQ7VGg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-13T17:44:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>policing-from-the-cloud</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>27</slash:comments>
-<slash:hit_parade>27,25,16,11,4,1,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/12/1719253/studios-sue-dragon-box-in-latest-crackdown-on-streaming-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple's Indirect Presence Fades from CES</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ogEjrtSbRLQ/apples-indirect-presence-fades-from-ces</link>
-<description>Analyst Ben Bajarin writes: We would go to CES and remark at how Apple's dominance loomed over the show. Vendors of all shapes and sizes were rushing to be a part of the Apple ecosystem. Apple's ecosystem was front and center with everything from iOS apps, to accessories galore for iPhone and iPad, and even companies looking to copy Apple in many ways. The last year or so, things have dramatically changed, and that change is further evident at this year's CES. Gone are the days of Apple's presence, or observably "winning" of CES, even though they are not present. It was impossible to walk the show floor and not see a vast array of interesting innovations which touched the Apple ecosystem in some way. Now it is almost impossible to walk the floor and see any products that touch the Apple ecosystem in any way except for an app on the iOS App Store. The Apple ecosystem is no longer the star of CES but instead things like Amazon's Alexa voice platform, and now Google's assistant voice platform is the clear ecosystem winners of CES.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple's+Indirect+Presence+Fades+from+CES%3A+http%3A%2F%2Fbit.ly%2F2ATRHMM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F12%2F1634250%2Fapples-indirect-presence-fades-from-ces%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605537&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ogEjrtSbRLQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-12T16:42:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>next-up</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>59</slash:comments>
-<slash:hit_parade>59,59,30,27,11,6,0</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/12/1634250/apples-indirect-presence-fades-from-ces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Will Cape Town be the First City To Run Out of Water?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LyTcsLSAXS8/will-cape-town-be-the-first-city-to-run-out-of-water</link>
-<description>Cape Town, home to Table Mountain, African penguins, sunshine and sea, is a world-renowned tourist destination. But soon it could also become famous for being the first major city in the world to run out of water. From a report: Most recent projections suggest that its water could run out as early as March. The crisis has been caused by three years of very low rainfall, coupled with increasing consumption by a growing population. The local government is racing to address the situation, with desalination plants to make sea water drinkable, groundwater collection projects, and water recycling programmes. Meanwhile Cape Town's four million residents are being urged to conserve water and use no more than 87 litres (19 gallons) a day. Car washing and filling up swimming pools has been banned.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Will+Cape+Town+be+the+First+City+To+Run+Out+of+Water%3F%3A+http%3A%2F%2Fbit.ly%2F2EAm6ls"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F12%2F1557233%2Fwill-cape-town-be-the-first-city-to-run-out-of-water%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605457&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LyTcsLSAXS8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-12T16:00:00+00:00</dc:date>
-<dc:subject>earth</dc:subject>
-<slash:department>things-going-south</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>132</slash:comments>
-<slash:hit_parade>132,127,73,64,11,6,2</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/12/1557233/will-cape-town-be-the-first-city-to-run-out-of-water?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ex-Google Employee's Memo Says Executives Shut Down Pro-Diversity Discussions</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fuA83ZfKjQI/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions</link>
-<description>An anonymous reader shares a report: A memo written by a former Google engineer claims that the company's human resources department and a senior vice president pressured him to stop discussing diversity initiatives on company forums, interactions that ultimately motivated him to leave the company. The document, which was written in 2016 and shared publicly this week, provides a striking counterpoint to allegations made by former Google employees James Damore and David Gudeman in a discrimination lawsuit filed against their former employer. Cory Altheide, the former employee who wrote the memo, began work as a security engineer at Google in 2010 and departed the company in January 2016. He recently published his account in a public Google document. Altheide posted several articles and comments to internal discussion groups that promoted diversity in the workplace and was chastised for doing so, he wrote.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ex-Google+Employee's+Memo+Says+Executives+Shut+Down+Pro-Diversity+Discussions%3A+http%3A%2F%2Fbit.ly%2F2ATxMgE"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F1520238%2Fex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605367&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fuA83ZfKjQI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-12T15:21:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>tussle-continues</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>205</slash:comments>
-<slash:hit_parade>205,201,113,90,31,14,6</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/1520238/ex-google-employees-memo-says-executives-shut-down-pro-diversity-discussions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Cisco Can Now Sniff Out Malware Inside Encrypted Traffic</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zISUgA_oR6Q/cisco-can-now-sniff-out-malware-inside-encrypted-traffic</link>
-<description>Simon Sharwood, writing for The Register: Cisco has switched on latent features in its recent routers and switches, plus a cloud service, that together make it possible to detect the fingerprints of malware in encrypted traffic. Switchzilla has not made a dent in transport layer security (TLS) to make this possible. Instead, as we reported in July 2016, Cisco researchers found that malware leaves recognisable traces even in encrypted traffic. The company announced its intention to productise that research last year and this week exited trials to make the service -- now known as Encrypted Traffic Analytics (ETA) -- available to purchasers of its 4000 Series Integrated Service Routers, the 1000-series Aggregation Services Router and the model 1000V Cloud Services Router 1000V. Those devices can't do the job alone: users need to sign up for Cisco's StealthWatch service and let traffic from their kit flow to a cloud-based analytics service that inspects traffic and uses self-improving machine learning algorithms to spot dodgy traffic.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Cisco+Can+Now+Sniff+Out+Malware+Inside+Encrypted+Traffic%3A+http%3A%2F%2Fbit.ly%2F2D4t7hX"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F12%2F1441215%2Fcisco-can-now-sniff-out-malware-inside-encrypted-traffic%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605299&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zISUgA_oR6Q" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-12T14:41:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>next-up</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>57</slash:comments>
-<slash:hit_parade>57,56,34,23,13,9,7</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/12/1441215/cisco-can-now-sniff-out-malware-inside-encrypted-traffic?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facebook Overhauls News Feed in Favor of 'Meaningful Social Interactions'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5Xvy0UFBZuM/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions</link>
-<description>Facebook said late Thursday it will begin to prioritize posts in the News Feed from friends and family over public content and posts from publishers. The company will also move away from using "time spent" on the platform as a metric of success and will instead focus on "engagement" with content, such as comments. From a report: The social media platform will de-prioritize videos, photos, and posts shared by businesses and media outlets, which Zuckerberg dubbed "public content," in favor of content produced by a user's friends and family. "The balance of what's in News Feed has shifted away from the most important thing Facebook can do -- help us connect with each other," Zuckerberg wrote in a Facebook post announcing the change. "We feel a responsibility to make sure our services aren't just fun to use, but also good for people's well-being."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Overhauls+News+Feed+in+Favor+of+'Meaningful+Social+Interactions'%3A+http%3A%2F%2Fbit.ly%2F2ATIT9B"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F141205%2Ffacebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605199&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5Xvy0UFBZuM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-12T14:00:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>shape-of-things</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>75</slash:comments>
-<slash:hit_parade>75,70,56,46,22,13,10</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/141205/facebook-overhauls-news-feed-in-favor-of-meaningful-social-interactions?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>AMD Is Releasing Spectre Firmware Updates To Fix CPU Vulnerabilities</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AL6au7f0uXw/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities</link>
-<description>An anonymous reader quotes a report from The Verge: AMD's initial response to the Meltdown and Spectre CPU flaws made it clear "there is a near zero risk to AMD processors." That zero risk doesn't mean zero impact, as we're starting to discover today. "We have defined additional steps through a combination of processor microcode updates and OS patches that we will make available to AMD customers and partners to further mitigate the threat," says Mark Papermaster, AMD's chief technology officer. AMD is making firmware updates available for Ryzen and EPYC owners this week, and the company is planning to update older processors "over the coming weeks." Like Intel, these firmware updates will be provided to PC makers, and it will be up to suppliers to ensure customers receive these. AMD isn't saying whether there will be any performance impacts from applying these firmware updates, nor whether servers using EPYC processors will be greatly impacted or not. AMD is also revealing that its Radeon GPU architecture isn't impacted by Meltdown or Spectre, simply because those GPUs "do not use speculative execution and thus are not susceptible to these threats." AMD says it plans to issue further statements as it continues to develop security updates for its processors.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=AMD+Is+Releasing+Spectre+Firmware+Updates+To+Fix+CPU+Vulnerabilities%3A+http%3A%2F%2Fbit.ly%2F2EC2kWu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F12%2F0552259%2Famd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11602003&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AL6au7f0uXw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T13:00:00+00:00</dc:date>
-<dc:subject>amd</dc:subject>
-<slash:department>brushed-under-the-rug</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>50</slash:comments>
-<slash:hit_parade>50,45,27,17,9,8,6</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/12/0552259/amd-is-releasing-spectre-firmware-updates-to-fix-cpu-vulnerabilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Sea Turtles Under Threat As Climate Change Turns Most Babies Female</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/985v37ioZvU/sea-turtles-under-threat-as-climate-change-turns-most-babies-female</link>
-<description>A new study published in the journal Current Biology found that as much as 99 percent of baby green sea turtles in warm equatorial regions are being born female. "The study took a look at turtle populations at nesting sites at Raine Island and Moulter Cay in the northern Great Barrier Reef, an area plagued with unprecedented levels of coral bleaching from high temperatures," reports Futurism. "The researchers compared these populations with sea turtles living at sites in the cooler south." From the report: Using a new, non-invasive hormone test, the researchers from the U.S. National Oceanic and Atmospheric Administration (NOAA) Fisheries Department and the Queensland Department of Environment and Heritage Protection found that while 65 -69 percent of the turtles from the southern region were female, between 86.8 and 99.8 of turtles tested in the northern region were female, depending on age. The sex of green sea turtles, along with some other species of turtles, crocodiles, and alligators, is not regulated by the introduction of sex chromosomes at key points during early development, as seen in humans and other mammals. Their sex is actually influenced by the temperature at which the eggs are incubated, with warmer temperatures more likely to lead to females. The difference between predominately male and predominately female hatchlings is only a few degrees, such as that formerly found between the cool, damp bottom of a sandy sea turtle nest and the sun-warmed top. The ages of the female turtles in the north suggest that this population has experienced temperatures that cause this imbalance since at least the 1990s. Given that the warmer temperatures seen in northern Australia have been distributed around the globe, experts predict that other sea turtle populations in warm regions are also following the same trend.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Sea+Turtles+Under+Threat+As+Climate+Change+Turns+Most+Babies+Female%3A+http%3A%2F%2Fbit.ly%2F2AUjcFH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F12%2F0646225%2Fsea-turtles-under-threat-as-climate-change-turns-most-babies-female%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11602369&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/985v37ioZvU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T11:30:00+00:00</dc:date>
-<dc:subject>earth</dc:subject>
-<slash:department>existential-threats</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>145</slash:comments>
-<slash:hit_parade>145,140,84,63,9,3,3</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/12/0646225/sea-turtles-under-threat-as-climate-change-turns-most-babies-female?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ecuador Grants Citizenship To WikiLeaks Founder Julian Assange</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/N_PhJ1KCLQ8/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange</link>
-<description>hcs_$reboot writes: Ecuador has granted citizenship to Julian Assange, who has been holed up inside the Ecuadorian embassy in London for over five years. Quito, Ecuador, has said naturalization should provide Assange with another layer of protection. However, naturalization appeared to do little to help the Australian-born WikiLeaks founder's case, with the British foreign ministry stressing that the only way to resolve the issue was for "Assange to leave the embassy to face justice." Earlier on Thursday, Britain said that it had refused a request by Ecuador to grant Assange diplomatic status, which would have granted him special legal immunity and the right to safe passage under the Vienna Convention on Diplomatic Relations.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ecuador+Grants+Citizenship+To+WikiLeaks+Founder+Julian+Assange%3A+http%3A%2F%2Fbit.ly%2F2D3066m"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F12%2F050254%2Fecuador-grants-citizenship-to-wikileaks-founder-julian-assange%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601711&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/N_PhJ1KCLQ8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T10:00:00+00:00</dc:date>
-<dc:subject>uk</dc:subject>
-<slash:department>get-moving</slash:department>
-<slash:section>politics</slash:section>
-<slash:comments>185</slash:comments>
-<slash:hit_parade>185,178,96,69,13,11,5</slash:hit_parade>
-<feedburner:origLink>https://politics.slashdot.org/story/18/01/12/050254/ecuador-grants-citizenship-to-wikileaks-founder-julian-assange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ice Cliffs Spotted On Mars</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/YIE5qioQ0b0/ice-cliffs-spotted-on-mars</link>
-<description>sciencehabit writes from a report via Science Magazine: Scientists have discovered eight cliffs of nearly pure water ice on Mars, some of which stand nearly 100 meters tall. The discovery points to large stores of underground ice buried only a meter or two below the surface at surprisingly low martian latitudes, in regions where ice had not yet been detected. Each cliff seems to be the naked face of a glacier, tantalizing scientists with the promise of a layer-cake record of past martian climates and space enthusiasts with a potential resource for future human bases. Scientists discovered the cliffs with a high-resolution camera on the Mars Reconnaissance Orbiter, revisiting the sites to show their subsequent retreat as a result of vaporization, and their persistence in the martian summer. The hunt should now be on, scientists say, for similar sites closer to the equator. The findings have been reported in this week's issue of Science.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ice+Cliffs+Spotted+On+Mars%3A+http%3A%2F%2Fbit.ly%2F2ASmxW7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F11%2F2137208%2Fice-cliffs-spotted-on-mars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601009&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/YIE5qioQ0b0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T07:00:00+00:00</dc:date>
-<dc:subject>mars</dc:subject>
-<slash:department>looking-for-signs-of-life</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,64,42,36,6,4,2</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/11/2137208/ice-cliffs-spotted-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Hackers Could Blow Up Factories Using Smartphone Apps</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zLpb_h9mI8c/hackers-could-blow-up-factories-using-smartphone-apps</link>
-<description>An anonymous reader quotes a report from MIT Technology Review: Two security researchers, Alexander Bolshev of IOActive and Ivan Yushkevich of Embedi, spent last year examining 34 apps from companies including Siemens and Schneider Electric. They found a total of 147 security holes in the apps, which were chosen at random from the Google Play Store. Bolshev declined to say which companies were the worst offenders or reveal the flaws in specific apps, but he said only two of the 34 had none at all. Some of the vulnerabilities the researchers discovered would allow hackers to interfere with data flowing between an app and the machine or process it's linked to. So an engineer could be tricked into thinking that, say, a machine is running at a safe temperature when in fact it's overheating. Another flaw would let attackers insert malicious code on a mobile device so that it issues rogue commands to servers controlling many machines. It's not hard to imagine this causing mayhem on an assembly line or explosions in an oil refinery. The researchers say they haven't looked at whether any of the flaws has actually been exploited. Before publishing their findings, they contacted the companies whose apps had flaws in them. Some have already fixed the holes; many have yet to respond.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Hackers+Could+Blow+Up+Factories+Using+Smartphone+Apps%3A+http%3A%2F%2Fbit.ly%2F2Dn4cDk"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F11%2F2123259%2Fhackers-could-blow-up-factories-using-smartphone-apps%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11600975&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zLpb_h9mI8c" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T03:30:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>remote-control</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>117</slash:comments>
-<slash:hit_parade>117,111,76,65,24,9,3</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/11/2123259/hackers-could-blow-up-factories-using-smartphone-apps?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>FCC Undoing Rules That Make It Easier For Small ISPs To Compete With Big Telecom</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0_4u0ICJpkQ/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom</link>
-<description>An anonymous reader quotes a report from Motherboard: The Federal Communications Commission is currently considering a rule change that would alter how it doles out licenses for wireless spectrum. These changes would make it easier and more affordable for Big Telecom to scoop up licenses, while making it almost impossible for small, local wireless ISPs to compete. The Citizens Broadband Radio Service (CBRS) spectrum is the rather earnest name for a chunk of spectrum that the federal government licenses out to businesses. It covers 3550-3700 MHz, which is considered a "midband" spectrum. It can get complicated, but it helps to think of it how radio channels work: There are specific channels that can be used to broadcast, and companies buy the license to broadcast over that particular channel. The FCC will be auctioning off licenses for the CBRS, and many local wireless ISPs -- internet service providers that use wireless signal, rather than cables, to connect customers to the internet -- have been hoping to buy licenses to make it easier to reach their most remote customers.
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,41,23,19,8,4,3</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Many US States Propose Their Own Laws Protecting Net Neutrality</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aZ6sis2lMn8/many-us-states-propose-their-own-laws-protecting-net-neutrality</link>
+<description>An anonymous reader quotes the New York Times:
+Lawmakers in at least six states, including California and New York, have introduced bills in recent weeks that would forbid internet providers to block or slow down sites or online services. Legislators in several other states, including North Carolina and Illinois, are weighing similar action... By passing their own law, the state lawmakers say, they would ensure that consumers would find the content of the choice, maintain a diversity of voices online and protect businesses from having to pay fees to reach users. 
+ And they might even have an effect beyond their states. California's strict auto-emissions standards, for example, have been followed by a dozen other states, giving California major sway over the auto industry. "There tends to be a follow-on effect, particularly when something happens in a big state like California," said Harold Feld, a senior vice president at a nonprofit consumer group, Public Knowledge, that supports net-neutrality efforts by the states. Bills have also been introduced in Massachusetts, Nebraska, Rhode Island and Washington. 
+In addition, a representative in Alaska's legislature has also pre-filed legislation requiring the state's ISPs to practice net neutrality, which will be introduced when the state legislature resumes on January 16th. 
+"The recent FCC decision eliminating net neutrality was a mistake that favors the big internet providers and those who want to restrict the kinds of information a free-thinking Alaskan can access," representative Scott Kawasaki told a local news station. "That is not the Alaskan way, and I am hopeful my colleagues in the House and Senate will agree..."
  
-The CBRS spectrum was designed for Navy radar, and when it was opened up for auction, the traditional model favored Big Telecom cell phone service providers. That's because the spectrum would be auctioned off in pieces that were too big for smaller companies to afford -- and covered more area than they needed to serve their customers. But in 2015, under the Obama administration, the FCC changed the rules for how the CBRS spectrum would be divvied up, allowing companies to bid on the spectrum for a much smaller area of land. Just as these changes were being finalized this past fall, Trump's FCC proposed going back to the old method. This would work out well for Big Telecom, which would want larger swaths of coverage anyway, and would have the added bonus of being able to price out smaller competitors (because the larger areas of coverage will inherently cost more.) As for why the FCC is even considering this? You can blame T-Mobile. "According to the agency's proposal, because T-Mobile and CTIA, a trade group that represents all major cellphone providers, 'ask[ed] the Commission to reexamine several of the [...] licensing rules,'" reports Motherboard. The proposal reads: "Licensing on a census tract-basis -- which could result in over 500,000 [licenses] -- will be challenging for Administrators, the Commission, and licensees to manage, and will create unnecessary interference risks due to the large number of border areas that will need to be managed and maintained."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=FCC+Undoing+Rules+That+Make+It+Easier+For+Small+ISPs+To+Compete+With+Big+Telecom%3A+http%3A%2F%2Fbit.ly%2F2EyGGT5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F11%2F2226209%2Ffcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+The Independent also notes that Europe "is still strongly committed" to net neutrality.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Many+US+States+Propose+Their+Own+Laws+Protecting+Net+Neutrality%3A+http%3A%2F%2Fbit.ly%2F2DrTkUA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F13%2F0034242%2Fmany-us-states-propose-their-own-laws-protecting-net-neutrality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601083&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0_4u0ICJpkQ" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606243&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/aZ6sis2lMn8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-13T16:39:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>states-rights</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>66</slash:comments>
+<slash:hit_parade>66,64,33,27,4,2,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Erroneous 'Spam' Flag Affected 102 npm Packages</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/OOfTiWZ5rPw/erroneous-spam-flag-affected-102-npm-packages</link>
+<description>There was some trouble last weekend at the world's largest package repository. An anonymous reader quotes the official npm blog:
+On Saturday, January 6, 2018, we incorrectly removed the user floatdrop and blocked the discovery and download of all 102 of their packages on the public npm Registry. Some of those packages were highly depended on, such as require-from-string, and removal disrupted many users' installations... Within 60 seconds, it became clear that floatdrop was not a spammer -- and that their packages were in heavy use in the npm ecosystem. The staffer notified colleagues and we re-activated the user and began restoring the packages to circulation immediately. Most of the packages were restored quickly, because the restoration was a matter of unsetting the deleted tombstones in our database, while also restoring package data tarballs and package metadata documents. However, during the time between discovery and restoration, other npm users published a number of new packages that used the names of deleted packages. We locked this down once we discovered it, but cleaning up the overpublished packages and inspecting their contents took additional time...
+ 
+In cases where the npm staff accepts a user's request to delete a package, we publish a replacement package by the same name -- a security placeholder. This both alerts those who had depended on it that the original package is no longer available and prevents others from publishing new code using that package name. At the time of Saturday's incident, however, we did not have a policy to publish placeholders for packages that were deleted if they were spam. This made it possible for other users to publish new versions of eleven of the removed packages. After a thorough examination of the replacement packages' contents, we have confirmed that none was malicious or harmful. Ten were exact replacements of the code that had just been removed, while the eleventh contained strings of text from the Bible -- and its publisher immediately contacted npm to advise us of its publication. 
+
+They're now implementing a 24-hour cooldown on republication of any deleted package names -- and are also updating their review process. "As a general rule, the npm Registry is and ought to be immutable, just like other package registries such as RubyGems and crates.io... However, there are legitimate cases for removing a package once it has been published. In a typical week, most of the npm support team's work is devoted to handling user requests for package deletion, which is more common than you might expect. Many people publish test packages then ask to have them deprecated or deleted. There also is a steady flow of requests to remove packages that contain contain private code that users have published inadvertently or inappropriately."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Erroneous+'Spam'+Flag+Affected+102+npm+Packages%3A+http%3A%2F%2Fbit.ly%2F2DsKIxf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F13%2F0149252%2Ferroneous-spam-flag-affected-102-npm-packages%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606313&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/OOfTiWZ5rPw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-13T15:34:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>false-flags</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>49</slash:comments>
+<slash:hit_parade>49,47,29,26,8,5,1</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Interviewing the Interviewer</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/l6HzGQsS1Yo/interviewing-the-interviewer</link>
+<description>Terry Gross, NPR's The Fresh Air host, on the art of the Q&amp;amp;A: "People are always projecting things. They're hearing things that weren't said or projecting meaning that was not intended and, perhaps, not even implied. I've gotten both insults and compliments for interviews I've never done. What can you do? There's no way of controlling what people think. I do have a bullshit detector and it's something I'll use, but I do think I try and be empathetic to everyone I interview," said Terry Gross.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Interviewing+the+Interviewer%3A+http%3A%2F%2Fbit.ly%2F2AWrT2g"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F13%2F0448204%2Finterviewing-the-interviewer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606489&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/l6HzGQsS1Yo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-13T14:20:00+00:00</dc:date>
+<dc:subject>education</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>62</slash:comments>
+<slash:hit_parade>62,57,21,16,9,5,1</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Adult Themed VR Game Leaks Data On Thousands</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ouEG8PGzViE/adult-themed-vr-game-leaks-data-on-thousands</link>
+<description>chicksdaddy writes from The Security Ledger: Somebody deserves a spanking after personal information on thousands of users of an adult virtual reality game were exposed to security researchers in the UK by a balky application. Researchers at the firm Digital Interruption on Tuesday warned that an adult-themed virtual reality application, SinVR, exposes the names, email and other personal information via an insecure desktop application -- a potentially embarrassing security lapse. The company decided to go public with the information after being frustrated in multiple efforts to responsibly disclose the vulnerability to parent company inVR, Inc., Digital Interruption researcher and founder Jahmel Harris told The Security Ledger. Jahmel estimated that more than 19,000 records were leaked by the application, but did not have an exact count. SinVR is a sex-themed virtual reality game that allows players to navigate in various adult-themed environments and interact with virtual characters in common pornographic themes including BDSM, cosplay, naughty teacher, and so on. The company discovered the data after reverse-engineering the SinVR desktop application and noticing a function named "downloadallcustomers." That function called a web service that returned thousands of SinVR customer records including email addresses, user names, computer PC names and so on. Passwords and credit card details were not part of the data dump, Harris said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Adult+Themed+VR+Game+Leaks+Data+On+Thousands%3A+http%3A%2F%2Fbit.ly%2F2AXUrbH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F13%2F0243204%2Fadult-themed-vr-game-leaks-data-on-thousands%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606357&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ouEG8PGzViE" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T01:30:00+00:00</dc:date>
-<dc:subject>wireless</dc:subject>
-<slash:department>edit-undo</slash:department>
-<slash:section>mobile</slash:section>
-<slash:comments>91</slash:comments>
-<slash:hit_parade>91,87,58,51,16,7,4</slash:hit_parade>
-<feedburner:origLink>https://mobile.slashdot.org/story/18/01/11/2226209/fcc-undoing-rules-that-make-it-easier-for-small-isps-to-compete-with-big-telecom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Scientists Change Our Understanding of How Anaesthesia Messes With the Brain</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FAuM9ObWW-E/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain</link>
-<description>schwit1 shares a report from ScienceAlert: It's crazy to think that we still don't quite understand the mechanism behind one of the most common medical interventions -- general anaesthetic. But researchers in Australia just got a step closer by discovering that one of the most commonly used anesthetic drugs doesn't just put us to sleep; it also disrupts communication between brain cells. The team investigated the drug propofol, a super-popular option for surgeries worldwide. A potent sedative, the drug is thought to put us to sleep through its effect on the GABA neurotransmitter system, the main regulator of our sleep-and-wake cycles in the brain. But anyone who's been "put under" will know that waking up from a general anesthetic feels rather different from your usual morning grogginess. On top of that, some people can experience serious side-effects, so scientists have been trying to figure out what else the drugs might be doing in the brain. Using live neuron cell samples from rats and fruit flies, the researchers were able to track neurotransmitter activity thanks to a super-resolution microscope, and discovered that propofol messes with a key protein that nerve cells use to communicate with each other. This protein, called syntaxin1A, isn't just found in animal models - people have it, too. And it looks like the anesthetic drug puts the brakes on this protein, making otherwise normal brain cell connections sluggish, at least for a while. The researchers think this disruption could be key to how propofol allows for pain-free surgery to take place - first it knocks us out as a normal sleeping pill would, and then takes things up a notch by disrupting brain connectivity. The research has been published in Cell Reports.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Change+Our+Understanding+of+How+Anaesthesia+Messes+With+the+Brain%3A+http%3A%2F%2Fbit.ly%2F2DmhlfH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F11%2F2214235%2Fscientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-01-13T13:00:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>mature-audience</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,27,13,13,6,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Cryptocurrency Exchange Kraken Suddenly Goes Dark For Two Days</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/obvbAWe-6P8/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days</link>
+<description>An anonymous reader quotes the San Francisco Chronicle:
+ One of the biggest cryptocurrency exchanges was down more than 40 hours this week, causing clients to freak out... San Francisco's Kraken went offline at 9 p.m. on Wednesday for maintenance that was initially scheduled to last two hours, plus an additional two to three hours for withdrawals, according to an announcement on the company's website. "We are still working to resolve the issues that we have identified and our team is working around the clock to ensure a smooth upgrade," according to a status update on Kraken's website posted early Friday. "This means it may still take several hours before we can relaunch." Shortly after noon, the company said it was "still working to track down an elusive bug which is holding up launch." It promised customers "a substantial amount of free trading" after the problem was resolved. In previous updates, Kraken mentioned it is working on "unexpected and delicate issues" and assured clients their funds were secure, adding that "Yes, this is our new record for downtime since we launched in 2013. No, we're not proud of it." 
+It's 53 hours after the downtime began, and their web page is still showing the same announcement. 
+"Kraken is presently offline for maintenance."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Cryptocurrency+Exchange+Kraken+Suddenly+Goes+Dark+For+Two+Days%3A+http%3A%2F%2Fbit.ly%2F2Dq29hI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F13%2F0955237%2Fcryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11601069&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FAuM9ObWW-E" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11607531&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/obvbAWe-6P8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-13T10:00:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>releasing-the-kraken</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>97</slash:comments>
+<slash:hit_parade>97,94,60,53,12,5,5</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>French Songwriter Kiesza Composes First Mainstream Music Album Co-Written With AI</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/85t27o3135A/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai</link>
+<description>dryriver shares a report from the BBC, highlighting "a new album that features everything from cowboy sci-fi to Europop." What's special about the album -- Hello World by Canadian singer Kiesza -- is that it's the first full-length mainstream music album co-written with the help of artificial intelligence. You can judge the quality for yourself: First, view the single "Hellow Shadow" with Canadian singer Kiesza. Next, the BBC story, which seems to think that the album is actually rather good: "Benoit Carre has written songs for some of France's biggest stars: from Johnny Halliday -- the French Elvis, who died last year -- to chanteuse Francoise Hardy. But this month, the 47-year-old is releasing an album with a collaborator he could never have dreamt of working with. It's not a singer, or rapper. It's not even really a musician. It's called Flow Machines, and it is, arguably, the world's most advanced artificially-intelligent music program. For musicians, there's been one good thing about these projects so far: the music they've produced has been easy to dismiss, generic and uninspiring -- hardly likely to challenge Bob Dylan in the songwriting department. But Carre's album, Hello World, is different for the simple reason that it's good. Released under the name SKYGGE (Danish for shadow), it features everything from sci-fi cowboy ballads to Europop, and unlike most AI music, if you heard it on the radio, you wouldn't think something had gone horribly wrong. Flow Machines, developed at Sony's Computer Science Laboratories in Paris, does indeed write original melodies, Carre adds. It also suggests the chords and sounds to play them with. But Carre says a human is always needed to stitch the songs together, give them structure and emotion. Without people, its songs would be a bit rubbish. "There were many people involved in this," he says, listing the likes of Belgian house producer Stromae and Canadian pop star Kiesza. "They gave their soul, their enthusiasm. I think that's the most important point of the album, in a way -- that it's a very human one.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=French+Songwriter+Kiesza+Composes+First+Mainstream+Music+Album+Co-Written+With+AI%3A+http%3A%2F%2Fbit.ly%2F2D4mDj8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F13%2F0019228%2Ffrench-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606231&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/85t27o3135A" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T00:50:00+00:00</dc:date>
-<dc:subject>medicine</dc:subject>
-<slash:department>behind-the-scenes</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>85</slash:comments>
-<slash:hit_parade>85,80,58,45,16,9,6</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/11/2214235/scientists-change-our-understanding-of-how-anaesthesia-messes-with-the-brain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<dc:date>2018-01-13T07:00:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>first-of-its-kind</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,40,24,23,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why the World Only Has Two Words For Tea</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qeP5Daec9pE/why-the-world-only-has-two-words-for-tea</link>
+<description>An anonymous reader quotes a report from Quartz: With a few minor exceptions, there are really only two ways to say "tea" in the world. One is like the English term -- te in Spanish and tee in Afrikaans are two examples. The other is some variation of cha, like chay in Hindi. Both versions come from China. How they spread around the world offers a clear picture of how globalization worked before "globalization" was a term anybody used. The words that sound like "cha" spread across land, along the Silk Road. The "tea"-like phrasings spread over water, by Dutch traders bringing the novel leaves back to Europe. The term cha is "Sinitic," meaning it is common to many varieties of Chinese. It began in China and made its way through central Asia, eventually becoming "chay" in Persian. That is no doubt due to the trade routes of the Silk Road, along which, according to a recent discovery, tea was traded over 2,000 years ago. This form spread beyond Persia, becoming chay in Urdu, shay in Arabic, and chay in Russian, among others. It even it made its way to sub-Saharan Africa, where it became chai in Swahili. The Japanese and Korean terms for tea are also based on the Chinese cha, though those languages likely adopted the word even before its westward spread into Persian. But that doesn't account for "tea." The te form used in coastal-Chinese languages spread to Europe via the Dutch, who became the primary traders of tea between Europe and Asia in the 17th century, as explained in the World Atlas of Language Structures. The main Dutch ports in east Asia were in Fujian and Taiwan, both places where people used the te pronunciation. The Dutch East India Company's expansive tea importation into Europe gave us the French the, the German Tee, and the English tea.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+the+World+Only+Has+Two+Words+For+Tea%3A+http%3A%2F%2Fbit.ly%2F2EAWPr6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F13%2F0237216%2Fwhy-the-world-only-has-two-words-for-tea%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606351&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qeP5Daec9pE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-13T03:30:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>history-lesson</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>170</slash:comments>
+<slash:hit_parade>170,160,100,84,23,12,8</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Snapchat's Big Redesign Bashed In 83 Percent of User Reviews</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rA0IUD1NZvg/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews</link>
+<description>The new Snapchat redesign that jams Stories in between private messages is not receiving a whole lot of praise. "In the few countries including the U.K., Australia, and Canada where the redesign is widely available, 83 percent of App Store reviews (1,941) for the update are negative with one or two stars, according to data by mobile analytics firm Sensor Tower," reports TechCrunch. "Just 17 percent, or 391 of the reviews, give it three to five stars." From the report: The most referenced keywords in the negative reviews include "new update," "Stories," and "please fix." Meanwhile, Snapchat's Support Twitter account has been busy replying to people who hate the update and are asking to uninstall it, noting "It's not possible to revert to a previous version of Snapchat," and trying to explain where Stories are to confused users. Hopes were that the redesign could boost Snapchat's soggy revenue, which fell short of Wall Street earnings expectations in Q3 and led to a loss of $443 million. The redesign mixes Stories, where Snapchat shows ads but which have seen stagnation in sharing rates amidst competition from Instagram Stories, into the more popular messaging inbox, where Snapchat's ephemeral messaging is more differentiated and entrenched.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Snapchat's+Big+Redesign+Bashed+In+83+Percent+of+User+Reviews%3A+http%3A%2F%2Fbit.ly%2F2ED6ttB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F2110230%2Fsnapchats-big-redesign-bashed-in-83-percent-of-user-reviews%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606033&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rA0IUD1NZvg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-13T00:50:00+00:00</dc:date>
+<dc:subject>social</dc:subject>
+<slash:department>new-and-not-so-approved</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>95</slash:comments>
+<slash:hit_parade>95,94,52,41,11,7,4</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: How Would You Use Computers To Make Elections Better?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3M9_NXL_U2c/ask-slashdot-how-would-you-use-computers-to-make-elections-better</link>
+<description>shanen writes: Regarding politics, is there anything that Americans agree on? If so, it's probably something negative like "The system is broken," or "The leading candidates are terrible," or even "Your state is a shithole." With all our fancy technology, what's going wrong? Our computers are creating problems, not solutions. For example, gerrymandering relies on fancy computers to rig the maps. Negative campaigning increasingly relies on computers to target the attacks on specific voters. Even international attacks exploit the internet to intrude into elections around the world. Here are three of my suggested solutions, though I can't imagine any of today's politicians would ever support anything along these lines: (1) Guest voting: If you hate your district, you could vote in a neighboring district. The more they gerrymander, the less predictable the election results. (2) Results-based weighting: The winning candidates get more voting power in the legislature, reflecting how many people actually voted for them. If you win a boring and uncontested election where few people vote, then part of your vote in the legislature would be transferred to the winners who also had more real votes. (3) Negative voting: A voter could use an electronic ballot to make it explicit that the vote is negative, not positive. The candidate with the most positive or fewest negative votes still wins, but if the election has too many negative votes, then that "winner" would be penalized, perhaps with a half term rather than a full term. What wild and crazy ideas do you have for using computers to make elections better, not worse?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+How+Would+You+Use+Computers+To+Make+Elections+Better%3F%3A+http%3A%2F%2Fbit.ly%2F2ECfnHx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F13%2F004233%2Fask-slashdot-how-would-you-use-computers-to-make-elections-better%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606213&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3M9_NXL_U2c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-13T00:10:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>my-way-or-the-high-way</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>391</slash:comments>
+<slash:hit_parade>391,390,240,201,39,15,12</slash:hit_parade>
+<feedburner:origLink>https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Americans Still Deeply Skeptical About Driverless Cars, Says Poll</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KhT6inVFHCM/americans-still-deeply-skeptical-about-driverless-cars-says-poll</link>
+<description>A new poll was released today that basically repeats data we've seen in previous surveys: Americans still don't trust self-driving cars, and are nervous about the coming onslaught. The Verge reports: Asked how concerned they'd be to share the road with a driverless car, 31 percent said they'd be "very concerned," while 33 percent said "somewhat concerned," according to the poll which was just released by Advocates for Highway and Auto Safety. A majority (63 percent) said they would not support "mass exemptions" from federal motor vehicle safety standards for self-driving cars, and were not comfortable (75 percent) with automakers having the power to remotely disable vehicle controls, such as the steering wheel, and brake and gas pedals, when the autonomous vehicle is being operated by the computer. And people overwhelmingly support (75 percent) the U.S. Department of Transportation developing new standards related to driverless vehicles. The poll surveyed 1,005 adults between December 7-10th, 2017, with a margin of error of +/- 3.09 percent.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Americans+Still+Deeply+Skeptical+About+Driverless+Cars%2C+Says+Poll%3A+http%3A%2F%2Fbit.ly%2F2DoLNpA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F210209%2Famericans-still-deeply-skeptical-about-driverless-cars-says-poll%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606023&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KhT6inVFHCM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T23:30:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>fear-of-the-unknown</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>239</slash:comments>
+<slash:hit_parade>239,235,140,125,14,5,5</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple's China iCloud Data Migration Sweeps Up International User Accounts</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yMBrqrjPqPQ/apples-china-icloud-data-migration-sweeps-up-international-user-accounts</link>
+<description>Yesterday, it was reported that Apple's iCloud services in mainland China will be operated by a Chinese company from next month. What wasn't reported was the fact that Apple has included iCloud accounts that were opened in the U.S., are paid for using U.S. dollars and/or are connected to U.S.-based App Store accounts in the data that will be handled by local partner Guizhou-Cloud Big Data (GCBD) from February 28. TechCrunch reports: Apple has given China-based users the option to delete their data, but there is no opt out that allows them to have it stored elsewhere. That has concerned some users who are uneasy that the data migration is a sign of closer ties with the Chinese government, particularly since GCBD is owned by the Guizhou provincial government. When asked for comment, Apple pointed TechCrunch to its terms and conditions site which explains that it is migrating iCloud accounts based on their location: "The operation of iCloud services associated with Apple IDs that have China in their country or region setting will be subject to this transition. You will be notified of this transition via email and notifications on your devices. You don't need to take any further action and can keep using iCloud in China. After February 28, 2018, you will need to agree to the terms and conditions of iCloud operated by GCBD to keep using iCloud in China." 
+
+However, TechCrunch found instances of iCloud accounts registered overseas that were part of the migration. One user did find an apparent opt-out. That requires the user switching their iCloud account back to China, then signing out of all devices. They then switch their phone and iCloud settings to the U.S. and then, upon signing back into iCloud, their account will (seemingly) not be part of the migration. Opting out might be a wise-move, as onlookers voice concern that a government-owned company is directly involved in storing user data.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple's+China+iCloud+Data+Migration+Sweeps+Up+International+User+Accounts%3A+http%3A%2F%2Fbit.ly%2F2AU9MKD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F12%2F2033210%2Fapples-china-icloud-data-migration-sweeps-up-international-user-accounts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605979&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yMBrqrjPqPQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T22:50:00+00:00</dc:date>
+<dc:subject>china</dc:subject>
+<slash:department>brushed-under-the-rug</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,42,16,14,7,3,1</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Researcher Finds Another Security Flaw In Intel Management Firmware</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jNqdMlBNS7M/researcher-finds-another-security-flaw-in-intel-management-firmware</link>
+<description>An anonymous reader quotes a report from Ars Technica: Meltdown and Spectre are not the only security problems Intel is facing these days. Today, researchers at F-Secure have revealed another weakness in Intel's management firmware that could allow an attacker with brief physical access to PCs to gain persistent remote access to the system, thanks to weak security in Intel's Active Management Technology (AMT) firmware -- remote "out of band" device management technology installed on 100 million systems over the last decade, according to Intel. [T]he latest vulnerability -- discovered in July of 2017 by F-Secure security consultant Harry Sintonen and revealed by the company today in a blog post -- is more of a feature than a bug. Notebook and desktop PCs with Intel AMT can be compromised in moments by someone with physical access to the computer -- even bypassing BIOS passwords, Trusted Platform Module personal identification numbers, and Bitlocker disk encryption passwords -- by rebooting the computer, entering its BIOS boot menu, and selecting configuration for Intel's Management Engine BIOS Extension (MEBx).
+ 
+If MEBx hasn't been configured by the user or by their organization's IT department, the attacker can log into the configuration settings using Intel's default password of "admin." The attacker can then change the password, enable remote access, and set the firmware to not give the computer's user an "opt-in" message at boot time. "Now the attacker can gain access to the system remotely," F-Secure's release noted, "as long as they're able to insert themselves onto the same network segment with the victim (enabling wireless access requires a few extra steps)."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Researcher+Finds+Another+Security+Flaw+In+Intel+Management+Firmware%3A+http%3A%2F%2Fbit.ly%2F2Dqb5Ux"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F12%2F201200%2Fresearcher-finds-another-security-flaw-in-intel-management-firmware%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605941&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jNqdMlBNS7M" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T22:10:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>when-it-rains-it-pours</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>77</slash:comments>
+<slash:hit_parade>77,74,42,40,14,7,2</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Pulls 60 Apps From Play Store After Malware Exposes Kids To Porn</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sCygjLC6Y9I/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn</link>
+<description>Cyberthreat intelligence firm Check Point on Friday disclosed the existence of malicious code buried inside dozens of apps that displays pornographic images to users. Many of the apps are games reportedly geared toward young children. As a result, Google quickly removed the roughly 60 apps said to be affected from its Play Store. Gizmodo reports: While they appeared as such, the pornographic images displayed were not actually Google ads. Google supposedly maintains tight controls on all ads that appear in what it calls "Designed for Family" apps. The company also maintains a white-list of advertisers deemed safe for children under the ages of 13. None of the affected apps were part of Google's "Family Link" program, which is the category of recognized kid-friendly apps available across Google's platforms. The malware, dubbed AdultSwine, is said to have displayed the highly inappropriate images while also attempting to trick users into installing a fake-security app, or "scareware." After the fake "ads" were delivered, users would've received a "Remove Virus Now" notification, or something similar, designed to provoke users into downloading the scareware. The affected gaming apps included at least one which may have had up to 5,000,000 downloads -- Five Nights Survival Craft -- as well as many others which had between 50,000 and 500,000 downloads.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Pulls+60+Apps+From+Play+Store+After+Malware+Exposes+Kids+To+Porn%3A+http%3A%2F%2Fbit.ly%2F2AUeCYa"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F2012254%2Fgoogle-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605955&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sCygjLC6Y9I" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-12T21:30:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>safe-guard</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,43,25,19,6,3,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

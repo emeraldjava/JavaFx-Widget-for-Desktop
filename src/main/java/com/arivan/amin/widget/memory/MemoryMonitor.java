@@ -6,9 +6,10 @@ import java.nio.charset.StandardCharsets;
 import java.util.List;
 import java.util.regex.Pattern;
 
-public interface Monitor
+public interface MemoryMonitor
 {
     double PERCENT = 100.0;
+    
     Pattern NON_DIGITS = Pattern.compile("[a-z :/A-Z]+");
     
     default String getCommandOutput (List<String> command) throws IOException
@@ -19,9 +20,7 @@ public interface Monitor
         }
     }
     
-    void updateCommandData ();
+    void updateData ();
     
-    double getCommandData ();
-    
-    String removeUnnecessaryData (String output);
+    double getUsedMemory ();
 }
