@@ -18,7 +18,6 @@ public class LinuxCpuMonitor implements CpuMonitor
     
     private LinuxCpuMonitor ()
     {
-        super();
         prevData = getUsageData();
     }
     
@@ -31,34 +30,83 @@ public class LinuxCpuMonitor implements CpuMonitor
     @Override
     public double getCpuUsage ()
     {
+        return computeUsedPercent();
+    }
+    
+    private double computeUsedPercent ()
+    {
+        List<Integer> deltaList = computeDifferenceBetweenReads();
+        double deltaSum = sumDeltaValues(deltaList);
+        double usedCpu = deltaSum - deltaList.get(3);
+        return ((PERCENT * usedCpu) / deltaSum) / 100;
+    }
+    
+    private double sumDeltaValues (Collection<Integer> deltaList)
+    {
+        return deltaList.stream().mapToInt(Integer::intValue).sum();
+    }
+    
+    private List<Integer> computeDifferenceBetweenReads ()
+    {
         List<Integer> numbersList = getUsageData();
         List<Integer> deltaList = IntStream.range(0, numbersList.size())
                 .mapToObj(i -> numbersList.get(i) - prevData.get(i))
                 .collect(Collectors.toCollection(() -> new ArrayList<>(20)));
-        double deltaSum = deltaList.stream().mapToInt(Integer::intValue).sum();
-        double usedCpu = deltaSum - deltaList.get(3);
-        double percent = (PERCENT * usedCpu) / deltaSum;
-        percent /= 100;
         prevData = numbersList;
-        return percent;
+        return deltaList;
     }
     
     private List<Integer> getUsageData ()
     {
         try
         {
-            String output = getCommandOutput(cpuUsageCommand);
-            output = output.substring(0, output.indexOf(System.lineSeparator()));
-            output = EXTRA_SPACE.matcher(output).replaceAll(" ");
-            String cpu = "cpu ";
-            output = output.substring(output.indexOf(cpu) + cpu.length());
-            List<String> outputList = List.of(output.split(" "));
-            return outputList.stream().map(Integer::parseInt).collect(Collectors.toList());
+            String output = getOutputAndExtractFirstLine();
+            output = removeExtraSpace(output);
+            output = removeAnyText(output);
+            List<String> outputList = splitOutputBySpace(output);
+            return convertListItemsToIntegers(outputList);
         }
         catch (IOException e)
         {
             logger.warning(e.getMessage());
             return Collections.emptyList();
         }
+    }
+    
+    private List<Integer> convertListItemsToIntegers (@NotNull Collection<String> outputList)
+    {
+        return outputList.stream().map(Integer::parseInt).collect(Collectors.toList());
+    }
+    
+    private List<String> splitOutputBySpace (@NotNull String output)
+    {
+        return List.of(output.split(" "));
+    }
+    
+    @NotNull
+    private String removeAnyText (@NotNull String output)
+    {
+        String cpu = "cpu ";
+        return output.substring(output.indexOf(cpu) + cpu.length());
+    }
+    
+    private String removeExtraSpace (CharSequence output)
+    {
+        return EXTRA_SPACE.matcher(output).replaceAll(" ");
+    }
+    
+    @NotNull
+    private String getOutputAndExtractFirstLine () throws IOException
+    {
+        String output = getCommandOutput(cpuUsageCommand);
+        output = output.substring(0, output.indexOf(System.lineSeparator()));
+        return output;
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "LinuxCpuMonitor{" + "cpuUsageCommand=" + cpuUsageCommand + ", prevData=" +
+                prevData + '}';
     }
 }

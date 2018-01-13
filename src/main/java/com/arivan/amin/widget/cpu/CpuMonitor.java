@@ -5,6 +5,7 @@ import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 
+@FunctionalInterface
 public interface CpuMonitor
 {
     double PERCENT = 100.0;

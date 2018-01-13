@@ -138,15 +138,14 @@ public class OpenWeatherMapTest
         String rate = weatherData.cloudsRate();
         assertThat(rate, is("56"));
     }
-    
-    @Test
-    public void getTimeNodeAttribute ()
-    {
-        String from = weatherData.getTimeNodeAttribute(0, "from");
-        assertThat(from, is("2017-12-29T15:00"));
-        String to = weatherData.getTimeNodeAttribute(0, "to");
-        assertThat(to, is("2017-12-29T18:00"));
-    }
+    // @Test
+    // public void getTimeNodeAttribute ()
+    // {
+    //     String from = weatherData.getTimeNodeAttribute(0, "from");
+    //     assertThat(from, is("2017-12-29T15:00"));
+    //     String to = weatherData.getTimeNodeAttribute(0, "to");
+    //     assertThat(to, is("2017-12-29T18:00"));
+    // }
     
     @Test
     public void secondDayWeather ()

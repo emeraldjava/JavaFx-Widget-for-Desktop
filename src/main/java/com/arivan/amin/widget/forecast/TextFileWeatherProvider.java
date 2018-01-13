@@ -11,7 +11,6 @@ public class TextFileWeatherProvider implements WeatherProvider
     
     private TextFileWeatherProvider ()
     {
-        super();
     }
     
     @NotNull
@@ -21,7 +20,7 @@ public class TextFileWeatherProvider implements WeatherProvider
     }
     
     @Override
-    public String getWeatherDataStream ()
+    public String getWeatherDataUri ()
     {
         Path path = Paths.get("WeatherData.xml");
         return path.toUri().toString();

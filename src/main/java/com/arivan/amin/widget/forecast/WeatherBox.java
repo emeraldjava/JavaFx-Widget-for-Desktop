@@ -2,6 +2,7 @@ package com.arivan.amin.widget.forecast;
 
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
+import javafx.event.ActionEvent;
 import javafx.geometry.Insets;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
@@ -19,61 +20,76 @@ public class WeatherBox extends HBox
 {
     // TODO 1/8/18 provide location selection for forecast
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final WeatherData weatherData;
-    private final Label temperatureLabel;
-    private final ImageView currentWeatherImage;
-    private final Label conditionLabel;
-    private final Label humidityLabel;
-    private final Label windLabel;
-    private final Label cloudsLabel;
-    private final Label sunLabel;
-    private final VBox fourDaysVBox;
-    private final Label precipitationLabel;
+    private WeatherData weatherData;
+    private Label temperatureLabel;
+    private ImageView currentWeatherImage;
+    private Label conditionLabel;
+    private Label humidityLabel;
+    private Label windLabel;
+    private Label cloudsLabel;
+    private Label sunLabel;
+    private VBox fourDaysVBox;
+    private Label precipitationLabel;
     
-    private WeatherBox (@NotNull DoubleProperty parentWidth, @NotNull DoubleProperty parentHeight)
+    private WeatherBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        super();
-        weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
-        prefWidthProperty().bind(parentWidth.multiply(0.4));
-        prefHeightProperty().bind(parentHeight);
-        setSpacing(10);
+        determineWeatherProvider();
+        initiliazeFields();
         VBox todayVBox = new VBox();
         HBox iconHBox = new HBox();
         VBox labelsBox = new VBox(5);
+        iconHBox.getChildren().add(currentWeatherImage);
+        labelsBox.getChildren()
+                .addAll(temperatureLabel, conditionLabel, humidityLabel, windLabel, cloudsLabel,
+                        sunLabel, precipitationLabel);
+        todayVBox.getChildren().addAll(iconHBox, labelsBox);
+        getChildren().addAll(todayVBox, fourDaysVBox);
+        bindBoxSizeToParent(parentWidth, parentHeight);
+        bindOtherBoxes(todayVBox, iconHBox);
+        fetchDataPeriodically();
+    }
+    
+    private void bindOtherBoxes (VBox todayVBox, HBox iconHBox)
+    {
+        todayVBox.prefWidthProperty().bind(prefWidthProperty());
+        todayVBox.prefHeightProperty().bind(prefHeightProperty().multiply(0.6));
+        fourDaysVBox.prefWidthProperty().bind(prefWidthProperty());
+        fourDaysVBox.prefHeightProperty().bind(prefHeightProperty().multiply(0.3));
+        iconHBox.prefWidthProperty().bind(todayVBox.widthProperty().multiply(0.7));
+        iconHBox.prefHeightProperty().bind(todayVBox.heightProperty());
+        currentWeatherImage.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.95));
+        currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.95));
+    }
+    
+    private void bindBoxSizeToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    {
+        prefWidthProperty().bind(parentWidth.multiply(0.4));
+        prefHeightProperty().bind(parentHeight);
+    }
+    
+    private void determineWeatherProvider ()
+    {
+        weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
+    }
+    
+    private void initiliazeFields ()
+    {
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
         currentWeatherImage.setPreserveRatio(true);
-        iconHBox.getChildren().add(currentWeatherImage);
         conditionLabel = new Label();
         humidityLabel = new Label();
         windLabel = new Label();
         cloudsLabel = new Label();
         sunLabel = new Label();
         precipitationLabel = new Label();
-        labelsBox.getChildren()
-                .addAll(temperatureLabel, conditionLabel, humidityLabel, windLabel, cloudsLabel,
-                        sunLabel, precipitationLabel);
-        todayVBox.getChildren().addAll(iconHBox, labelsBox);
         fourDaysVBox = new VBox();
-        getChildren().addAll(todayVBox, fourDaysVBox);
-        todayVBox.prefWidthProperty().bind(prefWidthProperty());
-        fourDaysVBox.prefWidthProperty().bind(prefWidthProperty());
-        todayVBox.prefHeightProperty().bind(prefHeightProperty().multiply(0.6));
-        fourDaysVBox.prefHeightProperty().bind(prefHeightProperty().multiply(0.3));
-        iconHBox.prefWidthProperty().bind(todayVBox.widthProperty().multiply(0.7));
-        iconHBox.prefHeightProperty().bind(todayVBox.heightProperty());
-        currentWeatherImage.fitWidthProperty().bind(iconHBox.widthProperty().multiply(0.95));
-        currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.95));
-        fetchDataPeriodically();
     }
     
     private void fetchDataPeriodically ()
     {
         Timeline timeline = new Timeline();
-        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), e ->
-        {
-            updateValues();
-        }));
+        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), this::weatherUpdateHandler));
         timeline.getKeyFrames().add(new KeyFrame(Duration.hours(1)));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
@@ -145,10 +161,28 @@ public class WeatherBox extends HBox
         fourDaysVBox.getChildren().add(dayHBox);
     }
     
-    private void updateValues ()
+    private void weatherUpdateHandler (ActionEvent e)
+    {
+        updateWeatherDataFromProvider();
+        setNewIconImage();
+        updateLabelValues();
+        setPrecipitationIfExists();
+        updateFourDaysForecast();
+    }
+    
+    private void updateWeatherDataFromProvider ()
     {
         weatherData.updateWeatherData();
-        currentWeatherImage.setImage(new Image(weatherData.weatherIcon()));
+    }
+    
+    private void updateFourDaysForecast ()
+    {
+        fourDaysVBox.getChildren().clear();
+        createWeatherBoxes();
+    }
+    
+    private void updateLabelValues ()
+    {
         temperatureLabel.setText(
                 "Temperature: " + weatherData.temperatureValue() + weatherData.temperatureUnit());
         conditionLabel.setText("Condition: " + weatherData.weatherCondition());
@@ -157,6 +191,15 @@ public class WeatherBox extends HBox
                 "Wind: " + weatherData.windsSpeed() + " mps " + weatherData.windDirection());
         cloudsLabel.setText("Clouds: " + weatherData.cloudsRate() + '%');
         sunLabel.setText("Sun rise: " + weatherData.sunrise() + " set: " + weatherData.sunset());
+    }
+    
+    private void setNewIconImage ()
+    {
+        currentWeatherImage.setImage(new Image(weatherData.weatherIcon()));
+    }
+    
+    private void setPrecipitationIfExists ()
+    {
         if (!weatherData.precipitationType().isEmpty())
         {
             precipitationLabel.setText("Precipitation: " + weatherData.precipitationType() + "  " +
@@ -166,8 +209,6 @@ public class WeatherBox extends HBox
         {
             precipitationLabel.setText("");
         }
-        fourDaysVBox.getChildren().clear();
-        createWeatherBoxes();
     }
     
     @Override

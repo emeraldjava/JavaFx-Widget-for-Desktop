@@ -10,18 +10,16 @@ import java.util.*;
 import java.util.Map.Entry;
 import java.util.function.Function;
 import java.util.logging.Logger;
-import java.util.stream.Collectors;
-import java.util.stream.IntStream;
+import java.util.stream.*;
 
 public class OpenWeatherMap implements WeatherData
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private WeatherProvider weatherProvider;
+    private final WeatherProvider weatherProvider;
     private List<Element> elementList;
     
     private OpenWeatherMap (WeatherProvider weatherProvider)
     {
-        super();
         this.weatherProvider = weatherProvider;
         updateWeatherData();
     }
@@ -38,7 +36,7 @@ public class OpenWeatherMap implements WeatherData
         try
         {
             DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
-            Document document = builder.parse(weatherProvider.getWeatherDataStream());
+            Document document = builder.parse(weatherProvider.getWeatherDataUri());
             elementList = createList(document.getDocumentElement().getChildNodes());
         }
         catch (Exception e)
@@ -58,22 +56,11 @@ public class OpenWeatherMap implements WeatherData
     @Override
     public String locationName ()
     {
-        StringBuilder builder = new StringBuilder(10);
-        elementList.forEach(e ->
-        {
-            if ("location".equals(e.getTagName()))
-            {
-                List<Element> list = createList(e.getChildNodes());
-                list.stream().filter(x ->
-                {
-                    return "name".equals(x.getTagName());
-                }).forEach(x ->
-                {
-                    builder.append(x.getTextContent());
-                });
-            }
-        });
-        return builder.toString();
+        Element element =
+                elementList.stream().filter(e -> "location".equals(e.getTagName())).findAny().get();
+        return createList(element.getChildNodes()).stream()
+                .filter(x -> "name".equals(x.getTagName())).map(Node::getTextContent)
+                .collect(Collectors.joining());
     }
     
     @Override
@@ -91,67 +78,41 @@ public class OpenWeatherMap implements WeatherData
     @NotNull
     private String getSunAttribute (String attr)
     {
-        StringBuilder builder = new StringBuilder(10);
-        elementList.forEach(e ->
-        {
-            if ("sun".equals(e.getTagName()))
-            {
-                String time = changeTimeZoneToLocal(e.getAttribute(attr));
-                time = time.substring(time.indexOf('T') + 1, time.lastIndexOf(':'));
-                builder.append(time);
-            }
-        });
-        return builder.toString();
+        return elementList.stream().filter(e -> "sun".equals(e.getTagName()))
+                .map(e -> convertTimeZoneAndExtractTime(attr, e)).collect(Collectors.joining());
     }
     
     @NotNull
-    public String getTimeNodeAttribute (int nodeNumber, String attribute)
+    private String convertTimeZoneAndExtractTime (String attr, Element e)
     {
-        StringBuilder builder = new StringBuilder(10);
-        elementList.stream().filter(e ->
-        {
-            return "forecast".equals(e.getTagName());
-        }).forEach(e ->
-        {
-            Element element = createList(e.getChildNodes()).get(nodeNumber);
-            builder.append(changeTimeZoneToLocal(element.getAttribute(attribute)));
-        });
-        return builder.toString();
+        String time = changeTimeZoneToLocal(e.getAttribute(attr));
+        time = time.substring(time.indexOf('T') + 1, time.lastIndexOf(':'));
+        return time;
+    }
+    
+    @NotNull
+    private CharSequence getTimeNodeAttribute (int nodeNumber)
+    {
+        return elementList.stream().filter(e -> "forecast".equals(e.getTagName()))
+                .map(e -> changeTimeZoneToLocal(
+                        createList(e.getChildNodes()).get(nodeNumber).getAttribute("from")))
+                .findAny().get();
     }
     
     private List<Element> getTimeNodes ()
     {
-        List<Element> elements = Collections.emptyList();
-        for (Element e : elementList)
-        {
-            if ("forecast".equals(e.getTagName()))
-            {
-                elements = createList(e.getChildNodes());
-            }
-        }
-        return elements;
+        return createList(
+                elementList.stream().filter(e -> "forecast".equals(e.getTagName())).findAny().get()
+                        .getChildNodes());
     }
     
-    @NotNull
     private String getTimeNodeChildAttribute (int nodeNumber, String tagName, String attribute)
     {
-        StringBuilder builder = new StringBuilder(10);
-        elementList.stream().filter(e ->
-        {
-            return "forecast".equals(e.getTagName());
-        }).forEach(e ->
-        {
-            List<Element> list =
-                    createList(createList(e.getChildNodes()).get(nodeNumber).getChildNodes());
-            list.stream().filter(x ->
-            {
-                return tagName.equals(x.getTagName());
-            }).forEach(x ->
-            {
-                builder.append(x.getAttribute(attribute));
-            });
-        });
-        return builder.toString();
+        List<Element> list = elementList.stream().filter(e -> "forecast".equals(e.getTagName()))
+                .map(e -> createList(createList(e.getChildNodes()).get(nodeNumber).getChildNodes()))
+                .findAny().get();
+        return list.stream().filter(x -> tagName.equals(x.getTagName()))
+                .map(x -> x.getAttribute(attribute)).collect(Collectors.joining());
     }
     
     @Override
@@ -246,23 +207,34 @@ public class OpenWeatherMap implements WeatherData
             String attribute)
     {
         List<String> list = new ArrayList<>(50);
-        LocalDateTime dayStart =
-                LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0, "from")))
-                        .plusDays(dayNumber);
-        dayStart = dayStart.minusHours(dayStart.getHour());
+        LocalDateTime dayStart = getDayStart(dayNumber);
         LocalDateTime dayEnd = dayStart.plusDays(1);
         List<Element> timeNodes = getTimeNodes();
         for (int i = 0; i < timeNodes.size(); i++)
         {
-            Element node = timeNodes.get(i);
-            String from = getTimeNodeAttribute(i, "from");
-            LocalDateTime localDateTime = LocalDateTime.parse(from).plusMinutes(1);
-            if (localDateTime.isAfter(dayStart) && localDateTime.isBefore(dayEnd))
+            LocalDateTime weatherDataTime =
+                    LocalDateTime.parse(getTimeNodeAttribute(i)).plusMinutes(1);
+            if (isWeatherDataForRequiredDay(dayStart, dayEnd, weatherDataTime))
             {
                 list.add(getTimeNodeChildAttribute(i, tagName, attribute));
             }
         }
         return list;
+    }
+    
+    private boolean isWeatherDataForRequiredDay (LocalDateTime dayStart, LocalDateTime dayEnd,
+            LocalDateTime weatherDataTime)
+    {
+        return weatherDataTime.isAfter(dayStart) && weatherDataTime.isBefore(dayEnd);
+    }
+    
+    @NotNull
+    private LocalDateTime getDayStart (int dayNumber)
+    {
+        LocalDateTime dayStart = LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0)))
+                .plusDays(dayNumber);
+        dayStart = dayStart.minusHours(dayStart.getHour());
+        return dayStart;
     }
     
     private int getMaxTemperature (int daysFromNow)

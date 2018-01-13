@@ -2,6 +2,7 @@ package com.arivan.amin.widget.cpu;
 
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
+import javafx.event.ActionEvent;
 import javafx.scene.control.Label;
 import javafx.scene.control.ProgressBar;
 import javafx.scene.layout.BorderPane;
@@ -13,25 +14,34 @@ import java.util.logging.Logger;
 
 public class CpuProgressBar extends VBox
 {
-    private static final int UPDATE_SPEED_IN_SECONDS = 1;
+    private static final int UPDATE_FREQUENCY_IN_SECONDS = 1;
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final CpuMonitor processor;
-    private final ProgressBar cpuBar;
-    private final Label cpuLabel;
+    private CpuMonitor processor;
+    private ProgressBar cpuBar;
+    private Label cpuLabel;
     
     private CpuProgressBar (DoubleProperty parentWidthProperty, DoubleProperty parentHeightProperty)
     {
-        super();
-        processor = LinuxCpuMonitor.newInstance();
         setSpacing(5);
-        cpuBar = new ProgressBar();
-        cpuLabel = new Label();
+        initializeFields();
         BorderPane cpuBorderPane = new BorderPane();
         cpuBorderPane.setLeft(new Label("CPU"));
         cpuBorderPane.setRight(cpuLabel);
         getChildren().addAll(cpuBorderPane, cpuBar);
         cpuBar.prefWidthProperty().bind(parentWidthProperty);
         animateBar();
+    }
+    
+    private void initializeFields ()
+    {
+        determineCpuMonitor();
+        cpuBar = new ProgressBar();
+        cpuLabel = new Label();
+    }
+    
+    private void determineCpuMonitor ()
+    {
+        processor = LinuxCpuMonitor.newInstance();
     }
     
     @NotNull
@@ -43,21 +53,32 @@ public class CpuProgressBar extends VBox
     
     private void animateBar ()
     {
-        Timeline cpuTimeLine =
-                new Timeline(new KeyFrame(Duration.seconds(UPDATE_SPEED_IN_SECONDS), e ->
-                {
-                    try
-                    {
-                        double data = processor.getCpuUsage();
-                        cpuBar.setProgress(data);
-                        cpuLabel.setText((int) (data * 100) + " ");
-                    }
-                    catch (RuntimeException ex)
-                    {
-                        logger.warning(ex.getMessage());
-                    }
-                }));
+        Timeline cpuTimeLine = new Timeline();
+        cpuTimeLine.getKeyFrames().add(new KeyFrame(Duration.seconds(UPDATE_FREQUENCY_IN_SECONDS),
+                this::cpuDataUpdateHandler));
         cpuTimeLine.setCycleCount(Animation.INDEFINITE);
         cpuTimeLine.play();
+    }
+    
+    // todo change battery icon to progress bar
+    private void cpuDataUpdateHandler (ActionEvent e)
+    {
+        try
+        {
+            double data = processor.getCpuUsage();
+            cpuBar.setProgress(data);
+            cpuLabel.setText((int) (data * 100) + " ");
+        }
+        catch (RuntimeException ex)
+        {
+            logger.warning(ex.getMessage());
+        }
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "CpuProgressBar{" + "processor=" + processor + ", cpuBar=" + cpuBar + ", cpuLabel=" +
+                cpuLabel + '}';
     }
 }

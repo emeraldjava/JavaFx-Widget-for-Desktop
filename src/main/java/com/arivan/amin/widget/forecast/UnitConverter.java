@@ -10,7 +10,6 @@ public class UnitConverter
     
     private UnitConverter ()
     {
-        super();
     }
     
     public static int convertKelvinToCelsius (int kelvin)
