@@ -6,11 +6,11 @@ import javafx.scene.layout.HBox;
 import org.jetbrains.annotations.NotNull;
 
 // todo show updates available
-// todo show internet connection status and network statistics
+// todo show internet connection isConnected and network statistics
 // todo show wakatime chart
-// todo show gmail status
+// todo show gmail isConnected
 // todo show article from wikipedia
-// todo show cpu temp and fan status
+// todo show cpu temp and fan isConnected
 public class LeftBottomBox extends HBox
 {
     private LeftBottomBox (@NotNull DoubleProperty parentWidth,

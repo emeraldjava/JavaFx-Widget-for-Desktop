@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-14T18:10:15+00:00</dc:date>
+<dc:date>2018-01-14T20:22:10+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,8 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -29,8 +31,6 @@
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,54 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Text Message Scammer Gets Five Years in Prison</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/N_QYSVnE1yY/text-message-scammer-gets-five-years-in-prison</link>
+<description>36-year-old Fraser Thompson is going to prison, according to Reuters, after receiving a five-year sentence for "defrauding" cellphone customers out of millions of dollars. An anonymous reader quotes Reuters:
+Prosecutors said Thompson engaged in a scheme to sign up hundreds of thousands of cellphone customers for paid text messaging services without their consent. The customers were subsequently forced to pay more than $100 million for unsolicited text messages that included trivia, horoscopes and celebrity gossip, according to the prosecutors. They said the scheme was headed by Darcy Wedd, Mobile Messenger's former chief executive, who was found guilty by a jury in December but has not yet been sentenced. "They ripped off everyday cellphone users, $10 a month, netting over $100 million in illegal profits, of which Thompson personally received over $1.5 million," Manhattan U.S. Attorney Geoffrey S. Berman said in a statement. 
+Thompson was ordered to forfeit $1.5 million in "fraud proceeds," according to the article, and was convicted of conspiracy, wire fraud, identity theft and money laundering. Seven other people also pleaded guilty to participating in the scam -- and one has already been sentenced to 33 months in prison.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Text+Message+Scammer+Gets+Five+Years+in+Prison%3A+http%3A%2F%2Fbit.ly%2F2DuBDUn"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F14%2F1926214%2Ftext-message-scammer-gets-five-years-in-prison%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610037&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/N_QYSVnE1yY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T19:34:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>not-passing-Go</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,15,8,5,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Russian Military Base Attacked By Drones</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BBJdiU8sl8k/russian-military-base-attacked-by-drones</link>
+<description>A Russian military base in Syria was recently attacked -- 20 miles from the frontline. The only video of the attack is from a Facebook group for a nearby town, which identifies the noises as an "anti-aircraft response to a remote-controlled aircraft," while the Russian Ministry of Defence claims at least 13 drones were involved in the attack, displaying pictures of drones with a wingspan around 13 feet (four meters). 
+Long-time Slashdot reader 0x2A shares a report from a former British Army officer who calls drones "the poor man's Air Force," who writes that the attack shows "a strategic grasp of the use of drones, as well as a high level of planning."
+The lack of cameras on the drones suggest that they are likely pre-loaded with a flight plan and then flown autonomously to their target, where they dropped their payload en masse on a given GPS coordinate... The lack of any kind of claim, or even rumours from the rebels, indicates that whoever is producing these drone and launching these attacks has a high level of discipline and an understanding of operational and personal security... 
+
+Although some regard the threat from commerical off-the-shelf and improvised drones as negligible, they have the power to inflict losses at both a tactical and strategic level... Although the plastic sheeting, tape and simple design may belie the illusion of sophistication, it seems that the use of drones, whether military, commerical off-the-shelf or improvised, is taking another step to becoming the future of conflict. 
+
+The article notes there's already been four weaponized drone attacks in Syria over the last two weeks, which according to CNBC may be part of a growing trend. "Experts said swarm-like attacks using weaponized drones is a growing threat and likely to only get worse. They also said the possibility exists of terrorists using these drones in urban areas against civilians."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Russian+Military+Base+Attacked+By+Drones%3A+http%3A%2F%2Fbit.ly%2F2Dui9iO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F14%2F1818221%2Frussian-military-base-attacked-by-drones%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11609943&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BBJdiU8sl8k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T18:34:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>flying-by-night</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>55</slash:comments>
+<slash:hit_parade>55,53,23,21,3,2,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Following Other Credit Cards, Visa Will Also Stop Requiring Signatures</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/InxtOFiyDMc/following-other-credit-cards-visa-will-also-stop-requiring-signatures</link>
@@ -60,8 +108,8 @@ Visa, the largest U.S. credit card issuer, became the last of the major credit c
 <dc:subject>business</dc:subject>
 <slash:department>everywhere-a-sign</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>14</slash:comments>
-<slash:hit_parade>14,14,7,6,3,2,1</slash:hit_parade>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,67,49,41,8,4,2</slash:hit_parade>
 <feedburner:origLink>https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Is There a Warning in 'Philip K. Dick's Electric Dreams'?</title>
@@ -83,8 +131,8 @@ We're so busy trying to ground ourselves amid constant change that it can be har
 <dc:subject>tv</dc:subject>
 <slash:department>scanning-darkly</slash:department>
 <slash:section>entertainment</slash:section>
-<slash:comments>18</slash:comments>
-<slash:hit_parade>18,18,8,7,0,0,0</slash:hit_parade>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,36,22,16,4,1,0</slash:hit_parade>
 <feedburner:origLink>https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>The Linux Kernel Mailing List is Down</title>
@@ -105,8 +153,8 @@ Not wanting to let you wait for a spare part to arrive, I'm currently (while bei
 <dc:subject>linux</dc:subject>
 <slash:department>funny-404s</slash:department>
 <slash:section>linux</slash:section>
-<slash:comments>32</slash:comments>
-<slash:hit_parade>32,31,15,10,4,2,1</slash:hit_parade>
+<slash:comments>51</slash:comments>
+<slash:hit_parade>51,49,21,15,5,4,2</slash:hit_parade>
 <feedburner:origLink>https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Scientists Think They've Discovered Lava Tubes Leading To the Moon's Polar Ice</title>
@@ -130,8 +178,8 @@ Not only would natural skylights like these provide easier access to the undergr
 <dc:subject>moon</dc:subject>
 <slash:department>on-the-rocks</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>27</slash:comments>
-<slash:hit_parade>27,26,11,10,1,0,0</slash:hit_parade>
+<slash:comments>35</slash:comments>
+<slash:hit_parade>35,33,11,11,4,1,0</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Chelsea Manning Files to Run for U.S. Senate in Maryland</title>
@@ -152,8 +200,8 @@ Evan Greer, campaign director of the nonprofit organization Fight for the Future
 <dc:subject>government</dc:subject>
 <slash:department>another-Chelsea-morning</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>122</slash:comments>
-<slash:hit_parade>122,119,52,40,8,5,1</slash:hit_parade>
+<slash:comments>168</slash:comments>
+<slash:hit_parade>168,158,67,54,13,4,2</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ask Slashdot: Is There a Useful Voice-Activated PC?</title>
@@ -175,8 +223,8 @@ The original submission ends with a question: "Is there such a thing?" So leave 
 <dc:subject>communications</dc:subject>
 <slash:department>commanding-voices</slash:department>
 <slash:section>askslashdot</slash:section>
-<slash:comments>52</slash:comments>
-<slash:hit_parade>52,50,32,22,8,4,1</slash:hit_parade>
+<slash:comments>58</slash:comments>
+<slash:hit_parade>58,56,34,24,11,5,1</slash:hit_parade>
 <feedburner:origLink>https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Kansas 'Swat' Perpetrator Charged; Faces 11 More Years in Prison</title>
@@ -202,8 +250,8 @@ Barriss has also been charged in Calgary with public mischief, fraud and mischie
 <dc:subject>crime</dc:subject>
 <slash:department>crime-doesn't-pay</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>223</slash:comments>
-<slash:hit_parade>223,212,113,90,31,17,14</slash:hit_parade>
+<slash:comments>267</slash:comments>
+<slash:hit_parade>267,255,140,118,34,20,14</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Warren Buffett Predicts 'Bad Ending' for Cryptocurrencies</title>
@@ -226,8 +274,8 @@ The article notes that the U.S. dollar still accounts for 65% of all global econ
 <dc:subject>money</dc:subject>
 <slash:department>free-investment-advice</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>236</slash:comments>
-<slash:hit_parade>236,234,152,123,19,9,8</slash:hit_parade>
+<slash:comments>257</slash:comments>
+<slash:hit_parade>257,253,164,132,26,9,9</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Fake 'Inbound Missile' Alert Sent To Every Cellphone in Hawaii</title>
@@ -249,8 +297,8 @@ On the H-3, a major highway north of Honolulu, vehicles sat empty after drivers 
 <dc:subject>cellphones</dc:subject>
 <slash:department>aloha</slash:department>
 <slash:section>mobile</slash:section>
-<slash:comments>181</slash:comments>
-<slash:hit_parade>181,175,110,96,42,23,14</slash:hit_parade>
+<slash:comments>184</slash:comments>
+<slash:hit_parade>184,178,112,98,42,23,14</slash:hit_parade>
 <feedburner:origLink>https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Is Finland's Universal Basic Income Trial Too Good To Be True? </title>
@@ -273,8 +321,8 @@ Although the experiment may be impacted by all the hype it's generating, accordi
 <dc:subject>eu</dc:subject>
 <slash:department>Finnish-finance</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>352</slash:comments>
-<slash:hit_parade>352,331,194,153,57,29,12</slash:hit_parade>
+<slash:comments>372</slash:comments>
+<slash:hit_parade>372,351,204,161,57,29,13</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>'Science Fiction Writers of America' Accuse Internet Archive of Piracy</title>
@@ -298,8 +346,8 @@ The Digital Reader blog points out one great irony. "The program initially launc
 <dc:subject>books</dc:subject>
 <slash:department>war-on-libraries</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>91</slash:comments>
-<slash:hit_parade>91,85,57,47,14,7,6</slash:hit_parade>
+<slash:comments>95</slash:comments>
+<slash:hit_parade>95,89,61,51,16,8,6</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Japanese Console Market Grows For the First Time In 11 Years</title>
@@ -342,55 +390,9 @@ There appears to be a quick ascent, as the framework gains popularity and then a
 <dc:subject>opensource</dc:subject>
 <slash:department>reacting-to-React</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>130</slash:comments>
-<slash:hit_parade>130,130,91,78,21,8,6</slash:hit_parade>
+<slash:comments>138</slash:comments>
+<slash:hit_parade>138,138,98,86,23,9,7</slash:hit_parade>
 <feedburner:origLink>https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Intel Unveils 'Breakthrough' 49 Qubit Quantum Computer</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tOLc69z6Q5s/intel-unveils-breakthrough-49-qubit-quantum-computer</link>
-<description>Long-time Slashdot reader cold fjord writes: Extremetech reports, "At CES 2018 this week, Intel's CEO Brian Krzanich declared the company's new 49-qubit quantum computer represented a step towards "quantum supremacy." A 49 qubit system is a major advance for Intel, which just demonstrated a 17-qubit system two months ago. Intel's working with the Netherlands-based Qutech on this project, and expanding the number of qubits is key to creating quantum computers that can deliver real-world results... "Qubits are tremendously fragile," Intel wrote in October. "Any noise or unintended observation of them can cause data loss. This fragility requires them to operate at about 20 millikelvin -- 250 times colder than deep space." This is also why we won't be seeing quantum computers in anyone's house at any point." 
-
-Krzanich also thanked the industry for "coming together" to address the Meltdown and Spectre vulnerabilities. "The collaboration among so many companies to address this industry-wide issue across several different processor architectures has been truly remarkable."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Unveils+'Breakthrough'+49+Qubit+Quantum+Computer%3A+http%3A%2F%2Fbit.ly%2F2AXkyzP"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F13%2F0222211%2Fintel-unveils-breakthrough-49-qubit-quantum-computer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606339&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tOLc69z6Q5s" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-13T19:54:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>next-generation-hardware</slash:department>
-<slash:section>slashdot</slash:section>
-<slash:comments>183</slash:comments>
-<slash:hit_parade>183,183,122,103,18,11,5</slash:hit_parade>
-<feedburner:origLink>https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Peter Thiel Is Now Bidding on Gawker.com</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0WJj9GST1KA/peter-thiel-is-now-bidding-on-gawkercom</link>
-<description>An anonymous reader writes:
-Its official. "Venture capitalist Peter Thiel has made an offer for Gawker," reports Reuters, adding that the potential acquisition "would let him take down stories regarding his personal life that are still available on the website, and remove the scope for further litigation between him and Gawker." It was Thiel's 2016 lawsuit which bankrupted the site, prompting a Washington Post blogger to write that Thiel "killed Gawker once. Now it looks like he may kill it again." 
-Elsewhere the Washington Post argues the whole episode "highlighted the immense legal risk borne by news outlets already facing a precarious financial reality in the digital age." The Post's blogger describes Thiel as "a billionaire leveraging his wealth to obliterate a media outlet...as part of a personal vendetta." 
-
-Last month former Gawker staffers attempted to crowdfund the purchase and relaunch of Gawker.com as a nonprofit media organization. But their 1,496 backers only pledged $89,844, far short of the campaign's $500,000 target.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Peter+Thiel+Is+Now+Bidding+on+Gawker.com%3A+http%3A%2F%2Fbit.ly%2F2DtBHUr"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F12%2F2325218%2Fpeter-thiel-is-now-bidding-on-gawkercom%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606159&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0WJj9GST1KA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-13T18:49:00+00:00</dc:date>
-<dc:subject>themedia</dc:subject>
-<slash:department>bids-from-billionaires</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>123</slash:comments>
-<slash:hit_parade>123,111,64,57,14,7,4</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

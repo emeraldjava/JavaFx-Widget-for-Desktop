@@ -2,9 +2,9 @@ package com.arivan.amin.widget.internet.connectivity;
 
 public interface ConnectionStatus
 {
-    String status ();
+    boolean isConnected ();
     
-    String pingTime ();
+    double pingTime ();
     
     void updateData ();
 }

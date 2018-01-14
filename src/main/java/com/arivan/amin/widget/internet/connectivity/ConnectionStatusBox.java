@@ -9,16 +9,17 @@ import javafx.util.Duration;
 
 import java.util.logging.Logger;
 
-public class InternetConnectionBox extends VBox
+public class ConnectionStatusBox extends VBox
 {
+    private static final int PERIOD_BETWEEN_UPDATES = 3;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private ConnectionStatus connectionStatus;
     private final Label statusLabel;
     private final Label pingTimeLabel;
     
-    private InternetConnectionBox ()
+    private ConnectionStatusBox ()
     {
-        connectionStatus = LinuxConnectionStatus.newInstance();
+        determineOperatingSystem();
         setSpacing(10);
         setAlignment(Pos.TOP_CENTER);
         statusLabel = new Label();
@@ -27,23 +28,44 @@ public class InternetConnectionBox extends VBox
         updateDataPeriodically();
     }
     
+    private void determineOperatingSystem ()
+    {
+        connectionStatus = LinuxConnectionStatus.newInstance();
+    }
+    
     private void updateHandler (ActionEvent e)
     {
         connectionStatus.updateData();
-        statusLabel.setText(connectionStatus.status());
-        pingTimeLabel.setText("ping time =" + connectionStatus.pingTime());
+        if (connectionStatus.isConnected())
+        {
+            statusLabel.setText("Internet access available");
+            pingTimeLabel.setText("ping time =" + connectionStatus.pingTime());
+        }
+        else
+        {
+            statusLabel.setText("No internet access");
+            pingTimeLabel.setText("");
+        }
     }
     
     private void updateDataPeriodically ()
     {
         Timeline timeline = new Timeline();
         timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), this::updateHandler));
+        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(PERIOD_BETWEEN_UPDATES)));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
     }
     
-    public static InternetConnectionBox newInstance ()
+    public static ConnectionStatusBox newInstance ()
     {
-        return new InternetConnectionBox();
+        return new ConnectionStatusBox();
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "ConnectionStatusBox{" + "connectionStatus=" + connectionStatus + ", statusLabel=" +
+                statusLabel + ", pingTimeLabel=" + pingTimeLabel + '}';
     }
 }

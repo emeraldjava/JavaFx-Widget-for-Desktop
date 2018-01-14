@@ -1,6 +1,6 @@
 package com.arivan.amin.widget.power;
 
-import com.arivan.amin.widget.internet.connectivity.InternetConnectionBox;
+import com.arivan.amin.widget.internet.connectivity.ConnectionStatusBox;
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
 import javafx.event.ActionEvent;
@@ -34,7 +34,7 @@ public class BatteryStateBox extends VBox
         getChildren().addAll(new Label("Battery percentage"), batteryBar, stateLabel,
                 timeRemainingLabel);
         batteryBar.prefWidthProperty().bind(prefWidthProperty().multiply(0.7));
-        getChildren().add(InternetConnectionBox.newInstance());
+        getChildren().add(ConnectionStatusBox.newInstance());
         setUpdateAnimation();
     }
     
