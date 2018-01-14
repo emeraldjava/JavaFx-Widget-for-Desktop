@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-13T19:42:06+00:00</dc:date>
+<dc:date>2018-01-14T18:10:15+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,332 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Following Other Credit Cards, Visa Will Also Stop Requiring Signatures</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/InxtOFiyDMc/following-other-credit-cards-visa-will-also-stop-requiring-signatures</link>
+<description>An anonymous reader quotes SiliconBeat:
+Visa, the largest U.S. credit card issuer, became the last of the major credit card companies to announce its plan to make signatures optional... Visa joined American Express, Discover, and Mastercard in the phase-out. Mastercard was the first one to announce the move in October, and American Express and Discover followed suit in December... However, this change does not apply to every credit card in circulation; older credit cards without EMV chips will still require signatures for authentication... Since 2011, Visa has deployed more than 460 million EMV chip cards and EMV chip-enabled readers at more than 2.5 million locations. 
+"Businesses that accepted EMV cards reported a 66 percent decline in fraud in the first two years of EMV deployment," the article notes -- suggesting a future where fewer shoppers are signing their receipts. "In Canada, Australia and most of Europe, credit cards have long abandoned the signature for the EMV chip and a PIN to authenticate the transaction, like one does with a debit card."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Following+Other+Credit+Cards%2C+Visa+Will+Also+Stop+Requiring+Signatures%3A+http%3A%2F%2Fbit.ly%2F2DdfAon"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F14%2F0232256%2Ffollowing-other-credit-cards-visa-will-also-stop-requiring-signatures%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608941&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/InxtOFiyDMc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T17:34:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>everywhere-a-sign</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,7,6,3,2,1</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Is There a Warning in 'Philip K. Dick's Electric Dreams'?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aAA3vtUawn8/is-there-a-warning-in-philip-k-dicks-electric-dreams</link>
+<description>An anonymous reader quotes io9:
+That signature feeling feeling of queasy, slow-burning tumult comes through in Philip K. Dick's Electric Dreams, which originally aired in the UK last September, but is making its American premiere on Amazon Prime this Friday, January 12. The breadth of interpretations across the show's 10 episodes is the real draw for Electric Dreams. One episode will be set in something meant to recognizably stand in for the real world while others are trippy explorations into realities that could never exist. Unfortunately, Electric Dreams' episodes don't just vary in aesthetics; they vary wildly in quality, too... 
+When Electric Dreams fires on all cylinders, it energizes these short story adaptations by drilling down into the minutiae of how science fiction concepts would alter our everyday existences in real life. The series' common theme is how scientific and technological advancement shears the soul away from our bodies...Electric Dreams' most important task is to show both new viewers and conversant fans why Dick's oeuvre matters, which is hard in a world where we're eerily close to some of his fictional realities... 
+We're so busy trying to ground ourselves amid constant change that it can be hard to pull out and see society's sweeping shifts. In the '50s and beyond, Dick's science fiction writing mapped out the darker corners of where hi-speed techno-fetishes could take us. For all its unevenness, Electric Dreams adapts his work to show us where we are, relative to his prognostications. If you feel weirded out while watching, that just means the show is doing its job.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Is+There+a+Warning+in+'Philip+K.+Dick's+Electric+Dreams'%3F%3A+http%3A%2F%2Fbit.ly%2F2D9yaxP"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F14%2F1531202%2Fis-there-a-warning-in-philip-k-dicks-electric-dreams%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11609733&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/aAA3vtUawn8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T16:34:00+00:00</dc:date>
+<dc:subject>tv</dc:subject>
+<slash:department>scanning-darkly</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>18</slash:comments>
+<slash:hit_parade>18,18,8,7,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Linux Kernel Mailing List is Down</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RNMwK6VMcJ0/the-linux-kernel-mailing-list-is-down</link>
+<description>Every page on LKML.org is currently displaying this error message along with a picture of Flits the cat.
+What started out as a power outage while I was on vacation (leading to the computer hosting the backend of this site being unable to boot) became a larger issue as the mainboard in that computer appears to be broken. 
+Not wanting to let you wait for a spare part to arrive, I'm currently (while being assisted by our cat Flits) busy copying over all data to a VPS, and getting things working from there. The rsync is progressing slowly, having copied over the first 50% in three hours (at 14:30 CET). Please check back later for status updates.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Linux+Kernel+Mailing+List+is+Down%3A+http%3A%2F%2Fbit.ly%2F2Dc8X5K"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F14%2F1545250%2Fthe-linux-kernel-mailing-list-is-down%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11609759&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/RNMwK6VMcJ0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T15:48:00+00:00</dc:date>
+<dc:subject>linux</dc:subject>
+<slash:department>funny-404s</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,31,15,10,4,2,1</slash:hit_parade>
+<feedburner:origLink>https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Scientists Think They've Discovered Lava Tubes Leading To the Moon's Polar Ice</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/hfFZIUckQDQ/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice</link>
+<description>schwit1 quotes ScienceAlert:
+Small pits in a large crater on the Moon's North Pole could be "skylights" leading down to an underground network of lava tubes -- tubes holding hidden water on Earth's nearest neighbour, according to new research. There's no lava in them now of course, though that's originally how the tubes formed in the Moon's fiery past. But they could indicate easy access to a water source if we ever decide to develop a Moon base sometime in the future. 
+
+Despite the Moon's dry and dusty appearance, scientists think it contains a lot of water trapped as frozen ice. What these new observations carried out by NASA's Lunar Reconnaissance Orbiter (LRO) show is that it might be much more accessible than we thought... Scientists have long been thinking about how to extract the ice reserves we think are up there -- solar power was originally out of the question, as it's the freezing shadowed areas of the Moon that have preserved the ice in the first place.
+Not only would natural skylights like these provide easier access to the underground ice, it would also mean solar power would be back on the table as an idea.
+&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Think+They've+Discovered+Lava+Tubes+Leading+To+the+Moon's+Polar+Ice%3A+http%3A%2F%2Fbit.ly%2F2DwgE3R"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F14%2F0140206%2Fscientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608921&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/hfFZIUckQDQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T15:34:00+00:00</dc:date>
+<dc:subject>moon</dc:subject>
+<slash:department>on-the-rocks</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,26,11,10,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Chelsea Manning Files to Run for U.S. Senate in Maryland</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0UTAe7RnbZg/chelsea-manning-files-to-run-for-us-senate-in-maryland</link>
+<description>An anonymous reader quotes the Washington Post:
+Chelsea E. Manning, the transgender former Army private who was convicted of passing sensitive government documents to WikiLeaks, is seeking to run for the U.S. Senate in Maryland, according to federal election filings. Manning would be challenging Democrat Benjamin L. Cardin, who is in his second term in the Senate and is up for reelection in November. Cardin is Maryland's senior senator and is considered an overwhelming favorite to win a third term... However, a candidate with national name recognition, such as Manning, who comes in from the outside could tap a network of donors interested in elevating a progressive agenda... 
+Evan Greer, campaign director of the nonprofit organization Fight for the Future and a close supporter of Manning's while she was imprisoned, said the news is exciting. "Chelsea Manning has fought for freedom and sacrificed for it in ways that few others have," Greer wrote in an email. "The world is a better place with her as a free woman, and this latest news makes it clear she is only beginning to make her mark on it."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Chelsea+Manning+Files+to+Run+for+U.S.+Senate+in+Maryland%3A+http%3A%2F%2Fbit.ly%2F2Dwsrix"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F14%2F0126224%2Fchelsea-manning-files-to-run-for-us-senate-in-maryland%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608911&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0UTAe7RnbZg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T14:34:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>another-Chelsea-morning</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>122</slash:comments>
+<slash:hit_parade>122,119,52,40,8,5,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: Is There a Useful Voice-Activated PC?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qOHlknFSiFs/ask-slashdot-is-there-a-useful-voice-activated-pc</link>
+<description>An anonymous reader writes:
+My elderly monther-in-law misses her computer. Her mind is okay, but she cannot use a computer because of her Parkinson's disease. I am not all that impressed with Amazon Echo. Seems you can ask the Echo for the time of day, or the weather outside, but it will not do anything useful -- like send an email. A voice controlled PC would be great, even if it only did a few simple tasks. 
+
+The original submission ends with a question: "Is there such a thing?" So leave your best thoughts and suggestions in the comments. Is there a useful voice-activated PC?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+Is+There+a+Useful+Voice-Activated+PC%3F%3A+http%3A%2F%2Fbit.ly%2F2B03qcx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fask.slashdot.org%2Fstory%2F18%2F01%2F14%2F0157235%2Fask-slashdot-is-there-a-useful-voice-activated-pc%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608931&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qOHlknFSiFs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T12:34:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>commanding-voices</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>52</slash:comments>
+<slash:hit_parade>52,50,32,22,8,4,1</slash:hit_parade>
+<feedburner:origLink>https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Kansas 'Swat' Perpetrator Charged; Faces 11 More Years in Prison</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iFN-bBVOpyc/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison</link>
+<description>Jail time looms for 25-year-old Tyler Barriss, whose fake call to Kansas police led to a fatal shooting:
+
+Barriss "was in a Wichita jail on Saturday," Reuters reported, and even his first court appearance Friday was a video appearance from jail.
+Barriss was charged with involuntary manslaughter, and if convicted "could face up to 11 years and three months in prison." He was also charged with making a false alarm, which is considered a felony. The District Attorney adds that others have also been identified as "potential suspects" in the case, but they're still deciding whether to charge them.
+Barriss' bond has been set at $500,000.
+Friday Barriss gave his first interview to a local news outlet -- from jail. "Of course, you know, I feel a little of remorse for what happened," he tells KWCH. "I never intended for anyone to get shot and killed. I don't think during any attempted swatting anyone's intentions are for someone to get shot and killed..." 
+Asked about the call, Barriss acknowledged that "It hasn't just affected my life, it's affected someone's family too. Someone lost their life. I understand the magnitude of what happened. It's not just affecting me because I'm sitting in jail. I know who it has affected. I understand all of that."
+Barriss has also been charged in Calgary with public mischief, fraud and mischief for another false phone call, police said, though it's unlikely he'll ever be arrested unless he enters the country. Just six days before the fatal shooting, Barriss had made a nearly identical call to police officers in Canada, this time supplying the address of a well-known video gamer who livestreams on Twitch, and according to one eyewitness more than 20 police cars surrounded her apartment building for at least half an hour.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Kansas+'Swat'+Perpetrator+Charged%3B+Faces+11+More+Years+in+Prison%3A+http%3A%2F%2Fbit.ly%2F2DtTrPu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F14%2F048217%2Fkansas-swat-perpetrator-charged-faces-11-more-years-in-prison%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608981&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iFN-bBVOpyc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T08:29:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>crime-doesn't-pay</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>223</slash:comments>
+<slash:hit_parade>223,212,113,90,31,17,14</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Warren Buffett Predicts 'Bad Ending' for Cryptocurrencies</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fjlZsKrwvus/warren-buffett-predicts-bad-ending-for-cryptocurrencies</link>
+<description>"97% of all bitcoins are held by 4% of addresses," reports Credit Suisse (in an article cited by Slashdot reader CaptainDork). And elsewhere this week, Warren Buffett told CNBC that speculation in bitcoin and other cryptocurrencies "will have a bad ending," adding that looking out five years he'd gladly bet against all of the cryptocurrencies. 
+Meanwhile, CNBC senior analyst Ron Insana has his own skepticism:
+ I am predisposed to view them as just speculative tokens in a cryptocurrency bubble that has inflated more quickly than any other in financial market history. Admittedly I'm green with envy for failing to foresee the explosive rally in the price of bitcoin when it was first brought to my attention several years ago. Having said that, there are many things I find quite ironic about how bitcoin and other "cryptos" are described. First, they are largely denominated, or discussed, in U.S. dollar terms... If the dollar is archaic, as the crypto-enthusiasts believe, why not speak only in crypto-terms...? 
+ It's much easier to buy and sell dollars, stocks or commodities than it is to trade bitcoin and its brethren. The conversion of one crypto to another is relatively easy on these embryonic exchanges. But getting your digital wealth converted into cold hard cash is more problematic... And while the growth has been impressive, it remains very difficult to walk into any establishment and exchange a digital token for goods or services. 
+The article notes that the U.S. dollar still accounts for 65% of all global economic transactions, due to its status as the world's reserve currency, and concludes that "The adoption of cryptocurrencies as a global source of funds has a long way to go before staking a claim to the world's economy."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Warren+Buffett+Predicts+'Bad+Ending'+for+Cryptocurrencies%3A+http%3A%2F%2Fbit.ly%2F2AYyAkB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F14%2F0317246%2Fwarren-buffett-predicts-bad-ending-for-cryptocurrencies%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608959&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fjlZsKrwvus" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T04:24:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>free-investment-advice</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>236</slash:comments>
+<slash:hit_parade>236,234,152,123,19,9,8</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Fake 'Inbound Missile' Alert Sent To Every Cellphone in Hawaii</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xWifO8jBuuk/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii</link>
+<description>"Somebody sent out a false emergency alert to all cell phones in Hawaii saying, 'BALLISTIC MISSILE THREAT INBOUND TO HAWAII. SEEK IMMEDIATE SHELTER. THIS IS NOT A DRILL'," writes Slashdot reader flopwich, adding "Somebody's had better days at work." The Associated Press reports:
+
+In a conciliatory news conference later in the day, Hawaii officials apologized for the mistake and vowed to ensure it will never happen again. Hawaii Emergency Management Agency Administrator Vern Miyagi said the error happened when someone hit the wrong button. "We made a mistake," said Miyagi. For nearly 40 minutes, it seemed like the world was about to end in Hawaii, an island paradise already jittery over the threat of nuclear-tipped missiles from North Korea... 
+On the H-3, a major highway north of Honolulu, vehicles sat empty after drivers left them to run to a nearby tunnel after the alert showed up, the Honolulu Star-Advertiser reported. Workers at a golf club huddled in a kitchen fearing the worst... The Hawaii Emergency Management Agency tweeted there was no threat about 10 minutes after the initial alert, but that didn't reach people who aren't on the social media platform. A revised alert informing of the "false alarm" didn't reach cellphones until 38 minutes later, according to the time stamp on images people shared on social media.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Fake+'Inbound+Missile'+Alert+Sent+To+Every+Cellphone+in+Hawaii%3A+http%3A%2F%2Fbit.ly%2F2DbetG0"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F14%2F0114215%2Ffake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608907&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xWifO8jBuuk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T02:19:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>aloha</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>181</slash:comments>
+<slash:hit_parade>181,175,110,96,42,23,14</slash:hit_parade>
+<feedburner:origLink>https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Is Finland's Universal Basic Income Trial Too Good To Be True? </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bVkXrcVPq9Y/is-finlands-universal-basic-income-trial-too-good-to-be-true</link>
+<description>It was one year ago that Finland began giving money to 2,000 unemployed people -- roughly $652 a month (&amp;euro;560 or &amp;pound;475). But have we learned anything about universal basic incomes? An anonymous reader quotes the Guardian:
+Amid this unprecedented media attention, the experts who devised the scheme are concerned it is being misrepresented. "It's not really what people are portraying it as," said Markus Kanerva, an applied social and behavioural sciences specialist working in the prime minister's office in Helsinki. "A full-scale universal income trial would need to study different target groups, not just the unemployed. It would have to test different basic income levels, look at local factors. This is really about seeing how a basic unconditional income affects the employment of unemployed people." 
+
+While UBI tends often to be associated with progressive politics, Finland's trial was launched -- at a cost of around &amp;euro;20m (&amp;pound;17.7m or $24.3 million) -- by a centre-right, austerity-focused government interested primarily in spending less on social security and bringing down Finland's stubborn 8%-plus unemployment rate. It has a very clear purpose: to see whether an unconditional income might incentivise people to take up paid work. Authorities believe it will shed light on whether unemployed Finns, as experts believe, are put off taking up a job by the fear that a higher marginal tax rate may leave them worse off. Many are also deterred by having to reapply for benefits after every casual or short-term contract... According to Kanerva, the core data the government is seeking -- on whether, and how, the job take-up of the 2,000 unemployed people in the trial differs from a 175,000-strong control group -- will be "robust, and usable in future economic modelling" when it is published in 2019. 
+Although the experiment may be impacted by all the hype it's generating, according to the Guardian. "One participant who hoped to start his own business with the help of the unconditional monthly payment complained that, after speaking to 140 TV crews and reporters from as far afield as Japan and Korea, he has simply not been able to find the time."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Is+Finland's+Universal+Basic+Income+Trial+Too+Good+To+Be+True%3F+%3A+http%3A%2F%2Fbit.ly%2F2AVVhpI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F13%2F1030223%2Fis-finlands-universal-basic-income-trial-too-good-to-be-true%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11607667&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/bVkXrcVPq9Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-14T00:14:00+00:00</dc:date>
+<dc:subject>eu</dc:subject>
+<slash:department>Finnish-finance</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>352</slash:comments>
+<slash:hit_parade>352,331,194,153,57,29,12</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'Science Fiction Writers of America' Accuse Internet Archive of Piracy</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/d406DH29AKo/science-fiction-writers-of-america-accuse-internet-archive-of-piracy</link>
+<description>An anonymous reader writes:
+ The "Open Library" project of the nonprofit Internet Archive has been scanning books and offering "loans" of DRM-protected versions for e-readers (which expire after the loan period expires). This week the Legal Affairs Committe of the Science Fiction Writers of America issued a new "Infringement Alert" on the practice, complaining that "an unreadable copy of the book is saved on users' devices...and can be made readable by stripping DRM protection." 
+The objection, argues SFWA President Cat Rambo, is that "writers' work is being scanned in and put up for access without notifying them... it is up to the individual writer whether or not their work should be made available in this way." But the infringement alert takes the criticism even further. "We suspect that this is the world's largest ongoing project of unremunerated digital distribution of entire in-copyright books." 
+The Digital Reader blog points out one great irony. "The program initially launched in 2007. It has been running for ten years, and the SFWA only just now noticed." They add that SFWA's tardiness "leaves critical legal issues unresolved." 
+
+"Remember, Google won the Google Books case, and had its scanning activities legalized as fair use ex post facto... [I]n fact the Internet Archive has a stronger case than Google did; the latter had a commercial interest in its scans, while the Internet Archive is a non-profit out to serve the public good."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='Science+Fiction+Writers+of+America'+Accuse+Internet+Archive+of+Piracy%3A+http%3A%2F%2Fbit.ly%2F2Dsn6sv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F13%2F0010244%2Fscience-fiction-writers-of-america-accuse-internet-archive-of-piracy%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606215&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/d406DH29AKo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-13T23:09:00+00:00</dc:date>
+<dc:subject>books</dc:subject>
+<slash:department>war-on-libraries</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>91</slash:comments>
+<slash:hit_parade>91,85,57,47,14,7,6</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Japanese Console Market Grows For the First Time In 11 Years</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/OczDWbZq_FY/japanese-console-market-grows-for-the-first-time-in-11-years</link>
+<description>According to Famitsu, hardware sales in Japan experienced a huge spike in 2017 compared to the previous year. In 2016, Japanese hardware sales were 117.05 billion yen ($1.05 billion), while in 2017, they jumped to 202.37 billion yen ($1.81 billion). Kotaku reports: Software sales also increased: in 2016, they were 182.4 billion yen ($1.63 billion) and the following year, they were 189.3 billion yen ($1.69 billion). A big part of this increase is due to the Nintendo Switch's brisk hardware sales. The PS4 has also continued to churn out steady numbers. The last time the Japanese gaming market saw an uptick was in 2006, when the Nintendo DS Lite, the Nintendo Wii, the PS3 launched.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Japanese+Console+Market+Grows+For+the+First+Time+In+11+Years%3A+http%3A%2F%2Fbit.ly%2F2D6yCge"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F13%2F0248237%2Fjapanese-console-market-grows-for-the-first-time-in-11-years%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606365&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/OczDWbZq_FY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-13T22:04:00+00:00</dc:date>
+<dc:subject>japan</dc:subject>
+<slash:department>what-goes-down-must-come-up</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,29,12,8,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Stack Overflow Stats Reveal 'the Brutal Lifecycle of JavaScript Frameworks'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gRiCO8ardvc/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks</link>
+<description>A developer on the Internal Tools team at Stack Overflow reveals some new statistics from their 'Trends' tool:
+
+JavaScript UI frameworks and libraries work in cycles. Every six months or so, a new one pops up, claiming that it has revolutionized UI development. Thousands of developers adopt it into their new projects, blog posts are written, Stack Overflow questions are asked and answered, and then a newer (and even more revolutionary) framework pops up to usurp the throne... 
+There appears to be a quick ascent, as the framework gains popularity and then a slightly less quick but steady decline as developers adopt newer technologies. These lifecycles only last a couple of years. Starting around 2011, there seems to be major adoption of a couple of competing frameworks: Backbone, Knockout, and Ember. Questions about these tags appear to grow until around 2013 and have been in steady decline since, at about the same time as AngularJS started growing. The latest startup is the Vue.js framework, which has shown quick adoption, as it is one of the fastest growing tags on Stack Overflow. Only time can tell how long this growth will last. 
+"Let's be honest," the post concludes. "The size of a developer community certainly counts; it contributes to a thriving open source environment, and makes it easier to find help on Stack Overflow."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Stack+Overflow+Stats+Reveal+'the+Brutal+Lifecycle+of+JavaScript+Frameworks'%3A+http%3A%2F%2Fbit.ly%2F2AXqUiE"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F13%2F0117235%2Fstack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606283&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gRiCO8ardvc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-13T20:59:00+00:00</dc:date>
+<dc:subject>opensource</dc:subject>
+<slash:department>reacting-to-React</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>130</slash:comments>
+<slash:hit_parade>130,130,91,78,21,8,6</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel Unveils 'Breakthrough' 49 Qubit Quantum Computer</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tOLc69z6Q5s/intel-unveils-breakthrough-49-qubit-quantum-computer</link>
+<description>Long-time Slashdot reader cold fjord writes: Extremetech reports, "At CES 2018 this week, Intel's CEO Brian Krzanich declared the company's new 49-qubit quantum computer represented a step towards "quantum supremacy." A 49 qubit system is a major advance for Intel, which just demonstrated a 17-qubit system two months ago. Intel's working with the Netherlands-based Qutech on this project, and expanding the number of qubits is key to creating quantum computers that can deliver real-world results... "Qubits are tremendously fragile," Intel wrote in October. "Any noise or unintended observation of them can cause data loss. This fragility requires them to operate at about 20 millikelvin -- 250 times colder than deep space." This is also why we won't be seeing quantum computers in anyone's house at any point." 
+
+Krzanich also thanked the industry for "coming together" to address the Meltdown and Spectre vulnerabilities. "The collaboration among so many companies to address this industry-wide issue across several different processor architectures has been truly remarkable."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Unveils+'Breakthrough'+49+Qubit+Quantum+Computer%3A+http%3A%2F%2Fbit.ly%2F2AXkyzP"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F13%2F0222211%2Fintel-unveils-breakthrough-49-qubit-quantum-computer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606339&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tOLc69z6Q5s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-13T19:54:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>next-generation-hardware</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>183</slash:comments>
+<slash:hit_parade>183,183,122,103,18,11,5</slash:hit_parade>
+<feedburner:origLink>https://slashdot.org/story/18/01/13/0222211/intel-unveils-breakthrough-49-qubit-quantum-computer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Peter Thiel Is Now Bidding on Gawker.com</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0WJj9GST1KA/peter-thiel-is-now-bidding-on-gawkercom</link>
@@ -62,309 +388,9 @@ Last month former Gawker staffers attempted to crowdfund the purchase and relaun
 <dc:subject>themedia</dc:subject>
 <slash:department>bids-from-billionaires</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>32</slash:comments>
-<slash:hit_parade>32,31,12,8,0,0,0</slash:hit_parade>
+<slash:comments>123</slash:comments>
+<slash:hit_parade>123,111,64,57,14,7,4</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/12/2325218/peter-thiel-is-now-bidding-on-gawkercom?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Will Facial Recognition in China Lead To Total Surveillance?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/h8FqIgQ7VGg/will-facial-recognition-in-china-lead-to-total-surveillance</link>
-<description>schwit1 shares a new Washington Post article about China's police and security state -- including the facial recognition cameras allow access to apartment buildings. "If I am carrying shopping bags in both hands, I just have to look ahead and the door swings open," one 40-year-old woman tells the Post. "And my 5-year-old daughter can just look up at the camera and get in. It's good for kids because they often lose their keys."
-But for the police, the cameras that replaced the residents' old entry cards serve quite a different purpose. Now they can see who's coming and going, and by combining artificial intelligence with a huge national bank of photos, the system in this pilot project should enable police to identify what one police report, shared with The Washington Post, called the "bad guys" who once might have slipped by... Banks, airports, hotels and even public toilets are all trying to verify people's identities by analyzing their faces. But the police and security state have been the most enthusiastic about embracing this new technology. 
-The pilot in Chongqing forms one tiny part of an ambitious plan, known as "Xue Liang," which can be translated as "Sharp Eyes." The intent is to connect the security cameras that already scan roads, shopping malls and transport hubs with private cameras on compounds and buildings, and integrate them into one nationwide surveillance and data-sharing platform... At the back end, these efforts merge with a vast database of information on every citizen, a "Police Cloud" that aims to scoop up such data as criminal and medical records, travel bookings, online purchase and even social media comments -- and link it to everyone's identity card and face.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Will+Facial+Recognition+in+China+Lead+To+Total+Surveillance%3F%3A+http%3A%2F%2Fbit.ly%2F2DsH5Yc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F13%2F0058205%2Fwill-facial-recognition-in-china-lead-to-total-surveillance%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606265&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/h8FqIgQ7VGg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-13T17:44:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>policing-from-the-cloud</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>46</slash:comments>
-<slash:hit_parade>46,41,23,19,8,4,3</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/13/0058205/will-facial-recognition-in-china-lead-to-total-surveillance?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Many US States Propose Their Own Laws Protecting Net Neutrality</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aZ6sis2lMn8/many-us-states-propose-their-own-laws-protecting-net-neutrality</link>
-<description>An anonymous reader quotes the New York Times:
-Lawmakers in at least six states, including California and New York, have introduced bills in recent weeks that would forbid internet providers to block or slow down sites or online services. Legislators in several other states, including North Carolina and Illinois, are weighing similar action... By passing their own law, the state lawmakers say, they would ensure that consumers would find the content of the choice, maintain a diversity of voices online and protect businesses from having to pay fees to reach users. 
- And they might even have an effect beyond their states. California's strict auto-emissions standards, for example, have been followed by a dozen other states, giving California major sway over the auto industry. "There tends to be a follow-on effect, particularly when something happens in a big state like California," said Harold Feld, a senior vice president at a nonprofit consumer group, Public Knowledge, that supports net-neutrality efforts by the states. Bills have also been introduced in Massachusetts, Nebraska, Rhode Island and Washington. 
-In addition, a representative in Alaska's legislature has also pre-filed legislation requiring the state's ISPs to practice net neutrality, which will be introduced when the state legislature resumes on January 16th. 
-"The recent FCC decision eliminating net neutrality was a mistake that favors the big internet providers and those who want to restrict the kinds of information a free-thinking Alaskan can access," representative Scott Kawasaki told a local news station. "That is not the Alaskan way, and I am hopeful my colleagues in the House and Senate will agree..."
- 
-The Independent also notes that Europe "is still strongly committed" to net neutrality.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Many+US+States+Propose+Their+Own+Laws+Protecting+Net+Neutrality%3A+http%3A%2F%2Fbit.ly%2F2DrTkUA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F13%2F0034242%2Fmany-us-states-propose-their-own-laws-protecting-net-neutrality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606243&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/aZ6sis2lMn8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-13T16:39:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>states-rights</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>66</slash:comments>
-<slash:hit_parade>66,64,33,27,4,2,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/13/0034242/many-us-states-propose-their-own-laws-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Erroneous 'Spam' Flag Affected 102 npm Packages</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/OOfTiWZ5rPw/erroneous-spam-flag-affected-102-npm-packages</link>
-<description>There was some trouble last weekend at the world's largest package repository. An anonymous reader quotes the official npm blog:
-On Saturday, January 6, 2018, we incorrectly removed the user floatdrop and blocked the discovery and download of all 102 of their packages on the public npm Registry. Some of those packages were highly depended on, such as require-from-string, and removal disrupted many users' installations... Within 60 seconds, it became clear that floatdrop was not a spammer -- and that their packages were in heavy use in the npm ecosystem. The staffer notified colleagues and we re-activated the user and began restoring the packages to circulation immediately. Most of the packages were restored quickly, because the restoration was a matter of unsetting the deleted tombstones in our database, while also restoring package data tarballs and package metadata documents. However, during the time between discovery and restoration, other npm users published a number of new packages that used the names of deleted packages. We locked this down once we discovered it, but cleaning up the overpublished packages and inspecting their contents took additional time...
- 
-In cases where the npm staff accepts a user's request to delete a package, we publish a replacement package by the same name -- a security placeholder. This both alerts those who had depended on it that the original package is no longer available and prevents others from publishing new code using that package name. At the time of Saturday's incident, however, we did not have a policy to publish placeholders for packages that were deleted if they were spam. This made it possible for other users to publish new versions of eleven of the removed packages. After a thorough examination of the replacement packages' contents, we have confirmed that none was malicious or harmful. Ten were exact replacements of the code that had just been removed, while the eleventh contained strings of text from the Bible -- and its publisher immediately contacted npm to advise us of its publication. 
-
-They're now implementing a 24-hour cooldown on republication of any deleted package names -- and are also updating their review process. "As a general rule, the npm Registry is and ought to be immutable, just like other package registries such as RubyGems and crates.io... However, there are legitimate cases for removing a package once it has been published. In a typical week, most of the npm support team's work is devoted to handling user requests for package deletion, which is more common than you might expect. Many people publish test packages then ask to have them deprecated or deleted. There also is a steady flow of requests to remove packages that contain contain private code that users have published inadvertently or inappropriately."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Erroneous+'Spam'+Flag+Affected+102+npm+Packages%3A+http%3A%2F%2Fbit.ly%2F2DsKIxf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F13%2F0149252%2Ferroneous-spam-flag-affected-102-npm-packages%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606313&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/OOfTiWZ5rPw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-13T15:34:00+00:00</dc:date>
-<dc:subject>programming</dc:subject>
-<slash:department>false-flags</slash:department>
-<slash:section>developers</slash:section>
-<slash:comments>49</slash:comments>
-<slash:hit_parade>49,47,29,26,8,5,1</slash:hit_parade>
-<feedburner:origLink>https://developers.slashdot.org/story/18/01/13/0149252/erroneous-spam-flag-affected-102-npm-packages?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Interviewing the Interviewer</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/l6HzGQsS1Yo/interviewing-the-interviewer</link>
-<description>Terry Gross, NPR's The Fresh Air host, on the art of the Q&amp;amp;A: "People are always projecting things. They're hearing things that weren't said or projecting meaning that was not intended and, perhaps, not even implied. I've gotten both insults and compliments for interviews I've never done. What can you do? There's no way of controlling what people think. I do have a bullshit detector and it's something I'll use, but I do think I try and be empathetic to everyone I interview," said Terry Gross.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Interviewing+the+Interviewer%3A+http%3A%2F%2Fbit.ly%2F2AWrT2g"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F13%2F0448204%2Finterviewing-the-interviewer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606489&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/l6HzGQsS1Yo" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-13T14:20:00+00:00</dc:date>
-<dc:subject>education</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>62</slash:comments>
-<slash:hit_parade>62,57,21,16,9,5,1</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/13/0448204/interviewing-the-interviewer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Adult Themed VR Game Leaks Data On Thousands</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ouEG8PGzViE/adult-themed-vr-game-leaks-data-on-thousands</link>
-<description>chicksdaddy writes from The Security Ledger: Somebody deserves a spanking after personal information on thousands of users of an adult virtual reality game were exposed to security researchers in the UK by a balky application. Researchers at the firm Digital Interruption on Tuesday warned that an adult-themed virtual reality application, SinVR, exposes the names, email and other personal information via an insecure desktop application -- a potentially embarrassing security lapse. The company decided to go public with the information after being frustrated in multiple efforts to responsibly disclose the vulnerability to parent company inVR, Inc., Digital Interruption researcher and founder Jahmel Harris told The Security Ledger. Jahmel estimated that more than 19,000 records were leaked by the application, but did not have an exact count. SinVR is a sex-themed virtual reality game that allows players to navigate in various adult-themed environments and interact with virtual characters in common pornographic themes including BDSM, cosplay, naughty teacher, and so on. The company discovered the data after reverse-engineering the SinVR desktop application and noticing a function named "downloadallcustomers." That function called a web service that returned thousands of SinVR customer records including email addresses, user names, computer PC names and so on. Passwords and credit card details were not part of the data dump, Harris said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Adult+Themed+VR+Game+Leaks+Data+On+Thousands%3A+http%3A%2F%2Fbit.ly%2F2AXUrbH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F13%2F0243204%2Fadult-themed-vr-game-leaks-data-on-thousands%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606357&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ouEG8PGzViE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-13T13:00:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>mature-audience</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>36</slash:comments>
-<slash:hit_parade>36,27,13,13,6,0,0</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/13/0243204/adult-themed-vr-game-leaks-data-on-thousands?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Cryptocurrency Exchange Kraken Suddenly Goes Dark For Two Days</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/obvbAWe-6P8/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days</link>
-<description>An anonymous reader quotes the San Francisco Chronicle:
- One of the biggest cryptocurrency exchanges was down more than 40 hours this week, causing clients to freak out... San Francisco's Kraken went offline at 9 p.m. on Wednesday for maintenance that was initially scheduled to last two hours, plus an additional two to three hours for withdrawals, according to an announcement on the company's website. "We are still working to resolve the issues that we have identified and our team is working around the clock to ensure a smooth upgrade," according to a status update on Kraken's website posted early Friday. "This means it may still take several hours before we can relaunch." Shortly after noon, the company said it was "still working to track down an elusive bug which is holding up launch." It promised customers "a substantial amount of free trading" after the problem was resolved. In previous updates, Kraken mentioned it is working on "unexpected and delicate issues" and assured clients their funds were secure, adding that "Yes, this is our new record for downtime since we launched in 2013. No, we're not proud of it." 
-It's 53 hours after the downtime began, and their web page is still showing the same announcement. 
-"Kraken is presently offline for maintenance."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Cryptocurrency+Exchange+Kraken+Suddenly+Goes+Dark+For+Two+Days%3A+http%3A%2F%2Fbit.ly%2F2Dq29hI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F13%2F0955237%2Fcryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11607531&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/obvbAWe-6P8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-13T10:00:00+00:00</dc:date>
-<dc:subject>money</dc:subject>
-<slash:department>releasing-the-kraken</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>97</slash:comments>
-<slash:hit_parade>97,94,60,53,12,5,5</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/13/0955237/cryptocurrency-exchange-kraken-suddenly-goes-dark-for-two-days?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>French Songwriter Kiesza Composes First Mainstream Music Album Co-Written With AI</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/85t27o3135A/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai</link>
-<description>dryriver shares a report from the BBC, highlighting "a new album that features everything from cowboy sci-fi to Europop." What's special about the album -- Hello World by Canadian singer Kiesza -- is that it's the first full-length mainstream music album co-written with the help of artificial intelligence. You can judge the quality for yourself: First, view the single "Hellow Shadow" with Canadian singer Kiesza. Next, the BBC story, which seems to think that the album is actually rather good: "Benoit Carre has written songs for some of France's biggest stars: from Johnny Halliday -- the French Elvis, who died last year -- to chanteuse Francoise Hardy. But this month, the 47-year-old is releasing an album with a collaborator he could never have dreamt of working with. It's not a singer, or rapper. It's not even really a musician. It's called Flow Machines, and it is, arguably, the world's most advanced artificially-intelligent music program. For musicians, there's been one good thing about these projects so far: the music they've produced has been easy to dismiss, generic and uninspiring -- hardly likely to challenge Bob Dylan in the songwriting department. But Carre's album, Hello World, is different for the simple reason that it's good. Released under the name SKYGGE (Danish for shadow), it features everything from sci-fi cowboy ballads to Europop, and unlike most AI music, if you heard it on the radio, you wouldn't think something had gone horribly wrong. Flow Machines, developed at Sony's Computer Science Laboratories in Paris, does indeed write original melodies, Carre adds. It also suggests the chords and sounds to play them with. But Carre says a human is always needed to stitch the songs together, give them structure and emotion. Without people, its songs would be a bit rubbish. "There were many people involved in this," he says, listing the likes of Belgian house producer Stromae and Canadian pop star Kiesza. "They gave their soul, their enthusiasm. I think that's the most important point of the album, in a way -- that it's a very human one.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=French+Songwriter+Kiesza+Composes+First+Mainstream+Music+Album+Co-Written+With+AI%3A+http%3A%2F%2Fbit.ly%2F2D4mDj8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F13%2F0019228%2Ffrench-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606231&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/85t27o3135A" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-13T07:00:00+00:00</dc:date>
-<dc:subject>ai</dc:subject>
-<slash:department>first-of-its-kind</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>40</slash:comments>
-<slash:hit_parade>40,40,24,23,1,0,0</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/13/0019228/french-songwriter-kiesza-composes-first-mainstream-music-album-co-written-with-ai?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Why the World Only Has Two Words For Tea</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qeP5Daec9pE/why-the-world-only-has-two-words-for-tea</link>
-<description>An anonymous reader quotes a report from Quartz: With a few minor exceptions, there are really only two ways to say "tea" in the world. One is like the English term -- te in Spanish and tee in Afrikaans are two examples. The other is some variation of cha, like chay in Hindi. Both versions come from China. How they spread around the world offers a clear picture of how globalization worked before "globalization" was a term anybody used. The words that sound like "cha" spread across land, along the Silk Road. The "tea"-like phrasings spread over water, by Dutch traders bringing the novel leaves back to Europe. The term cha is "Sinitic," meaning it is common to many varieties of Chinese. It began in China and made its way through central Asia, eventually becoming "chay" in Persian. That is no doubt due to the trade routes of the Silk Road, along which, according to a recent discovery, tea was traded over 2,000 years ago. This form spread beyond Persia, becoming chay in Urdu, shay in Arabic, and chay in Russian, among others. It even it made its way to sub-Saharan Africa, where it became chai in Swahili. The Japanese and Korean terms for tea are also based on the Chinese cha, though those languages likely adopted the word even before its westward spread into Persian. But that doesn't account for "tea." The te form used in coastal-Chinese languages spread to Europe via the Dutch, who became the primary traders of tea between Europe and Asia in the 17th century, as explained in the World Atlas of Language Structures. The main Dutch ports in east Asia were in Fujian and Taiwan, both places where people used the te pronunciation. The Dutch East India Company's expansive tea importation into Europe gave us the French the, the German Tee, and the English tea.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Why+the+World+Only+Has+Two+Words+For+Tea%3A+http%3A%2F%2Fbit.ly%2F2EAWPr6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F13%2F0237216%2Fwhy-the-world-only-has-two-words-for-tea%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606351&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qeP5Daec9pE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-13T03:30:00+00:00</dc:date>
-<dc:subject>earth</dc:subject>
-<slash:department>history-lesson</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>170</slash:comments>
-<slash:hit_parade>170,160,100,84,23,12,8</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/13/0237216/why-the-world-only-has-two-words-for-tea?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Snapchat's Big Redesign Bashed In 83 Percent of User Reviews</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rA0IUD1NZvg/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews</link>
-<description>The new Snapchat redesign that jams Stories in between private messages is not receiving a whole lot of praise. "In the few countries including the U.K., Australia, and Canada where the redesign is widely available, 83 percent of App Store reviews (1,941) for the update are negative with one or two stars, according to data by mobile analytics firm Sensor Tower," reports TechCrunch. "Just 17 percent, or 391 of the reviews, give it three to five stars." From the report: The most referenced keywords in the negative reviews include "new update," "Stories," and "please fix." Meanwhile, Snapchat's Support Twitter account has been busy replying to people who hate the update and are asking to uninstall it, noting "It's not possible to revert to a previous version of Snapchat," and trying to explain where Stories are to confused users. Hopes were that the redesign could boost Snapchat's soggy revenue, which fell short of Wall Street earnings expectations in Q3 and led to a loss of $443 million. The redesign mixes Stories, where Snapchat shows ads but which have seen stagnation in sharing rates amidst competition from Instagram Stories, into the more popular messaging inbox, where Snapchat's ephemeral messaging is more differentiated and entrenched.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Snapchat's+Big+Redesign+Bashed+In+83+Percent+of+User+Reviews%3A+http%3A%2F%2Fbit.ly%2F2ED6ttB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F2110230%2Fsnapchats-big-redesign-bashed-in-83-percent-of-user-reviews%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606033&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rA0IUD1NZvg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-13T00:50:00+00:00</dc:date>
-<dc:subject>social</dc:subject>
-<slash:department>new-and-not-so-approved</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>95</slash:comments>
-<slash:hit_parade>95,94,52,41,11,7,4</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/2110230/snapchats-big-redesign-bashed-in-83-percent-of-user-reviews?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ask Slashdot: How Would You Use Computers To Make Elections Better?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3M9_NXL_U2c/ask-slashdot-how-would-you-use-computers-to-make-elections-better</link>
-<description>shanen writes: Regarding politics, is there anything that Americans agree on? If so, it's probably something negative like "The system is broken," or "The leading candidates are terrible," or even "Your state is a shithole." With all our fancy technology, what's going wrong? Our computers are creating problems, not solutions. For example, gerrymandering relies on fancy computers to rig the maps. Negative campaigning increasingly relies on computers to target the attacks on specific voters. Even international attacks exploit the internet to intrude into elections around the world. Here are three of my suggested solutions, though I can't imagine any of today's politicians would ever support anything along these lines: (1) Guest voting: If you hate your district, you could vote in a neighboring district. The more they gerrymander, the less predictable the election results. (2) Results-based weighting: The winning candidates get more voting power in the legislature, reflecting how many people actually voted for them. If you win a boring and uncontested election where few people vote, then part of your vote in the legislature would be transferred to the winners who also had more real votes. (3) Negative voting: A voter could use an electronic ballot to make it explicit that the vote is negative, not positive. The candidate with the most positive or fewest negative votes still wins, but if the election has too many negative votes, then that "winner" would be penalized, perhaps with a half term rather than a full term. What wild and crazy ideas do you have for using computers to make elections better, not worse?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+How+Would+You+Use+Computers+To+Make+Elections+Better%3F%3A+http%3A%2F%2Fbit.ly%2F2ECfnHx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F13%2F004233%2Fask-slashdot-how-would-you-use-computers-to-make-elections-better%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606213&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3M9_NXL_U2c" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-13T00:10:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>my-way-or-the-high-way</slash:department>
-<slash:section>politics</slash:section>
-<slash:comments>391</slash:comments>
-<slash:hit_parade>391,390,240,201,39,15,12</slash:hit_parade>
-<feedburner:origLink>https://politics.slashdot.org/story/18/01/13/004233/ask-slashdot-how-would-you-use-computers-to-make-elections-better?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Americans Still Deeply Skeptical About Driverless Cars, Says Poll</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KhT6inVFHCM/americans-still-deeply-skeptical-about-driverless-cars-says-poll</link>
-<description>A new poll was released today that basically repeats data we've seen in previous surveys: Americans still don't trust self-driving cars, and are nervous about the coming onslaught. The Verge reports: Asked how concerned they'd be to share the road with a driverless car, 31 percent said they'd be "very concerned," while 33 percent said "somewhat concerned," according to the poll which was just released by Advocates for Highway and Auto Safety. A majority (63 percent) said they would not support "mass exemptions" from federal motor vehicle safety standards for self-driving cars, and were not comfortable (75 percent) with automakers having the power to remotely disable vehicle controls, such as the steering wheel, and brake and gas pedals, when the autonomous vehicle is being operated by the computer. And people overwhelmingly support (75 percent) the U.S. Department of Transportation developing new standards related to driverless vehicles. The poll surveyed 1,005 adults between December 7-10th, 2017, with a margin of error of +/- 3.09 percent.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Americans+Still+Deeply+Skeptical+About+Driverless+Cars%2C+Says+Poll%3A+http%3A%2F%2Fbit.ly%2F2DoLNpA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F210209%2Famericans-still-deeply-skeptical-about-driverless-cars-says-poll%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606023&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KhT6inVFHCM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T23:30:00+00:00</dc:date>
-<dc:subject>transportation</dc:subject>
-<slash:department>fear-of-the-unknown</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>239</slash:comments>
-<slash:hit_parade>239,235,140,125,14,5,5</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/210209/americans-still-deeply-skeptical-about-driverless-cars-says-poll?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple's China iCloud Data Migration Sweeps Up International User Accounts</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yMBrqrjPqPQ/apples-china-icloud-data-migration-sweeps-up-international-user-accounts</link>
-<description>Yesterday, it was reported that Apple's iCloud services in mainland China will be operated by a Chinese company from next month. What wasn't reported was the fact that Apple has included iCloud accounts that were opened in the U.S., are paid for using U.S. dollars and/or are connected to U.S.-based App Store accounts in the data that will be handled by local partner Guizhou-Cloud Big Data (GCBD) from February 28. TechCrunch reports: Apple has given China-based users the option to delete their data, but there is no opt out that allows them to have it stored elsewhere. That has concerned some users who are uneasy that the data migration is a sign of closer ties with the Chinese government, particularly since GCBD is owned by the Guizhou provincial government. When asked for comment, Apple pointed TechCrunch to its terms and conditions site which explains that it is migrating iCloud accounts based on their location: "The operation of iCloud services associated with Apple IDs that have China in their country or region setting will be subject to this transition. You will be notified of this transition via email and notifications on your devices. You don't need to take any further action and can keep using iCloud in China. After February 28, 2018, you will need to agree to the terms and conditions of iCloud operated by GCBD to keep using iCloud in China." 
-
-However, TechCrunch found instances of iCloud accounts registered overseas that were part of the migration. One user did find an apparent opt-out. That requires the user switching their iCloud account back to China, then signing out of all devices. They then switch their phone and iCloud settings to the U.S. and then, upon signing back into iCloud, their account will (seemingly) not be part of the migration. Opting out might be a wise-move, as onlookers voice concern that a government-owned company is directly involved in storing user data.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple's+China+iCloud+Data+Migration+Sweeps+Up+International+User+Accounts%3A+http%3A%2F%2Fbit.ly%2F2AU9MKD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F12%2F2033210%2Fapples-china-icloud-data-migration-sweeps-up-international-user-accounts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605979&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yMBrqrjPqPQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T22:50:00+00:00</dc:date>
-<dc:subject>china</dc:subject>
-<slash:department>brushed-under-the-rug</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>43</slash:comments>
-<slash:hit_parade>43,42,16,14,7,3,1</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/12/2033210/apples-china-icloud-data-migration-sweeps-up-international-user-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Researcher Finds Another Security Flaw In Intel Management Firmware</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jNqdMlBNS7M/researcher-finds-another-security-flaw-in-intel-management-firmware</link>
-<description>An anonymous reader quotes a report from Ars Technica: Meltdown and Spectre are not the only security problems Intel is facing these days. Today, researchers at F-Secure have revealed another weakness in Intel's management firmware that could allow an attacker with brief physical access to PCs to gain persistent remote access to the system, thanks to weak security in Intel's Active Management Technology (AMT) firmware -- remote "out of band" device management technology installed on 100 million systems over the last decade, according to Intel. [T]he latest vulnerability -- discovered in July of 2017 by F-Secure security consultant Harry Sintonen and revealed by the company today in a blog post -- is more of a feature than a bug. Notebook and desktop PCs with Intel AMT can be compromised in moments by someone with physical access to the computer -- even bypassing BIOS passwords, Trusted Platform Module personal identification numbers, and Bitlocker disk encryption passwords -- by rebooting the computer, entering its BIOS boot menu, and selecting configuration for Intel's Management Engine BIOS Extension (MEBx).
- 
-If MEBx hasn't been configured by the user or by their organization's IT department, the attacker can log into the configuration settings using Intel's default password of "admin." The attacker can then change the password, enable remote access, and set the firmware to not give the computer's user an "opt-in" message at boot time. "Now the attacker can gain access to the system remotely," F-Secure's release noted, "as long as they're able to insert themselves onto the same network segment with the victim (enabling wireless access requires a few extra steps)."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Researcher+Finds+Another+Security+Flaw+In+Intel+Management+Firmware%3A+http%3A%2F%2Fbit.ly%2F2Dqb5Ux"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F12%2F201200%2Fresearcher-finds-another-security-flaw-in-intel-management-firmware%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605941&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jNqdMlBNS7M" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T22:10:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>when-it-rains-it-pours</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>77</slash:comments>
-<slash:hit_parade>77,74,42,40,14,7,2</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/12/201200/researcher-finds-another-security-flaw-in-intel-management-firmware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google Pulls 60 Apps From Play Store After Malware Exposes Kids To Porn</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sCygjLC6Y9I/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn</link>
-<description>Cyberthreat intelligence firm Check Point on Friday disclosed the existence of malicious code buried inside dozens of apps that displays pornographic images to users. Many of the apps are games reportedly geared toward young children. As a result, Google quickly removed the roughly 60 apps said to be affected from its Play Store. Gizmodo reports: While they appeared as such, the pornographic images displayed were not actually Google ads. Google supposedly maintains tight controls on all ads that appear in what it calls "Designed for Family" apps. The company also maintains a white-list of advertisers deemed safe for children under the ages of 13. None of the affected apps were part of Google's "Family Link" program, which is the category of recognized kid-friendly apps available across Google's platforms. The malware, dubbed AdultSwine, is said to have displayed the highly inappropriate images while also attempting to trick users into installing a fake-security app, or "scareware." After the fake "ads" were delivered, users would've received a "Remove Virus Now" notification, or something similar, designed to provoke users into downloading the scareware. The affected gaming apps included at least one which may have had up to 5,000,000 downloads -- Five Nights Survival Craft -- as well as many others which had between 50,000 and 500,000 downloads.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Pulls+60+Apps+From+Play+Store+After+Malware+Exposes+Kids+To+Porn%3A+http%3A%2F%2Fbit.ly%2F2AUeCYa"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F12%2F2012254%2Fgoogle-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11605955&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sCygjLC6Y9I" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-12T21:30:00+00:00</dc:date>
-<dc:subject>android</dc:subject>
-<slash:department>safe-guard</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>46</slash:comments>
-<slash:hit_parade>46,43,25,19,6,3,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/12/2012254/google-pulls-60-apps-from-play-store-after-malware-exposes-kids-to-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

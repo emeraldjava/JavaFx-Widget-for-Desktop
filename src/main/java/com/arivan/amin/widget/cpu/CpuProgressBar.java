@@ -60,7 +60,6 @@ public class CpuProgressBar extends VBox
         cpuTimeLine.play();
     }
     
-    // todo change battery icon to progress bar
     private void cpuDataUpdateHandler (ActionEvent e)
     {
         try

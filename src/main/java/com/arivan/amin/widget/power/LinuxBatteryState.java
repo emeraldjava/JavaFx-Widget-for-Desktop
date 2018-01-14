@@ -62,8 +62,6 @@ public class LinuxBatteryState implements BatteryState
         return getProperty("percentage:");
     }
     
-    // TODO 1/9/18 show no battery icon when no battery is detected
-    // TODO 1/9/18 what to show when percentage drops below 14 percent ?
     @Override
     public String currentStateIcon ()
     {

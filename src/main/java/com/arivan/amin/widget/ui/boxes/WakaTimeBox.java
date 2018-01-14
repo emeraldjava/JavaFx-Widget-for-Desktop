@@ -21,7 +21,7 @@ public class WakaTimeBox extends VBox
     
     private WakaTimeBox (@NotNull DoubleProperty parentWidth, @NotNull DoubleProperty parentHeight)
     {
-        super();    
+        // todo implement a way to show data from wakatime, coding activity image is taking to much space
         prefWidthProperty().bind(parentWidth.multiply(0.33));
         prefHeightProperty().bind(parentHeight);
         codingImageView = new ImageView(new Image(CODING_IMAGE_URL));
