@@ -12,29 +12,51 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
+/**
+ * The type Memory progress bar.
+ */
 public class MemoryProgressBar extends VBox
 {
     private static final int UPDATE_FREQUENCY_IN_SECONDS = 1;
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final MemoryMonitor monitor;
-    private final ProgressBar memoryBar;
-    private final Label memoryLabel;
+    private MemoryMonitor monitor;
+    private ProgressBar memoryBar;
+    private Label memoryLabel;
     
     private MemoryProgressBar (DoubleProperty parentWidthProperty,
             DoubleProperty parentHeightProperty)
     {
-        monitor = LinuxMemoryMonitor.newInstance();
+        prefWidthProperty().bind(parentWidthProperty);
+        determineOperatingSystem();
         setSpacing(5);
-        memoryBar = new ProgressBar();
-        memoryLabel = new Label();
+        initiliazeFields();
         BorderPane memoryBorderPane = new BorderPane();
         memoryBorderPane.setLeft(new Label("RAM"));
         memoryBorderPane.setRight(memoryLabel);
         getChildren().addAll(memoryBorderPane, memoryBar);
-        memoryBar.prefWidthProperty().bind(parentWidthProperty);
         animateBar();
     }
     
+    private void initiliazeFields ()
+    {
+        memoryBar = new ProgressBar();
+        memoryLabel = new Label();
+        memoryBar.prefWidthProperty().bind(prefWidthProperty());
+    }
+    
+    private void determineOperatingSystem ()
+    {
+        monitor = LinuxMemoryMonitor.newInstance();
+    }
+    
+    /**
+     * New instance memory progress bar.
+     *
+     * @param parentWidthProperty the parent width property
+     * @param parentHeightProperty the parent height property
+     *
+     * @return the memory progress bar
+     */
     @NotNull
     public static MemoryProgressBar newInstance (DoubleProperty parentWidthProperty,
             DoubleProperty parentHeightProperty)
@@ -52,17 +74,11 @@ public class MemoryProgressBar extends VBox
         memoryTimeLine.play();
     }
     
-    @Override
-    public String toString ()
-    {
-        return "MemoryProgressBar{" + "monitor=" + monitor + ", memoryBar=" + memoryBar +
-                ", memoryLabel=" + memoryLabel + '}';
-    }
-    
     private void dataUpdateHandler (ActionEvent e)
     {
         try
         {
+            monitor.updateData();
             double data = monitor.getUsedMemory();
             memoryBar.setProgress(data);
             memoryLabel.setText((int) (data * 100) + " ");
@@ -71,5 +87,12 @@ public class MemoryProgressBar extends VBox
         {
             logger.warning(ex.getMessage());
         }
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "MemoryProgressBar{" + "monitor=" + monitor + ", memoryBar=" + memoryBar +
+                ", memoryLabel=" + memoryLabel + '}';
     }
 }

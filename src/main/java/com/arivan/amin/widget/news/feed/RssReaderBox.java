@@ -13,16 +13,21 @@ import java.util.logging.Logger;
 
 public class RssReaderBox extends VBox
 {
-    private static final int MINUTES_BETWEEN_RSS_UPDATES = 10;
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final int MINUTES_BETWEEN_RSS_UPDATES = 10;
     private RssReader rssReader;
     
     private RssReaderBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         bindBoxSizeToParent(parentWidth, parentHeight);
         determineRssReader();
-        setSpacing(5);
+        setBoxProperties();
         fetchNewsPeriodically();
+    }
+    
+    private void setBoxProperties ()
+    {
+        setSpacing(5);
     }
     
     private void fetchNewsPeriodically ()
@@ -51,23 +56,18 @@ public class RssReaderBox extends VBox
         return new RssReaderBox(parentWidth, parentHeight);
     }
     
-    @Override
-    public String toString ()
-    {
-        return "RssReaderBox{" + "rssReader=" + rssReader + '}';
-    }
-    
     private void newsUpdateHandler (ActionEvent e)
     {
         clearBox();
-        List<RssItem> items = rssReader.newsList();
         Label label = createNewsLabel();
-        addNewsToLabel(items, label);
+        addNewsToLabel(label);
         getChildren().add(label);
     }
     
-    private void addNewsToLabel (List<RssItem> items, Label label)
+    // todo replace loop with stream api
+    private void addNewsToLabel (Label label)
     {
+        List<RssItem> items = rssReader.newsList();
         for (int i = 0; i < items.size(); i++)
         {
             label.setText(label.getText() + (i + 1) + "-- " + items.get(i).getTitle() +
@@ -88,5 +88,11 @@ public class RssReaderBox extends VBox
     {
         getChildren().clear();
         getChildren().add(new Label("Feed from Slashdot"));
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "RssReaderBox{" + "rssReader=" + rssReader + '}';
     }
 }

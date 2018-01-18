@@ -39,7 +39,11 @@ public class LinuxMemoryMonitor implements MemoryMonitor
     @Override
     public double getUsedMemory ()
     {
-        updateData();
+        return computeUsedMemoryPercentage();
+    }
+    
+    private double computeUsedMemoryPercentage ()
+    {
         return (PERCENT * Double.parseDouble(data[2])) / Double.parseDouble(data[0]) / PERCENT;
     }
     
