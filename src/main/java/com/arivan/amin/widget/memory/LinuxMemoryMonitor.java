@@ -43,7 +43,7 @@ public class LinuxMemoryMonitor implements MemoryMonitor
         return (PERCENT * Double.parseDouble(data[2])) / Double.parseDouble(data[0]) / PERCENT;
     }
     
-    public String removeUnnecessaryData (String output)
+    private String removeUnnecessaryData (String output)
     {
         String mem = output.substring(output.indexOf("KiB Mem"));
         mem = mem.substring(0, mem.indexOf("avail Mem"));

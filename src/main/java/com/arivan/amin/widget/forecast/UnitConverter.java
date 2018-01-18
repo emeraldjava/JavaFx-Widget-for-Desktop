@@ -6,6 +6,7 @@ public class UnitConverter
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     
+    // todo implement temperature selection for forecast
     private static final int KELVIN_WATER_FREEZING_POINT = 273;
     
     private UnitConverter ()

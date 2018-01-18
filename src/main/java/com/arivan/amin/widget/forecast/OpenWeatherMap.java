@@ -106,6 +106,7 @@ public class OpenWeatherMap implements WeatherData
                         .getChildNodes());
     }
     
+    // todo possible refactoring in stream api code
     private String getTimeNodeChildAttribute (int nodeNumber, String tagName, String attribute)
     {
         List<Element> list = elementList.stream().filter(e -> "forecast".equals(e.getTagName()))
@@ -366,6 +367,7 @@ public class OpenWeatherMap implements WeatherData
         return time;
     }
     
+    // todo refactoring of entire forecast package
     @Override
     public String toString ()
     {

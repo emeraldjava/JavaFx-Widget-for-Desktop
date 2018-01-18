@@ -8,10 +8,11 @@ import java.util.logging.Logger;
 
 public class LinuxConnectionStatus implements ConnectionStatus
 {
+    private final Logger logger = Logger.getLogger(getClass().getName());
     private static final String[] PING_COMMAND = { "ping", "www.google.com", "-c", "1" };
     private static final String HOSTNAME = "www.google.com";
     private static final int HTTP_PORT = 80;
-    private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final int TIMEOUT_IN_MILLISECONDS = 3000;
     private String commandData;
     
     private LinuxConnectionStatus ()
@@ -41,8 +42,7 @@ public class LinuxConnectionStatus implements ConnectionStatus
     {
         try (Socket socket = new Socket())
         {
-            InetSocketAddress socketAddress = new InetSocketAddress(HOSTNAME, HTTP_PORT);
-            socket.connect(socketAddress, 3000);
+            socket.connect(new InetSocketAddress(HOSTNAME, HTTP_PORT), TIMEOUT_IN_MILLISECONDS);
             return true;
         }
         catch (Exception ignored)
@@ -72,5 +72,11 @@ public class LinuxConnectionStatus implements ConnectionStatus
     public void updateData ()
     {
         commandData = getCommandOutput(PING_COMMAND);
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "LinuxConnectionStatus{" + "commandData='" + commandData + '\'' + '}';
     }
 }

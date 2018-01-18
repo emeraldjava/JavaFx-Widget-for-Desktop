@@ -18,7 +18,6 @@ import java.util.logging.Logger;
 
 public class WeatherBox extends HBox
 {
-    // TODO 1/8/18 provide location selection for forecast
     private final Logger logger = Logger.getLogger(getClass().getName());
     private WeatherData weatherData;
     private Label temperatureLabel;
@@ -34,19 +33,24 @@ public class WeatherBox extends HBox
     private WeatherBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         determineWeatherProvider();
-        initiliazeFields();
+        initializeFields();
         VBox todayVBox = new VBox();
         HBox iconHBox = new HBox();
         VBox labelsBox = new VBox(5);
-        iconHBox.getChildren().add(currentWeatherImage);
-        labelsBox.getChildren()
-                .addAll(temperatureLabel, conditionLabel, humidityLabel, windLabel, cloudsLabel,
-                        sunLabel, precipitationLabel);
+        addItemsToBoxes(iconHBox, labelsBox);
         todayVBox.getChildren().addAll(iconHBox, labelsBox);
         getChildren().addAll(todayVBox, fourDaysVBox);
         bindBoxSizeToParent(parentWidth, parentHeight);
         bindOtherBoxes(todayVBox, iconHBox);
         fetchDataPeriodically();
+    }
+    
+    private void addItemsToBoxes (HBox iconHBox, VBox labelsBox)
+    {
+        iconHBox.getChildren().add(currentWeatherImage);
+        labelsBox.getChildren()
+                .addAll(temperatureLabel, conditionLabel, humidityLabel, windLabel, cloudsLabel,
+                        sunLabel, precipitationLabel);
     }
     
     private void bindOtherBoxes (VBox todayVBox, HBox iconHBox)
@@ -72,7 +76,7 @@ public class WeatherBox extends HBox
         weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
     }
     
-    private void initiliazeFields ()
+    private void initializeFields ()
     {
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
@@ -211,6 +215,7 @@ public class WeatherBox extends HBox
         }
     }
     
+    // TODO 1/8/18 provide location selection for forecast
     @Override
     public String toString ()
     {

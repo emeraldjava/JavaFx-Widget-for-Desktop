@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-14T20:22:10+00:00</dc:date>
+<dc:date>2018-01-15T20:38:11+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,358 +41,321 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Text Message Scammer Gets Five Years in Prison</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/N_QYSVnE1yY/text-message-scammer-gets-five-years-in-prison</link>
-<description>36-year-old Fraser Thompson is going to prison, according to Reuters, after receiving a five-year sentence for "defrauding" cellphone customers out of millions of dollars. An anonymous reader quotes Reuters:
-Prosecutors said Thompson engaged in a scheme to sign up hundreds of thousands of cellphone customers for paid text messaging services without their consent. The customers were subsequently forced to pay more than $100 million for unsolicited text messages that included trivia, horoscopes and celebrity gossip, according to the prosecutors. They said the scheme was headed by Darcy Wedd, Mobile Messenger's former chief executive, who was found guilty by a jury in December but has not yet been sentenced. "They ripped off everyday cellphone users, $10 a month, netting over $100 million in illegal profits, of which Thompson personally received over $1.5 million," Manhattan U.S. Attorney Geoffrey S. Berman said in a statement. 
-Thompson was ordered to forfeit $1.5 million in "fraud proceeds," according to the article, and was convicted of conspiracy, wire fraud, identity theft and money laundering. Seven other people also pleaded guilty to participating in the scam -- and one has already been sentenced to 33 months in prison.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Text+Message+Scammer+Gets+Five+Years+in+Prison%3A+http%3A%2F%2Fbit.ly%2F2DuBDUn"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F14%2F1926214%2Ftext-message-scammer-gets-five-years-in-prison%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Canadian Charged With Running LeakedSource.com, Selling Stolen Info</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/TwHTkridL2M/canadian-charged-with-running-leakedsourcecom-selling-stolen-info</link>
+<description>A Canadian man accused of operating the LeakedSource.com website, a major repository of stolen online credentials, has been arrested and charged with trafficking in billions of stolen personal identity records, the Royal Canadian Mounted Police (RCMP) said on Monday. From a report: The site, which was shut down in early 2017, had collected details from a string of major breaches and made them accessible and searchable for a fee. The man, 27-year-old Jordan Evan Bloom, is due to appear in a Toronto court on Monday to hear charges that as administrator of the site he collected some C$247,000 from the sale of stolen records and associated passwords.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Canadian+Charged+With+Running+LeakedSource.com%2C+Selling+Stolen+Info%3A+http%3A%2F%2Fbit.ly%2F2DAflkk"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F15%2F205235%2Fcanadian-charged-with-running-leakedsourcecom-selling-stolen-info%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610037&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/N_QYSVnE1yY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T19:34:00+00:00</dc:date>
-<dc:subject>cellphones</dc:subject>
-<slash:department>not-passing-Go</slash:department>
-<slash:section>mobile</slash:section>
-<slash:comments>16</slash:comments>
-<slash:hit_parade>16,15,8,5,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://mobile.slashdot.org/story/18/01/14/1926214/text-message-scammer-gets-five-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Russian Military Base Attacked By Drones</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BBJdiU8sl8k/russian-military-base-attacked-by-drones</link>
-<description>A Russian military base in Syria was recently attacked -- 20 miles from the frontline. The only video of the attack is from a Facebook group for a nearby town, which identifies the noises as an "anti-aircraft response to a remote-controlled aircraft," while the Russian Ministry of Defence claims at least 13 drones were involved in the attack, displaying pictures of drones with a wingspan around 13 feet (four meters). 
-Long-time Slashdot reader 0x2A shares a report from a former British Army officer who calls drones "the poor man's Air Force," who writes that the attack shows "a strategic grasp of the use of drones, as well as a high level of planning."
-The lack of cameras on the drones suggest that they are likely pre-loaded with a flight plan and then flown autonomously to their target, where they dropped their payload en masse on a given GPS coordinate... The lack of any kind of claim, or even rumours from the rebels, indicates that whoever is producing these drone and launching these attacks has a high level of discipline and an understanding of operational and personal security... 
-
-Although some regard the threat from commerical off-the-shelf and improvised drones as negligible, they have the power to inflict losses at both a tactical and strategic level... Although the plastic sheeting, tape and simple design may belie the illusion of sophistication, it seems that the use of drones, whether military, commerical off-the-shelf or improvised, is taking another step to becoming the future of conflict. 
-
-The article notes there's already been four weaponized drone attacks in Syria over the last two weeks, which according to CNBC may be part of a growing trend. "Experts said swarm-like attacks using weaponized drones is a growing threat and likely to only get worse. They also said the possibility exists of terrorists using these drones in urban areas against civilians."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Russian+Military+Base+Attacked+By+Drones%3A+http%3A%2F%2Fbit.ly%2F2Dui9iO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F14%2F1818221%2Frussian-military-base-attacked-by-drones%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11609943&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BBJdiU8sl8k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T18:34:00+00:00</dc:date>
-<dc:subject>military</dc:subject>
-<slash:department>flying-by-night</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>55</slash:comments>
-<slash:hit_parade>55,53,23,21,3,2,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/14/1818221/russian-military-base-attacked-by-drones?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Following Other Credit Cards, Visa Will Also Stop Requiring Signatures</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/InxtOFiyDMc/following-other-credit-cards-visa-will-also-stop-requiring-signatures</link>
-<description>An anonymous reader quotes SiliconBeat:
-Visa, the largest U.S. credit card issuer, became the last of the major credit card companies to announce its plan to make signatures optional... Visa joined American Express, Discover, and Mastercard in the phase-out. Mastercard was the first one to announce the move in October, and American Express and Discover followed suit in December... However, this change does not apply to every credit card in circulation; older credit cards without EMV chips will still require signatures for authentication... Since 2011, Visa has deployed more than 460 million EMV chip cards and EMV chip-enabled readers at more than 2.5 million locations. 
-"Businesses that accepted EMV cards reported a 66 percent decline in fraud in the first two years of EMV deployment," the article notes -- suggesting a future where fewer shoppers are signing their receipts. "In Canada, Australia and most of Europe, credit cards have long abandoned the signature for the EMV chip and a PIN to authenticate the transaction, like one does with a debit card."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Following+Other+Credit+Cards%2C+Visa+Will+Also+Stop+Requiring+Signatures%3A+http%3A%2F%2Fbit.ly%2F2DdfAon"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F14%2F0232256%2Ffollowing-other-credit-cards-visa-will-also-stop-requiring-signatures%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608941&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/InxtOFiyDMc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T17:34:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>everywhere-a-sign</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>69</slash:comments>
-<slash:hit_parade>69,67,49,41,8,4,2</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/14/0232256/following-other-credit-cards-visa-will-also-stop-requiring-signatures?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Is There a Warning in 'Philip K. Dick's Electric Dreams'?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aAA3vtUawn8/is-there-a-warning-in-philip-k-dicks-electric-dreams</link>
-<description>An anonymous reader quotes io9:
-That signature feeling feeling of queasy, slow-burning tumult comes through in Philip K. Dick's Electric Dreams, which originally aired in the UK last September, but is making its American premiere on Amazon Prime this Friday, January 12. The breadth of interpretations across the show's 10 episodes is the real draw for Electric Dreams. One episode will be set in something meant to recognizably stand in for the real world while others are trippy explorations into realities that could never exist. Unfortunately, Electric Dreams' episodes don't just vary in aesthetics; they vary wildly in quality, too... 
-When Electric Dreams fires on all cylinders, it energizes these short story adaptations by drilling down into the minutiae of how science fiction concepts would alter our everyday existences in real life. The series' common theme is how scientific and technological advancement shears the soul away from our bodies...Electric Dreams' most important task is to show both new viewers and conversant fans why Dick's oeuvre matters, which is hard in a world where we're eerily close to some of his fictional realities... 
-We're so busy trying to ground ourselves amid constant change that it can be hard to pull out and see society's sweeping shifts. In the '50s and beyond, Dick's science fiction writing mapped out the darker corners of where hi-speed techno-fetishes could take us. For all its unevenness, Electric Dreams adapts his work to show us where we are, relative to his prognostications. If you feel weirded out while watching, that just means the show is doing its job.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Is+There+a+Warning+in+'Philip+K.+Dick's+Electric+Dreams'%3F%3A+http%3A%2F%2Fbit.ly%2F2D9yaxP"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F14%2F1531202%2Fis-there-a-warning-in-philip-k-dicks-electric-dreams%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11609733&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/aAA3vtUawn8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T16:34:00+00:00</dc:date>
-<dc:subject>tv</dc:subject>
-<slash:department>scanning-darkly</slash:department>
-<slash:section>entertainment</slash:section>
-<slash:comments>38</slash:comments>
-<slash:hit_parade>38,36,22,16,4,1,0</slash:hit_parade>
-<feedburner:origLink>https://entertainment.slashdot.org/story/18/01/14/1531202/is-there-a-warning-in-philip-k-dicks-electric-dreams?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Linux Kernel Mailing List is Down</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RNMwK6VMcJ0/the-linux-kernel-mailing-list-is-down</link>
-<description>Every page on LKML.org is currently displaying this error message along with a picture of Flits the cat.
-What started out as a power outage while I was on vacation (leading to the computer hosting the backend of this site being unable to boot) became a larger issue as the mainboard in that computer appears to be broken. 
-Not wanting to let you wait for a spare part to arrive, I'm currently (while being assisted by our cat Flits) busy copying over all data to a VPS, and getting things working from there. The rsync is progressing slowly, having copied over the first 50% in three hours (at 14:30 CET). Please check back later for status updates.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Linux+Kernel+Mailing+List+is+Down%3A+http%3A%2F%2Fbit.ly%2F2Dc8X5K"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F14%2F1545250%2Fthe-linux-kernel-mailing-list-is-down%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11609759&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/RNMwK6VMcJ0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T15:48:00+00:00</dc:date>
-<dc:subject>linux</dc:subject>
-<slash:department>funny-404s</slash:department>
-<slash:section>linux</slash:section>
-<slash:comments>51</slash:comments>
-<slash:hit_parade>51,49,21,15,5,4,2</slash:hit_parade>
-<feedburner:origLink>https://linux.slashdot.org/story/18/01/14/1545250/the-linux-kernel-mailing-list-is-down?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Scientists Think They've Discovered Lava Tubes Leading To the Moon's Polar Ice</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/hfFZIUckQDQ/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice</link>
-<description>schwit1 quotes ScienceAlert:
-Small pits in a large crater on the Moon's North Pole could be "skylights" leading down to an underground network of lava tubes -- tubes holding hidden water on Earth's nearest neighbour, according to new research. There's no lava in them now of course, though that's originally how the tubes formed in the Moon's fiery past. But they could indicate easy access to a water source if we ever decide to develop a Moon base sometime in the future. 
-
-Despite the Moon's dry and dusty appearance, scientists think it contains a lot of water trapped as frozen ice. What these new observations carried out by NASA's Lunar Reconnaissance Orbiter (LRO) show is that it might be much more accessible than we thought... Scientists have long been thinking about how to extract the ice reserves we think are up there -- solar power was originally out of the question, as it's the freezing shadowed areas of the Moon that have preserved the ice in the first place.
-Not only would natural skylights like these provide easier access to the underground ice, it would also mean solar power would be back on the table as an idea.
-&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Think+They've+Discovered+Lava+Tubes+Leading+To+the+Moon's+Polar+Ice%3A+http%3A%2F%2Fbit.ly%2F2DwgE3R"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F14%2F0140206%2Fscientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608921&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/hfFZIUckQDQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T15:34:00+00:00</dc:date>
-<dc:subject>moon</dc:subject>
-<slash:department>on-the-rocks</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>35</slash:comments>
-<slash:hit_parade>35,33,11,11,4,1,0</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/14/0140206/scientists-think-theyve-discovered-lava-tubes-leading-to-the-moons-polar-ice?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Chelsea Manning Files to Run for U.S. Senate in Maryland</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0UTAe7RnbZg/chelsea-manning-files-to-run-for-us-senate-in-maryland</link>
-<description>An anonymous reader quotes the Washington Post:
-Chelsea E. Manning, the transgender former Army private who was convicted of passing sensitive government documents to WikiLeaks, is seeking to run for the U.S. Senate in Maryland, according to federal election filings. Manning would be challenging Democrat Benjamin L. Cardin, who is in his second term in the Senate and is up for reelection in November. Cardin is Maryland's senior senator and is considered an overwhelming favorite to win a third term... However, a candidate with national name recognition, such as Manning, who comes in from the outside could tap a network of donors interested in elevating a progressive agenda... 
-Evan Greer, campaign director of the nonprofit organization Fight for the Future and a close supporter of Manning's while she was imprisoned, said the news is exciting. "Chelsea Manning has fought for freedom and sacrificed for it in ways that few others have," Greer wrote in an email. "The world is a better place with her as a free woman, and this latest news makes it clear she is only beginning to make her mark on it."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Chelsea+Manning+Files+to+Run+for+U.S.+Senate+in+Maryland%3A+http%3A%2F%2Fbit.ly%2F2Dwsrix"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F14%2F0126224%2Fchelsea-manning-files-to-run-for-us-senate-in-maryland%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608911&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0UTAe7RnbZg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T14:34:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>another-Chelsea-morning</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>168</slash:comments>
-<slash:hit_parade>168,158,67,54,13,4,2</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/14/0126224/chelsea-manning-files-to-run-for-us-senate-in-maryland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ask Slashdot: Is There a Useful Voice-Activated PC?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qOHlknFSiFs/ask-slashdot-is-there-a-useful-voice-activated-pc</link>
-<description>An anonymous reader writes:
-My elderly monther-in-law misses her computer. Her mind is okay, but she cannot use a computer because of her Parkinson's disease. I am not all that impressed with Amazon Echo. Seems you can ask the Echo for the time of day, or the weather outside, but it will not do anything useful -- like send an email. A voice controlled PC would be great, even if it only did a few simple tasks. 
-
-The original submission ends with a question: "Is there such a thing?" So leave your best thoughts and suggestions in the comments. Is there a useful voice-activated PC?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+Is+There+a+Useful+Voice-Activated+PC%3F%3A+http%3A%2F%2Fbit.ly%2F2B03qcx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fask.slashdot.org%2Fstory%2F18%2F01%2F14%2F0157235%2Fask-slashdot-is-there-a-useful-voice-activated-pc%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608931&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qOHlknFSiFs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T12:34:00+00:00</dc:date>
-<dc:subject>communications</dc:subject>
-<slash:department>commanding-voices</slash:department>
-<slash:section>askslashdot</slash:section>
-<slash:comments>58</slash:comments>
-<slash:hit_parade>58,56,34,24,11,5,1</slash:hit_parade>
-<feedburner:origLink>https://ask.slashdot.org/story/18/01/14/0157235/ask-slashdot-is-there-a-useful-voice-activated-pc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Kansas 'Swat' Perpetrator Charged; Faces 11 More Years in Prison</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iFN-bBVOpyc/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison</link>
-<description>Jail time looms for 25-year-old Tyler Barriss, whose fake call to Kansas police led to a fatal shooting:
-
-Barriss "was in a Wichita jail on Saturday," Reuters reported, and even his first court appearance Friday was a video appearance from jail.
-Barriss was charged with involuntary manslaughter, and if convicted "could face up to 11 years and three months in prison." He was also charged with making a false alarm, which is considered a felony. The District Attorney adds that others have also been identified as "potential suspects" in the case, but they're still deciding whether to charge them.
-Barriss' bond has been set at $500,000.
-Friday Barriss gave his first interview to a local news outlet -- from jail. "Of course, you know, I feel a little of remorse for what happened," he tells KWCH. "I never intended for anyone to get shot and killed. I don't think during any attempted swatting anyone's intentions are for someone to get shot and killed..." 
-Asked about the call, Barriss acknowledged that "It hasn't just affected my life, it's affected someone's family too. Someone lost their life. I understand the magnitude of what happened. It's not just affecting me because I'm sitting in jail. I know who it has affected. I understand all of that."
-Barriss has also been charged in Calgary with public mischief, fraud and mischief for another false phone call, police said, though it's unlikely he'll ever be arrested unless he enters the country. Just six days before the fatal shooting, Barriss had made a nearly identical call to police officers in Canada, this time supplying the address of a well-known video gamer who livestreams on Twitch, and according to one eyewitness more than 20 police cars surrounded her apartment building for at least half an hour.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Kansas+'Swat'+Perpetrator+Charged%3B+Faces+11+More+Years+in+Prison%3A+http%3A%2F%2Fbit.ly%2F2DtTrPu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F14%2F048217%2Fkansas-swat-perpetrator-charged-faces-11-more-years-in-prison%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608981&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iFN-bBVOpyc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T08:29:00+00:00</dc:date>
-<dc:subject>crime</dc:subject>
-<slash:department>crime-doesn't-pay</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>267</slash:comments>
-<slash:hit_parade>267,255,140,118,34,20,14</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/14/048217/kansas-swat-perpetrator-charged-faces-11-more-years-in-prison?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Warren Buffett Predicts 'Bad Ending' for Cryptocurrencies</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fjlZsKrwvus/warren-buffett-predicts-bad-ending-for-cryptocurrencies</link>
-<description>"97% of all bitcoins are held by 4% of addresses," reports Credit Suisse (in an article cited by Slashdot reader CaptainDork). And elsewhere this week, Warren Buffett told CNBC that speculation in bitcoin and other cryptocurrencies "will have a bad ending," adding that looking out five years he'd gladly bet against all of the cryptocurrencies. 
-Meanwhile, CNBC senior analyst Ron Insana has his own skepticism:
- I am predisposed to view them as just speculative tokens in a cryptocurrency bubble that has inflated more quickly than any other in financial market history. Admittedly I'm green with envy for failing to foresee the explosive rally in the price of bitcoin when it was first brought to my attention several years ago. Having said that, there are many things I find quite ironic about how bitcoin and other "cryptos" are described. First, they are largely denominated, or discussed, in U.S. dollar terms... If the dollar is archaic, as the crypto-enthusiasts believe, why not speak only in crypto-terms...? 
- It's much easier to buy and sell dollars, stocks or commodities than it is to trade bitcoin and its brethren. The conversion of one crypto to another is relatively easy on these embryonic exchanges. But getting your digital wealth converted into cold hard cash is more problematic... And while the growth has been impressive, it remains very difficult to walk into any establishment and exchange a digital token for goods or services. 
-The article notes that the U.S. dollar still accounts for 65% of all global economic transactions, due to its status as the world's reserve currency, and concludes that "The adoption of cryptocurrencies as a global source of funds has a long way to go before staking a claim to the world's economy."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Warren+Buffett+Predicts+'Bad+Ending'+for+Cryptocurrencies%3A+http%3A%2F%2Fbit.ly%2F2AYyAkB"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F14%2F0317246%2Fwarren-buffett-predicts-bad-ending-for-cryptocurrencies%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608959&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fjlZsKrwvus" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T04:24:00+00:00</dc:date>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614711&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/TwHTkridL2M" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T20:05:00+00:00</dc:date>
 <dc:subject>money</dc:subject>
-<slash:department>free-investment-advice</slash:department>
+<slash:department>end-of-road</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,6,4,3,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Brings Map Service Back To China</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9I7vnzaJ690/google-brings-map-service-back-to-china</link>
+<description>Google has relaunched its map service in China after an eight-year absence, signaling a new era of cooperation between the American internet giant and local partners in fields such as artificial intelligence, reports Nikkei. From the report: Chinese netizens hailed the revival of Google Maps on Monday as the American company's great return to China, where its trademark search and other services have been unavailable since 2010. While Google began offering a translation app for Chinese smartphones in March 2017, the map service reaches far more users as one of Google's best-known offerings. The company has set up a China-specific version of the Google Maps website and introduced a map app for Chinese iPhones. But when users of the app attempt to use its navigation features, they are automatically transferred to an app from AutoNavi, a mapping company owned by Chinese internet leader Alibaba Group Holding.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Brings+Map+Service+Back+To+China%3A+http%3A%2F%2Fbit.ly%2F2DdrZsz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F15%2F1922210%2Fgoogle-brings-map-service-back-to-china%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614643&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9I7vnzaJ690" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T19:22:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>second-time's-the-charm</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,3,3,2,1,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Researchers Find That One Person Likely Drove Bitcoin From $150 to $1,000</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ciaZUUZfFt4/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000</link>
+<description>An anonymous reader shares a report: Researchers Neil Gandal, JT Hamrick, Tyler Moore, and Tali Oberman have written a fascinating paper on Bitcoin price manipulation. Entitled "Price Manipulation in the Bitcoin Ecosystem" and appearing in the recent issue of the Journal of Monetary Economics the paper describes to what degree the Bitcoin ecosystem is controlled by bad actors. To many it's been obvious that the Bitcoin markets are, at the very least, being manipulated by one or two big players. "This paper identifies and analyzes the impact of suspicious trading activity on the Mt. Gox Bitcoin currency exchange, in which approximately 600,000 bitcoins (BTC) valued at $188 million were fraudulently acquired," the researchers wrote. "During both periods, the USD-BTC exchange rate rose by an average of four percent on days when suspicious trades took place, compared to a slight decline on days without suspicious activity. Based on rigorous analysis with extensive robustness checks, the paper demonstrates that the suspicious trading activity likely caused the unprecedented spike in the USD-BTC exchange rate in late 2013, when the rate jumped from around $150 to more than $1,000 in two months." The team found that many instances of price manipulation happened simply because the market was very thin for various cryptocurrencies including early Bitcoin.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers+Find+That+One+Person+Likely+Drove+Bitcoin+From+%24150+to+%241%2C000%3A+http%3A%2F%2Fbit.ly%2F2B2yJDA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F15%2F1849212%2Fresearchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614579&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ciaZUUZfFt4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T18:49:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>closer-look</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>257</slash:comments>
-<slash:hit_parade>257,253,164,132,26,9,9</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/14/0317246/warren-buffett-predicts-bad-ending-for-cryptocurrencies?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Fake 'Inbound Missile' Alert Sent To Every Cellphone in Hawaii</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xWifO8jBuuk/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii</link>
-<description>"Somebody sent out a false emergency alert to all cell phones in Hawaii saying, 'BALLISTIC MISSILE THREAT INBOUND TO HAWAII. SEEK IMMEDIATE SHELTER. THIS IS NOT A DRILL'," writes Slashdot reader flopwich, adding "Somebody's had better days at work." The Associated Press reports:
+<slash:comments>55</slash:comments>
+<slash:hit_parade>55,54,40,32,9,3,1</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ford is Throwing $11 Billion at Its Electric Car Problem</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JuTcV-w-ARY/ford-is-throwing-11-billion-at-its-electric-car-problem</link>
+<description>Ford said on Monday it will boost its investment in electric vehicles to $11 billion in the next five years, more than doubling a previous commitment. Company's chairman Bill Ford said the car maker would have 40 hybrid and fully electric vehicles in its range by the same period. It comes as countries around the world put more pressure on car makers to rein in carbon emissions. From a report: It was a dramatic escalation in Ford's crosstown rivalry with General Motors, which has seen its stock prices rise thanks to its commitments to both electrification and autonomy. GM has said it plans to roll out at least 20 new electric cars by 2023, a goal that puts it in a position to bring battery-powered driving to the mainstream. Last week, it unveiled a concept autonomous car without steering wheel or pedals. Meanwhile, the Blue Oval has had a challenging 2017. It remains strongly profitable, but its sale are stagnant, its costs have increased faster than expected, and its margins have failed to meet targets.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ford+is+Throwing+%2411+Billion+at+Its+Electric+Car+Problem%3A+http%3A%2F%2Fbit.ly%2F2DaKsWy"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F15%2F185251%2Fford-is-throwing-11-billion-at-its-electric-car-problem%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-In a conciliatory news conference later in the day, Hawaii officials apologized for the mistake and vowed to ensure it will never happen again. Hawaii Emergency Management Agency Administrator Vern Miyagi said the error happened when someone hit the wrong button. "We made a mistake," said Miyagi. For nearly 40 minutes, it seemed like the world was about to end in Hawaii, an island paradise already jittery over the threat of nuclear-tipped missiles from North Korea... 
-On the H-3, a major highway north of Honolulu, vehicles sat empty after drivers left them to run to a nearby tunnel after the alert showed up, the Honolulu Star-Advertiser reported. Workers at a golf club huddled in a kitchen fearing the worst... The Hawaii Emergency Management Agency tweeted there was no threat about 10 minutes after the initial alert, but that didn't reach people who aren't on the social media platform. A revised alert informing of the "false alarm" didn't reach cellphones until 38 minutes later, according to the time stamp on images people shared on social media.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Fake+'Inbound+Missile'+Alert+Sent+To+Every+Cellphone+in+Hawaii%3A+http%3A%2F%2Fbit.ly%2F2DbetG0"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F14%2F0114215%2Ffake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11608907&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xWifO8jBuuk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T02:19:00+00:00</dc:date>
-<dc:subject>cellphones</dc:subject>
-<slash:department>aloha</slash:department>
-<slash:section>mobile</slash:section>
-<slash:comments>184</slash:comments>
-<slash:hit_parade>184,178,112,98,42,23,14</slash:hit_parade>
-<feedburner:origLink>https://mobile.slashdot.org/story/18/01/14/0114215/fake-inbound-missile-alert-sent-to-every-cellphone-in-hawaii?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Is Finland's Universal Basic Income Trial Too Good To Be True? </title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bVkXrcVPq9Y/is-finlands-universal-basic-income-trial-too-good-to-be-true</link>
-<description>It was one year ago that Finland began giving money to 2,000 unemployed people -- roughly $652 a month (&amp;euro;560 or &amp;pound;475). But have we learned anything about universal basic incomes? An anonymous reader quotes the Guardian:
-Amid this unprecedented media attention, the experts who devised the scheme are concerned it is being misrepresented. "It's not really what people are portraying it as," said Markus Kanerva, an applied social and behavioural sciences specialist working in the prime minister's office in Helsinki. "A full-scale universal income trial would need to study different target groups, not just the unemployed. It would have to test different basic income levels, look at local factors. This is really about seeing how a basic unconditional income affects the employment of unemployed people." 
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614485&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/JuTcV-w-ARY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T18:05:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>catching-up</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>79</slash:comments>
+<slash:hit_parade>79,77,54,49,16,7,4</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Lenovo Discovers and Removes Backdoor In Networking Switches</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JXGLKxYMyWs/lenovo-discovers-and-removes-backdoor-in-networking-switches</link>
+<description>An anonymous reader writes: Lenovo engineers have discovered a backdoor in the firmware of RackSwitch and BladeCenter networking switches. The company released firmware updates last week. The Chinese company said it found the backdoor after an internal security audit of firmware for products added to its portfolio following the acquisitions of other companies. Lenovo says the backdoor affects only RackSwitch and BladeCenter switches running ENOS (Enterprise Network Operating System). The backdoor was added to ENOS in 2004 when ENOS was maintained by Nortel's Blade Server Switch Business Unit (BSSBU). Lenovo claims Nortel appears to have authorized the addition of the backdoor "at the request of a BSSBU OEM customer." In a security advisory regarding this issue, Lenovo refers to the backdoor under the name of "HP backdoor." The backdoor code appears to have remained in the firmware even after Nortel spun BSSBU off in 2006 as BLADE Network Technologies (BNT). The backdoor also remained in the code even after IBM acquired BNT in 2010. Lenovo bought IBM's BNT portfolio in 2014.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Lenovo+Discovers+and+Removes+Backdoor+In+Networking+Switches%3A+http%3A%2F%2Fbit.ly%2F2DAg2dh"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F15%2F1729247%2Flenovo-discovers-and-removes-backdoor-in-networking-switches%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-While UBI tends often to be associated with progressive politics, Finland's trial was launched -- at a cost of around &amp;euro;20m (&amp;pound;17.7m or $24.3 million) -- by a centre-right, austerity-focused government interested primarily in spending less on social security and bringing down Finland's stubborn 8%-plus unemployment rate. It has a very clear purpose: to see whether an unconditional income might incentivise people to take up paid work. Authorities believe it will shed light on whether unemployed Finns, as experts believe, are put off taking up a job by the fear that a higher marginal tax rate may leave them worse off. Many are also deterred by having to reapply for benefits after every casual or short-term contract... According to Kanerva, the core data the government is seeking -- on whether, and how, the job take-up of the 2,000 unemployed people in the trial differs from a 175,000-strong control group -- will be "robust, and usable in future economic modelling" when it is published in 2019. 
-Although the experiment may be impacted by all the hype it's generating, according to the Guardian. "One participant who hoped to start his own business with the help of the unconditional monthly payment complained that, after speaking to 140 TV crews and reporters from as far afield as Japan and Korea, he has simply not been able to find the time."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Is+Finland's+Universal+Basic+Income+Trial+Too+Good+To+Be+True%3F+%3A+http%3A%2F%2Fbit.ly%2F2AVVhpI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F13%2F1030223%2Fis-finlands-universal-basic-income-trial-too-good-to-be-true%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11607667&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/bVkXrcVPq9Y" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-14T00:14:00+00:00</dc:date>
-<dc:subject>eu</dc:subject>
-<slash:department>Finnish-finance</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>372</slash:comments>
-<slash:hit_parade>372,351,204,161,57,29,13</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/13/1030223/is-finlands-universal-basic-income-trial-too-good-to-be-true?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>'Science Fiction Writers of America' Accuse Internet Archive of Piracy</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/d406DH29AKo/science-fiction-writers-of-america-accuse-internet-archive-of-piracy</link>
-<description>An anonymous reader writes:
- The "Open Library" project of the nonprofit Internet Archive has been scanning books and offering "loans" of DRM-protected versions for e-readers (which expire after the loan period expires). This week the Legal Affairs Committe of the Science Fiction Writers of America issued a new "Infringement Alert" on the practice, complaining that "an unreadable copy of the book is saved on users' devices...and can be made readable by stripping DRM protection." 
-The objection, argues SFWA President Cat Rambo, is that "writers' work is being scanned in and put up for access without notifying them... it is up to the individual writer whether or not their work should be made available in this way." But the infringement alert takes the criticism even further. "We suspect that this is the world's largest ongoing project of unremunerated digital distribution of entire in-copyright books." 
-The Digital Reader blog points out one great irony. "The program initially launched in 2007. It has been running for ten years, and the SFWA only just now noticed." They add that SFWA's tardiness "leaves critical legal issues unresolved." 
-
-"Remember, Google won the Google Books case, and had its scanning activities legalized as fair use ex post facto... [I]n fact the Internet Archive has a stronger case than Google did; the latter had a commercial interest in its scans, while the Internet Archive is a non-profit out to serve the public good."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status='Science+Fiction+Writers+of+America'+Accuse+Internet+Archive+of+Piracy%3A+http%3A%2F%2Fbit.ly%2F2Dsn6sv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F13%2F0010244%2Fscience-fiction-writers-of-america-accuse-internet-archive-of-piracy%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606215&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/d406DH29AKo" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-13T23:09:00+00:00</dc:date>
-<dc:subject>books</dc:subject>
-<slash:department>war-on-libraries</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>95</slash:comments>
-<slash:hit_parade>95,89,61,51,16,8,6</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/13/0010244/science-fiction-writers-of-america-accuse-internet-archive-of-piracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Japanese Console Market Grows For the First Time In 11 Years</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/OczDWbZq_FY/japanese-console-market-grows-for-the-first-time-in-11-years</link>
-<description>According to Famitsu, hardware sales in Japan experienced a huge spike in 2017 compared to the previous year. In 2016, Japanese hardware sales were 117.05 billion yen ($1.05 billion), while in 2017, they jumped to 202.37 billion yen ($1.81 billion). Kotaku reports: Software sales also increased: in 2016, they were 182.4 billion yen ($1.63 billion) and the following year, they were 189.3 billion yen ($1.69 billion). A big part of this increase is due to the Nintendo Switch's brisk hardware sales. The PS4 has also continued to churn out steady numbers. The last time the Japanese gaming market saw an uptick was in 2006, when the Nintendo DS Lite, the Nintendo Wii, the PS3 launched.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Japanese+Console+Market+Grows+For+the+First+Time+In+11+Years%3A+http%3A%2F%2Fbit.ly%2F2D6yCge"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F13%2F0248237%2Fjapanese-console-market-grows-for-the-first-time-in-11-years%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606365&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/OczDWbZq_FY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-13T22:04:00+00:00</dc:date>
-<dc:subject>japan</dc:subject>
-<slash:department>what-goes-down-must-come-up</slash:department>
-<slash:section>hardware</slash:section>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614395&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/JXGLKxYMyWs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T17:29:00+00:00</dc:date>
+<dc:subject>network</dc:subject>
+<slash:department>fixing-things</slash:department>
+<slash:section>technology</slash:section>
 <slash:comments>32</slash:comments>
-<slash:hit_parade>32,29,12,8,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/13/0248237/japanese-console-market-grows-for-the-first-time-in-11-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Stack Overflow Stats Reveal 'the Brutal Lifecycle of JavaScript Frameworks'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/gRiCO8ardvc/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks</link>
-<description>A developer on the Internal Tools team at Stack Overflow reveals some new statistics from their 'Trends' tool:
+<slash:hit_parade>32,27,17,10,7,3,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Cryptocurrency Traders in South Korea Face Fines For Virtual Accounts</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/07WEHB6pVGo/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts</link>
+<description>An anonymous reader shares a report: Cryptocurrency investors in South Korea will be fined for refusing to convert their virtual accounts into real-name ones, financial authorities said Sunday. The move comes as South Korea is scrambling to rein in the virtual currency frenzy in Asia's fourth-largest economy, including preparations for a bill to ban cryptocurrency exchanges at home. According to the authorities, cryptocurrency traders will be allowed to convert their virtual accounts into real-name ones within this month, but those who refuse to accede to real-name identification will face fines.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Cryptocurrency+Traders+in+South+Korea+Face+Fines+For+Virtual+Accounts%3A+http%3A%2F%2Fbit.ly%2F2DgcMH5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F15%2F1647254%2Fcryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-JavaScript UI frameworks and libraries work in cycles. Every six months or so, a new one pops up, claiming that it has revolutionized UI development. Thousands of developers adopt it into their new projects, blog posts are written, Stack Overflow questions are asked and answered, and then a newer (and even more revolutionary) framework pops up to usurp the throne... 
-There appears to be a quick ascent, as the framework gains popularity and then a slightly less quick but steady decline as developers adopt newer technologies. These lifecycles only last a couple of years. Starting around 2011, there seems to be major adoption of a couple of competing frameworks: Backbone, Knockout, and Ember. Questions about these tags appear to grow until around 2013 and have been in steady decline since, at about the same time as AngularJS started growing. The latest startup is the Vue.js framework, which has shown quick adoption, as it is one of the fastest growing tags on Stack Overflow. Only time can tell how long this growth will last. 
-"Let's be honest," the post concludes. "The size of a developer community certainly counts; it contributes to a thriving open source environment, and makes it easier to find help on Stack Overflow."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Stack+Overflow+Stats+Reveal+'the+Brutal+Lifecycle+of+JavaScript+Frameworks'%3A+http%3A%2F%2Fbit.ly%2F2AXqUiE"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F13%2F0117235%2Fstack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11606283&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/gRiCO8ardvc" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614311&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/07WEHB6pVGo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T16:47:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>tightening-things</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,49,24,19,6,3,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>India To Add Facial Authentication For Its Aadhaar Card Security</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zIT4jZZoB6k/india-to-add-facial-authentication-for-its-aadhaar-card-security</link>
+<description>India will build facial recognition into its national identity card in addition to fingerprints after a series of breaches in the world's biggest biometric identification programme, the government said on Monday. From a report: A local newspaper reported this month that access to the "Aadhaar" database which has identity details of more than 1 billion citizens was being sold for just $8 on social media. The Unique Identification Authority of India (UIDAI), which issues the identity cards, said it would add face recognition software as an additional layer of security from July. Card holders will be required to match their photographs with that stored in the data base for authentication in addition to fingerprints and iris scans, the agency said in a statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=India+To+Add+Facial+Authentication+For+Its+Aadhaar+Card+Security%3A+http%3A%2F%2Fbit.ly%2F2Dzlg9i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F15%2F1612253%2Findia-to-add-facial-authentication-for-its-aadhaar-card-security%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614229&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zIT4jZZoB6k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T16:12:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>tussle-continues</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,14,4,4,1,1,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why Uber Can Find You but 911 Can't</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/t13_3GL-h8Y/why-uber-can-find-you-but-911-cant</link>
+<description>Accurate location data is on smartphones, so why don't more wireless carriers use it to locate emergency callers? From a report, shared by a reader: Software on Apple's iPhones and Google's Android smartphones help mobile apps like Uber and Facebook to pinpoint a user's location, making it possible to order a car, check in at a local restaurant or receive targeted advertising. But 911, with a far more pressing purpose, is stuck in the past. U.S. regulators estimate as many as 10,000 lives could be saved each year if the 911 emergency dispatching system were able to get to callers one minute faster. Better technology would be especially helpful, regulators say, when a caller can't speak or identify his or her location. After years of pressure, wireless carriers and Silicon Valley companies are finally starting to work together to solve the problem. But progress has been slow. Roughly 80% of the 240 million calls to 911 each year are made using cellphones, according to a trade group that represents first responders. For landlines, the system shows a telephone's exact address. But it can register only an estimated location, sometimes hundreds of yards wide, from a cellphone call. That frustration is now a frequent source of tension during 911 calls, said Colleen Eyman, who oversees 911 services in Arvada, Colo., just outside Denver.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Uber+Can+Find+You+but+911+Can't%3A+http%3A%2F%2Fbit.ly%2F2DfsbaV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F15%2F1532233%2Fwhy-uber-can-find-you-but-911-cant%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/t13_3GL-h8Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T15:32:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>126</slash:comments>
+<slash:hit_parade>126,124,85,76,19,10,5</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>AI Beats Humans at Reading Comprehension</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Xng_IQ9cySw/ai-beats-humans-at-reading-comprehension</link>
+<description>In what is being called a landmark moment for natural language processing, Alibaba and Microsoft have developed AIs that can outperform humans on a reading and comprehension test. From a report: Alibaba Group put its deep neural network model through its paces last week, asking the AI to provide exact answers to more than 100,000 questions comprising a quiz that's considered one of the world's most authoritative machine-reading gauges. The model developed by Alibaba's Institute of Data Science of Technologies scored 82.44, edging past the 82.304 that rival humans achieved. Alibaba said it's the first time a machine has out-done a real person in such a contest. Microsoft achieved a similar feat, scoring 82.650 on the same test, but those results were finalized a day after Alibaba's, the company said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=AI+Beats+Humans+at+Reading+Comprehension%3A+http%3A%2F%2Fbit.ly%2F2B1ICkY"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F15%2F1455257%2Fai-beats-humans-at-reading-comprehension%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614041&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Xng_IQ9cySw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T14:55:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>beat-them-if-you-can</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>126</slash:comments>
+<slash:hit_parade>126,124,81,67,13,4,2</slash:hit_parade>
+<feedburner:origLink>https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Tech Failings of Hawaii's Missile Alert</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ww1_QofkMGs/the-tech-failings-of-hawaiis-missile-alert</link>
+<description>Over the weekend, Hawaii incorrectly warned citizens of a missile attack via their phones. According to The Washington Post, the error was a result of a staffer picking the wrong option -- missile alert instead of test missile alert -- from a drop down software menu. Hawaiian officials say they have already changed protocols to avoid a repeat of the scenario. The report goes on to add: Part of what worsened the situation Saturday was that there was no system in place at the state emergency agency for correcting the error, HEMA (Hawaii Emergency Management Agency) spokesman Richard Rapoza said. The state agency had standing permission through FEMA to use civil warning systems to send out the missile alert -- but not to send out a subsequent false alarm alert, he said. Though the Hawaii Emergency Management Agency posted a follow-up tweet at 8:20 a.m. saying there was "NO missile threat," it wouldn't be until 8:45 a.m. that a subsequent cellphone alert was sent telling people to stand down. Motherboard notes that new regulations require telecom companies to offer a testing system for local and state alert originators, but because of lobbying by Verizon and CTIA, this specific regulation does not go into effect until March 2019. In a piece, The Atlantic argues that the 90-character messages sent by the system aren't suited to the way we use our devices.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Tech+Failings+of+Hawaii's+Missile+Alert%3A+http%3A%2F%2Fbit.ly%2F2DC33bj"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F15%2F149248%2Fthe-tech-failings-of-hawaiis-missile-alert%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11613921&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ww1_QofkMGs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-15T14:10:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>lessons-for-future</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>171</slash:comments>
+<slash:hit_parade>171,164,114,102,22,12,7</slash:hit_parade>
+<feedburner:origLink>https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Which JavaScript Framework is the Most Popular?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/T_q1XsjGkN8/which-javascript-framework-is-the-most-popular</link>
+<description>An anonymous reader quotes InfoWorld's report on which JavaScript frameworks are the most widely-used:
+In a study of 28-day download cycles for front-end JavaScript frameworks, NPM, which oversees the popular JavaScript package registry, found that React has been on a steady upward trajectory; it now accounts for about 0.05 percent of the registry's 13 billion downloads per month as of the fourth quarter of 2017. Web developers as well as desktop and mobile developers are adopting the library and it has spawned an ecosystem of related packages. Preact, a lightweight alternative to React, also has seen growth and could become a force in the future. 
+On the down side, Backbone, which accounted for almost 0.1 percent of all downloads in 2013, now comprises only about 0.005 percent of downloads (about 750,000 per month). Backbone has declined steeply but is kept afloat by the long shelf life of projects using it, NPM reasoned. The jQuery JavaScript library also remains popular but has experienced decreasing interest. Angular, the Google-developed JavaScript framework, was the second-most-popular framework behind React, when combining the original Angular 1.x with the rewritten Angular 2.x. Version 1.x was at about 0.0125 percent of downloads last month while version 2.x was at about 0.02 percent. Still, Angular as a whole is showing just modest growth.
+ 
+They also report that the four JavaScript frameworks with the fastest growth rates for 2017 were Preact, Vue, React, and Ember. 
+But for back end services written in JavaScript, npm reports that Express "is the overwhelmingly dominant solution... The next four biggest frameworks are so small relative to Express that it's hard to even see them."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Which+JavaScript+Framework+is+the+Most+Popular%3F%3A+http%3A%2F%2Fbit.ly%2F2B2ohfp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F15%2F063229%2Fwhich-javascript-framework-is-the-most-popular%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11611047&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/T_q1XsjGkN8" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-13T20:59:00+00:00</dc:date>
-<dc:subject>opensource</dc:subject>
-<slash:department>reacting-to-React</slash:department>
+<dc:date>2018-01-15T12:34:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>popularity-contests</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>138</slash:comments>
-<slash:hit_parade>138,138,98,86,23,9,7</slash:hit_parade>
-<feedburner:origLink>https://developers.slashdot.org/story/18/01/13/0117235/stack-overflow-stats-reveal-the-brutal-lifecycle-of-javascript-frameworks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:comments>127</slash:comments>
+<slash:hit_parade>127,125,79,73,24,11,9</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'Don't Fear the Robopocalypse':  the Case for Autonomous Weapons</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Yssa0_RhkaE/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons</link>
+<description>Lasrick shares "Don't fear the robopocalypse," an interview from the Bulletin of the Atomic Scientists with the former Army Ranger who led the team that established the U.S. Defense Department policy on autonomous weapons (and has written the upcoming book Army of None: Autonomous Weapons and the Future of War). Paul Scharre makes the case for uninhabited vehicles, robot teammates, and maybe even an outer perimeter of robotic sentries (and, for mobile troops, "a cloud of air and ground robotic systems"). But he also argues that "In general, we should strive to keep humans involved in the lethal force decision-making process as much as is feasible. What exactly that looks like in practice, I honestly don't know." 
+So does that mean he thinks we'll eventually see the deployment of fully autonomous weapons in combat?
+I think it's very hard to imagine a world where you physically take the capacity out of the hands of rogue regimes... The technology is so ubiquitous that a reasonably competent programmer could build a crude autonomous weapon in their garage. The idea of putting some kind of nonproliferation regime in place that actually keeps the underlying technology out of the hands of people -- it just seems really naive and not very realistic. I think in that kind of world, you have to anticipate that there are, at a minimum, going to be uses by terrorists and rogue regimes. I think it's more of an open question whether we cross the threshold into a world where nation-states are using them on a large scale. 
+And if so, I think it's worth asking, what do we mean by"them"? What degree of autonomy? There are automated defensive systems that I would characterize as human-supervised autonomous weapons -- where a human is on the loop and supervising its operation -- in use by at least 30 countries today. They've been in use for decades and really seem to have not brought about the robopocalypse or anything. I'm not sure that those [systems] are particularly problematic. In fact, one could see them as being even more beneficial and valuable in an age when things like robot swarming and cooperative autonomy become more possible.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='Don't+Fear+the+Robopocalypse'%3A++the+Case+for+Autonomous+Weapons%3A+http%3A%2F%2Fbit.ly%2F2EFW2VS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F15%2F0038250%2Fdont-fear-the-robopocalypse-the-case-for-autonomous-weapons%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610291&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Yssa0_RhkaE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-15T09:39:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>rise-of-the-machines</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>122</slash:comments>
+<slash:hit_parade>122,119,65,57,14,8,6</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>City of Barcelona Dumps Windows For Linux and Open Source Software</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8QJTleeqE3k/city-of-barcelona-dumps-windows-for-linux-and-open-source-software</link>
+<description>An anonymous reader quotes Open Source Observatory:
+The City of Barcelona is migrating its computer systems away from the Windows platform, reports the Spanish newspaper El Pa&amp;iacute;s. The City's strategy is first to replace all user applications with open-source alternatives, until the underlying Windows operating system is the only proprietary software remaining. In a final step, the operating system will be replaced with Linux... According to Francesca Bria, the Commissioner of Technology and Digital Innovation at the City Council, the transition will be completed before the current administration's mandate ends in spring 2019. For starters, the Outlook mail client and Exchange Server will be replaced with Open-Xchange. In a similar fashion, Internet Explorer and Office will be replaced with Firefox and LibreOffice, respectively. The Linux distribution eventually used will probably be Ubuntu, since the City of Barcelona is already running 1,000 Ubuntu-based desktops as part of a pilot...
+ 
+Barcelona is the first municipality to have joined the European campaign 'Public Money, Public Code'. This campaign is an initiative of the Free Software Foundation Europe (FSFE) and revolves around an open letter advocating that publicly funded software should be free. Currently, this call to public agencies is supported by more than 100 organisations and almost 15,000 individuals. With the new open-source strategy, Barcelona's City Council aims to avoid spending large amounts of money on licence-based software and to reduce its dependence on proprietary suppliers through contracts that in some cases have been closed for decades.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=City+of+Barcelona+Dumps+Windows+For+Linux+and+Open+Source+Software%3A+http%3A%2F%2Fbit.ly%2F2DxvMOs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F15%2F0415219%2Fcity-of-barcelona-dumps-windows-for-linux-and-open-source-software%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610579&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8QJTleeqE3k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-15T05:39:00+00:00</dc:date>
+<dc:subject>eu</dc:subject>
+<slash:department>public-money-public-code</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>196</slash:comments>
+<slash:hit_parade>196,189,92,75,23,14,11</slash:hit_parade>
+<feedburner:origLink>https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>California Will Close Its Last Nuclear Power Plant</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WyWzPp0UR3A/california-will-close-its-last-nuclear-power-plant</link>
+<description>An anonymous reader quotes the San Francisco Chronicle:
+California's last nuclear power plant -- Diablo Canyon, whose contentious birth helped shape the modern environmental movement -- will close in 2025, state utility regulators decided Thursday. The unanimous vote by the California Public Utilities Commission will likely bring an end to nuclear energy's long history in the state. State law forbids building more nuclear plants in California until the federal government creates a long-term solution for dealing with their waste, a goal that remains elusive despite decades of effort. 
+
+The decision comes even as California expands its fight against global warming. Owned by Pacific Gas and Electric Co., Diablo Canyon is the state's largest power plant, supplying 9 percent of California's electricity while producing no greenhouse gases. "With this decision, we chart a new energy future by phasing out nuclear power here in California," said commission President Michael Picker. "We've looked hard at all the arguments, and we agree the time has come."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=California+Will+Close+Its+Last+Nuclear+Power+Plant%3A+http%3A%2F%2Fbit.ly%2F2DeFWq3"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F15%2F0356217%2Fcalifornia-will-close-its-last-nuclear-power-plant%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610551&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/WyWzPp0UR3A" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-15T04:09:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>reactors-near-earthquake-faults</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>260</slash:comments>
+<slash:hit_parade>260,254,158,142,44,24,19</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hackers Hijack DNS For Lumens Cryptocurrency Site 'BlackWallet', Steal $400,000</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PxmTkmqZcuE/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000</link>
+<description>An anonymous reader quotes BleepingComputer:
+Unknown hackers (or hacker) have hijacked the DNS server for BlackWallet.co, a web-based wallet application for the Stellar Lumen cryptocurrency (XLM), and have stolen over $400,000 from users' accounts. The attack happened late Saturday afternoon (UTC timezone), January 13, when the attackers hijacked the DNS entry of the BlackWallet.co domain and redirected it to their own server. "The DNS hijack of Blackwallet injected code," said Kevin Beaumont, a security researcher who analyzed the code before the BlackWallet team regained access over their domain and took down the site. "If you had over 20 Lumens it pushes them to a different wallet," Beaumont added... According to Bleeping Computer's calculations, as of writing, the attacker collected 669,920 Lumens, which is about $400,192 at the current XML/USD exchange rate. The BlackWallet team and other XLM owners have tried to warn users via alerts on Reddit, Twitter, GitHub, the Stellar Community and GalacticTalk forums, but to no avail, as users continued to log into the rogue BlackWallet.co domain, enter their credentials, and then see funds mysteriously vanish from their wallets.	&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hackers+Hijack+DNS+For+Lumens+Cryptocurrency+Site+'BlackWallet'%2C+Steal+%24400%2C000%3A+http%3A%2F%2Fbit.ly%2F2Dxv5V5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F15%2F0059231%2Fhackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610309&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PxmTkmqZcuE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-15T02:39:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>taking-the-money-and-running</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,68,23,19,3,1,1</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

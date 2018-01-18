@@ -11,21 +11,31 @@ import java.util.logging.Logger;
 
 public class ConnectionStatusBox extends VBox
 {
-    private static final int PERIOD_BETWEEN_UPDATES = 3;
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final int PERIOD_BETWEEN_UPDATES = 3;
     private ConnectionStatus connectionStatus;
-    private final Label statusLabel;
-    private final Label pingTimeLabel;
+    private Label statusLabel;
+    private Label pingTimeLabel;
     
     private ConnectionStatusBox ()
     {
         determineOperatingSystem();
+        adjustBoxProperties();
+        initializeAndAddFields();
+        updateDataPeriodically();
+    }
+    
+    private void adjustBoxProperties ()
+    {
         setSpacing(10);
         setAlignment(Pos.TOP_CENTER);
+    }
+    
+    private void initializeAndAddFields ()
+    {
         statusLabel = new Label();
         pingTimeLabel = new Label();
         getChildren().addAll(statusLabel, pingTimeLabel);
-        updateDataPeriodically();
     }
     
     private void determineOperatingSystem ()
