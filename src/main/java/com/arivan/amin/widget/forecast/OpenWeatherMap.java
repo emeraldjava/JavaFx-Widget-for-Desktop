@@ -1,6 +1,5 @@
 package com.arivan.amin.widget.forecast;
 
-import org.jetbrains.annotations.NotNull;
 import org.w3c.dom.*;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -24,7 +23,6 @@ public class OpenWeatherMap implements WeatherData
         updateWeatherData();
     }
     
-    @NotNull
     public static OpenWeatherMap newInstance (WeatherProvider weatherProvider)
     {
         return new OpenWeatherMap(weatherProvider);
@@ -46,7 +44,7 @@ public class OpenWeatherMap implements WeatherData
         }
     }
     
-    private static List<Element> createList (@NotNull NodeList nodes)
+    private static List<Element> createList (NodeList nodes)
     {
         return IntStream.range(0, nodes.getLength()).mapToObj(nodes::item)
                 .filter(item -> item instanceof Element).map(item -> (Element) item)
@@ -75,14 +73,12 @@ public class OpenWeatherMap implements WeatherData
         return getSunAttribute("set");
     }
     
-    @NotNull
     private String getSunAttribute (String attr)
     {
         return elementList.stream().filter(e -> "sun".equals(e.getTagName()))
                 .map(e -> convertTimeZoneAndExtractTime(attr, e)).collect(Collectors.joining());
     }
     
-    @NotNull
     private String convertTimeZoneAndExtractTime (String attr, Element e)
     {
         String time = changeTimeZoneToLocal(e.getAttribute(attr));
@@ -90,7 +86,6 @@ public class OpenWeatherMap implements WeatherData
         return time;
     }
     
-    @NotNull
     private CharSequence getTimeNodeAttribute (int nodeNumber)
     {
         return elementList.stream().filter(e -> "forecast".equals(e.getTagName()))
@@ -229,7 +224,6 @@ public class OpenWeatherMap implements WeatherData
         return weatherDataTime.isAfter(dayStart) && weatherDataTime.isBefore(dayEnd);
     }
     
-    @NotNull
     private LocalDateTime getDayStart (int dayNumber)
     {
         LocalDateTime dayStart = LocalDateTime.parse(changeTimeZoneToLocal(getTimeNodeAttribute(0)))
@@ -268,7 +262,6 @@ public class OpenWeatherMap implements WeatherData
         return minTemp;
     }
     
-    @NotNull
     private String getWeatherIcon (int daysFromNow)
     {
         List<String> list = getAttributesOfDaysFromNow(daysFromNow, "symbol", "var");

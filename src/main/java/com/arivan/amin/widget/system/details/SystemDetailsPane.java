@@ -1,24 +1,23 @@
 package com.arivan.amin.widget.system.details;
 
+import javafx.beans.property.DoubleProperty;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.*;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
 public class SystemDetailsPane extends Pane
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final SystemDetails systemDetails;
+    private SystemDetails systemDetails;
     
-    private SystemDetailsPane (@NotNull Pane container)
+    private SystemDetailsPane (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        super();
-        systemDetails = LinuxSystemDetails.newInstance();
+        determineOperatingSystem();
         VBox mainHBox = new VBox(10);
         VBox iconVBox = new VBox();
         iconVBox.setAlignment(Pos.CENTER);
@@ -28,8 +27,8 @@ public class SystemDetailsPane extends Pane
         VBox detailsVBox = new VBox();
         detailsVBox.setPadding(new Insets(10));
         detailsVBox.setAlignment(Pos.CENTER);
-        mainHBox.prefWidthProperty().bind(container.widthProperty());
-        mainHBox.prefHeightProperty().bind(container.heightProperty());
+        mainHBox.prefWidthProperty().bind(parentWidth);
+        mainHBox.prefHeightProperty().bind(parentHeight.multiply(0.66));
         Label systemNameLabel = new Label(systemDetails.systemName());
         systemNameLabel.getStyleClass().add("system-detail-label");
         Label osLabel = new Label(systemDetails.operatingSystemName() + "  " +
@@ -50,9 +49,14 @@ public class SystemDetailsPane extends Pane
         getChildren().add(mainHBox);
     }
     
-    @NotNull
-    public static SystemDetailsPane newInstance (Pane container)
+    private void determineOperatingSystem ()
     {
-        return new SystemDetailsPane(container);
+        systemDetails = LinuxSystemDetails.newInstance();
+    }
+    
+    public static SystemDetailsPane newInstance (DoubleProperty parentWidth,
+            DoubleProperty parentHeight)
+    {
+        return new SystemDetailsPane(parentWidth, parentHeight);
     }
 }

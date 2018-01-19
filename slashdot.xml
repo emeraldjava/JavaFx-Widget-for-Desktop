@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-15T20:38:11+00:00</dc:date>
+<dc:date>2018-01-19T12:00:16+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,321 +41,306 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Canadian Charged With Running LeakedSource.com, Selling Stolen Info</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/TwHTkridL2M/canadian-charged-with-running-leakedsourcecom-selling-stolen-info</link>
-<description>A Canadian man accused of operating the LeakedSource.com website, a major repository of stolen online credentials, has been arrested and charged with trafficking in billions of stolen personal identity records, the Royal Canadian Mounted Police (RCMP) said on Monday. From a report: The site, which was shut down in early 2017, had collected details from a string of major breaches and made them accessible and searchable for a fee. The man, 27-year-old Jordan Evan Bloom, is due to appear in a Toronto court on Monday to hear charges that as administrator of the site he collected some C$247,000 from the sale of stolen records and associated passwords.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Canadian+Charged+With+Running+LeakedSource.com%2C+Selling+Stolen+Info%3A+http%3A%2F%2Fbit.ly%2F2DAflkk"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F15%2F205235%2Fcanadian-charged-with-running-leakedsourcecom-selling-stolen-info%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>You Could Soon Be Manufacturing Your Own Drugs -- Thanks To 3D Printing</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/syDu5xJ1EuA/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing</link>
+<description>sciencehabit shares a report from Science Magazine: Forget those long lines at the pharmacy: Someday soon, you might be making your own medicines at home. That's because researchers have tailored a 3D printer to synthesize pharmaceuticals and other chemicals from simple, widely available starting compounds fed into a series of water bottle -- size reactors. The work, they say, could digitize chemistry, allowing users to synthesize almost any compound anywhere in the world. In today's issue of Science, Leroy Cronin, a chemist at the University of Glasgow in the United Kingdom, and his colleagues report printing a series of interconnected reaction vessels that carry out four different chemical reactions involving 12 separate steps, from filtering to evaporating different solutions. By adding different reagents and solvents at the right times and in a precise order, they were able to convert simple, widely available starting compounds into a muscle relaxant called baclofen. And by designing reactionware to carry out different chemical reactions with different reagents, they produced other medicines, including an anticonvulsant and a drug to fight ulcers and acid reflux. So why not just buy a reactionware kit and scrap the printing? "This approach will allow the on-demand production of chemicals and drugs that are in short supply, hard to make at big facilities, and allow customization to tailor them to the application," Cronin says.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=You+Could+Soon+Be+Manufacturing+Your+Own+Drugs+--+Thanks+To+3D+Printing%3A+http%3A%2F%2Fbit.ly%2F2DQbfof"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F19%2F0120227%2Fyou-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614711&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/TwHTkridL2M" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T20:05:00+00:00</dc:date>
-<dc:subject>money</dc:subject>
-<slash:department>end-of-road</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>6</slash:comments>
-<slash:hit_parade>6,6,4,3,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/15/205235/canadian-charged-with-running-leakedsourcecom-selling-stolen-info?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google Brings Map Service Back To China</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9I7vnzaJ690/google-brings-map-service-back-to-china</link>
-<description>Google has relaunched its map service in China after an eight-year absence, signaling a new era of cooperation between the American internet giant and local partners in fields such as artificial intelligence, reports Nikkei. From the report: Chinese netizens hailed the revival of Google Maps on Monday as the American company's great return to China, where its trademark search and other services have been unavailable since 2010. While Google began offering a translation app for Chinese smartphones in March 2017, the map service reaches far more users as one of Google's best-known offerings. The company has set up a China-specific version of the Google Maps website and introduced a map app for Chinese iPhones. But when users of the app attempt to use its navigation features, they are automatically transferred to an app from AutoNavi, a mapping company owned by Chinese internet leader Alibaba Group Holding.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Brings+Map+Service+Back+To+China%3A+http%3A%2F%2Fbit.ly%2F2DdrZsz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F15%2F1922210%2Fgoogle-brings-map-service-back-to-china%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614643&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9I7vnzaJ690" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T19:22:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>second-time's-the-charm</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>4</slash:comments>
-<slash:hit_parade>4,4,3,3,2,1,0</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/15/1922210/google-brings-map-service-back-to-china?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Researchers Find That One Person Likely Drove Bitcoin From $150 to $1,000</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ciaZUUZfFt4/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000</link>
-<description>An anonymous reader shares a report: Researchers Neil Gandal, JT Hamrick, Tyler Moore, and Tali Oberman have written a fascinating paper on Bitcoin price manipulation. Entitled "Price Manipulation in the Bitcoin Ecosystem" and appearing in the recent issue of the Journal of Monetary Economics the paper describes to what degree the Bitcoin ecosystem is controlled by bad actors. To many it's been obvious that the Bitcoin markets are, at the very least, being manipulated by one or two big players. "This paper identifies and analyzes the impact of suspicious trading activity on the Mt. Gox Bitcoin currency exchange, in which approximately 600,000 bitcoins (BTC) valued at $188 million were fraudulently acquired," the researchers wrote. "During both periods, the USD-BTC exchange rate rose by an average of four percent on days when suspicious trades took place, compared to a slight decline on days without suspicious activity. Based on rigorous analysis with extensive robustness checks, the paper demonstrates that the suspicious trading activity likely caused the unprecedented spike in the USD-BTC exchange rate in late 2013, when the rate jumped from around $150 to more than $1,000 in two months." The team found that many instances of price manipulation happened simply because the market was very thin for various cryptocurrencies including early Bitcoin.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers+Find+That+One+Person+Likely+Drove+Bitcoin+From+%24150+to+%241%2C000%3A+http%3A%2F%2Fbit.ly%2F2B2yJDA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F15%2F1849212%2Fresearchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614579&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ciaZUUZfFt4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T18:49:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>55</slash:comments>
-<slash:hit_parade>55,54,40,32,9,3,1</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/15/1849212/researchers-find-that-one-person-likely-drove-bitcoin-from-150-to-1000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ford is Throwing $11 Billion at Its Electric Car Problem</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JuTcV-w-ARY/ford-is-throwing-11-billion-at-its-electric-car-problem</link>
-<description>Ford said on Monday it will boost its investment in electric vehicles to $11 billion in the next five years, more than doubling a previous commitment. Company's chairman Bill Ford said the car maker would have 40 hybrid and fully electric vehicles in its range by the same period. It comes as countries around the world put more pressure on car makers to rein in carbon emissions. From a report: It was a dramatic escalation in Ford's crosstown rivalry with General Motors, which has seen its stock prices rise thanks to its commitments to both electrification and autonomy. GM has said it plans to roll out at least 20 new electric cars by 2023, a goal that puts it in a position to bring battery-powered driving to the mainstream. Last week, it unveiled a concept autonomous car without steering wheel or pedals. Meanwhile, the Blue Oval has had a challenging 2017. It remains strongly profitable, but its sale are stagnant, its costs have increased faster than expected, and its margins have failed to meet targets.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ford+is+Throwing+%2411+Billion+at+Its+Electric+Car+Problem%3A+http%3A%2F%2Fbit.ly%2F2DaKsWy"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F15%2F185251%2Fford-is-throwing-11-billion-at-its-electric-car-problem%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614485&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/JuTcV-w-ARY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T18:05:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>catching-up</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>79</slash:comments>
-<slash:hit_parade>79,77,54,49,16,7,4</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/15/185251/ford-is-throwing-11-billion-at-its-electric-car-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Lenovo Discovers and Removes Backdoor In Networking Switches</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JXGLKxYMyWs/lenovo-discovers-and-removes-backdoor-in-networking-switches</link>
-<description>An anonymous reader writes: Lenovo engineers have discovered a backdoor in the firmware of RackSwitch and BladeCenter networking switches. The company released firmware updates last week. The Chinese company said it found the backdoor after an internal security audit of firmware for products added to its portfolio following the acquisitions of other companies. Lenovo says the backdoor affects only RackSwitch and BladeCenter switches running ENOS (Enterprise Network Operating System). The backdoor was added to ENOS in 2004 when ENOS was maintained by Nortel's Blade Server Switch Business Unit (BSSBU). Lenovo claims Nortel appears to have authorized the addition of the backdoor "at the request of a BSSBU OEM customer." In a security advisory regarding this issue, Lenovo refers to the backdoor under the name of "HP backdoor." The backdoor code appears to have remained in the firmware even after Nortel spun BSSBU off in 2006 as BLADE Network Technologies (BNT). The backdoor also remained in the code even after IBM acquired BNT in 2010. Lenovo bought IBM's BNT portfolio in 2014.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Lenovo+Discovers+and+Removes+Backdoor+In+Networking+Switches%3A+http%3A%2F%2Fbit.ly%2F2DAg2dh"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F15%2F1729247%2Flenovo-discovers-and-removes-backdoor-in-networking-switches%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614395&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/JXGLKxYMyWs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T17:29:00+00:00</dc:date>
-<dc:subject>network</dc:subject>
-<slash:department>fixing-things</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>32</slash:comments>
-<slash:hit_parade>32,27,17,10,7,3,2</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/15/1729247/lenovo-discovers-and-removes-backdoor-in-networking-switches?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Cryptocurrency Traders in South Korea Face Fines For Virtual Accounts</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/07WEHB6pVGo/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts</link>
-<description>An anonymous reader shares a report: Cryptocurrency investors in South Korea will be fined for refusing to convert their virtual accounts into real-name ones, financial authorities said Sunday. The move comes as South Korea is scrambling to rein in the virtual currency frenzy in Asia's fourth-largest economy, including preparations for a bill to ban cryptocurrency exchanges at home. According to the authorities, cryptocurrency traders will be allowed to convert their virtual accounts into real-name ones within this month, but those who refuse to accede to real-name identification will face fines.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Cryptocurrency+Traders+in+South+Korea+Face+Fines+For+Virtual+Accounts%3A+http%3A%2F%2Fbit.ly%2F2DgcMH5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F15%2F1647254%2Fcryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614311&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/07WEHB6pVGo" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T16:47:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>tightening-things</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>50</slash:comments>
-<slash:hit_parade>50,49,24,19,6,3,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/15/1647254/cryptocurrency-traders-in-south-korea-face-fines-for-virtual-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>India To Add Facial Authentication For Its Aadhaar Card Security</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zIT4jZZoB6k/india-to-add-facial-authentication-for-its-aadhaar-card-security</link>
-<description>India will build facial recognition into its national identity card in addition to fingerprints after a series of breaches in the world's biggest biometric identification programme, the government said on Monday. From a report: A local newspaper reported this month that access to the "Aadhaar" database which has identity details of more than 1 billion citizens was being sold for just $8 on social media. The Unique Identification Authority of India (UIDAI), which issues the identity cards, said it would add face recognition software as an additional layer of security from July. Card holders will be required to match their photographs with that stored in the data base for authentication in addition to fingerprints and iris scans, the agency said in a statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=India+To+Add+Facial+Authentication+For+Its+Aadhaar+Card+Security%3A+http%3A%2F%2Fbit.ly%2F2Dzlg9i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F15%2F1612253%2Findia-to-add-facial-authentication-for-its-aadhaar-card-security%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614229&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zIT4jZZoB6k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T16:12:00+00:00</dc:date>
-<dc:subject>privacy</dc:subject>
-<slash:department>tussle-continues</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>14</slash:comments>
-<slash:hit_parade>14,14,4,4,1,1,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/15/1612253/india-to-add-facial-authentication-for-its-aadhaar-card-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Why Uber Can Find You but 911 Can't</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/t13_3GL-h8Y/why-uber-can-find-you-but-911-cant</link>
-<description>Accurate location data is on smartphones, so why don't more wireless carriers use it to locate emergency callers? From a report, shared by a reader: Software on Apple's iPhones and Google's Android smartphones help mobile apps like Uber and Facebook to pinpoint a user's location, making it possible to order a car, check in at a local restaurant or receive targeted advertising. But 911, with a far more pressing purpose, is stuck in the past. U.S. regulators estimate as many as 10,000 lives could be saved each year if the 911 emergency dispatching system were able to get to callers one minute faster. Better technology would be especially helpful, regulators say, when a caller can't speak or identify his or her location. After years of pressure, wireless carriers and Silicon Valley companies are finally starting to work together to solve the problem. But progress has been slow. Roughly 80% of the 240 million calls to 911 each year are made using cellphones, according to a trade group that represents first responders. For landlines, the system shows a telephone's exact address. But it can register only an estimated location, sometimes hundreds of yards wide, from a cellphone call. That frustration is now a frequent source of tension during 911 calls, said Colleen Eyman, who oversees 911 services in Arvada, Colo., just outside Denver.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Uber+Can+Find+You+but+911+Can't%3A+http%3A%2F%2Fbit.ly%2F2DfsbaV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F15%2F1532233%2Fwhy-uber-can-find-you-but-911-cant%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/t13_3GL-h8Y" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T15:32:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>126</slash:comments>
-<slash:hit_parade>126,124,85,76,19,10,5</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/15/1532233/why-uber-can-find-you-but-911-cant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>AI Beats Humans at Reading Comprehension</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Xng_IQ9cySw/ai-beats-humans-at-reading-comprehension</link>
-<description>In what is being called a landmark moment for natural language processing, Alibaba and Microsoft have developed AIs that can outperform humans on a reading and comprehension test. From a report: Alibaba Group put its deep neural network model through its paces last week, asking the AI to provide exact answers to more than 100,000 questions comprising a quiz that's considered one of the world's most authoritative machine-reading gauges. The model developed by Alibaba's Institute of Data Science of Technologies scored 82.44, edging past the 82.304 that rival humans achieved. Alibaba said it's the first time a machine has out-done a real person in such a contest. Microsoft achieved a similar feat, scoring 82.650 on the same test, but those results were finalized a day after Alibaba's, the company said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=AI+Beats+Humans+at+Reading+Comprehension%3A+http%3A%2F%2Fbit.ly%2F2B1ICkY"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F15%2F1455257%2Fai-beats-humans-at-reading-comprehension%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11614041&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Xng_IQ9cySw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T14:55:00+00:00</dc:date>
-<dc:subject>microsoft</dc:subject>
-<slash:department>beat-them-if-you-can</slash:department>
-<slash:section>slashdot</slash:section>
-<slash:comments>126</slash:comments>
-<slash:hit_parade>126,124,81,67,13,4,2</slash:hit_parade>
-<feedburner:origLink>https://slashdot.org/story/18/01/15/1455257/ai-beats-humans-at-reading-comprehension?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Tech Failings of Hawaii's Missile Alert</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ww1_QofkMGs/the-tech-failings-of-hawaiis-missile-alert</link>
-<description>Over the weekend, Hawaii incorrectly warned citizens of a missile attack via their phones. According to The Washington Post, the error was a result of a staffer picking the wrong option -- missile alert instead of test missile alert -- from a drop down software menu. Hawaiian officials say they have already changed protocols to avoid a repeat of the scenario. The report goes on to add: Part of what worsened the situation Saturday was that there was no system in place at the state emergency agency for correcting the error, HEMA (Hawaii Emergency Management Agency) spokesman Richard Rapoza said. The state agency had standing permission through FEMA to use civil warning systems to send out the missile alert -- but not to send out a subsequent false alarm alert, he said. Though the Hawaii Emergency Management Agency posted a follow-up tweet at 8:20 a.m. saying there was "NO missile threat," it wouldn't be until 8:45 a.m. that a subsequent cellphone alert was sent telling people to stand down. Motherboard notes that new regulations require telecom companies to offer a testing system for local and state alert originators, but because of lobbying by Verizon and CTIA, this specific regulation does not go into effect until March 2019. In a piece, The Atlantic argues that the 90-character messages sent by the system aren't suited to the way we use our devices.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Tech+Failings+of+Hawaii's+Missile+Alert%3A+http%3A%2F%2Fbit.ly%2F2DC33bj"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F15%2F149248%2Fthe-tech-failings-of-hawaiis-missile-alert%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11613921&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ww1_QofkMGs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-15T14:10:00+00:00</dc:date>
-<dc:subject>communications</dc:subject>
-<slash:department>lessons-for-future</slash:department>
-<slash:section>mobile</slash:section>
-<slash:comments>171</slash:comments>
-<slash:hit_parade>171,164,114,102,22,12,7</slash:hit_parade>
-<feedburner:origLink>https://mobile.slashdot.org/story/18/01/15/149248/the-tech-failings-of-hawaiis-missile-alert?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Which JavaScript Framework is the Most Popular?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/T_q1XsjGkN8/which-javascript-framework-is-the-most-popular</link>
-<description>An anonymous reader quotes InfoWorld's report on which JavaScript frameworks are the most widely-used:
-In a study of 28-day download cycles for front-end JavaScript frameworks, NPM, which oversees the popular JavaScript package registry, found that React has been on a steady upward trajectory; it now accounts for about 0.05 percent of the registry's 13 billion downloads per month as of the fourth quarter of 2017. Web developers as well as desktop and mobile developers are adopting the library and it has spawned an ecosystem of related packages. Preact, a lightweight alternative to React, also has seen growth and could become a force in the future. 
-On the down side, Backbone, which accounted for almost 0.1 percent of all downloads in 2013, now comprises only about 0.005 percent of downloads (about 750,000 per month). Backbone has declined steeply but is kept afloat by the long shelf life of projects using it, NPM reasoned. The jQuery JavaScript library also remains popular but has experienced decreasing interest. Angular, the Google-developed JavaScript framework, was the second-most-popular framework behind React, when combining the original Angular 1.x with the rewritten Angular 2.x. Version 1.x was at about 0.0125 percent of downloads last month while version 2.x was at about 0.02 percent. Still, Angular as a whole is showing just modest growth.
- 
-They also report that the four JavaScript frameworks with the fastest growth rates for 2017 were Preact, Vue, React, and Ember. 
-But for back end services written in JavaScript, npm reports that Express "is the overwhelmingly dominant solution... The next four biggest frameworks are so small relative to Express that it's hard to even see them."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Which+JavaScript+Framework+is+the+Most+Popular%3F%3A+http%3A%2F%2Fbit.ly%2F2B2ohfp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F15%2F063229%2Fwhich-javascript-framework-is-the-most-popular%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11611047&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/T_q1XsjGkN8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-15T12:34:00+00:00</dc:date>
-<dc:subject>programming</dc:subject>
-<slash:department>popularity-contests</slash:department>
-<slash:section>developers</slash:section>
-<slash:comments>127</slash:comments>
-<slash:hit_parade>127,125,79,73,24,11,9</slash:hit_parade>
-<feedburner:origLink>https://developers.slashdot.org/story/18/01/15/063229/which-javascript-framework-is-the-most-popular?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>'Don't Fear the Robopocalypse':  the Case for Autonomous Weapons</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Yssa0_RhkaE/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons</link>
-<description>Lasrick shares "Don't fear the robopocalypse," an interview from the Bulletin of the Atomic Scientists with the former Army Ranger who led the team that established the U.S. Defense Department policy on autonomous weapons (and has written the upcoming book Army of None: Autonomous Weapons and the Future of War). Paul Scharre makes the case for uninhabited vehicles, robot teammates, and maybe even an outer perimeter of robotic sentries (and, for mobile troops, "a cloud of air and ground robotic systems"). But he also argues that "In general, we should strive to keep humans involved in the lethal force decision-making process as much as is feasible. What exactly that looks like in practice, I honestly don't know." 
-So does that mean he thinks we'll eventually see the deployment of fully autonomous weapons in combat?
-I think it's very hard to imagine a world where you physically take the capacity out of the hands of rogue regimes... The technology is so ubiquitous that a reasonably competent programmer could build a crude autonomous weapon in their garage. The idea of putting some kind of nonproliferation regime in place that actually keeps the underlying technology out of the hands of people -- it just seems really naive and not very realistic. I think in that kind of world, you have to anticipate that there are, at a minimum, going to be uses by terrorists and rogue regimes. I think it's more of an open question whether we cross the threshold into a world where nation-states are using them on a large scale. 
-And if so, I think it's worth asking, what do we mean by"them"? What degree of autonomy? There are automated defensive systems that I would characterize as human-supervised autonomous weapons -- where a human is on the loop and supervising its operation -- in use by at least 30 countries today. They've been in use for decades and really seem to have not brought about the robopocalypse or anything. I'm not sure that those [systems] are particularly problematic. In fact, one could see them as being even more beneficial and valuable in an age when things like robot swarming and cooperative autonomy become more possible.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status='Don't+Fear+the+Robopocalypse'%3A++the+Case+for+Autonomous+Weapons%3A+http%3A%2F%2Fbit.ly%2F2EFW2VS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F15%2F0038250%2Fdont-fear-the-robopocalypse-the-case-for-autonomous-weapons%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610291&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Yssa0_RhkaE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-15T09:39:00+00:00</dc:date>
-<dc:subject>military</dc:subject>
-<slash:department>rise-of-the-machines</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>122</slash:comments>
-<slash:hit_parade>122,119,65,57,14,8,6</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/15/0038250/dont-fear-the-robopocalypse-the-case-for-autonomous-weapons?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>City of Barcelona Dumps Windows For Linux and Open Source Software</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8QJTleeqE3k/city-of-barcelona-dumps-windows-for-linux-and-open-source-software</link>
-<description>An anonymous reader quotes Open Source Observatory:
-The City of Barcelona is migrating its computer systems away from the Windows platform, reports the Spanish newspaper El Pa&amp;iacute;s. The City's strategy is first to replace all user applications with open-source alternatives, until the underlying Windows operating system is the only proprietary software remaining. In a final step, the operating system will be replaced with Linux... According to Francesca Bria, the Commissioner of Technology and Digital Innovation at the City Council, the transition will be completed before the current administration's mandate ends in spring 2019. For starters, the Outlook mail client and Exchange Server will be replaced with Open-Xchange. In a similar fashion, Internet Explorer and Office will be replaced with Firefox and LibreOffice, respectively. The Linux distribution eventually used will probably be Ubuntu, since the City of Barcelona is already running 1,000 Ubuntu-based desktops as part of a pilot...
- 
-Barcelona is the first municipality to have joined the European campaign 'Public Money, Public Code'. This campaign is an initiative of the Free Software Foundation Europe (FSFE) and revolves around an open letter advocating that publicly funded software should be free. Currently, this call to public agencies is supported by more than 100 organisations and almost 15,000 individuals. With the new open-source strategy, Barcelona's City Council aims to avoid spending large amounts of money on licence-based software and to reduce its dependence on proprietary suppliers through contracts that in some cases have been closed for decades.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=City+of+Barcelona+Dumps+Windows+For+Linux+and+Open+Source+Software%3A+http%3A%2F%2Fbit.ly%2F2DxvMOs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F15%2F0415219%2Fcity-of-barcelona-dumps-windows-for-linux-and-open-source-software%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610579&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8QJTleeqE3k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-15T05:39:00+00:00</dc:date>
-<dc:subject>eu</dc:subject>
-<slash:department>public-money-public-code</slash:department>
-<slash:section>linux</slash:section>
-<slash:comments>196</slash:comments>
-<slash:hit_parade>196,189,92,75,23,14,11</slash:hit_parade>
-<feedburner:origLink>https://linux.slashdot.org/story/18/01/15/0415219/city-of-barcelona-dumps-windows-for-linux-and-open-source-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>California Will Close Its Last Nuclear Power Plant</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WyWzPp0UR3A/california-will-close-its-last-nuclear-power-plant</link>
-<description>An anonymous reader quotes the San Francisco Chronicle:
-California's last nuclear power plant -- Diablo Canyon, whose contentious birth helped shape the modern environmental movement -- will close in 2025, state utility regulators decided Thursday. The unanimous vote by the California Public Utilities Commission will likely bring an end to nuclear energy's long history in the state. State law forbids building more nuclear plants in California until the federal government creates a long-term solution for dealing with their waste, a goal that remains elusive despite decades of effort. 
-
-The decision comes even as California expands its fight against global warming. Owned by Pacific Gas and Electric Co., Diablo Canyon is the state's largest power plant, supplying 9 percent of California's electricity while producing no greenhouse gases. "With this decision, we chart a new energy future by phasing out nuclear power here in California," said commission President Michael Picker. "We've looked hard at all the arguments, and we agree the time has come."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=California+Will+Close+Its+Last+Nuclear+Power+Plant%3A+http%3A%2F%2Fbit.ly%2F2DeFWq3"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F15%2F0356217%2Fcalifornia-will-close-its-last-nuclear-power-plant%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610551&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/WyWzPp0UR3A" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-15T04:09:00+00:00</dc:date>
-<dc:subject>power</dc:subject>
-<slash:department>reactors-near-earthquake-faults</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631315&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/syDu5xJ1EuA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T10:00:00+00:00</dc:date>
+<dc:subject>printer</dc:subject>
+<slash:department>do-it-yourself</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>260</slash:comments>
-<slash:hit_parade>260,254,158,142,44,24,19</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/15/0356217/california-will-close-its-last-nuclear-power-plant?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Hackers Hijack DNS For Lumens Cryptocurrency Site 'BlackWallet', Steal $400,000</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PxmTkmqZcuE/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000</link>
-<description>An anonymous reader quotes BleepingComputer:
-Unknown hackers (or hacker) have hijacked the DNS server for BlackWallet.co, a web-based wallet application for the Stellar Lumen cryptocurrency (XLM), and have stolen over $400,000 from users' accounts. The attack happened late Saturday afternoon (UTC timezone), January 13, when the attackers hijacked the DNS entry of the BlackWallet.co domain and redirected it to their own server. "The DNS hijack of Blackwallet injected code," said Kevin Beaumont, a security researcher who analyzed the code before the BlackWallet team regained access over their domain and took down the site. "If you had over 20 Lumens it pushes them to a different wallet," Beaumont added... According to Bleeping Computer's calculations, as of writing, the attacker collected 669,920 Lumens, which is about $400,192 at the current XML/USD exchange rate. The BlackWallet team and other XLM owners have tried to warn users via alerts on Reddit, Twitter, GitHub, the Stellar Community and GalacticTalk forums, but to no avail, as users continued to log into the rogue BlackWallet.co domain, enter their credentials, and then see funds mysteriously vanish from their wallets.	&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Hackers+Hijack+DNS+For+Lumens+Cryptocurrency+Site+'BlackWallet'%2C+Steal+%24400%2C000%3A+http%3A%2F%2Fbit.ly%2F2Dxv5V5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F15%2F0059231%2Fhackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,26,17,13,3,2,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>US Tests Nuclear Power System To Sustain Astronauts On Mars</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UpwcGm7xzbU/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars</link>
+<description>Initial tests in Nevada on a compact nuclear power system designed to sustain a long-duration NASA human mission on the inhospitable surface on Mars have been successful and a full-power run is scheduled for March, officials said on Thursday. Reuters reports: National Aeronautics and Space Administration and U.S. Department of Energy officials, at a Las Vegas news conference, detailed the development of the nuclear fission system under NASA's Kilopower project. Months-long testing began in November at the energy department's Nevada National Security Site, with an eye toward providing energy for future astronaut and robotic missions in space and on the surface of Mars, the moon or other solar system destinations. A key hurdle for any long-term colony on the surface of a planet or moon, as opposed to NASA's six short lunar surface visits from 1969 to 1972, is possessing a power source strong enough to sustain a base but small and light enough to allow for transport through space. NASA's prototype power system uses a uranium-235 reactor core roughly the size of a paper towel roll. The technology could power habitats and life-support systems, enable astronauts to mine resources, recharge rovers and run processing equipment to transform resources such as ice on the planet into oxygen, water and fuel. It could also potentially augment electrically powered spacecraft propulsion systems on missions to the outer planets.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=US+Tests+Nuclear+Power+System+To+Sustain+Astronauts+On+Mars%3A+http%3A%2F%2Fbit.ly%2F2BgxuB2"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F18%2F2148243%2Fus-tests-nuclear-power-system-to-sustain-astronauts-on-mars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11610309&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PxmTkmqZcuE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-15T02:39:00+00:00</dc:date>
-<dc:subject>money</dc:subject>
-<slash:department>taking-the-money-and-running</slash:department>
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631043&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/UpwcGm7xzbU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T07:00:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>future-is-now</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>37</slash:comments>
+<slash:hit_parade>37,30,16,14,4,2,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why People Dislike Really Smart Leaders</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-S01ugIz5-k/why-people-dislike-really-smart-leaders</link>
+<description>An anonymous reader quotes a report from Scientific American: Intelligence makes for better leaders -- from undergraduates to executives to presidents -- according to multiple studies. It certainly makes sense that handling a market shift or legislative logjam requires cognitive oomph. But new research on leadership suggests that, at a certain point, having a higher IQ stops helping and starts hurting. The researchers looked at 379 male and female business leaders in 30 countries, across fields that included banking, retail and technology. The managers took IQ tests (an imperfect but robust predictor of performance in many areas), and each was rated on leadership style and effectiveness by an average of eight co-workers. IQ positively correlated with ratings of leader effectiveness, strategy formation, vision and several other characteristics -- up to a point. The ratings peaked at an IQ of around 120, which is higher than roughly 80 percent of office workers. Beyond that, the ratings declined. The researchers suggest the "ideal" IQ could be higher or lower in various fields, depending on whether technical versus social skills are more valued in a given work culture. The study's lead author, John Antonakis, a psychologist at the University of Lausanne in Switzerland, suggests leaders should use their intelligence to generate creative metaphors that will persuade and inspire others -- the way former U.S. President Barack Obama did. "I think the only way a smart person can signal their intelligence appropriately and still connect with the people," Antonakis says, "is to speak in charismatic ways."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+People+Dislike+Really+Smart+Leaders%3A+http%3A%2F%2Fbit.ly%2F2DP8Gmz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F18%2F2327204%2Fwhy-people-dislike-really-smart-leaders%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631221&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-S01ugIz5-k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T03:30:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>over-one's-head</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>254</slash:comments>
+<slash:hit_parade>254,242,109,83,25,13,9</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tesla Is Last In the Driverless Vehicle Race, Report Says</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BfJEWugDnl8/tesla-is-last-in-the-driverless-vehicle-race-report-says</link>
+<description>Navigant Research has compiled a new report on 19 companies working on automated driving systems, and surprisingly, Tesla came in last place. U.S. News &amp;amp; World Report: Navigant ranked the 19 major companies developing AV technology based on 10 criteria, including vision, market strategy, partnerships, production strategy, technology, product quality and staying power. According to the report, General Motors Co. and Waymo, the auto unit of Alphabet, are the top two AV investment opportunities in the market today. Tesla and Apple are the two biggest laggards in the AV race, according to Navigant's rankings. Investors are acutely aware of Tesla's production and distribution disadvantages compared to legacy automakers like GM, but Navigant is also highly critical of Tesla's technology. "The autopilot system on current products has stagnated and, in many respects, regressed since it was first launched in late 2015," Navigant says in the report, according to Ars Technica. "More than one year after launching V2, Autopilot still lacks some of the functionality of the original, and there are many anecdotal reports from owners of unpredictable behavior."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+Is+Last+In+the+Driverless+Vehicle+Race%2C+Report+Says%3A+http%3A%2F%2Fbit.ly%2F2Dpuw2V"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F19%2F012244%2Ftesla-is-last-in-the-driverless-vehicle-race-report-says%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631303&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BfJEWugDnl8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T02:03:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>participation-award</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>109</slash:comments>
+<slash:hit_parade>109,103,65,54,14,7,6</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Lifesaving Drone Makes First Rescue In Australia</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FgwZmKbO9ug/lifesaving-drone-makes-first-rescue-in-australia</link>
+<description>Zorro shares a report from Yahoo News: A pair of Australian swimmers on Thursday became the first people to be rescued in the ocean by a drone when the aerial lifesaver dropped a safety device to distressed teens caught in rough seas. In what is believed to be a world-first drone surf rescue, two boys on Thursday got caught in three-meter (10-foot) swells while swimming off Lennox Head in New South Wales, near the border with Queensland. Beachgoers onshore raised the alarm to the lifeguards who then alerted the drone pilot, and the aerial lifesaver was deployed in moments. Along with their ability to spot swimmers in trouble and deliver life saving devices faster than traditional lifesaving techniques, like launching surfboards or rubber dinghies, drones are being used in Australia to spot underwater predators like sharks and jellyfish. Artificial intelligence is being developed using thousands of images captured by a drone camera to build an algorithm that can identify different ocean objects. The software can differentiate between sea creatures, like sharks which it can recognize with more than 90 percent accuracy, compared to about 16 percent with the naked eye.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Lifesaving+Drone+Makes+First+Rescue+In+Australia%3A+http%3A%2F%2Fbit.ly%2F2BcTqwN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F18%2F2310236%2Flifesaving-drone-makes-first-rescue-in-australia%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631193&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FgwZmKbO9ug" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T01:25:00+00:00</dc:date>
+<dc:subject>australia</dc:subject>
+<slash:department>first-of-its-kind</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>37</slash:comments>
+<slash:hit_parade>37,36,24,20,3,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amazon Picks 20 Finalists For 'HQ2' Second Headquarters Location</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jEiDl7EYDfc/amazon-picks-20-finalists-for-hq2-second-headquarters-location</link>
+<description>bigpat writes: Amazon took in hundreds of proposals and narrowed it down to twenty places for its "second" headquarters, with up to 50,000 new jobs promised in the next 15 years and millions of square feet of office and research space. The cities include: Atlanta, Austin, Boston, Chicago, Columbus, Dallas, Denver, Indianapolis, Los Angeles, Miami, Montgomery County, Maryland, Nashville, Newark, NJ, New York City, Northern Virginia, Philadelphia, Pittsburgh, Raleigh, Toronto and Washington D.C. Amazon said that it will now work with the candidate locations to examine their proposals more closely and request additional information to "evaluate the feasibility of a future partnership that can accommodate our hiring plans as well as benefit our employees and the local community." The company said it would make its decision later in 2018.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+Picks+20+Finalists+For+'HQ2'+Second+Headquarters+Location%3A+http%3A%2F%2Fbit.ly%2F2DNNEog"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F18%2F2217219%2Famazon-picks-20-finalists-for-hq2-second-headquarters-location%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631101&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jEiDl7EYDfc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T00:45:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>price-is-right</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>75</slash:comments>
-<slash:hit_parade>75,68,23,19,3,1,1</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/15/0059231/hackers-hijack-dns-for-lumens-cryptocurrency-site-blackwallet-steal-400000?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:comments>116</slash:comments>
+<slash:hit_parade>116,114,57,50,11,7,5</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google's Fuchsia OS On the Pixelbook</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9MMCarprhFA/googles-fuchsia-os-on-the-pixelbook</link>
+<description>An anonymous reader quotes a report from 9to5Google: Our early look at Fuchsia OS last May provided a glimpse into a number of new interface paradigms. Several months later, we now have an updated hands-on with Google's future operating system that can span various form factors. This look at the in-development OS eight months later comes courtesy of Ars Technica who managed to get Fuchsia installed on the Pixelbook. The Made by Google Chromebook is only the third officially supported "target device" for Fuchsia development. As our last dive into the non-Linux kernel OS was through an Android APK, we did not encounter a lockscreen. The Ars hands-on shows a basic one that displays the time at center and Fuchsia logo in the top-left corner to switch between phone and desktop/tablet mode, while a FAB (of sorts) in the opposite corner lets users bring up WiFi controls, Login, and Guest. Only Guest is fully functioning at this stage -- at least for non-Google employees. Once in this mode, we encounter an interface similar to the one we spotted last year. The big difference is how Google has filled in demo information and tweaked some elements. On phones and tablets, Fuchsia essentially has three zones. Recent apps are above, at center are controls, and below is a mixture of the Google Feed and Search. The controls swap out the always-displayed profile icon for a Fuchsia button. Tapping still surfaces Quick Settings which actually reflect current device battery levels and IP address. Impressively, Ars found a working web browser that can actually surf the internet. Google.com is the default homepage, with users able to visit other sites through that search bar. Other examples of applications, which are just static images, include a (non-working) phone dialer, video player, and Google Docs. The Google Calendar is notable for having subtle differences to any known version, including the tablet or web app.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google's+Fuchsia+OS+On+the+Pixelbook%3A+http%3A%2F%2Fbit.ly%2F2DpPM8P"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F18%2F229254%2Fgoogles-fuchsia-os-on-the-pixelbook%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631085&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9MMCarprhFA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T00:03:00+00:00</dc:date>
+<dc:subject>os</dc:subject>
+<slash:department>what-to-expect</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,45,31,26,5,4,2</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: How Would You Explain Einstein's Theories To a Nine-Year-Old?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ytf0n6NZwJw/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old</link>
+<description>SiggyRadiation writes: A few days ago, my 9-year-old son asked me why Albert Einstein was so famous. I decided not just to start with the famous formula E=mc^2, because that just seemed to be the easy way out. So I tried to explain what mass and energy are. Then I asked him to try to explain gravity to me. The earth pulls at you because it has a lot of mass. But how can the earth influence your body, pull your feet to the ground, without actually touching you? Why is it that one thing (the earth) can influence something else (you) without actually being connected? Isn't that weird? Einstein figured out how energy, mass and gravity work and are related to each other. This is where our conversation ended. Afterwards I thought: this might be a nice question to ask on Slashdot; how would I continue this discussion to explain it to him further? Of course, with the goal of further feeding his interest in physics.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+How+Would+You+Explain+Einstein's+Theories+To+a+Nine-Year-Old%3F%3A+http%3A%2F%2Fbit.ly%2F2Dp3w3J"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F18%2F2120240%2Fask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631007&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ytf0n6NZwJw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-18T23:20:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>explain-like-I'm-five</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>204</slash:comments>
+<slash:hit_parade>204,198,113,90,34,17,12</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Wine 3.0 Released</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ddwihBcJog4/wine-30-released</link>
+<description>prisoninmate shares a report from Softpedia: The Wine (Wine Is Not an Emulator) project has been updated today to version 3.0, a major release that ends 2017 in style for the open-source compatibility layer capable of running Windows apps and games on Linux-based and UNIX-like operating systems. Almost a year in the works, Wine 3.0 comes with amazing new features like an Android driver that lets users run Windows apps and games on Android-powered machines, Direct3D 11 support enabled by default for AMD Radeon and Intel GPUs, AES encryption support on macOS, Progman DDE support, and a task scheduler. In addition, Wine 3.0 introduces the ability to export registry entries with the reg.exe tool, adds various enhancements to the relay debugging and OLE data cache, as well as an extra layer of event support in MSHTML, Microsoft's proprietary HTML layout engine for the Windows version of the Internet Explorer web browser. You can read the full list of features and download Wine 3.0 from WineHQ's website.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Wine+3.0+Released%3A+http%3A%2F%2Fbit.ly%2F2BdqViD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F18%2F2054205%2Fwine-30-released%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630941&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ddwihBcJog4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-18T22:40:00+00:00</dc:date>
+<dc:subject>wine</dc:subject>
+<slash:department>come-and-get-it</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>101</slash:comments>
+<slash:hit_parade>101,93,53,40,13,6,4</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'Text Bomb' Is Latest Apple Bug</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fTR8VIQ10tc/text-bomb-is-latest-apple-bug</link>
+<description>An anonymous reader quotes a report from the BBC: A new "text bomb" affecting Apple's iPhone and Mac computers has been discovered. Abraham Masri, a software developer, tweeted about the flaw which typically causes an iPhone to crash and in some cases restart. Simply sending a message containing a link which pointed to Mr Masri's code on programming site GitHub would be enough to activate the bug -- even if the recipient did not click the link itself. Mr Masri said he "always reports bugs" before releasing them. Apple has not yet commented on the issue. On a Mac, the bug reportedly makes the Safari browser crash, and causes other slowdowns. Security expert Graham Cluley wrote on his blog that the bug does not present anything to be particularly worried about -- it's merely very annoying. After the link did the rounds on social media, Mr Masri removed the code from GitHub, therefore disabling the "attack" unless someone was to replicate the code elsewhere.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='Text+Bomb'+Is+Latest+Apple+Bug%3A+http%3A%2F%2Fbit.ly%2F2Dn5uBj"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F18%2F218245%2Ftext-bomb-is-latest-apple-bug%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630975&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fTR8VIQ10tc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-18T22:03:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>headache-inducing</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>51</slash:comments>
+<slash:hit_parade>51,47,25,19,5,1,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Bitcoin's Fluctuations Are Too Much For Even Ransomware Cybercriminals</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tzO8mXDDhV0/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals</link>
+<description>Bitcoin's price swings are so huge that even ransomware developers are dialling back their reliance on the currency, according to researchers at cybersecurity firm Proofpoint. From a report: Over the last quarter of 2017, researchers saw a fall of 73% in payment demands denominated in bitcoin. When demanding money to unlock a victim's data, cybercriminals are now more likely to simply ask for a figure in US dollars, or a local currency, than specify a sum of bitcoin. Just like conventional salespeople, ransomware developers pay careful attention to the prices they charge. Some criminals offer discounts depending on the region the victim is in, offering cheaper unlocking to residents of developing nations, while others use an escalating price to encourage users to pay quickly and without overthinking things. But a rapidly oscillating bitcoin price plays havoc with those goals, Proofpoint says.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Bitcoin's+Fluctuations+Are+Too+Much+For+Even+Ransomware+Cybercriminals%3A+http%3A%2F%2Fbit.ly%2F2DmZ05M"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F18%2F1925225%2Fbitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630809&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tzO8mXDDhV0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-18T21:25:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>too-much-for-me</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,57,37,28,4,1,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Resumes Meltdown and Spectre Updates for AMD Devices</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/i3Bgv824EOw/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices</link>
+<description>Microsoft has resumed the rollout of security updates for AMD devices. The updates patch the Meltdown and Spectre vulnerabilities. From a report: Microsoft released these patches on January 3, but the company stopped the rollout for AMD-based computers on January 9 after users reported crashes that plunged PCs into unbootable states. After working on smoothing out the problems with AMD, Microsoft announced today it would resume the rollout of five (out of nine) security updates.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Resumes+Meltdown+and+Spectre+Updates+for+AMD+Devices%3A+http%3A%2F%2Fbit.ly%2F2Dph27q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F18%2F195204%2Fmicrosoft-resumes-meltdown-and-spectre-updates-for-amd-devices%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630771&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/i3Bgv824EOw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-18T20:45:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>second-time's-the-charm</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,39,23,21,3,2,1</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Global Warming Predictions May Now Be a Lot Less Uncertain</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iTA_SkkxtEQ/global-warming-predictions-may-now-be-a-lot-less-uncertain</link>
+<description>An anonymous reader shares a report: Humanity must not pass a rise of 2 degrees Celsius in global temperature from pre-industrial levels, so says the Paris climate agreement. Cross that line and the global effects of climate change start looking less like a grave situation and more like a catastrophe. The frustrating bit about studying climate change is the inherent uncertainty of it all. Predicting where it's going is a matter of mashing up thousands of variables in massive, confounding systems. But today in the journal Nature, researchers claim they've reduced the uncertainty in a key metric of climate change by 60 percent, narrowing a range of potential warming from 3C to 1.2C. And that could have implications for how the international community arrives at climate goals like it did in Paris. The metric is called equilibrium climate sensitivity, but don't let the name scare you.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Global+Warming+Predictions+May+Now+Be+a+Lot+Less+Uncertain%3A+http%3A%2F%2Fbit.ly%2F2mPwdf5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F18%2F1853217%2Fglobal-warming-predictions-may-now-be-a-lot-less-uncertain%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630743&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iTA_SkkxtEQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-18T20:05:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>perfecting-things</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>260</slash:comments>
+<slash:hit_parade>260,251,152,116,46,16,14</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Less Than 1 in 10 Gmail Users Enable Two-Factor Authentication</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cKU1bDMh9Y8/less-than-1-in-10-gmail-users-enable-two-factor-authentication</link>
+<description>It has been nearly seven years since Google introduced two-factor authentication for Gmail accounts, but virtually no one is using it. From a report: In a presentation at Usenix's Enigma 2018 security conference in California, Google software engineer Grzegorz Milka this week revealed that, right now, less than 10 per cent of active Google accounts use two-step authentication to lock down their services. He also said only about 12 per cent of Americans have a password manager to protect their accounts, according to a 2016 Pew study.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Less+Than+1+in+10+Gmail+Users+Enable+Two-Factor+Authentication%3A+http%3A%2F%2Fbit.ly%2F2mOWuK6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F18%2F1836259%2Fless-than-1-in-10-gmail-users-enable-two-factor-authentication%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630709&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cKU1bDMh9Y8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-18T19:20:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>usability-vs-security</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>220</slash:comments>
+<slash:hit_parade>220,217,145,127,25,7,4</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Senate Passes Bill Renewing NSA's Internet Surveillance Program</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/X9jV9O56ggc/senate-passes-bill-renewing-nsas-internet-surveillance-program</link>
+<description>From a report: The U.S. Senate on Thursday passed a bill to renew the National Security Agency's warrantless internet surveillance program for six years and with minimal changes, overcoming objections from civil liberties advocates that it did too little to safeguard the privacy of Americans. From a report on CNET: The programs, known as Prism and Upstream, allow the NSA to collect online communications of foreigners outside the US. Prism collects these communications from internet services, and Upstream taps into the internet's infrastructure to capture information in transit. Some communications from Americans and others in the US are collected in the process. The vote Thursday renews the programs for six years. The House approved a bill renewing the programs last week. Former NSA contractor Edward Snowden first revealed the programs by leaking information about them to journalists in 2013. After the news coverage, the administration of President Barack Obama declassified much information about the programs.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Senate+Passes+Bill+Renewing+NSA's+Internet+Surveillance+Program%3A+http%3A%2F%2Fbit.ly%2F2BcncSb"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F18%2F1839247%2Fsenate-passes-bill-renewing-nsas-internet-surveillance-program%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630715&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/X9jV9O56ggc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-18T18:40:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>here-we-go</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>87</slash:comments>
+<slash:hit_parade>87,86,49,43,12,7,4</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

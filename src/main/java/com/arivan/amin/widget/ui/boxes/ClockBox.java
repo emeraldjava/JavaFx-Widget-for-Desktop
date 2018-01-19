@@ -3,11 +3,12 @@ package com.arivan.amin.widget.ui.boxes;
 import com.arivan.amin.widget.system.details.SystemDetailsPane;
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
+import javafx.css.Styleable;
+import javafx.event.ActionEvent;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
-import org.jetbrains.annotations.NotNull;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
@@ -16,49 +17,99 @@ import java.util.logging.Logger;
 
 public class ClockBox extends VBox
 {
+    private static final int BOX_SPACING = 20;
+    private static final double DATE_TIME_BOX_HEIGHT = 0.33;
+    private static final double BOX_WIDTH = 0.3;
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private final Label timeLabel;
     
     private ClockBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        super();
-        setSpacing(20);
-        prefWidthProperty().bind(parentWidth.multiply(0.3));
-        prefHeightProperty().bind(parentHeight);
+        bindBoxToParent(parentWidth, parentHeight);
         VBox dateTimeVBox = new VBox();
         dateTimeVBox.setAlignment(Pos.TOP_CENTER);
-        VBox systemDetailsVBox = new VBox();
-        Label timeLabel = new Label();
-        Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(1), e ->
-        {
-            LocalTime time = LocalTime.now();
-            timeLabel.setText(time.getHour() + ":" + time.getMinute());
-        }));
-        timeline.setCycleCount(Animation.INDEFINITE);
-        timeline.play();
-        timeLabel.getStyleClass().add("time-label");
+        timeLabel = new Label();
         Label dateLabel = new Label(getCurrentDate());
-        dateLabel.getStyleClass().add("date-label");
+        addStylingClassToLabels(timeLabel, dateLabel);
         dateTimeVBox.getChildren().addAll(timeLabel, dateLabel);
-        getChildren().addAll(dateTimeVBox, systemDetailsVBox);
-        systemDetailsVBox.getChildren().add(SystemDetailsPane.newInstance(systemDetailsVBox));
-        dateTimeVBox.prefWidthProperty().bind(widthProperty());
-        systemDetailsVBox.prefWidthProperty().bind(widthProperty());
-        dateTimeVBox.prefHeightProperty().bind(heightProperty().multiply(0.33));
-        systemDetailsVBox.prefHeightProperty().bind(heightProperty().multiply(0.66));
+        addItemsToBox(dateTimeVBox);
+        bindDateTimeBoxToParent(dateTimeVBox);
+        animateClock();
     }
     
-    @NotNull
+    private void addItemsToBox (VBox dateTimeVBox)
+    {
+        setSpacing(BOX_SPACING);
+        getChildren().addAll(dateTimeVBox,
+                SystemDetailsPane.newInstance(prefWidthProperty(), prefHeightProperty()));
+    }
+    
+    private void bindDateTimeBoxToParent (VBox dateTimeVBox)
+    {
+        dateTimeVBox.prefWidthProperty().bind(widthProperty());
+        dateTimeVBox.prefHeightProperty().bind(heightProperty().multiply(DATE_TIME_BOX_HEIGHT));
+    }
+    
+    private void addStylingClassToLabels (Styleable timeLabel, Styleable dateLabel)
+    {
+        timeLabel.getStyleClass().add("time-label");
+        dateLabel.getStyleClass().add("date-label");
+    }
+    
+    private void animateClock ()
+    {
+        Timeline timeline = new Timeline();
+        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), this::updateHandler));
+        timeline.setCycleCount(Animation.INDEFINITE);
+        timeline.play();
+    }
+    
+    private void bindBoxToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    {
+        prefWidthProperty().bind(parentWidth.multiply(BOX_WIDTH));
+        prefHeightProperty().bind(parentHeight);
+    }
+    
     public static ClockBox newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         return new ClockBox(parentWidth, parentHeight);
     }
     
-    @NotNull
     private String getCurrentDate ()
     {
+        String day = getDayOfWeek();
+        String month = getMonth();
+        return day + month;
+    }
+    
+    private String getMonth ()
+    {
+        String month = getMonthAndConvertToLowercase();
+        month = capitalizeFirstLetter(month);
+        return month;
+    }
+    
+    private String capitalizeFirstLetter (String text)
+    {
+        return text.substring(0, 1) + text.substring(1);
+    }
+    
+    private String getMonthAndConvertToLowercase ()
+    {
+        return LocalDate.now().getMonth().name().toLowerCase(Locale.ENGLISH);
+    }
+    
+    private String getDayOfWeek ()
+    {
         LocalDate date = LocalDate.now();
-        String day = date.getDayOfWeek().name().toLowerCase(Locale.ENGLISH);
-        day = day.substring(0, 1) + day.substring(1);
+        String day = getDayOfMonthAndConvertToLowercase(date);
+        day = capitalizeFirstLetter(day);
+        day = getDaySuffix(date, day);
+        return day;
+    }
+    
+    private String getDaySuffix (LocalDate date, String day)
+    {
         switch (date.getDayOfMonth())
         {
             case 1:
@@ -74,8 +125,23 @@ public class ClockBox extends VBox
                 day += ' ' + String.valueOf(date.getDayOfMonth()) + "th of ";
                 break;
         }
-        String month = date.getMonth().name().toLowerCase(Locale.ENGLISH);
-        month = month.substring(0, 1) + month.substring(1);
-        return day + month;
+        return day;
+    }
+    
+    private String getDayOfMonthAndConvertToLowercase (LocalDate date)
+    {
+        return date.getDayOfWeek().name().toLowerCase(Locale.ENGLISH);
+    }
+    
+    private void updateHandler (ActionEvent e)
+    {
+        LocalTime time = LocalTime.now();
+        timeLabel.setText(time.getHour() + ":" + time.getMinute());
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "ClockBox{" + "timeLabel=" + timeLabel + '}';
     }
 }

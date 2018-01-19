@@ -29,12 +29,6 @@ public class LinuxBatteryStateTest
     }
     
     @Test
-    public void currentStateIcon ()
-    {
-        System.out.println(batteryState.currentStateIcon());
-    }
-    
-    @Test
     public void timeToEmpty ()
     {
     }

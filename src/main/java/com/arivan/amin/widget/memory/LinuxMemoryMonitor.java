@@ -1,7 +1,5 @@
 package com.arivan.amin.widget.memory;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
@@ -17,7 +15,6 @@ public class LinuxMemoryMonitor implements MemoryMonitor
     {
     }
     
-    @NotNull
     public static LinuxMemoryMonitor newInstance ()
     {
         return new LinuxMemoryMonitor();
@@ -58,7 +55,7 @@ public class LinuxMemoryMonitor implements MemoryMonitor
     @Override
     public String toString ()
     {
-        return "LinuxCpuMonitor{" + "topCommand=" + topCommand + ", weatherData=" + Arrays.toString(data) +
-                '}';
+        return "LinuxCpuMonitor{" + "topCommand=" + topCommand + ", weatherData=" +
+                Arrays.toString(data) + '}';
     }
 }

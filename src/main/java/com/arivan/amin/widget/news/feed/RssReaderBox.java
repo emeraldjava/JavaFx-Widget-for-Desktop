@@ -6,7 +6,6 @@ import javafx.event.ActionEvent;
 import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.List;
 import java.util.logging.Logger;
@@ -50,7 +49,6 @@ public class RssReaderBox extends VBox
         rssReader = SlashdotRssReader.newInstance();
     }
     
-    @NotNull
     public static RssReaderBox newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         return new RssReaderBox(parentWidth, parentHeight);
@@ -75,7 +73,6 @@ public class RssReaderBox extends VBox
         }
     }
     
-    @NotNull
     private Label createNewsLabel ()
     {
         Label label = new Label();

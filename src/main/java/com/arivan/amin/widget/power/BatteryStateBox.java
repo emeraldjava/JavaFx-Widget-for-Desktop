@@ -9,7 +9,6 @@ import javafx.scene.control.Label;
 import javafx.scene.control.ProgressBar;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
@@ -72,7 +71,6 @@ public class BatteryStateBox extends VBox
         timeline.play();
     }
     
-    @NotNull
     public static BatteryStateBox newInstance (DoubleProperty parentWidth,
             DoubleProperty parentHeight)
     {

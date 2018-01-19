@@ -8,19 +8,18 @@ import javafx.scene.control.ProgressBar;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
 public class CpuProgressBar extends VBox
 {
-    private static final int UPDATE_FREQUENCY_IN_SECONDS = 1;
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final int UPDATE_FREQUENCY_IN_SECONDS = 1;
     private CpuMonitor processor;
     private ProgressBar cpuBar;
     private Label cpuLabel;
     
-    private CpuProgressBar (DoubleProperty parentWidthProperty, DoubleProperty parentHeightProperty)
+    private CpuProgressBar (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         setSpacing(5);
         initializeFields();
@@ -28,7 +27,7 @@ public class CpuProgressBar extends VBox
         cpuBorderPane.setLeft(new Label("CPU"));
         cpuBorderPane.setRight(cpuLabel);
         getChildren().addAll(cpuBorderPane, cpuBar);
-        cpuBar.prefWidthProperty().bind(parentWidthProperty);
+        cpuBar.prefWidthProperty().bind(parentWidth);
         animateBar();
     }
     
@@ -44,7 +43,6 @@ public class CpuProgressBar extends VBox
         processor = LinuxCpuMonitor.newInstance();
     }
     
-    @NotNull
     public static CpuProgressBar newInstance (DoubleProperty parentWidthProperty,
             DoubleProperty parentHeightProperty)
     {

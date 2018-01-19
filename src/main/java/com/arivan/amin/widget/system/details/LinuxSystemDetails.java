@@ -1,7 +1,5 @@
 package com.arivan.amin.widget.system.details;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
@@ -13,13 +11,12 @@ public class LinuxSystemDetails implements SystemDetails
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final String[] OS_RELEASE_COMMAND = { "cat", "/etc/os-release" };
-    private static final String[] UNAME_COMMAND = { "uname", "-a" };
+    private static final String[] SYSTEM_DETAILS_COMMAND = { "uname", "-a" };
     
     private LinuxSystemDetails ()
     {
     }
     
-    @NotNull
     public static LinuxSystemDetails newInstance ()
     {
         return new LinuxSystemDetails();
@@ -41,7 +38,7 @@ public class LinuxSystemDetails implements SystemDetails
     @Override
     public String systemName ()
     {
-        String output = getCommandOutput(UNAME_COMMAND);
+        String output = getCommandOutput(SYSTEM_DETAILS_COMMAND);
         output = output.substring(0, output.indexOf(' '));
         output = output.trim();
         return output;
@@ -81,7 +78,7 @@ public class LinuxSystemDetails implements SystemDetails
     public String architecture ()
     {
         String arch = "";
-        String output = getCommandOutput(UNAME_COMMAND);
+        String output = getCommandOutput(SYSTEM_DETAILS_COMMAND);
         Pattern compile = Pattern.compile("(.*)(x[0-9]{2}_[0-9]{2})(.)*");
         Matcher matcher = compile.matcher(output);
         if (matcher.matches())

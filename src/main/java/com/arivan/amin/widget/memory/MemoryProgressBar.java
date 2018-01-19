@@ -8,13 +8,9 @@ import javafx.scene.control.ProgressBar;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
-/**
- * The type Memory progress bar.
- */
 public class MemoryProgressBar extends VBox
 {
     private static final int UPDATE_FREQUENCY_IN_SECONDS = 1;
@@ -49,15 +45,6 @@ public class MemoryProgressBar extends VBox
         monitor = LinuxMemoryMonitor.newInstance();
     }
     
-    /**
-     * New instance memory progress bar.
-     *
-     * @param parentWidthProperty the parent width property
-     * @param parentHeightProperty the parent height property
-     *
-     * @return the memory progress bar
-     */
-    @NotNull
     public static MemoryProgressBar newInstance (DoubleProperty parentWidthProperty,
             DoubleProperty parentHeightProperty)
     {

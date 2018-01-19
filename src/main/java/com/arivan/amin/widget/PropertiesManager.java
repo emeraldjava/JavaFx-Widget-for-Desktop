@@ -1,13 +1,14 @@
 package com.arivan.amin.widget;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.io.*;
 import java.util.Properties;
 import java.util.logging.Logger;
 
+@SuppressWarnings ({ "PublicMethodNotExposedInInterface", "OverlyLongMethod",
+        "BooleanMethodNameMustStartWithQuestion", "OverlyBroadThrowsClause" })
 public final class PropertiesManager
 {
+    private final Logger logger = Logger.getLogger(getClass().getName());
     private static final String WIDTH_KEY = "width";
     private static final String HEIGHT_KEY = "height";
     private static final String X_KEY = "x";
@@ -19,7 +20,6 @@ public final class PropertiesManager
     private static final int DEFAULT_X = 10;
     private static final int DEFAULT_Y = 10;
     private static final boolean DEFAULT_MAXIMIZED_STATE = false;
-    private final Logger logger = Logger.getLogger(getClass().getName() + ".log");
     private int width;
     private int height;
     private int stageX;
@@ -28,11 +28,9 @@ public final class PropertiesManager
     
     private PropertiesManager ()
     {
-        super();
         loadProperties();
     }
     
-    @NotNull
     public static PropertiesManager newInstance ()
     {
         return new PropertiesManager();
@@ -61,7 +59,6 @@ public final class PropertiesManager
         properties.store(getOutputStream(), "");
     }
     
-    @NotNull
     private static FileOutputStream getOutputStream () throws FileNotFoundException
     {
         return new FileOutputStream(PROPERTY_FILE);
@@ -90,7 +87,6 @@ public final class PropertiesManager
         }
     }
     
-    @NotNull
     private static FileInputStream getInputStream () throws FileNotFoundException
     {
         return new FileInputStream(PROPERTY_FILE);
@@ -149,7 +145,7 @@ public final class PropertiesManager
         return isStageMaximized;
     }
     
-    public void setStageMaximized (boolean stageMaximized)
+    public void setIsStageMaximized (boolean stageMaximized)
     {
         isStageMaximized = stageMaximized;
     }

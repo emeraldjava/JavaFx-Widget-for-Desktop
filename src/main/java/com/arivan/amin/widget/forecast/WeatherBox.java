@@ -10,7 +10,6 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
-import org.jetbrains.annotations.NotNull;
 
 import java.time.LocalDate;
 import java.util.Locale;
@@ -111,7 +110,6 @@ public class WeatherBox extends HBox
                 weatherData.fifthDayMinTemperature(), getWeatherBoxDate(4));
     }
     
-    @NotNull
     private static String getWeatherBoxDate (int datePlusDays)
     {
         LocalDate date = LocalDate.now().plusDays(datePlusDays);
@@ -136,7 +134,6 @@ public class WeatherBox extends HBox
         return dayOfWeek + "  " + day;
     }
     
-    @NotNull
     public static WeatherBox newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         return new WeatherBox(parentWidth, parentHeight);

@@ -4,14 +4,15 @@ import com.arivan.amin.widget.forecast.WeatherBox;
 import com.arivan.amin.widget.power.BatteryStateBox;
 import javafx.beans.property.DoubleProperty;
 import javafx.scene.layout.HBox;
-import org.jetbrains.annotations.NotNull;
+
+import java.util.logging.Logger;
 
 public class LeftTopBox extends HBox
 {
-    private LeftTopBox (@NotNull DoubleProperty parentWidthProperty,
-            @NotNull DoubleProperty parentHeightProperty)
+    private final Logger logger = Logger.getLogger(getClass().getName());
+    
+    private LeftTopBox (DoubleProperty parentWidthProperty, DoubleProperty parentHeightProperty)
     {
-        super();
         prefWidthProperty().bind(parentWidthProperty);
         prefHeightProperty().bind(parentHeightProperty.multiply(0.4));
         getChildren().add(ClockBox.newInstance(prefWidthProperty(), prefHeightProperty()));
@@ -19,7 +20,6 @@ public class LeftTopBox extends HBox
         getChildren().add(BatteryStateBox.newInstance(prefWidthProperty(), prefHeightProperty()));
     }
     
-    @NotNull
     public static LeftTopBox newInstance (DoubleProperty widthProperty,
             DoubleProperty heightProperty)
     {

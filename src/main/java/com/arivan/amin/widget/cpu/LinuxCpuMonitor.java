@@ -1,7 +1,5 @@
 package com.arivan.amin.widget.cpu;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.io.IOException;
 import java.util.*;
 import java.util.logging.Logger;
@@ -21,7 +19,6 @@ public class LinuxCpuMonitor implements CpuMonitor
         prevData = getUsageData();
     }
     
-    @NotNull
     public static LinuxCpuMonitor newInstance ()
     {
         return new LinuxCpuMonitor();
@@ -73,18 +70,17 @@ public class LinuxCpuMonitor implements CpuMonitor
         }
     }
     
-    private List<Integer> convertListItemsToIntegers (@NotNull Collection<String> outputList)
+    private List<Integer> convertListItemsToIntegers (Collection<String> outputList)
     {
         return outputList.stream().map(Integer::parseInt).collect(Collectors.toList());
     }
     
-    private List<String> splitOutputBySpace (@NotNull String output)
+    private List<String> splitOutputBySpace (String output)
     {
         return List.of(output.split(" "));
     }
     
-    @NotNull
-    private String removeAnyText (@NotNull String output)
+    private String removeAnyText (String output)
     {
         String cpu = "cpu ";
         return output.substring(output.indexOf(cpu) + cpu.length());
@@ -95,7 +91,6 @@ public class LinuxCpuMonitor implements CpuMonitor
         return EXTRA_SPACE.matcher(output).replaceAll(" ");
     }
     
-    @NotNull
     private String getOutputAndExtractFirstLine () throws IOException
     {
         String output = getCommandOutput(cpuUsageCommand);

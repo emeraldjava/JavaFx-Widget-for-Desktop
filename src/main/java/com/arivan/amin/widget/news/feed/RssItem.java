@@ -1,7 +1,5 @@
 package com.arivan.amin.widget.news.feed;
 
-import org.jetbrains.annotations.NotNull;
-
 public class RssItem
 {
     private String title;
@@ -19,13 +17,11 @@ public class RssItem
         this.description = description;
     }
     
-    @NotNull
     public static RssItem newInstance ()
     {
         return new RssItem();
     }
     
-    @NotNull
     public static RssItem newInstance (String title, String link, String description)
     {
         return new RssItem(title, link, description);

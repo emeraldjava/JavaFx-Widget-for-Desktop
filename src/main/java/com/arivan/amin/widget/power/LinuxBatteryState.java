@@ -1,7 +1,5 @@
 package com.arivan.amin.widget.power;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
@@ -21,13 +19,11 @@ public class LinuxBatteryState implements BatteryState
         outputData = getBatteryCommandOutput();
     }
     
-    @NotNull
     public static LinuxBatteryState newInstance ()
     {
         return new LinuxBatteryState();
     }
     
-    @NotNull
     private String getProperty (String propertyName)
     {
         String data = new String(outputData);
@@ -66,12 +62,11 @@ public class LinuxBatteryState implements BatteryState
         outputData = getBatteryCommandOutput();
     }
     
-    private static String removeExtraData (@NotNull CharSequence output)
+    private static String removeExtraData (CharSequence output)
     {
         return REMOVE_SPACE.matcher(output).replaceAll("");
     }
     
-    @NotNull
     private String getBatteryCommandOutput ()
     {
         try (InputStream stream = new ProcessBuilder(BATTERY_COMMAND).start().getInputStream())

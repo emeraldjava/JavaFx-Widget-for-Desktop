@@ -6,7 +6,6 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
-import org.jetbrains.annotations.NotNull;
 
 import java.util.logging.Logger;
 
@@ -19,7 +18,7 @@ public class WakaTimeBox extends VBox
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final ImageView codingImageView;
     
-    private WakaTimeBox (@NotNull DoubleProperty parentWidth, @NotNull DoubleProperty parentHeight)
+    private WakaTimeBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         // todo implement a way to show data from wakatime, coding activity image is taking to much space
         prefWidthProperty().bind(parentWidth.multiply(0.33));
@@ -38,7 +37,6 @@ public class WakaTimeBox extends VBox
         timeline.play();
     }
     
-    @NotNull
     public static WakaTimeBox newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         return new WakaTimeBox(parentWidth, parentHeight);

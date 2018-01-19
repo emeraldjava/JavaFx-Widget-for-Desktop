@@ -1,6 +1,5 @@
 package com.arivan.amin.widget.news.feed;
 
-import org.jetbrains.annotations.NotNull;
 import org.w3c.dom.*;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -24,7 +23,6 @@ public class SlashdotRssReader implements RssReader
         updateNewsData();
     }
     
-    @NotNull
     public static SlashdotRssReader newInstance ()
     {
         return new SlashdotRssReader();
@@ -41,15 +39,14 @@ public class SlashdotRssReader implements RssReader
         return items;
     }
     
-    @NotNull
-    private RssItem createRssItem (@NotNull Node element)
+    private RssItem createRssItem (Node element)
     {
         List<Element> list = createList(element.getChildNodes());
         return RssItem.newInstance(list.get(0).getTextContent(), list.get(1).getTextContent(),
                 list.get(2).getTagName());
     }
     
-    private List<Element> createList (@NotNull NodeList nodes)
+    private List<Element> createList (NodeList nodes)
     {
         return IntStream.range(0, nodes.getLength()).mapToObj(nodes::item)
                 .filter(item -> item instanceof Element).map(item -> (Element) item)

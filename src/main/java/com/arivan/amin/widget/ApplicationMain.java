@@ -9,7 +9,6 @@ import javafx.scene.image.Image;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
-import org.jetbrains.annotations.NotNull;
 
 public class ApplicationMain extends Application
 {
@@ -29,7 +28,7 @@ public class ApplicationMain extends Application
         primaryStage.setTitle("JavaFx Widget");
         primaryStage.maximizedProperty().addListener(e ->
         {
-            properties.setStageMaximized(primaryStage.isMaximized());
+            properties.setIsStageMaximized(primaryStage.isMaximized());
             properties.storeValues();
         });
         primaryStage.setMaximized(properties.getIsStageMaximized());
@@ -52,7 +51,7 @@ public class ApplicationMain extends Application
         primaryStage.show();
     }
     
-    private void setStageChangeListeners (@NotNull Stage primaryStage)
+    private void setStageChangeListeners (Stage primaryStage)
     {
         scene.widthProperty().addListener(e ->
         {
@@ -72,7 +71,7 @@ public class ApplicationMain extends Application
         });
     }
     
-    private void storePropertyValues (@NotNull Stage primaryStage)
+    private void storePropertyValues (Stage primaryStage)
     {
         properties.setWidth((int) scene.widthProperty().get());
         properties.setHeight((int) scene.heightProperty().get());
