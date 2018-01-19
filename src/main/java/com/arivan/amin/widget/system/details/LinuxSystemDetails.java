@@ -11,13 +11,12 @@ import java.util.regex.Pattern;
 
 public class LinuxSystemDetails implements SystemDetails
 {
+    private final Logger logger = Logger.getLogger(getClass().getName());
     private static final String[] OS_RELEASE_COMMAND = { "cat", "/etc/os-release" };
     private static final String[] UNAME_COMMAND = { "uname", "-a" };
-    private final Logger logger = Logger.getLogger(getClass().getName());
     
     private LinuxSystemDetails ()
     {
-        super();
     }
     
     @NotNull
@@ -28,18 +27,15 @@ public class LinuxSystemDetails implements SystemDetails
     
     private String getCommandOutput (String... command)
     {
-        String output = "";
-        ProcessBuilder processBuilder = new ProcessBuilder(command);
-        try (InputStream stream = processBuilder.start().getInputStream())
+        try (InputStream stream = new ProcessBuilder(command).start().getInputStream())
         {
-            output = new String(stream.readAllBytes(), StandardCharsets.UTF_8);
-            output = output.replace("\n", " ");
+            return new String(stream.readAllBytes(), StandardCharsets.UTF_8).replace("\n", " ");
         }
         catch (IOException e)
         {
             logger.warning(e.getMessage());
+            return "";
         }
-        return output;
     }
     
     @Override

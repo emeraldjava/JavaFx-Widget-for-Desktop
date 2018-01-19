@@ -5,11 +5,10 @@ public interface BatteryState
     String batteryState ();
     
     String timeToFull ();
+    
     String timeToEmpty ();
     
     String percentage ();
-    
-    String currentStateIcon ();
     
     void updateData ();
 }

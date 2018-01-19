@@ -15,30 +15,56 @@ import java.util.logging.Logger;
 
 public class BatteryStateBox extends VBox
 {
+    private static final double BATTERY_PROGRESS_BAR_WIDTH = 0.7;
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final BatteryState batteryState;
-    private final Label stateLabel;
-    private final Label timeRemainingLabel;
+    private BatteryState batteryState;
+    private Label stateLabel;
+    private Label timeRemainingLabel;
     private ProgressBar batteryBar;
     
     private BatteryStateBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
+        bindBoxSizeToParent(parentWidth, parentHeight);
+        determineOperatingSystem();
+        initializeFields();
+        setBoxPropertiesAndAddItems();
+        addConnectionStatusBox();
+        updateDataPeriodically();
+    }
+    
+    private void addConnectionStatusBox ()
+    {
+        getChildren().add(ConnectionStatusBox.newInstance());
+    }
+    
+    private void setBoxPropertiesAndAddItems ()
+    {
         setSpacing(10);
-        prefWidthProperty().bind(parentWidth.multiply(0.3));
-        prefHeightProperty().bind(parentHeight);
         setAlignment(Pos.TOP_CENTER);
-        batteryState = LinuxBatteryState.newInstance();
+        getChildren().addAll(new Label("Battery percentage"), batteryBar, stateLabel,
+                timeRemainingLabel);
+    }
+    
+    private void initializeFields ()
+    {
         stateLabel = new Label();
         timeRemainingLabel = new Label();
         batteryBar = new ProgressBar();
-        getChildren().addAll(new Label("Battery percentage"), batteryBar, stateLabel,
-                timeRemainingLabel);
-        batteryBar.prefWidthProperty().bind(prefWidthProperty().multiply(0.7));
-        getChildren().add(ConnectionStatusBox.newInstance());
-        setUpdateAnimation();
+        batteryBar.prefWidthProperty().bind(prefWidthProperty().multiply(BATTERY_PROGRESS_BAR_WIDTH));
     }
     
-    private void setUpdateAnimation ()
+    private void bindBoxSizeToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    {
+        prefWidthProperty().bind(parentWidth.multiply(0.3));
+        prefHeightProperty().bind(parentHeight);
+    }
+    
+    private void determineOperatingSystem ()
+    {
+        batteryState = LinuxBatteryState.newInstance();
+    }
+    
+    private void updateDataPeriodically ()
     {
         Timeline timeline = new Timeline();
         timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), this::updateHandler));
@@ -78,5 +104,12 @@ public class BatteryStateBox extends VBox
     {
         String currentPercentString = batteryState.percentage().replace("%", "");
         return Double.parseDouble(currentPercentString) / 100;
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "BatteryStateBox{" + "batteryState=" + batteryState + ", stateLabel=" + stateLabel +
+                ", timeRemainingLabel=" + timeRemainingLabel + ", batteryBar=" + batteryBar + '}';
     }
 }

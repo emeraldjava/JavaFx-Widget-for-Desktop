@@ -10,16 +10,14 @@ import java.util.regex.Pattern;
 
 public class LinuxBatteryState implements BatteryState
 {
-    private static final double PERCENT_DIVIDED_BY_ICON_NUMBERS = 14.2;
-    private static final Pattern REMOVE_SPACE = Pattern.compile(" ");
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final Pattern REMOVE_SPACE = Pattern.compile(" ");
     private static final String[] BATTERY_COMMAND =
             { "upower", "-i", "/org/freedesktop/UPower/devices/battery_BAT0" };
     private String outputData;
     
     private LinuxBatteryState ()
     {
-        super();
         outputData = getBatteryCommandOutput();
     }
     
@@ -60,17 +58,6 @@ public class LinuxBatteryState implements BatteryState
     public String percentage ()
     {
         return getProperty("percentage:");
-    }
-    
-    @Override
-    public String currentStateIcon ()
-    {
-        String percentage = percentage();
-        percentage = percentage.substring(0, percentage.indexOf('%'));
-        int percent = ((int) Math
-                .round(Double.parseDouble(percentage) / PERCENT_DIVIDED_BY_ICON_NUMBERS));
-        String state = "discharging".equals(batteryState()) ? "discharging" : "charging";
-        return state + percent + ".png";
     }
     
     @Override
