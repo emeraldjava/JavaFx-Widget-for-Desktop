@@ -24,7 +24,7 @@ public class LeftBottomBox extends HBox
         return new LeftBottomBox(parentWidth, parentHeight);
     }
     // todo show updates available
-    // todo show internet connection isConnected and network statistics
+    // todo show internet connection isConnected and wireless statistics
     // todo show wakatime chart
     // todo show gmail is Connected
     // todo show article from wikipedia

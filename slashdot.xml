@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-19T12:00:16+00:00</dc:date>
+<dc:date>2018-01-19T16:46:14+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,12 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -25,12 +31,6 @@
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,126 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>CHina's Smartphone Maker OnePlus Says Up To 40,000 Customers Were Affected by Credit Card Security Breach</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eGNnXmSKwj4/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach</link>
+<description>sqorbit writes: OnePlus, a manufacturer of an inexpensive smartphone meant to compete with the iPhone, states that data from 40,000 customers credit card information was stolen while purchasing phones from its website. Even as the company has just confirmed the breach, it says the the script stealing information had been running since November. It is not clear whether this was a remote attack or the attack happened from within the company. Credit purchases on the OnePlus site have been suspended and will remain that way while an investigation takes place. [...] Earlier this week, OnePlus had temporarily shut down credit card payments on its website following reports that customers' payment details were stolen after they bought goods through its online store. The company says it's disabling credit card payments "as a precaution," but will still be accepting purchases through PayPal. The investigation began after a poll posted by users on OnePlus' forums found that many customers had experienced the same problem.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=CHina's+Smartphone+Maker+OnePlus+Says+Up+To+40%2C000+Customers+Were+Affected+by+Credit+Card+Security+Breach%3A+http%3A%2F%2Fbit.ly%2F2Dp3Mzv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F1638235%2Fchinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635685&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eGNnXmSKwj4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-19T16:39:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>security-woes</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>1</slash:comments>
+<slash:hit_parade>1,1,1,1,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Instant Messaging Company Snap Threatens Jail Time for Leakers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AO4uF3XHBeg/instant-messaging-company-snap-threatens-jail-time-for-leakers</link>
+<description>An anonymous reader shares a report: Snap has a simple message to its employees: leak information and you could be sued or even jailed. The chief lawyer and general counsel of Snapchat's parent company, Michael O'Sullivan, sent a threatening memo to all employees last week just before The Daily Beast published an explosive story with confidential user metrics about how certain Snapchat features are used. "We have a zero-tolerance policy for those who leak Snap Inc. confidential information," O'Sullivan said in the memo, a copy of which was obtained by Cheddar. "This applies to outright leaks and any informal 'off the record' conversations with reporters, as well as any confidential information you let slip to people who are not authorized to know that information."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Instant+Messaging+Company+Snap+Threatens+Jail+Time+for+Leakers%3A+http%3A%2F%2Fbit.ly%2F2BcYeSF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F1519243%2Finstant-messaging-company-snap-threatens-jail-time-for-leakers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635521&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AO4uF3XHBeg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-19T16:05:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>my-way-or-highway</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,15,8,5,2,2,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amazon is Raising the Price of Prime Monthly Memberships by Nearly 20 Percent</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/H5Nz0SXr2a0/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent</link>
+<description>Amazon is boosting the price of its monthly Prime membership fees for new and existing members by nearly 20%. The online retailer said Friday its annual membership fee of $99 will not change. From a report: The increase comes less than two years after Amazon first introduced the monthly payment option as a way to attract new Prime members who either couldn't afford the annual membership of $99, which is not increasing, or didn't want to commit to using the service continuously. Prime is the engine at the center of the Amazon commerce machine -- Prime members buy from Amazon more frequently than non-Prime members and also spend more, hence why Amazon introduced the monthly option to lure new members. So if the company is raising the fee, you can bet that it discovered the current $10.99 was just not sustainable.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+is+Raising+the+Price+of+Prime+Monthly+Memberships+by+Nearly+20+Percent%3A+http%3A%2F%2Fbit.ly%2F2BeNS4K"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F19%2F1511228%2Famazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635499&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/H5Nz0SXr2a0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-19T15:26:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>making-money</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>56</slash:comments>
+<slash:hit_parade>56,53,38,32,11,4,4</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Moves To Debian For In-house Linux Desktop</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Oqz06ve0bvM/google-moves-to-debian-for-in-house-linux-desktop</link>
+<description>Google has officially confirmed the company is shifting its in-house Linux desktop from the Ubuntu-based Goobuntu to a new Linux distro, the DebianTesting-based gLinux. From a report: Margarita Manterola, a Google Engineer, quietly announced Google would move from Ubuntu to Debian-testing for its desktop Linux at DebConf17 in a lightning talk. Manterola explained that Google was moving to gLinux, a rolling release based on Debian Testing. This move isn't as surprising as it first looks. Ubuntu is based on Debian. In addition, Google has long been a strong Debian supporter. In 2017, Debian credited Google for making [sic] "possible our annual conference, and directly supports the progress of Debian and Free Software." Debian Testing is the beta for the next stable version of Debian. With gLinux, that means it's based on the Debian 10 "Buster" test operating system. Google takes each Debian Testing package, rebuilds it, tests it, files and fixes bugs, and once those are resolved, integrates it into the gLinux release candidate. GLinux went into beta on Aug. 16, 2017.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Moves+To+Debian+For+In-house+Linux+Desktop%3A+http%3A%2F%2Fbit.ly%2F2DoKEBH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F1426258%2Fgoogle-moves-to-debian-for-in-house-linux-desktop%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635411&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Oqz06ve0bvM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-19T14:47:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>to-each-his-own</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>56</slash:comments>
+<slash:hit_parade>56,47,19,16,9,5,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Why Airports Rename Runways When the Magnetic Poles Move</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nE_Yh-4QjgY/why-airports-rename-runways-when-the-magnetic-poles-move</link>
+<description>An anonymous reader shares a report: For decades, pilots heading into or out of Wichita Eisenhower National Airport in southeast Kansas have had three runways to choose from: 1L/19R, 1R/19L, and 14/32. Now, at the orders of the FAA, the airport will spend hundreds of thousands of dollars to give itself a makeover. Workers will repaint those huge numbers at the ends of each runway and replace copious signage. Pilots and air traffic controllers will study new reference manuals and approach plates, all updated to reflect an airport whose three runways have been renamed. World, meet 2L/20R, 2R/20L, and 15/33 -- which happen to be the same runways that have been welcoming planes since 1954. This is not a "What's in a name?" situation. The runways may be the same sweet-smelling stretches of tarmac they've always been, but the world around them has changed. Well, the magnetic fields around the world have changed. The planet's magnetic poles -- the points that compasses recognize as north and south -- are always wandering about. That's a problem, because most runways are named for their magnetic headings. Take Wichita's 14/32. First off, because planes can land or take off from either direction, you can think of it as two runways: 14 and 32. (Pro tip: Pilots say "one-four" and "three-two," not 14 and 32.) If you're looking at a compass, one end is about 140 degrees off of north, counting clockwise. For simplicity's sake, the headings are rounded to the nearest five, and dropped to two digits. So if you're looking down at Wichita Eisenhower, runway 14/32 is the one running from the northwest to the southeast.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Airports+Rename+Runways+When+the+Magnetic+Poles+Move%3A+http%3A%2F%2Fbit.ly%2F2Ds04p3"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F147229%2Fwhy-airports-rename-runways-when-the-magnetic-poles-move%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635349&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nE_Yh-4QjgY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-19T14:08:00+00:00</dc:date>
+<dc:subject>technology</dc:subject>
+<slash:department>what's-in-a-name?</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>87</slash:comments>
+<slash:hit_parade>87,83,55,45,14,9,5</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Releases Fix For Chromecast Wi-Fi Crashes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aZ-cAwRu1mA/google-releases-fix-for-chromecast-wi-fi-crashes</link>
+<description>An anonymous reader quotes a report from ZDNet: Google on Wednesday said it will release an update Jan. 18 to fix a bug in Cast software on Android phones that dramatically slows down WiFi networks. Reports have been circulating this week that the Google Home Max speaker can knock the TP-Link Archer C7 router offline. In a support page, Google explains a bug caused the Cast software that connects with Chromecast devices to send a large amount of network traffic routers can't handle. Google said the update will roll out via a Google Play services update. Until the update is released, Google advises users to try rebooting their Android phone, and check that their WiFi router is updated with the latest firmware. Google didn't list specific routers impacted by the bug, but reports have indicated routers from Linksys and Synology are seeing network crashes as well.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Releases+Fix+For+Chromecast+Wi-Fi+Crashes%3A+http%3A%2F%2Fbit.ly%2F2mOJlko"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F19%2F0113202%2Fgoogle-releases-fix-for-chromecast-wi-fi-crashes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631309&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/aZ-cAwRu1mA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T13:00:00+00:00</dc:date>
+<dc:subject>wireless</dc:subject>
+<slash:department>coming-soon</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>26</slash:comments>
+<slash:hit_parade>26,24,7,6,2,0,0</slash:hit_parade>
+<feedburner:origLink>https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>You Could Soon Be Manufacturing Your Own Drugs -- Thanks To 3D Printing</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/syDu5xJ1EuA/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing</link>
@@ -58,8 +178,8 @@
 <dc:subject>printer</dc:subject>
 <slash:department>do-it-yourself</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>27</slash:comments>
-<slash:hit_parade>27,26,17,13,3,2,0</slash:hit_parade>
+<slash:comments>71</slash:comments>
+<slash:hit_parade>71,69,49,42,14,8,6</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>US Tests Nuclear Power System To Sustain Astronauts On Mars</title>
@@ -78,8 +198,8 @@
 <dc:subject>power</dc:subject>
 <slash:department>future-is-now</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>37</slash:comments>
-<slash:hit_parade>37,30,16,14,4,2,0</slash:hit_parade>
+<slash:comments>84</slash:comments>
+<slash:hit_parade>84,73,51,45,12,7,7</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Why People Dislike Really Smart Leaders</title>
@@ -98,8 +218,8 @@
 <dc:subject>communications</dc:subject>
 <slash:department>over-one's-head</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>254</slash:comments>
-<slash:hit_parade>254,242,109,83,25,13,9</slash:hit_parade>
+<slash:comments>412</slash:comments>
+<slash:hit_parade>412,391,184,152,41,22,16</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Tesla Is Last In the Driverless Vehicle Race, Report Says</title>
@@ -118,8 +238,8 @@
 <dc:subject>transportation</dc:subject>
 <slash:department>participation-award</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>109</slash:comments>
-<slash:hit_parade>109,103,65,54,14,7,6</slash:hit_parade>
+<slash:comments>131</slash:comments>
+<slash:hit_parade>131,126,79,70,19,10,7</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Lifesaving Drone Makes First Rescue In Australia</title>
@@ -138,8 +258,8 @@
 <dc:subject>australia</dc:subject>
 <slash:department>first-of-its-kind</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>37</slash:comments>
-<slash:hit_parade>37,36,24,20,3,0,0</slash:hit_parade>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,36,25,22,6,4,0</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Amazon Picks 20 Finalists For 'HQ2' Second Headquarters Location</title>
@@ -158,8 +278,8 @@
 <dc:subject>business</dc:subject>
 <slash:department>price-is-right</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>116</slash:comments>
-<slash:hit_parade>116,114,57,50,11,7,5</slash:hit_parade>
+<slash:comments>153</slash:comments>
+<slash:hit_parade>153,152,86,82,15,7,5</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Google's Fuchsia OS On the Pixelbook</title>
@@ -178,8 +298,8 @@
 <dc:subject>os</dc:subject>
 <slash:department>what-to-expect</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>48</slash:comments>
-<slash:hit_parade>48,45,31,26,5,4,2</slash:hit_parade>
+<slash:comments>63</slash:comments>
+<slash:hit_parade>63,61,39,32,9,6,4</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ask Slashdot: How Would You Explain Einstein's Theories To a Nine-Year-Old?</title>
@@ -198,8 +318,8 @@
 <dc:subject>communications</dc:subject>
 <slash:department>explain-like-I'm-five</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>204</slash:comments>
-<slash:hit_parade>204,198,113,90,34,17,12</slash:hit_parade>
+<slash:comments>251</slash:comments>
+<slash:hit_parade>251,244,143,106,35,19,12</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Wine 3.0 Released</title>
@@ -218,129 +338,9 @@
 <dc:subject>wine</dc:subject>
 <slash:department>come-and-get-it</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>101</slash:comments>
-<slash:hit_parade>101,93,53,40,13,6,4</slash:hit_parade>
+<slash:comments>122</slash:comments>
+<slash:hit_parade>122,115,70,56,15,9,5</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>'Text Bomb' Is Latest Apple Bug</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fTR8VIQ10tc/text-bomb-is-latest-apple-bug</link>
-<description>An anonymous reader quotes a report from the BBC: A new "text bomb" affecting Apple's iPhone and Mac computers has been discovered. Abraham Masri, a software developer, tweeted about the flaw which typically causes an iPhone to crash and in some cases restart. Simply sending a message containing a link which pointed to Mr Masri's code on programming site GitHub would be enough to activate the bug -- even if the recipient did not click the link itself. Mr Masri said he "always reports bugs" before releasing them. Apple has not yet commented on the issue. On a Mac, the bug reportedly makes the Safari browser crash, and causes other slowdowns. Security expert Graham Cluley wrote on his blog that the bug does not present anything to be particularly worried about -- it's merely very annoying. After the link did the rounds on social media, Mr Masri removed the code from GitHub, therefore disabling the "attack" unless someone was to replicate the code elsewhere.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status='Text+Bomb'+Is+Latest+Apple+Bug%3A+http%3A%2F%2Fbit.ly%2F2Dn5uBj"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F18%2F218245%2Ftext-bomb-is-latest-apple-bug%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630975&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fTR8VIQ10tc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-18T22:03:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>headache-inducing</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>51</slash:comments>
-<slash:hit_parade>51,47,25,19,5,1,0</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/18/218245/text-bomb-is-latest-apple-bug?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Bitcoin's Fluctuations Are Too Much For Even Ransomware Cybercriminals</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tzO8mXDDhV0/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals</link>
-<description>Bitcoin's price swings are so huge that even ransomware developers are dialling back their reliance on the currency, according to researchers at cybersecurity firm Proofpoint. From a report: Over the last quarter of 2017, researchers saw a fall of 73% in payment demands denominated in bitcoin. When demanding money to unlock a victim's data, cybercriminals are now more likely to simply ask for a figure in US dollars, or a local currency, than specify a sum of bitcoin. Just like conventional salespeople, ransomware developers pay careful attention to the prices they charge. Some criminals offer discounts depending on the region the victim is in, offering cheaper unlocking to residents of developing nations, while others use an escalating price to encourage users to pay quickly and without overthinking things. But a rapidly oscillating bitcoin price plays havoc with those goals, Proofpoint says.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Bitcoin's+Fluctuations+Are+Too+Much+For+Even+Ransomware+Cybercriminals%3A+http%3A%2F%2Fbit.ly%2F2DmZ05M"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F18%2F1925225%2Fbitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630809&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tzO8mXDDhV0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-18T21:25:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>too-much-for-me</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>60</slash:comments>
-<slash:hit_parade>60,57,37,28,4,1,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/18/1925225/bitcoins-fluctuations-are-too-much-for-even-ransomware-cybercriminals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Microsoft Resumes Meltdown and Spectre Updates for AMD Devices</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/i3Bgv824EOw/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices</link>
-<description>Microsoft has resumed the rollout of security updates for AMD devices. The updates patch the Meltdown and Spectre vulnerabilities. From a report: Microsoft released these patches on January 3, but the company stopped the rollout for AMD-based computers on January 9 after users reported crashes that plunged PCs into unbootable states. After working on smoothing out the problems with AMD, Microsoft announced today it would resume the rollout of five (out of nine) security updates.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Resumes+Meltdown+and+Spectre+Updates+for+AMD+Devices%3A+http%3A%2F%2Fbit.ly%2F2Dph27q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F18%2F195204%2Fmicrosoft-resumes-meltdown-and-spectre-updates-for-amd-devices%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630771&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/i3Bgv824EOw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-18T20:45:00+00:00</dc:date>
-<dc:subject>microsoft</dc:subject>
-<slash:department>second-time's-the-charm</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,39,23,21,3,2,1</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/18/195204/microsoft-resumes-meltdown-and-spectre-updates-for-amd-devices?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Global Warming Predictions May Now Be a Lot Less Uncertain</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iTA_SkkxtEQ/global-warming-predictions-may-now-be-a-lot-less-uncertain</link>
-<description>An anonymous reader shares a report: Humanity must not pass a rise of 2 degrees Celsius in global temperature from pre-industrial levels, so says the Paris climate agreement. Cross that line and the global effects of climate change start looking less like a grave situation and more like a catastrophe. The frustrating bit about studying climate change is the inherent uncertainty of it all. Predicting where it's going is a matter of mashing up thousands of variables in massive, confounding systems. But today in the journal Nature, researchers claim they've reduced the uncertainty in a key metric of climate change by 60 percent, narrowing a range of potential warming from 3C to 1.2C. And that could have implications for how the international community arrives at climate goals like it did in Paris. The metric is called equilibrium climate sensitivity, but don't let the name scare you.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Global+Warming+Predictions+May+Now+Be+a+Lot+Less+Uncertain%3A+http%3A%2F%2Fbit.ly%2F2mPwdf5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F18%2F1853217%2Fglobal-warming-predictions-may-now-be-a-lot-less-uncertain%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630743&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iTA_SkkxtEQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-18T20:05:00+00:00</dc:date>
-<dc:subject>science</dc:subject>
-<slash:department>perfecting-things</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>260</slash:comments>
-<slash:hit_parade>260,251,152,116,46,16,14</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/18/1853217/global-warming-predictions-may-now-be-a-lot-less-uncertain?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Less Than 1 in 10 Gmail Users Enable Two-Factor Authentication</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cKU1bDMh9Y8/less-than-1-in-10-gmail-users-enable-two-factor-authentication</link>
-<description>It has been nearly seven years since Google introduced two-factor authentication for Gmail accounts, but virtually no one is using it. From a report: In a presentation at Usenix's Enigma 2018 security conference in California, Google software engineer Grzegorz Milka this week revealed that, right now, less than 10 per cent of active Google accounts use two-step authentication to lock down their services. He also said only about 12 per cent of Americans have a password manager to protect their accounts, according to a 2016 Pew study.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Less+Than+1+in+10+Gmail+Users+Enable+Two-Factor+Authentication%3A+http%3A%2F%2Fbit.ly%2F2mOWuK6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F18%2F1836259%2Fless-than-1-in-10-gmail-users-enable-two-factor-authentication%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630709&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cKU1bDMh9Y8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-18T19:20:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>usability-vs-security</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>220</slash:comments>
-<slash:hit_parade>220,217,145,127,25,7,4</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/18/1836259/less-than-1-in-10-gmail-users-enable-two-factor-authentication?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Senate Passes Bill Renewing NSA's Internet Surveillance Program</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/X9jV9O56ggc/senate-passes-bill-renewing-nsas-internet-surveillance-program</link>
-<description>From a report: The U.S. Senate on Thursday passed a bill to renew the National Security Agency's warrantless internet surveillance program for six years and with minimal changes, overcoming objections from civil liberties advocates that it did too little to safeguard the privacy of Americans. From a report on CNET: The programs, known as Prism and Upstream, allow the NSA to collect online communications of foreigners outside the US. Prism collects these communications from internet services, and Upstream taps into the internet's infrastructure to capture information in transit. Some communications from Americans and others in the US are collected in the process. The vote Thursday renews the programs for six years. The House approved a bill renewing the programs last week. Former NSA contractor Edward Snowden first revealed the programs by leaking information about them to journalists in 2013. After the news coverage, the administration of President Barack Obama declassified much information about the programs.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Senate+Passes+Bill+Renewing+NSA's+Internet+Surveillance+Program%3A+http%3A%2F%2Fbit.ly%2F2BcncSb"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F18%2F1839247%2Fsenate-passes-bill-renewing-nsas-internet-surveillance-program%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630715&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/X9jV9O56ggc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-18T18:40:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>here-we-go</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>87</slash:comments>
-<slash:hit_parade>87,86,49,43,12,7,4</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/18/1839247/senate-passes-bill-renewing-nsas-internet-surveillance-program?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
