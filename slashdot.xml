@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-20T18:56:05+00:00</dc:date>
+<dc:date>2018-01-20T19:09:08+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -60,7 +60,8 @@ But in a recent Antimicrobial Agents and Chemotherapy study, researchers confirm
 <dc:subject>medicine</dc:subject>
 <slash:department>going-viral</slash:department>
 <slash:section>science</slash:section>
-<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,1,1,0,0,0</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Red Hat Reverts Spectre Patches to Address Boot Issues</title>
@@ -83,8 +84,8 @@ At least one site "characterized the move as Red Hat washing its hands of the re
 <dc:subject>redhat</dc:subject>
 <slash:department>on-second-thought</slash:department>
 <slash:section>linux</slash:section>
-<slash:comments>14</slash:comments>
-<slash:hit_parade>14,12,8,6,1,0,0</slash:hit_parade>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,15,9,7,4,1,0</slash:hit_parade>
 <feedburner:origLink>https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple Might Discontinue the iPhone X This Summer</title>
@@ -104,8 +105,8 @@ Kuo -- who we should note has an exemplary track record with respect to iPhone r
 <dc:subject>iphone</dc:subject>
 <slash:department>X-Tinct</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>61</slash:comments>
-<slash:hit_parade>61,60,36,29,3,2,1</slash:hit_parade>
+<slash:comments>66</slash:comments>
+<slash:hit_parade>66,65,41,32,5,3,1</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Car Manufacturers Sued Over Rodents Eating Soy-Insulated Wires </title>
@@ -127,8 +128,8 @@ There's even a web site called HowToPreventRatsFromEatingCarWires.com, which rep
 <dc:subject>transportation</dc:subject>
 <slash:department>num-num-num</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>90</slash:comments>
-<slash:hit_parade>90,86,45,38,16,9,5</slash:hit_parade>
+<slash:comments>94</slash:comments>
+<slash:hit_parade>94,90,46,39,17,9,5</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Twitter Says It Exposed Nearly 700,000 People To Russian Propaganda During Election</title>
@@ -149,8 +150,8 @@ There's even a web site called HowToPreventRatsFromEatingCarWires.com, which rep
 <dc:subject>twitter</dc:subject>
 <slash:department>surprise-surprise</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>157</slash:comments>
-<slash:hit_parade>157,142,81,64,20,11,8</slash:hit_parade>
+<slash:comments>160</slash:comments>
+<slash:hit_parade>160,145,84,66,20,11,7</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>What a Government Shutdown Will Mean For NASA and SpaceX</title>
@@ -189,8 +190,8 @@ There's even a web site called HowToPreventRatsFromEatingCarWires.com, which rep
 <dc:subject>business</dc:subject>
 <slash:department>information-is-key</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>128</slash:comments>
-<slash:hit_parade>128,122,83,52,13,8,3</slash:hit_parade>
+<slash:comments>131</slash:comments>
+<slash:hit_parade>131,125,83,52,13,8,3</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ajit Pai's FCC Can't Admit Broadband Competition Is a Problem</title>
@@ -211,8 +212,8 @@ In a statement (pdf), FCC boss Ajit Pai stated the agency would fortunately be b
 <dc:subject>internet</dc:subject>
 <slash:department>can't-see-the-forest-through-the-trees</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>84</slash:comments>
-<slash:hit_parade>84,80,35,29,10,2,2</slash:hit_parade>
+<slash:comments>85</slash:comments>
+<slash:hit_parade>85,81,36,30,9,3,2</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Nintendo's Newest Switch Accessories Are DIY Cardboard Toys</title>
@@ -251,8 +252,8 @@ In a statement (pdf), FCC boss Ajit Pai stated the agency would fortunately be b
 <dc:subject>transportation</dc:subject>
 <slash:department>first-in-the-world</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>149</slash:comments>
-<slash:hit_parade>149,147,89,74,22,10,6</slash:hit_parade>
+<slash:comments>152</slash:comments>
+<slash:hit_parade>152,150,92,77,22,10,6</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Google CEO Sundar Pichai Says He Does Not Regret Firing James Damore</title>
@@ -273,8 +274,8 @@ In a statement (pdf), FCC boss Ajit Pai stated the agency would fortunately be b
 <dc:subject>business</dc:subject>
 <slash:department>right-vs-wrong</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>311</slash:comments>
-<slash:hit_parade>311,302,158,131,56,37,27</slash:hit_parade>
+<slash:comments>314</slash:comments>
+<slash:hit_parade>314,305,158,131,57,37,27</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Security Breaches Don't Affect Stock Price, Study Suggests</title>

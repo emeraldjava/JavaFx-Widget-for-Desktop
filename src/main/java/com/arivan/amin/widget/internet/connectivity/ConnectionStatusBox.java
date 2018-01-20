@@ -2,6 +2,7 @@ package com.arivan.amin.widget.internet.connectivity;
 
 import javafx.animation.*;
 import javafx.event.ActionEvent;
+import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
@@ -19,6 +20,7 @@ public class ConnectionStatusBox extends VBox
     
     private ConnectionStatusBox ()
     {
+        setPadding(new Insets(20, 0, 0, 0));
         determineOperatingSystem();
         adjustBoxProperties();
         initializeAndAddFields();

@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 public class RightBox extends VBox
 {
     private static final double RIGHT_BOX_WIDTH = 0.18;
-    private static final int SPACING = 15;
+    private static final int SPACING = 20;
     private final Logger logger = Logger.getLogger(getClass().getName());
     
     private RightBox (DoubleProperty parentWidthProperty, DoubleProperty parentHeightProperty)
