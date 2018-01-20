@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 public class ConnectionStatusBox extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private static final int PERIOD_BETWEEN_UPDATES = 3;
+    private static final int PERIOD_BETWEEN_UPDATES = 1;
     private ConnectionStatus connectionStatus;
     private Label statusLabel;
     private Label pingTimeLabel;

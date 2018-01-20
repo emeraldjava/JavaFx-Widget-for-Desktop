@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-19T16:46:14+00:00</dc:date>
+<dc:date>2018-01-20T18:56:05+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,306 +41,325 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>CHina's Smartphone Maker OnePlus Says Up To 40,000 Customers Were Affected by Credit Card Security Breach</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eGNnXmSKwj4/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach</link>
-<description>sqorbit writes: OnePlus, a manufacturer of an inexpensive smartphone meant to compete with the iPhone, states that data from 40,000 customers credit card information was stolen while purchasing phones from its website. Even as the company has just confirmed the breach, it says the the script stealing information had been running since November. It is not clear whether this was a remote attack or the attack happened from within the company. Credit purchases on the OnePlus site have been suspended and will remain that way while an investigation takes place. [...] Earlier this week, OnePlus had temporarily shut down credit card payments on its website following reports that customers' payment details were stolen after they bought goods through its online store. The company says it's disabling credit card payments "as a precaution," but will still be accepting purchases through PayPal. The investigation began after a poll posted by users on OnePlus' forums found that many customers had experienced the same problem.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=CHina's+Smartphone+Maker+OnePlus+Says+Up+To+40%2C000+Customers+Were+Affected+by+Credit+Card+Security+Breach%3A+http%3A%2F%2Fbit.ly%2F2Dp3Mzv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F1638235%2Fchinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Antifungal Provides Hope in the Fight Against Superbugs</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4hON82T6Esg/new-antifungal-provides-hope-in-the-fight-against-superbugs</link>
+<description>dryriver shares news about the ongoing war against drug-resistant fungus. ScienceDaily reports:
+Microscopic yeast have been wreaking havoc in hospitals around the world -- creeping into catheters, ventilator tubes, and IV lines -- and causing deadly invasive infection. C. auris is particularly problematic because it loves hospitals, has developed resistance to a wide range of antifungals, and once it infects a patient doctors have limited treatment options. 
+But in a recent Antimicrobial Agents and Chemotherapy study, researchers confirmed a new drug compound kills drug-resistant C. auris, both in the laboratory and in a mouse model that mimics human infection. The drug works through a novel mechanism. Unlike other antifungals that poke holes in yeast cell membranes or inhibit sterol synthesis, the new drug blocks how necessary proteins attach to the yeast cell wall. This means C. auris yeast can't grow properly and have a harder time forming drug-resistant communities that are a stubborn source of hospital outbreaks... The drug is first in a new class of antifungals, which could help stave off drug resistance.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Antifungal+Provides+Hope+in+the+Fight+Against+Superbugs%3A+http%3A%2F%2Fbit.ly%2F2mUbuXp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F20%2F0218259%2Fnew-antifungal-provides-hope-in-the-fight-against-superbugs%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635685&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eGNnXmSKwj4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-19T16:39:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>security-woes</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>1</slash:comments>
-<slash:hit_parade>1,1,1,1,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/1638235/chinas-smartphone-maker-oneplus-says-up-to-40000-customers-were-affected-by-credit-card-security-breach?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Instant Messaging Company Snap Threatens Jail Time for Leakers</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AO4uF3XHBeg/instant-messaging-company-snap-threatens-jail-time-for-leakers</link>
-<description>An anonymous reader shares a report: Snap has a simple message to its employees: leak information and you could be sued or even jailed. The chief lawyer and general counsel of Snapchat's parent company, Michael O'Sullivan, sent a threatening memo to all employees last week just before The Daily Beast published an explosive story with confidential user metrics about how certain Snapchat features are used. "We have a zero-tolerance policy for those who leak Snap Inc. confidential information," O'Sullivan said in the memo, a copy of which was obtained by Cheddar. "This applies to outright leaks and any informal 'off the record' conversations with reporters, as well as any confidential information you let slip to people who are not authorized to know that information."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Instant+Messaging+Company+Snap+Threatens+Jail+Time+for+Leakers%3A+http%3A%2F%2Fbit.ly%2F2BcYeSF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F1519243%2Finstant-messaging-company-snap-threatens-jail-time-for-leakers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635521&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AO4uF3XHBeg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-19T16:05:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>my-way-or-highway</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>17</slash:comments>
-<slash:hit_parade>17,15,8,5,2,2,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/1519243/instant-messaging-company-snap-threatens-jail-time-for-leakers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Amazon is Raising the Price of Prime Monthly Memberships by Nearly 20 Percent</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/H5Nz0SXr2a0/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent</link>
-<description>Amazon is boosting the price of its monthly Prime membership fees for new and existing members by nearly 20%. The online retailer said Friday its annual membership fee of $99 will not change. From a report: The increase comes less than two years after Amazon first introduced the monthly payment option as a way to attract new Prime members who either couldn't afford the annual membership of $99, which is not increasing, or didn't want to commit to using the service continuously. Prime is the engine at the center of the Amazon commerce machine -- Prime members buy from Amazon more frequently than non-Prime members and also spend more, hence why Amazon introduced the monthly option to lure new members. So if the company is raising the fee, you can bet that it discovered the current $10.99 was just not sustainable.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+is+Raising+the+Price+of+Prime+Monthly+Memberships+by+Nearly+20+Percent%3A+http%3A%2F%2Fbit.ly%2F2BeNS4K"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F19%2F1511228%2Famazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635499&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/H5Nz0SXr2a0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-19T15:26:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>making-money</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>56</slash:comments>
-<slash:hit_parade>56,53,38,32,11,4,4</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/19/1511228/amazon-is-raising-the-price-of-prime-monthly-memberships-by-nearly-20-percent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google Moves To Debian For In-house Linux Desktop</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Oqz06ve0bvM/google-moves-to-debian-for-in-house-linux-desktop</link>
-<description>Google has officially confirmed the company is shifting its in-house Linux desktop from the Ubuntu-based Goobuntu to a new Linux distro, the DebianTesting-based gLinux. From a report: Margarita Manterola, a Google Engineer, quietly announced Google would move from Ubuntu to Debian-testing for its desktop Linux at DebConf17 in a lightning talk. Manterola explained that Google was moving to gLinux, a rolling release based on Debian Testing. This move isn't as surprising as it first looks. Ubuntu is based on Debian. In addition, Google has long been a strong Debian supporter. In 2017, Debian credited Google for making [sic] "possible our annual conference, and directly supports the progress of Debian and Free Software." Debian Testing is the beta for the next stable version of Debian. With gLinux, that means it's based on the Debian 10 "Buster" test operating system. Google takes each Debian Testing package, rebuilds it, tests it, files and fixes bugs, and once those are resolved, integrates it into the gLinux release candidate. GLinux went into beta on Aug. 16, 2017.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Moves+To+Debian+For+In-house+Linux+Desktop%3A+http%3A%2F%2Fbit.ly%2F2DoKEBH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F1426258%2Fgoogle-moves-to-debian-for-in-house-linux-desktop%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635411&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Oqz06ve0bvM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-19T14:47:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
-<slash:department>to-each-his-own</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>56</slash:comments>
-<slash:hit_parade>56,47,19,16,9,5,2</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/1426258/google-moves-to-debian-for-in-house-linux-desktop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Why Airports Rename Runways When the Magnetic Poles Move</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nE_Yh-4QjgY/why-airports-rename-runways-when-the-magnetic-poles-move</link>
-<description>An anonymous reader shares a report: For decades, pilots heading into or out of Wichita Eisenhower National Airport in southeast Kansas have had three runways to choose from: 1L/19R, 1R/19L, and 14/32. Now, at the orders of the FAA, the airport will spend hundreds of thousands of dollars to give itself a makeover. Workers will repaint those huge numbers at the ends of each runway and replace copious signage. Pilots and air traffic controllers will study new reference manuals and approach plates, all updated to reflect an airport whose three runways have been renamed. World, meet 2L/20R, 2R/20L, and 15/33 -- which happen to be the same runways that have been welcoming planes since 1954. This is not a "What's in a name?" situation. The runways may be the same sweet-smelling stretches of tarmac they've always been, but the world around them has changed. Well, the magnetic fields around the world have changed. The planet's magnetic poles -- the points that compasses recognize as north and south -- are always wandering about. That's a problem, because most runways are named for their magnetic headings. Take Wichita's 14/32. First off, because planes can land or take off from either direction, you can think of it as two runways: 14 and 32. (Pro tip: Pilots say "one-four" and "three-two," not 14 and 32.) If you're looking at a compass, one end is about 140 degrees off of north, counting clockwise. For simplicity's sake, the headings are rounded to the nearest five, and dropped to two digits. So if you're looking down at Wichita Eisenhower, runway 14/32 is the one running from the northwest to the southeast.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Why+Airports+Rename+Runways+When+the+Magnetic+Poles+Move%3A+http%3A%2F%2Fbit.ly%2F2Ds04p3"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F147229%2Fwhy-airports-rename-runways-when-the-magnetic-poles-move%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11635349&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nE_Yh-4QjgY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-19T14:08:00+00:00</dc:date>
-<dc:subject>technology</dc:subject>
-<slash:department>what's-in-a-name?</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>87</slash:comments>
-<slash:hit_parade>87,83,55,45,14,9,5</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/147229/why-airports-rename-runways-when-the-magnetic-poles-move?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google Releases Fix For Chromecast Wi-Fi Crashes</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/aZ-cAwRu1mA/google-releases-fix-for-chromecast-wi-fi-crashes</link>
-<description>An anonymous reader quotes a report from ZDNet: Google on Wednesday said it will release an update Jan. 18 to fix a bug in Cast software on Android phones that dramatically slows down WiFi networks. Reports have been circulating this week that the Google Home Max speaker can knock the TP-Link Archer C7 router offline. In a support page, Google explains a bug caused the Cast software that connects with Chromecast devices to send a large amount of network traffic routers can't handle. Google said the update will roll out via a Google Play services update. Until the update is released, Google advises users to try rebooting their Android phone, and check that their WiFi router is updated with the latest firmware. Google didn't list specific routers impacted by the bug, but reports have indicated routers from Linksys and Synology are seeing network crashes as well.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Releases+Fix+For+Chromecast+Wi-Fi+Crashes%3A+http%3A%2F%2Fbit.ly%2F2mOJlko"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F19%2F0113202%2Fgoogle-releases-fix-for-chromecast-wi-fi-crashes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631309&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/aZ-cAwRu1mA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T13:00:00+00:00</dc:date>
-<dc:subject>wireless</dc:subject>
-<slash:department>coming-soon</slash:department>
-<slash:section>mobile</slash:section>
-<slash:comments>26</slash:comments>
-<slash:hit_parade>26,24,7,6,2,0,0</slash:hit_parade>
-<feedburner:origLink>https://mobile.slashdot.org/story/18/01/19/0113202/google-releases-fix-for-chromecast-wi-fi-crashes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>You Could Soon Be Manufacturing Your Own Drugs -- Thanks To 3D Printing</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/syDu5xJ1EuA/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing</link>
-<description>sciencehabit shares a report from Science Magazine: Forget those long lines at the pharmacy: Someday soon, you might be making your own medicines at home. That's because researchers have tailored a 3D printer to synthesize pharmaceuticals and other chemicals from simple, widely available starting compounds fed into a series of water bottle -- size reactors. The work, they say, could digitize chemistry, allowing users to synthesize almost any compound anywhere in the world. In today's issue of Science, Leroy Cronin, a chemist at the University of Glasgow in the United Kingdom, and his colleagues report printing a series of interconnected reaction vessels that carry out four different chemical reactions involving 12 separate steps, from filtering to evaporating different solutions. By adding different reagents and solvents at the right times and in a precise order, they were able to convert simple, widely available starting compounds into a muscle relaxant called baclofen. And by designing reactionware to carry out different chemical reactions with different reagents, they produced other medicines, including an anticonvulsant and a drug to fight ulcers and acid reflux. So why not just buy a reactionware kit and scrap the printing? "This approach will allow the on-demand production of chemicals and drugs that are in short supply, hard to make at big facilities, and allow customization to tailor them to the application," Cronin says.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=You+Could+Soon+Be+Manufacturing+Your+Own+Drugs+--+Thanks+To+3D+Printing%3A+http%3A%2F%2Fbit.ly%2F2DQbfof"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F19%2F0120227%2Fyou-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631315&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/syDu5xJ1EuA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T10:00:00+00:00</dc:date>
-<dc:subject>printer</dc:subject>
-<slash:department>do-it-yourself</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>71</slash:comments>
-<slash:hit_parade>71,69,49,42,14,8,6</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/19/0120227/you-could-soon-be-manufacturing-your-own-drugs----thanks-to-3d-printing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>US Tests Nuclear Power System To Sustain Astronauts On Mars</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UpwcGm7xzbU/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars</link>
-<description>Initial tests in Nevada on a compact nuclear power system designed to sustain a long-duration NASA human mission on the inhospitable surface on Mars have been successful and a full-power run is scheduled for March, officials said on Thursday. Reuters reports: National Aeronautics and Space Administration and U.S. Department of Energy officials, at a Las Vegas news conference, detailed the development of the nuclear fission system under NASA's Kilopower project. Months-long testing began in November at the energy department's Nevada National Security Site, with an eye toward providing energy for future astronaut and robotic missions in space and on the surface of Mars, the moon or other solar system destinations. A key hurdle for any long-term colony on the surface of a planet or moon, as opposed to NASA's six short lunar surface visits from 1969 to 1972, is possessing a power source strong enough to sustain a base but small and light enough to allow for transport through space. NASA's prototype power system uses a uranium-235 reactor core roughly the size of a paper towel roll. The technology could power habitats and life-support systems, enable astronauts to mine resources, recharge rovers and run processing equipment to transform resources such as ice on the planet into oxygen, water and fuel. It could also potentially augment electrically powered spacecraft propulsion systems on missions to the outer planets.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=US+Tests+Nuclear+Power+System+To+Sustain+Astronauts+On+Mars%3A+http%3A%2F%2Fbit.ly%2F2BgxuB2"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F18%2F2148243%2Fus-tests-nuclear-power-system-to-sustain-astronauts-on-mars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631043&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/UpwcGm7xzbU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T07:00:00+00:00</dc:date>
-<dc:subject>power</dc:subject>
-<slash:department>future-is-now</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>84</slash:comments>
-<slash:hit_parade>84,73,51,45,12,7,7</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/18/2148243/us-tests-nuclear-power-system-to-sustain-astronauts-on-mars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Why People Dislike Really Smart Leaders</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-S01ugIz5-k/why-people-dislike-really-smart-leaders</link>
-<description>An anonymous reader quotes a report from Scientific American: Intelligence makes for better leaders -- from undergraduates to executives to presidents -- according to multiple studies. It certainly makes sense that handling a market shift or legislative logjam requires cognitive oomph. But new research on leadership suggests that, at a certain point, having a higher IQ stops helping and starts hurting. The researchers looked at 379 male and female business leaders in 30 countries, across fields that included banking, retail and technology. The managers took IQ tests (an imperfect but robust predictor of performance in many areas), and each was rated on leadership style and effectiveness by an average of eight co-workers. IQ positively correlated with ratings of leader effectiveness, strategy formation, vision and several other characteristics -- up to a point. The ratings peaked at an IQ of around 120, which is higher than roughly 80 percent of office workers. Beyond that, the ratings declined. The researchers suggest the "ideal" IQ could be higher or lower in various fields, depending on whether technical versus social skills are more valued in a given work culture. The study's lead author, John Antonakis, a psychologist at the University of Lausanne in Switzerland, suggests leaders should use their intelligence to generate creative metaphors that will persuade and inspire others -- the way former U.S. President Barack Obama did. "I think the only way a smart person can signal their intelligence appropriately and still connect with the people," Antonakis says, "is to speak in charismatic ways."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Why+People+Dislike+Really+Smart+Leaders%3A+http%3A%2F%2Fbit.ly%2F2DP8Gmz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F18%2F2327204%2Fwhy-people-dislike-really-smart-leaders%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631221&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-S01ugIz5-k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T03:30:00+00:00</dc:date>
-<dc:subject>communications</dc:subject>
-<slash:department>over-one's-head</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636699&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4hON82T6Esg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T18:49:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>going-viral</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>412</slash:comments>
-<slash:hit_parade>412,391,184,152,41,22,16</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/18/2327204/why-people-dislike-really-smart-leaders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Tesla Is Last In the Driverless Vehicle Race, Report Says</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BfJEWugDnl8/tesla-is-last-in-the-driverless-vehicle-race-report-says</link>
-<description>Navigant Research has compiled a new report on 19 companies working on automated driving systems, and surprisingly, Tesla came in last place. U.S. News &amp;amp; World Report: Navigant ranked the 19 major companies developing AV technology based on 10 criteria, including vision, market strategy, partnerships, production strategy, technology, product quality and staying power. According to the report, General Motors Co. and Waymo, the auto unit of Alphabet, are the top two AV investment opportunities in the market today. Tesla and Apple are the two biggest laggards in the AV race, according to Navigant's rankings. Investors are acutely aware of Tesla's production and distribution disadvantages compared to legacy automakers like GM, but Navigant is also highly critical of Tesla's technology. "The autopilot system on current products has stagnated and, in many respects, regressed since it was first launched in late 2015," Navigant says in the report, according to Ars Technica. "More than one year after launching V2, Autopilot still lacks some of the functionality of the original, and there are many anecdotal reports from owners of unpredictable behavior."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+Is+Last+In+the+Driverless+Vehicle+Race%2C+Report+Says%3A+http%3A%2F%2Fbit.ly%2F2Dpuw2V"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F19%2F012244%2Ftesla-is-last-in-the-driverless-vehicle-race-report-says%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Red Hat Reverts Spectre Patches to Address Boot Issues</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/t3m-adq663M/red-hat-reverts-spectre-patches-to-address-boot-issues</link>
+<description>An anonymous reader quotes BleepingComputer:
+Red Hat is releasing updates for reverting previous patches for the Spectre vulnerability (Variant 2, aka CVE-2017-5715) after customers complained that some systems were failing to boot. "Red Hat is no longer providing microcode to address Spectre, variant 2, due to instabilities introduced that are causing customer systems to not boot," the company said yesterday. "The latest microcode_ctl and linux-firmware packages are reverting these unstable microprocessor firmware changes to versions that were known to be stable and well tested, released prior to the Spectre/Meltdown embargo lift date on Jan 3rd," Red Had added. 
+Instead, Red Hat is recommending that each customer contact their OEM hardware provider and inquire about mitigations for CVE-2017-5715 on a per-system basis. Besides Red Hat Enterprise Linux, other RHEL-based distros like CentOS and Scientific Linux are also expected to be affected by Red Hat's decision to revert previous Spectre Variant 2 updates, so these users will also have to contact CPU/OEM vendors. 
+At least one site "characterized the move as Red Hat washing its hands of the responsibility to provide customers with firmware patches," writes Data Center Knowledge, arguing instead that Red Hat "isn't actually involved in writing the firmware updates. It passes the microcode created by chipmakers to its users 'as a customer convenience.'"
+"What I would have said if they'd asked us ahead of time is that microcode is something that CPU vendors develop," Jon Masters, chief ARM architect at Red Hat, told Data Center Knowledge in a phone interview Thursday. "It's actually an encrypted, signed binary image, so we don't have the capability, even if we wanted to produce microcode. It's a binary blob that we cannot generate. The only people who can actually generate that are the CPU vendors."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Red+Hat+Reverts+Spectre+Patches+to+Address+Boot+Issues%3A+http%3A%2F%2Fbit.ly%2F2Bh9ZaS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F20%2F178204%2Fred-hat-reverts-spectre-patches-to-address-boot-issues%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631303&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BfJEWugDnl8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T02:03:00+00:00</dc:date>
-<dc:subject>transportation</dc:subject>
-<slash:department>participation-award</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11639297&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/t3m-adq663M" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T17:44:00+00:00</dc:date>
+<dc:subject>redhat</dc:subject>
+<slash:department>on-second-thought</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,12,8,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Might Discontinue the iPhone X This Summer</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VmrAEzh8UUM/apple-might-discontinue-the-iphone-x-this-summer</link>
+<description>BGR shares a startling prediction from Ming-Chi Kuo, the Apple analyst at KGI securities:
+Kuo -- who we should note has an exemplary track record with respect to iPhone rumors -- adds that Apple may opt to discontinue the current iPhone X entirely if sales are underwhelming. "KGI also expects a trio of iPhone models in the fall of 2018," AppleInsider notes. "He predicts the iPhone X will be 'end of life' in the summer of 2018, instead of being retained as a lower-cost option in the following year." If Kuo's projection pans out, this would represent a marked shift in Apple's iPhone sales strategy. Going back nearly a decade, Apple has always positioned older iPhone models around as a wallet-friendly alternative for users who weren't keen on paying a premium for Apple's latest and greatest.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Might+Discontinue+the+iPhone+X+This+Summer%3A+http%3A%2F%2Fbit.ly%2F2mWZ2Gv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F20%2F0514201%2Fapple-might-discontinue-the-iphone-x-this-summer%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636971&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VmrAEzh8UUM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T16:39:00+00:00</dc:date>
+<dc:subject>iphone</dc:subject>
+<slash:department>X-Tinct</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>131</slash:comments>
-<slash:hit_parade>131,126,79,70,19,10,7</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/19/012244/tesla-is-last-in-the-driverless-vehicle-race-report-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Lifesaving Drone Makes First Rescue In Australia</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FgwZmKbO9ug/lifesaving-drone-makes-first-rescue-in-australia</link>
-<description>Zorro shares a report from Yahoo News: A pair of Australian swimmers on Thursday became the first people to be rescued in the ocean by a drone when the aerial lifesaver dropped a safety device to distressed teens caught in rough seas. In what is believed to be a world-first drone surf rescue, two boys on Thursday got caught in three-meter (10-foot) swells while swimming off Lennox Head in New South Wales, near the border with Queensland. Beachgoers onshore raised the alarm to the lifeguards who then alerted the drone pilot, and the aerial lifesaver was deployed in moments. Along with their ability to spot swimmers in trouble and deliver life saving devices faster than traditional lifesaving techniques, like launching surfboards or rubber dinghies, drones are being used in Australia to spot underwater predators like sharks and jellyfish. Artificial intelligence is being developed using thousands of images captured by a drone camera to build an algorithm that can identify different ocean objects. The software can differentiate between sea creatures, like sharks which it can recognize with more than 90 percent accuracy, compared to about 16 percent with the naked eye.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Lifesaving+Drone+Makes+First+Rescue+In+Australia%3A+http%3A%2F%2Fbit.ly%2F2BcTqwN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F18%2F2310236%2Flifesaving-drone-makes-first-rescue-in-australia%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>61</slash:comments>
+<slash:hit_parade>61,60,36,29,3,2,1</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Car Manufacturers Sued Over Rodents Eating Soy-Insulated Wires </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PECLtxDzJSA/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires</link>
+<description>An anonymous reader writes about "a little-known problem plaguing many newer vehicles from the likes of Honda, Toyota, and Kia."
+The car makers used soy-insulated wiring to cut costs and "Go Green", but owners in rural areas are finding the local wildlife finds the wiring irresistible; thousands of dollars in damage has been done by rats and other critters eating wiring harnesses. Hackaday is asking their community to brainstorm solutions to this unique problem, as owners of affected vehicles have had to resort to sprinkling their driveway with coyote urine and putting rat traps on the wheels. 
+Hackaday reports that "It isn't just one or two cases either, it's enough of a problem that some car manufacturers are getting hit with class-action lawsuits." Back in 2010 Slashdot reported that rabbits had already discovered the joys of eating soy-insulated wires, and were turning the parking lot at the Denver International Airport into their own personal buffet. 
+There's even a web site called HowToPreventRatsFromEatingCarWires.com, which reports that Honda has already manufactured a special wire-wrapping tape that's infused with the active ingredient from chili peppers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Car+Manufacturers+Sued+Over+Rodents+Eating+Soy-Insulated+Wires+%3A+http%3A%2F%2Fbit.ly%2F2mSAuhG"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F20%2F0151231%2Fcar-manufacturers-sued-over-rodents-eating-soy-insulated-wires%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631193&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FgwZmKbO9ug" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T01:25:00+00:00</dc:date>
-<dc:subject>australia</dc:subject>
-<slash:department>first-of-its-kind</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636671&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PECLtxDzJSA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T15:34:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>num-num-num</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>38</slash:comments>
-<slash:hit_parade>38,36,25,22,6,4,0</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/18/2310236/lifesaving-drone-makes-first-rescue-in-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Amazon Picks 20 Finalists For 'HQ2' Second Headquarters Location</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jEiDl7EYDfc/amazon-picks-20-finalists-for-hq2-second-headquarters-location</link>
-<description>bigpat writes: Amazon took in hundreds of proposals and narrowed it down to twenty places for its "second" headquarters, with up to 50,000 new jobs promised in the next 15 years and millions of square feet of office and research space. The cities include: Atlanta, Austin, Boston, Chicago, Columbus, Dallas, Denver, Indianapolis, Los Angeles, Miami, Montgomery County, Maryland, Nashville, Newark, NJ, New York City, Northern Virginia, Philadelphia, Pittsburgh, Raleigh, Toronto and Washington D.C. Amazon said that it will now work with the candidate locations to examine their proposals more closely and request additional information to "evaluate the feasibility of a future partnership that can accommodate our hiring plans as well as benefit our employees and the local community." The company said it would make its decision later in 2018.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+Picks+20+Finalists+For+'HQ2'+Second+Headquarters+Location%3A+http%3A%2F%2Fbit.ly%2F2DNNEog"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F18%2F2217219%2Famazon-picks-20-finalists-for-hq2-second-headquarters-location%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>90</slash:comments>
+<slash:hit_parade>90,86,45,38,16,9,5</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Twitter Says It Exposed Nearly 700,000 People To Russian Propaganda During Election</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/G-hIyAcPI_g/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election</link>
+<description>An anonymous reader quotes a report from The Verge: Twitter this evening released a new set of statistics related to its investigation on Russia propaganda efforts to influence the 2016 U.S. presidential election, including that 677,775 people were exposed to social media posts from more than 50,000 automated accounts with links to the Russian government. Many of the new accounts uncovered have been traced back to an organization called the the Internet Research Agency, or IRA, with known ties to the Kremlin. The data was first presented in an incomplete form to the Senate Select Intelligence Committee last November, which held hearings to question Facebook, Google, and Twitter on the role the respective platforms and products played in the Russian effort to help elect President Donald Trump. Twitter says it's now uncovered more accounts and new information on the wide-reaching Russian cyberintelligence campaign.
+ 
+"Consistent with our commitment to transparency, we are emailing notifications to 677,775 people in the United States who followed one of these accounts or retweeted or liked a Tweet from these accounts during the election period," writes Twitter's public policy division in a blog post published today. "Because we have already suspended these accounts, the relevant content on Twitter is no longer publicly available."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Twitter+Says+It+Exposed+Nearly+700%2C000+People+To+Russian+Propaganda+During+Election%3A+http%3A%2F%2Fbit.ly%2F2DRvFNC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F20%2F0550204%2Ftwitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631101&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jEiDl7EYDfc" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11637149&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/G-hIyAcPI_g" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T00:45:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>price-is-right</slash:department>
+<dc:date>2018-01-20T13:00:00+00:00</dc:date>
+<dc:subject>twitter</dc:subject>
+<slash:department>surprise-surprise</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>153</slash:comments>
-<slash:hit_parade>153,152,86,82,15,7,5</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/18/2217219/amazon-picks-20-finalists-for-hq2-second-headquarters-location?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google's Fuchsia OS On the Pixelbook</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9MMCarprhFA/googles-fuchsia-os-on-the-pixelbook</link>
-<description>An anonymous reader quotes a report from 9to5Google: Our early look at Fuchsia OS last May provided a glimpse into a number of new interface paradigms. Several months later, we now have an updated hands-on with Google's future operating system that can span various form factors. This look at the in-development OS eight months later comes courtesy of Ars Technica who managed to get Fuchsia installed on the Pixelbook. The Made by Google Chromebook is only the third officially supported "target device" for Fuchsia development. As our last dive into the non-Linux kernel OS was through an Android APK, we did not encounter a lockscreen. The Ars hands-on shows a basic one that displays the time at center and Fuchsia logo in the top-left corner to switch between phone and desktop/tablet mode, while a FAB (of sorts) in the opposite corner lets users bring up WiFi controls, Login, and Guest. Only Guest is fully functioning at this stage -- at least for non-Google employees. Once in this mode, we encounter an interface similar to the one we spotted last year. The big difference is how Google has filled in demo information and tweaked some elements. On phones and tablets, Fuchsia essentially has three zones. Recent apps are above, at center are controls, and below is a mixture of the Google Feed and Search. The controls swap out the always-displayed profile icon for a Fuchsia button. Tapping still surfaces Quick Settings which actually reflect current device battery levels and IP address. Impressively, Ars found a working web browser that can actually surf the internet. Google.com is the default homepage, with users able to visit other sites through that search bar. Other examples of applications, which are just static images, include a (non-working) phone dialer, video player, and Google Docs. The Google Calendar is notable for having subtle differences to any known version, including the tablet or web app.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google's+Fuchsia+OS+On+the+Pixelbook%3A+http%3A%2F%2Fbit.ly%2F2DpPM8P"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F18%2F229254%2Fgoogles-fuchsia-os-on-the-pixelbook%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>157</slash:comments>
+<slash:hit_parade>157,142,81,64,20,11,8</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>What a Government Shutdown Will Mean For NASA and SpaceX</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/94OYAMkNFfE/what-a-government-shutdown-will-mean-for-nasa-and-spacex</link>
+<description>Ars Technica reports of how the government shutdown affects federal agencies like NASA, as well as commercial companies like SpaceX: So far, NASA has been keeping quiet about this particular shutdown and has been directing all questions to the White House Office of Management and Budget, which did not respond to a request for comment. But NASA's acting administrator, Robert Lightfoot, told employees in an email obtained by The Verge to be on alert for directions over the next couple of days. "If there is a lapse in funding for the federal government Friday night, report to work the same way you normally would until further notice, and you will receive guidance on how best to closeout your activities on Monday," he wrote in the email. The most recent guidance from NASA, released in 2017, indicates that all nonessential employees should stay home during a shutdown, while a small contingent of staff continue to work on "excepted" projects. The heads of each NASA center decide which employees need to stay, but they're typically the people who operate important or hazardous programs, including employees working on upcoming launches or those who operate satellites and the International Space Station. NASA's next big mission is the launch of its exoplanet-hunting satellite, TESS, which is going up on a SpaceX Falcon 9 rocket from Florida in March. So it shouldn't be affected by a shutdown (unless it takes a while to find a resolution). However, it's possible that preparations on another big spacecraft, the James Webb Space Telescope, may come to a halt, according to Nature. The space telescope is currently at NASA's Johnson Space Center for testing, but NASA's guidelines say that only spacecraft preparations that are "necessary to prevent harm to life or property" should continue during a shutdown. More immediately, an Atlas V rocket from the United Launch Alliance is launching a missile-detecting satellite tonight out of the Cape Canaveral Air Force Station in Florida, while SpaceX is slated to launch a communications satellite on January 30th. The timing of both launches may mean they avoid the shutdown. But if they did occur during the shutdown, it's unclear if they would suffer delays.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=What+a+Government+Shutdown+Will+Mean+For+NASA+and+SpaceX%3A+http%3A%2F%2Fbit.ly%2F2BeoM6i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F20%2F0538253%2Fwhat-a-government-shutdown-will-mean-for-nasa-and-spacex%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631085&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9MMCarprhFA" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11637093&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/94OYAMkNFfE" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T00:03:00+00:00</dc:date>
-<dc:subject>os</dc:subject>
-<slash:department>what-to-expect</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>63</slash:comments>
-<slash:hit_parade>63,61,39,32,9,6,4</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/18/229254/googles-fuchsia-os-on-the-pixelbook?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ask Slashdot: How Would You Explain Einstein's Theories To a Nine-Year-Old?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ytf0n6NZwJw/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old</link>
-<description>SiggyRadiation writes: A few days ago, my 9-year-old son asked me why Albert Einstein was so famous. I decided not just to start with the famous formula E=mc^2, because that just seemed to be the easy way out. So I tried to explain what mass and energy are. Then I asked him to try to explain gravity to me. The earth pulls at you because it has a lot of mass. But how can the earth influence your body, pull your feet to the ground, without actually touching you? Why is it that one thing (the earth) can influence something else (you) without actually being connected? Isn't that weird? Einstein figured out how energy, mass and gravity work and are related to each other. This is where our conversation ended. Afterwards I thought: this might be a nice question to ask on Slashdot; how would I continue this discussion to explain it to him further? Of course, with the goal of further feeding his interest in physics.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+How+Would+You+Explain+Einstein's+Theories+To+a+Nine-Year-Old%3F%3A+http%3A%2F%2Fbit.ly%2F2Dp3w3J"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F18%2F2120240%2Fask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-01-20T07:00:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>cause-and-effect</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>150</slash:comments>
+<slash:hit_parade>150,141,64,54,21,11,5</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How To Tame the Tech Titans</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wm78Ju66nZk/how-to-tame-the-tech-titans</link>
+<description>dryriver shares an opinion piece from The Economist: Not long ago, being the boss of a big Western tech firm was a dream job. As the billions rolled in, so did the plaudits: Google, Facebook, Amazon and others were making the world a better place. Today these companies are accused of being BAADD -- big, anti-competitive, addictive and destructive to democracy. Regulators fine them, politicians grill them and one-time backers warn of their power to cause harm. Much of this techlash is misguided. The presumption that big businesses must necessarily be wicked is plain wrong. Apple is to be admired as the world's most valuable listed company for the simple reason that it makes things people want to buy, even while facing fierce competition. Many online services would be worse if their providers were smaller. Evidence for the link between smartphones and unhappiness is weak. Fake news is not only an online phenomenon. But big tech platforms, particularly Facebook, Google and Amazon, do indeed raise a worry about fair competition. That is partly because they often benefit from legal exemptions. Unlike publishers, Facebook and Google are rarely held responsible for what users do on them; and for years most American buyers on Amazon did not pay sales tax. Nor do the titans simply compete in a market. Increasingly, they are the market itself, providing the infrastructure (or "platforms") for much of the digital economy. Many of their services appear to be free, but users "pay" for them by giving away their data. Powerful though they already are, their huge stockmarket valuations suggest that investors are counting on them to double or even triple in size in the next decade. There is thus a justified fear that the tech titans will use their power to protect and extend their dominance, to the detriment of consumers (see article). The tricky task for policymakers is to restrain them without unduly stifling innovation.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+To+Tame+the+Tech+Titans%3A+http%3A%2F%2Fbit.ly%2F2mTzObL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F2159249%2Fhow-to-tame-the-tech-titans%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11631007&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ytf0n6NZwJw" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636429&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wm78Ju66nZk" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-18T23:20:00+00:00</dc:date>
-<dc:subject>communications</dc:subject>
-<slash:department>explain-like-I'm-five</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>251</slash:comments>
-<slash:hit_parade>251,244,143,106,35,19,12</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/18/2120240/ask-slashdot-how-would-you-explain-einsteins-theories-to-a-nine-year-old?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Wine 3.0 Released</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ddwihBcJog4/wine-30-released</link>
-<description>prisoninmate shares a report from Softpedia: The Wine (Wine Is Not an Emulator) project has been updated today to version 3.0, a major release that ends 2017 in style for the open-source compatibility layer capable of running Windows apps and games on Linux-based and UNIX-like operating systems. Almost a year in the works, Wine 3.0 comes with amazing new features like an Android driver that lets users run Windows apps and games on Android-powered machines, Direct3D 11 support enabled by default for AMD Radeon and Intel GPUs, AES encryption support on macOS, Progman DDE support, and a task scheduler. In addition, Wine 3.0 introduces the ability to export registry entries with the reg.exe tool, adds various enhancements to the relay debugging and OLE data cache, as well as an extra layer of event support in MSHTML, Microsoft's proprietary HTML layout engine for the Windows version of the Internet Explorer web browser. You can read the full list of features and download Wine 3.0 from WineHQ's website.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Wine+3.0+Released%3A+http%3A%2F%2Fbit.ly%2F2BdqViD"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F18%2F2054205%2Fwine-30-released%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-01-20T03:30:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>information-is-key</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>128</slash:comments>
+<slash:hit_parade>128,122,83,52,13,8,3</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ajit Pai's FCC Can't Admit Broadband Competition Is a Problem</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Koti_hS9WC8/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem</link>
+<description>An anonymous reader quotes a report from DSLReports: While the FCC is fortunately backing away from a plan that would have weakened the standard definition of broadband, the agency under Ajit Pai still can't seem to acknowledge the lack of competition in the broadband sector. Or the impact this limited competition has in encouraging higher prices, net neutrality violations, privacy violations, or what's widely agreed to be some of the worst customer service of any industry in America. The Trump FCC had been widely criticized for a plan to weaken the standard definition of broadband from 25 Mbps down, 3 Mbps up, to include any wireless connection capable of 10 Mbps down, 1 Mbps up. Consumer advocates argued the move was a ham-fisted attempt to try and tilt the data to downplay the industry's obvious competitive and coverage shortcomings. They also argued that the plan made no coherent sense, given that wireless broadband is frequently capped, often not available (with carrier maps the FCC relies on falsely over-stating coverage), and significantly more expensive than traditional fixed-line service.
+ 
+In a statement (pdf), FCC boss Ajit Pai stated the agency would fortunately be backing away from the measure, while acknowledging that frequently capped and expensive wireless isn't a comparable replacement for fixed-line broadband. "The draft report maintains the same benchmark speed for fixed broadband service previously adopted by the Commission: 25 Mbps download/3 Mbps upload," stated Pai. "The draft report also concludes that mobile broadband service is not a full substitute for fixed service. Instead, it notes there are differences between the two technologies, including clear variations in consumer preferences and demands." That's the good news. The bad news: the FCC under Pai's leadership continues to downplay and ignore the lack of competition in the sector, and the high prices and various bad behaviors most people are painfully familiar with.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ajit+Pai's+FCC+Can't+Admit+Broadband+Competition+Is+a+Problem%3A+http%3A%2F%2Fbit.ly%2F2DO4aV7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F2335254%2Fajit-pais-fcc-cant-admit-broadband-competition-is-a-problem%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11630941&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ddwihBcJog4" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636545&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Koti_hS9WC8" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-18T22:40:00+00:00</dc:date>
-<dc:subject>wine</dc:subject>
-<slash:department>come-and-get-it</slash:department>
+<dc:date>2018-01-20T01:50:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>can't-see-the-forest-through-the-trees</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>122</slash:comments>
-<slash:hit_parade>122,115,70,56,15,9,5</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/18/2054205/wine-30-released?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:comments>84</slash:comments>
+<slash:hit_parade>84,80,35,29,10,2,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Nintendo's Newest Switch Accessories Are DIY Cardboard Toys</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/E22SxfRu-aE/nintendos-newest-switch-accessories-are-diy-cardboard-toys</link>
+<description>sqorbit writes: Nintendo has announced a new experience for its popular Switch game console, called Nintendo Labo. Nintendo Labo lets you interact with the Switch and its Joy-Con controllers by building things with cardboard. Launching on April 20th, Labo will allow you to build things such as a piano and a fishing pole out of cardboard pieces that, once attached to the Switch, provide the user new ways to interact with the device. Nintendo of America's President, Reggie Fils-Aime, states that "Labo is unlike anything we've done before." Nintendo has a history of non-traditional ideas in gaming, sometimes working and sometimes not. Cardboard cuts may attract non-traditional gamers back to the Nintendo platform. While Microsoft and Sony appear to be focused on 4K, graphics and computing power, Nintendo appears focused on producing "fun" gaming experiences, regardless of how cheesy or technologically outdated they me be. Would you buy a Nintendo Labo kit for $69.99 or $79.99? "The 'Variety Kit' features five different games and Toy-Con -- including the RC car, fishing, and piano -- for $69.99," The Verge notes. "The 'Robot Kit,' meanwhile, will be sold separately for $79.99."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Nintendo's+Newest+Switch+Accessories+Are+DIY+Cardboard+Toys%3A+http%3A%2F%2Fbit.ly%2F2mTiDah"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F20%2F000233%2Fnintendos-newest-switch-accessories-are-diy-cardboard-toys%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636559&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/E22SxfRu-aE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-20T01:10:00+00:00</dc:date>
+<dc:subject>nintendo</dc:subject>
+<slash:department>back-to-the-basics</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>61</slash:comments>
+<slash:hit_parade>61,54,28,24,5,2,2</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Norway Will Make All Short-Haul Flights Electric By 2040</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fbbZAy8Y7Io/norway-will-make-all-short-haul-flights-electric-by-2040</link>
+<description>Norway's public operator of air transport plans to make all short-haul flights in the country entirely electric by 2040. "State-owned Avinor, which operates most of Norway's civil airports, is aiming to be the 'first in the world' to switch to electric air transport," reports The Independent. From the report: "We think that all flights lasting up to 1.5 hours can be flown by aircraft that are entirely electric," chief executive Dag Falk-Petersen told AFP. The announcement confirms Norway's reputation as a leader in electric power. In a 2017 report, Avinor announced that in cooperation with the Norwegian Sports Aviation Association and major airlines, it had set up a development project for electric aircraft. Avinor said it had "called for Norway to be established as a test arena and innovation center for the development of electric aircraft." Avinor intends to reduce aircraft greenhouse gas emissions in the short term by phasing in biofuels in the coming years, and then build on these reductions by phasing in electric planes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Norway+Will+Make+All+Short-Haul+Flights+Electric+By+2040%3A+http%3A%2F%2Fbit.ly%2F2mRuq9i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F2325212%2Fnorway-will-make-all-short-haul-flights-electric-by-2040%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636531&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fbbZAy8Y7Io" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-20T00:30:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>first-in-the-world</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>149</slash:comments>
+<slash:hit_parade>149,147,89,74,22,10,6</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google CEO Sundar Pichai Says He Does Not Regret Firing James Damore</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0ACyt0c3gSA/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore</link>
+<description>An anonymous reader quotes a report from The Verge: Google CEO Sundar Pichai responded today to the firing of employee James Damore over his controversial memo on workplace diversity, stating that while he does not regret the decision, he regrets that people misunderstood it as a politically motivated event. Speaking in a live conversation with journalist and Recode co-founder Kara Swisher, MSNBC host Ari Melber, and YouTube CEO Susan Wojcicki in San Francisco, Pichai said that the decision to fire Damore was about ensuring women at Google felt like the company was committed to creating a welcoming environment.
+ 
+"I regret that people misunderstand that we may have made this for a political belief one way or another," Pichai said. "It's important for the women at Google, and all the people at Google, that we want to make a inclusive environment." When pressed by Swisher on the issue of regret, Pichai stated more definitively, "I don't regret it." Wojcicki, who has spoken publicly about how Damore's memo affected her personally, followed up with, "I think it was the right decision."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+CEO+Sundar+Pichai+Says+He+Does+Not+Regret+Firing+James+Damore%3A+http%3A%2F%2Fbit.ly%2F2mTAlKK"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F19%2F2257242%2Fgoogle-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636479&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0ACyt0c3gSA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T23:50:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>right-vs-wrong</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>311</slash:comments>
+<slash:hit_parade>311,302,158,131,56,37,27</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Security Breaches Don't Affect Stock Price, Study Suggests</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/G_aqcH3K8aE/security-breaches-dont-affect-stock-price-study-suggests</link>
+<description>Computer security professional Bruce Schneier highlights the key findings of a study that suggests security breaches don't affect stock price. The study has been published in the Journal of Information Privacy and Security. From the report: -While the difference in stock price between the sampled breached companies and their peers was negative (1.13%) in the first 3 days following announcement of a breach, by the 14th day the return difference had rebounded to + 0.05%, and on average remained positive through the period assessed.
+ -For the differences in the breached companies' betas and the beta of their peer sets, the differences in the means of 8 months pre-breach versus post-breach was not meaningful at 90, 180, and 360 day post-breach periods.
+ -For the differences in the breached companies' beta correlations against the peer indices pre- and post-breach, the difference in the means of the rolling 60 day correlation 8 months pre- breach versus post-breach was not meaningful at 90, 180, and 360 day post-breach periods.
+ -In regression analysis, use of the number of accessed records, date, data sensitivity, and malicious versus accidental leak as variables failed to yield an R2 greater than 16.15% for response variables of 3, 14, 60, and 90 day return differential, excess beta differential, and rolling beta correlation differential, indicating that the financial impact on breached companies was highly idiosyncratic.
+ -Based on returns, the most impacted industries at the 3 day post-breach date were U.S. Financial Services, Transportation, and Global Telecom. At the 90 day post-breach date, the three most impacted industries were U.S. Financial Services, U.S. Healthcare, and Global Telecom.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Security+Breaches+Don't+Affect+Stock+Price%2C+Study+Suggests%3A+http%3A%2F%2Fbit.ly%2F2mQYIJ4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F19%2F2245222%2Fsecurity-breaches-dont-affect-stock-price-study-suggests%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636471&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/G_aqcH3K8aE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T23:10:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>short-term-vs-long-term-implications</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>26</slash:comments>
+<slash:hit_parade>26,25,11,8,3,1,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Trump Signs Surveillance Extension Into Law</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4tNWls3AU4Y/trump-signs-surveillance-extension-into-law</link>
+<description>President Trump took to Twitter this afternoon to announce that he has signed a six-year renewal of a powerful government surveillance tool. "Just signed 702 Bill to authorize foreign intelligence collection," Trump tweeted. "This is NOT the same FISA law that was so wrongly abused during the election. I will always do the right thing for our country and put the safety of the American people first!" The Hill reports: Section 702 of the Foreign Intelligence Surveillance Act (FISA), which the Senate voted to renew with a few small tweaks this week, allows the U.S. to spy on foreigners overseas. The intelligence community says the program is a critical tool in identifying and disrupting terror plots. But the broader surveillance law, which governs U.S. spying on foreigners, has become politically entangled with the controversy over the federal investigation into Trump's campaign and Russia. Some Republicans have claimed that the FBI inappropriately obtained a politically motivated FISA warrant to spy on Trump during the transition and on Friday, Capitol Hill was consumed with speculation about a four-page memo produced by House Intelligence Committee Republicans that some GOP lawmakers hinted contained evidence of such wrongdoing.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Trump+Signs+Surveillance+Extension+Into+Law%3A+http%3A%2F%2Fbit.ly%2F2mRqLs0"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F2210246%2Ftrump-signs-surveillance-extension-into-law%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636445&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4tNWls3AU4Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T22:30:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>invasion-of-privacy</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>85</slash:comments>
+<slash:hit_parade>85,83,25,21,5,3,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook Will Now Ask Users To Rank News Organizations They Trust</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PMEWIOvHHDg/facebook-will-now-ask-users-to-rank-news-organizations-they-trust</link>
+<description>An anonymous reader quotes a report from Recode: Facebook is doing a very un-Facebooky thing: It's going to start declaring that some news sources you see in your Facebook feed are better than others, and act accordingly. But Facebook being Facebook, it's going about it in the most Facebooky way possible: It's going to rely on users -- not the super-smart people who work at Facebook -- to figure out which of those sources are better. Mark Zuckerberg says the move is part of an effort to prioritize "news that is trustworthy, informative, and local," within the network and suggests that there will be more announcements to come. The one he describes today will prioritize what kind of news sources pop up in your Facebook News Feed, and will reward ones that Facebook thinks are "broadly trusted," based on user polls, so it can "build a sense of common ground." Facebook is also using today's news to refine last week's roll-out: Zuckerberg says the previously announced changes will reduce the amount of news stories people see in their feed to 4 percent, down from 5 percent.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Will+Now+Ask+Users+To+Rank+News+Organizations+They+Trust%3A+http%3A%2F%2Fbit.ly%2F2DoWHPm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F2147209%2Ffacebook-will-now-ask-users-to-rank-news-organizations-they-trust%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636413&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PMEWIOvHHDg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-19T21:50:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>user-generated</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>131</slash:comments>
+<slash:hit_parade>131,127,73,49,9,6,5</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Linking Is Not Copyright Infringement, Boing Boing and EFF Tell Court</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tyKlDpUl22k/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court</link>
+<description>An anonymous reader shares a report: The popular blog Boing Boing has asked a federal court in California to drop the copyright infringement lawsuit filed against it by Playboy. With help from the EFF, Boing Boing argues that its article linking to an archive of hundreds of centerfold playmates is clearly fair use. Or else it will be "the end of the web as we know it," the blog warns. Late last year Playboy sued the popular blog Boing Boing for publishing an article that linked to an archive of every playmate centerfold till then. "Kind of amazing to see how our standards of hotness, and the art of commercial erotic photography, have changed over time," Boing Boing's Xena Jardin commented. Playboy, instead, was amazed that infringing copies of their work were being shared in public. While Boing Boing didn't upload or store the images in question, the publisher took the case to court.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Linking+Is+Not+Copyright+Infringement%2C+Boing+Boing+and+EFF+Tell+Court%3A+http%3A%2F%2Fbit.ly%2F2BfCuWx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F2012225%2Flinking-is-not-copyright-infringement-boing-boing-and-eff-tell-court%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636203&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tyKlDpUl22k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-19T21:10:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>shape-of-things</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>80</slash:comments>
+<slash:hit_parade>80,79,41,31,9,7,4</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

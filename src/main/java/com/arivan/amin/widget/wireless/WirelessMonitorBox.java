@@ -11,22 +11,31 @@ import javafx.util.Duration;
 
 import java.util.logging.Logger;
 
-public class WirelessBox extends VBox
+public class WirelessMonitorBox extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private Label nameLabel;
     private ProgressBar signalStrengthBar;
     private WirelessMonitor wirelessMonitor;
     
-    private WirelessBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    private WirelessMonitorBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
+        setSpacing(5);
+        bindBoxToParent(parentWidth, parentHeight);
         determineOperatingSystem();
         initializeFields();
         BorderPane labelsBorderPane = new BorderPane();
-        labelsBorderPane.setLeft(new Label("Wireless AP"));
+        labelsBorderPane.setLeft(new Label("Name"));
         labelsBorderPane.setRight(nameLabel);
-        getChildren().addAll(labelsBorderPane, signalStrengthBar);
+        getChildren().addAll(new Label("Wireless network"), labelsBorderPane,
+                new Label("Signal Strength"), signalStrengthBar);
         updateDataPeriodically();
+    }
+    
+    private void bindBoxToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    {
+        prefWidthProperty().bind(parentWidth);
+        prefHeightProperty().bind(parentHeight);
     }
     
     private void updateDataPeriodically ()
@@ -39,6 +48,7 @@ public class WirelessBox extends VBox
     
     private void updateHandler (ActionEvent e)
     {
+        wirelessMonitor.updateData();
         nameLabel.setText(wirelessMonitor.wirelessName());
         signalStrengthBar.setProgress(wirelessMonitor.signalLevel());
     }
@@ -47,11 +57,13 @@ public class WirelessBox extends VBox
     {
         nameLabel = new Label();
         signalStrengthBar = new ProgressBar();
+        signalStrengthBar.prefWidthProperty().bind(prefWidthProperty());
     }
     
-    public static WirelessBox newInstance (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    public static WirelessMonitorBox newInstance (DoubleProperty parentWidth,
+            DoubleProperty parentHeight)
     {
-        return new WirelessBox(parentWidth, parentHeight);
+        return new WirelessMonitorBox(parentWidth, parentHeight);
     }
     
     private void determineOperatingSystem ()
@@ -62,7 +74,7 @@ public class WirelessBox extends VBox
     @Override
     public String toString ()
     {
-        return "WirelessBox{" + "nameLabel=" + nameLabel + ", signalStrengthBar=" +
+        return "WirelessMonitorBox{" + "nameLabel=" + nameLabel + ", signalStrengthBar=" +
                 signalStrengthBar + ", wirelessMonitor=" + wirelessMonitor + '}';
     }
 }
