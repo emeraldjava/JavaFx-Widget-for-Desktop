@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.system.details;
+package com.arivan.amin.widget.system_details;
 
 public interface SystemDetails
 {

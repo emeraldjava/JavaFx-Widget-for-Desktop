@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-20T19:09:08+00:00</dc:date>
+<dc:date>2018-01-21T05:16:06+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,14 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/21/0343218/rocket-lab-successfully-reaches-orbit-and-deploys-its-first-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/20/0452247/is-it-time-for-open-processors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/20/0025244/flat-earther-plans-new-rocket-launch-predicts-super-bowl-sized-ratings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/20/239248/we-all-nearly-missed-the-largest-underwater-volcano-eruption-ever-recorded?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/20/2151212/australian-birds-of-prey-are-deliberately-setting-forests-on-fire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/20/0239230/apple-shuts-swift-mailing-list-migrates-to-online-forum?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/20/046209/eff-thousands-of-people-have-secure-messaging-clients-infected-by-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/20/0826225/new-california-movement-wants-to-create-a-51st-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -23,14 +31,6 @@
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,193 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://science.slashdot.org/story/18/01/21/0343218/rocket-lab-successfully-reaches-orbit-and-deploys-its-first-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Rocket Lab Successfully Reaches Orbit and Deploys Its First Satellites</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/XhlfPecy9Lk/rocket-lab-successfully-reaches-orbit-and-deploys-its-first-satellites</link>
+<description>Long-time Slashdot reader ClarkMills writes:
+Rocket Lab has successfully launched its second Electron rocket from New Zealand's Mahia Peninsula, with the rocket reaching orbit for the first time... This follows the company's first launch last May, in which the rocket got to space but did not make it to orbit after range safety officials had to kill the flight. 
+Just 60 seconds before lift-off yesterday, a "rogue ship" entered their launch-range area, prompting them to postpone the launch until today. GeekWire reports:
+This mission was nicknamed "Still Testing," but unlike the first mission, the objective was not merely to test Rocket Lab's hardware. The rocket had the additional task of putting three nanosatellites in orbit: an Earth-imaging Dove satellite for Planet, and two Lemur-2 satellites that the Spire space venture would use for tracking ships and monitoring weather... The price tag for a mission is as low as $5 million, thanks to streamlined hardware production techniques. The Electron makes use of carbon composite materials for its rocket core, and 3-D printing techniques for its Rutherford rocket engines. 
+90 minutes ago Spire tweeted that they'd experienced a "good clean deployment" of their satellites, adding that they were already receiving images and calling it "a huge win" for commercial space, small satellites, the Electron rocket, and New Zealand.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Rocket+Lab+Successfully+Reaches+Orbit+and+Deploys+Its+First+Satellites%3A+http%3A%2F%2Fbit.ly%2F2DTaYko"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F21%2F0343218%2Frocket-lab-successfully-reaches-orbit-and-deploys-its-first-satellites%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/21/0343218/rocket-lab-successfully-reaches-orbit-and-deploys-its-first-satellites?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/21/0343218/rocket-lab-successfully-reaches-orbit-and-deploys-its-first-satellites?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11639841&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/XhlfPecy9Lk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-21T04:24:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>touching-the-sky</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,2,1,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/21/0343218/rocket-lab-successfully-reaches-orbit-and-deploys-its-first-satellites?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/20/0452247/is-it-time-for-open-processors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'Is It Time For Open Processors?'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9izglpoOxN8/is-it-time-for-open-processors</link>
+<description>Linux kernel developer (and LWN.net co-founder) Jonathan Corbet recently posted an essay with a tantalizing title: "Is it time for open processors?" He cited several "serious initiatives", including the OpenPOWER effort, OpenSPARC, and OpenRISC, adding that "much of the momentum" appears to be with the RISC-V architecture. An anonymous reader quotes LWN.net:
+The [RISC-V] project is primarily focused on the instruction-set architecture, rather than on specific implementations, but free hardware designs do exist. Western Digital recently announced that it will be using RISC-V processors in its storage products, a decision that could lead to the shipment of RISC-V by the billion. There is a development kit available for those who would like to play with this processor and a number of designs for cores are available... RISC-V seems to have quite a bit of commercial support behind it -- the RISC-V Foundation has a long list of members. It seems likely that this architecture will continue to progress for some time. 
+Here's some of the reasons that Corbet argues open souce hardware "would certainly offer some benefits, but it would be no panacea."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='Is+It+Time+For+Open+Processors%3F'%3A+http%3A%2F%2Fbit.ly%2F2DunsCg"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F20%2F0452247%2Fis-it-time-for-open-processors%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/20/0452247/is-it-time-for-open-processors?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/20/0452247/is-it-time-for-open-processors?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636881&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9izglpoOxN8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-21T02:19:00+00:00</dc:date>
+<dc:subject>opensource</dc:subject>
+<slash:department>time's-up</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,32,21,13,7,4,2</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/20/0452247/is-it-time-for-open-processors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/20/0025244/flat-earther-plans-new-rocket-launch-predicts-super-bowl-sized-ratings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Flat Earther Plans New Rocket Launch, Predicts Super Bowl-Sized Ratings</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jZoRmM-3XNg/flat-earther-plans-new-rocket-launch-predicts-super-bowl-sized-ratings</link>
+<description>Self-taught rocket scientist/daredevil "Mad" Mike Hughes will finally launch his homemade rocket in two weeks -- despite "anonymous online haters questioning his every move." An anonymous reader quotes PhillyVoice:
+
+He's found some private land in the "ghost town" of Amboy, California -- complete with a brand-spanking-new road that'll enable him to get his motor home and rocket gear to the site... "It'll be a vertical launch, me strapped into the rocket with 6,000 pounds of thrust, going up about three-eighths of a mile," he said, noting it's a prologue to a major launch this Fourth of July weekend. "It's the ultimate Wile E. Coyote move." 
+As with the scrubbed mission, this is in part an event which he hopes will get people to investigate the ideology which holds the earth is flat -- despite quite a bit of evidence to the contrary. He said it would've happened back in November if international publicity hadn't prompted government bureaucrats to "cover their asses" by pointing out that his launch site crept 150 feet into federal land. "I could've been arrested so at that point, I just went home and got back to work," he said... "But guess what? It's about to happen again... I should get more viewers than the Super Bowl," said Hughes, adding the launch will be aired on Noize TV [a video-on-demand service].
+ 
+Noize TV has already posted video of a new interview with Hughes, touting his upcoming launch at 3 p.m. on Saturday, February 3, the day before the Super Bowl (which Hughes calls "nothing but bullshit.") 
+Hughes says he's also filing to run for Governor of California.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Flat+Earther+Plans+New+Rocket+Launch%2C+Predicts+Super+Bowl-Sized+Ratings%3A+http%3A%2F%2Fbit.ly%2F2DTPJ20"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F20%2F0025244%2Fflat-earther-plans-new-rocket-launch-predicts-super-bowl-sized-ratings%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/20/0025244/flat-earther-plans-new-rocket-launch-predicts-super-bowl-sized-ratings?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/20/0025244/flat-earther-plans-new-rocket-launch-predicts-super-bowl-sized-ratings?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636589&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jZoRmM-3XNg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-21T00:14:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>T-minus-two-weeks</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>95</slash:comments>
+<slash:hit_parade>95,88,58,49,8,6,2</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/20/0025244/flat-earther-plans-new-rocket-launch-predicts-super-bowl-sized-ratings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/20/239248/we-all-nearly-missed-the-largest-underwater-volcano-eruption-ever-recorded?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>We All Nearly Missed the Largest Underwater Volcano Eruption Ever Recorded</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uKz-ftKyhzA/we-all-nearly-missed-the-largest-underwater-volcano-eruption-ever-recorded</link>
+<description>schwit1 quotes ScienceAlert:
+She was flying home from a holiday in Samoa when she saw it through the airplane window: a "peculiar large mass" floating on the ocean, hundreds of kilometres off the north coast of New Zealand. The Kiwi passenger emailed photos of the strange ocean slick to scientists, who realised what it was -- a raft of floating rock spewed from an underwater volcano, produced in the largest eruption of its kind ever recorded.
+ 
+"We knew it was a large-scale eruption, approximately equivalent to the biggest eruption we've seen on land in the 20th Century," says volcanologist Rebecca Carey from the University of Tasmania, who's co-led the first close-up investigation of the historic 2012 eruption. The incident, produced by a submarine volcano called the Havre Seamount, initially went unnoticed by scientists, but the floating rock platform it generated was harder to miss. Back in 2012, the raft -- composed of pumice rock -- covered some 400 square kilometres (154 square miles) of the south-west Pacific Ocean, but months later satellites recorded it dispersing over an area twice the size of New Zealand itself... for a sense of scale, think roughly 1.5 times larger than the 1980 eruption of Mount St. Helens -- or 10 times the size of the 2010 Eyjafjallajokull eruption in Iceland. 
+When an underwater robot first sent back detailed maps, one volcanologist remembers that "I thought the vehicle's sonar was acting up... We saw all these bumps on the seafloor... It turned out that each bump was a giant block of pumice, some of them the size of a van."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=We+All+Nearly+Missed+the+Largest+Underwater+Volcano+Eruption+Ever+Recorded%3A+http%3A%2F%2Fbit.ly%2F2DRf9ND"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F20%2F239248%2Fwe-all-nearly-missed-the-largest-underwater-volcano-eruption-ever-recorded%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/20/239248/we-all-nearly-missed-the-largest-underwater-volcano-eruption-ever-recorded?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/20/239248/we-all-nearly-missed-the-largest-underwater-volcano-eruption-ever-recorded?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11639673&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uKz-ftKyhzA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T23:09:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>hot-water</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>28</slash:comments>
+<slash:hit_parade>28,26,15,14,5,2,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/20/239248/we-all-nearly-missed-the-largest-underwater-volcano-eruption-ever-recorded?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/20/2151212/australian-birds-of-prey-are-deliberately-setting-forests-on-fire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Australian Birds of Prey Are Deliberately Setting Forests On Fire </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Wn76iw2bYnE/australian-birds-of-prey-are-deliberately-setting-forests-on-fire</link>
+<description>An anonymous reader writes: If you've been counting the ways the Australian environment is trying to kill you, you can now add "arson" to the list. According to a six-year study published in The Journal of Ethnobiology, observers have confirmed what Aboriginal rangers have been observing for years: birds of prey routinely carry burning or smouldering sticks into dry grassy areas to scare small mammals into fleeing so they can be pack-hunted more effectively. This has implications for environmental management, since the best firebreak will not protect your controlled burn from a "firehawk" determined to breach it.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Australian+Birds+of+Prey+Are+Deliberately+Setting+Forests+On+Fire+%3A+http%3A%2F%2Fbit.ly%2F2DuhqSc"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F20%2F2151212%2Faustralian-birds-of-prey-are-deliberately-setting-forests-on-fire%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/20/2151212/australian-birds-of-prey-are-deliberately-setting-forests-on-fire?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/20/2151212/australian-birds-of-prey-are-deliberately-setting-forests-on-fire?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11639629&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Wn76iw2bYnE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T22:04:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>Smokey-the-bird</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>61</slash:comments>
+<slash:hit_parade>61,58,44,34,12,7,5</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/20/2151212/australian-birds-of-prey-are-deliberately-setting-forests-on-fire?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://developers.slashdot.org/story/18/01/20/0239230/apple-shuts-swift-mailing-list-migrates-to-online-forum?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Shuts Swift Mailing List, Migrates to Online Forum</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Fi_I-RZxgew/apple-shuts-swift-mailing-list-migrates-to-online-forum</link>
+<description>An anonymous reader writes:
+Apple's Swift project "has completed the process of migrating to the Swift Forums as the primary method for discussion and communication!" announced a blog post on Friday. "The former mailing lists have been shut down and archived, and all mailing list content has been imported into the new forum system." 
+While they're still maintaining a few Swift-related mailing lists, they're moving discussions into online forums divided into four main categories: Evolution, Development, Using Swift, and Site Feedback. Forum accounts can be set up using either email registration or GitHub accounts. 
+It was one year ago that Swift creator Chris Lattner answered questions from Slashdot readers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Shuts+Swift+Mailing+List%2C+Migrates+to+Online+Forum%3A+http%3A%2F%2Fbit.ly%2F2Dv5AqH"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F20%2F0239230%2Fapple-shuts-swift-mailing-list-migrates-to-online-forum%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/20/0239230/apple-shuts-swift-mailing-list-migrates-to-online-forum?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/20/0239230/apple-shuts-swift-mailing-list-migrates-to-online-forum?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636729&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Fi_I-RZxgew" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T21:24:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>shifting-Swift</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>18</slash:comments>
+<slash:hit_parade>18,18,12,7,1,1,0</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/20/0239230/apple-shuts-swift-mailing-list-migrates-to-online-forum?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/20/046209/eff-thousands-of-people-have-secure-messaging-clients-infected-by-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>EFF: Thousands of People Have Secure Messaging Clients Infected By Spyware</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8e9U6kBb248/eff-thousands-of-people-have-secure-messaging-clients-infected-by-spyware</link>
+<description>An anonymous reader quotes the EFF:
+The Electronic Frontier Foundation (EFF) and mobile security company Lookout have uncovered a new malware espionage campaign infecting thousands of people in more than 20 countries. Hundreds of gigabytes of data has been stolen, primarily through mobile devices compromised by fake secure messaging clients. The trojanized apps, including Signal and WhatsApp, function like the legitimate apps and send and receive messages normally. However, the fake apps also allow the attackers to take photos, retrieve location information, capture audio, and more.
+ 
+The threat, called Dark Caracal by EFF and Lookout researchers, may be a nation-state actor and appears to employ shared infrastructure which has been linked to other nation-state actors. In a new report, EFF and Lookout trace Dark Caracal to a building belonging to the Lebanese General Security Directorate in Beirut. "People in the U.S., Canada, Germany, Lebanon, and France have been hit by Dark Caracal. Targets include military personnel, activists, journalists, and lawyers, and the types of stolen data range from call records and audio recordings to documents and photos," said EFF Director of Cybersecurity Eva Galperin. "This is a very large, global campaign, focused on mobile devices. Mobile is the future of spying, because phones are full of so much data about a person's day-to-day life." 
+
+Dark Caracal apparently gets installed through carefully-targeted spearphishing attacks, accoridng to the EFF. "Several types of phishing emails directed people -- including military personnel, activists, journalists, and lawyers -- to go to a fake app store-like page, where fake Android apps waited. There is even evidence that, in some cases, Dark Caracal used physical access to people&amp;#226;(TM)s phones to install the fake apps."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=EFF%3A+Thousands+of+People+Have+Secure+Messaging+Clients+Infected+By+Spyware%3A+http%3A%2F%2Fbit.ly%2F2mU0YiT"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F20%2F046209%2Feff-thousands-of-people-have-secure-messaging-clients-infected-by-spyware%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/20/046209/eff-thousands-of-people-have-secure-messaging-clients-infected-by-spyware?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/20/046209/eff-thousands-of-people-have-secure-messaging-clients-infected-by-spyware?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636807&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8e9U6kBb248" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T20:59:00+00:00</dc:date>
+<dc:subject>eff</dc:subject>
+<slash:department>defeating-the-purpose</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>24</slash:comments>
+<slash:hit_parade>24,20,14,12,2,1,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/20/046209/eff-thousands-of-people-have-secure-messaging-clients-infected-by-spyware?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/20/0826225/new-california-movement-wants-to-create-a-51st-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'New California' Movement Wants To Create a 51st State</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zu7Vn95GD9w/new-california-movement-wants-to-create-a-51st-state</link>
+<description>PolygamousRanchKid, Ayano, and an anonymous reader all shared the same story. Tribune Media reports:
+A group has launched a campaign to divide California into two states. It isn't the first attempt to split California, but unlike a failed campaign in 2016 to divide California into six states, the campaign to create New California would split the state into one made up of rural counties and another made up of coastal counties. 
+USA Today provides some context:
+Breaking up California remains no easy task: A formal secession means getting approval from both Congress and California's legislature itself. But that hasn't stopped folks from trying. Hundreds of times... Monday's declaration of "the State of New California" marked the latest in more than 200 long-shot efforts to split the Golden State. All so far have failed.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='New+California'+Movement+Wants+To+Create+a+51st+State%3A+http%3A%2F%2Fbit.ly%2F2DrbRUt"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F20%2F0826225%2Fnew-california-movement-wants-to-create-a-51st-state%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/20/0826225/new-california-movement-wants-to-create-a-51st-state?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/20/0826225/new-california-movement-wants-to-create-a-51st-state?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11637821&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zu7Vn95GD9w" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-20T19:54:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>states-of-mind</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>317</slash:comments>
+<slash:hit_parade>317,307,195,165,48,17,13</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/20/0826225/new-california-movement-wants-to-create-a-51st-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>New Antifungal Provides Hope in the Fight Against Superbugs</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4hON82T6Esg/new-antifungal-provides-hope-in-the-fight-against-superbugs</link>
@@ -60,8 +247,8 @@ But in a recent Antimicrobial Agents and Chemotherapy study, researchers confirm
 <dc:subject>medicine</dc:subject>
 <slash:department>going-viral</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>4</slash:comments>
-<slash:hit_parade>4,4,1,1,0,0,0</slash:hit_parade>
+<slash:comments>28</slash:comments>
+<slash:hit_parade>28,19,10,10,4,1,1</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/20/0218259/new-antifungal-provides-hope-in-the-fight-against-superbugs?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Red Hat Reverts Spectre Patches to Address Boot Issues</title>
@@ -84,8 +271,8 @@ At least one site "characterized the move as Red Hat washing its hands of the re
 <dc:subject>redhat</dc:subject>
 <slash:department>on-second-thought</slash:department>
 <slash:section>linux</slash:section>
-<slash:comments>17</slash:comments>
-<slash:hit_parade>17,15,9,7,4,1,0</slash:hit_parade>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,62,31,26,10,4,3</slash:hit_parade>
 <feedburner:origLink>https://linux.slashdot.org/story/18/01/20/178204/red-hat-reverts-spectre-patches-to-address-boot-issues?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple Might Discontinue the iPhone X This Summer</title>
@@ -105,8 +292,8 @@ Kuo -- who we should note has an exemplary track record with respect to iPhone r
 <dc:subject>iphone</dc:subject>
 <slash:department>X-Tinct</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>66</slash:comments>
-<slash:hit_parade>66,65,41,32,5,3,1</slash:hit_parade>
+<slash:comments>149</slash:comments>
+<slash:hit_parade>149,146,92,67,20,11,6</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/20/0514201/apple-might-discontinue-the-iphone-x-this-summer?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Car Manufacturers Sued Over Rodents Eating Soy-Insulated Wires </title>
@@ -128,8 +315,8 @@ There's even a web site called HowToPreventRatsFromEatingCarWires.com, which rep
 <dc:subject>transportation</dc:subject>
 <slash:department>num-num-num</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>94</slash:comments>
-<slash:hit_parade>94,90,46,39,17,9,5</slash:hit_parade>
+<slash:comments>140</slash:comments>
+<slash:hit_parade>140,125,76,66,20,16,12</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/20/0151231/car-manufacturers-sued-over-rodents-eating-soy-insulated-wires?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Twitter Says It Exposed Nearly 700,000 People To Russian Propaganda During Election</title>
@@ -150,8 +337,8 @@ There's even a web site called HowToPreventRatsFromEatingCarWires.com, which rep
 <dc:subject>twitter</dc:subject>
 <slash:department>surprise-surprise</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>160</slash:comments>
-<slash:hit_parade>160,145,84,66,20,11,7</slash:hit_parade>
+<slash:comments>254</slash:comments>
+<slash:hit_parade>254,237,136,116,24,11,6</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/20/0550204/twitter-says-it-exposed-nearly-700000-people-to-russian-propaganda-during-election?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>What a Government Shutdown Will Mean For NASA and SpaceX</title>
@@ -170,8 +357,8 @@ There's even a web site called HowToPreventRatsFromEatingCarWires.com, which rep
 <dc:subject>government</dc:subject>
 <slash:department>cause-and-effect</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>150</slash:comments>
-<slash:hit_parade>150,141,64,54,21,11,5</slash:hit_parade>
+<slash:comments>171</slash:comments>
+<slash:hit_parade>171,158,78,68,24,14,7</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/20/0538253/what-a-government-shutdown-will-mean-for-nasa-and-spacex?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>How To Tame the Tech Titans</title>
@@ -190,177 +377,9 @@ There's even a web site called HowToPreventRatsFromEatingCarWires.com, which rep
 <dc:subject>business</dc:subject>
 <slash:department>information-is-key</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>131</slash:comments>
-<slash:hit_parade>131,125,83,52,13,8,3</slash:hit_parade>
+<slash:comments>153</slash:comments>
+<slash:hit_parade>153,147,98,66,18,12,5</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/19/2159249/how-to-tame-the-tech-titans?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ajit Pai's FCC Can't Admit Broadband Competition Is a Problem</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Koti_hS9WC8/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem</link>
-<description>An anonymous reader quotes a report from DSLReports: While the FCC is fortunately backing away from a plan that would have weakened the standard definition of broadband, the agency under Ajit Pai still can't seem to acknowledge the lack of competition in the broadband sector. Or the impact this limited competition has in encouraging higher prices, net neutrality violations, privacy violations, or what's widely agreed to be some of the worst customer service of any industry in America. The Trump FCC had been widely criticized for a plan to weaken the standard definition of broadband from 25 Mbps down, 3 Mbps up, to include any wireless connection capable of 10 Mbps down, 1 Mbps up. Consumer advocates argued the move was a ham-fisted attempt to try and tilt the data to downplay the industry's obvious competitive and coverage shortcomings. They also argued that the plan made no coherent sense, given that wireless broadband is frequently capped, often not available (with carrier maps the FCC relies on falsely over-stating coverage), and significantly more expensive than traditional fixed-line service.
- 
-In a statement (pdf), FCC boss Ajit Pai stated the agency would fortunately be backing away from the measure, while acknowledging that frequently capped and expensive wireless isn't a comparable replacement for fixed-line broadband. "The draft report maintains the same benchmark speed for fixed broadband service previously adopted by the Commission: 25 Mbps download/3 Mbps upload," stated Pai. "The draft report also concludes that mobile broadband service is not a full substitute for fixed service. Instead, it notes there are differences between the two technologies, including clear variations in consumer preferences and demands." That's the good news. The bad news: the FCC under Pai's leadership continues to downplay and ignore the lack of competition in the sector, and the high prices and various bad behaviors most people are painfully familiar with.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ajit+Pai's+FCC+Can't+Admit+Broadband+Competition+Is+a+Problem%3A+http%3A%2F%2Fbit.ly%2F2DO4aV7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F2335254%2Fajit-pais-fcc-cant-admit-broadband-competition-is-a-problem%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636545&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Koti_hS9WC8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-20T01:50:00+00:00</dc:date>
-<dc:subject>internet</dc:subject>
-<slash:department>can't-see-the-forest-through-the-trees</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>85</slash:comments>
-<slash:hit_parade>85,81,36,30,9,3,2</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/2335254/ajit-pais-fcc-cant-admit-broadband-competition-is-a-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Nintendo's Newest Switch Accessories Are DIY Cardboard Toys</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/E22SxfRu-aE/nintendos-newest-switch-accessories-are-diy-cardboard-toys</link>
-<description>sqorbit writes: Nintendo has announced a new experience for its popular Switch game console, called Nintendo Labo. Nintendo Labo lets you interact with the Switch and its Joy-Con controllers by building things with cardboard. Launching on April 20th, Labo will allow you to build things such as a piano and a fishing pole out of cardboard pieces that, once attached to the Switch, provide the user new ways to interact with the device. Nintendo of America's President, Reggie Fils-Aime, states that "Labo is unlike anything we've done before." Nintendo has a history of non-traditional ideas in gaming, sometimes working and sometimes not. Cardboard cuts may attract non-traditional gamers back to the Nintendo platform. While Microsoft and Sony appear to be focused on 4K, graphics and computing power, Nintendo appears focused on producing "fun" gaming experiences, regardless of how cheesy or technologically outdated they me be. Would you buy a Nintendo Labo kit for $69.99 or $79.99? "The 'Variety Kit' features five different games and Toy-Con -- including the RC car, fishing, and piano -- for $69.99," The Verge notes. "The 'Robot Kit,' meanwhile, will be sold separately for $79.99."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Nintendo's+Newest+Switch+Accessories+Are+DIY+Cardboard+Toys%3A+http%3A%2F%2Fbit.ly%2F2mTiDah"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F20%2F000233%2Fnintendos-newest-switch-accessories-are-diy-cardboard-toys%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636559&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/E22SxfRu-aE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-20T01:10:00+00:00</dc:date>
-<dc:subject>nintendo</dc:subject>
-<slash:department>back-to-the-basics</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>61</slash:comments>
-<slash:hit_parade>61,54,28,24,5,2,2</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/20/000233/nintendos-newest-switch-accessories-are-diy-cardboard-toys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Norway Will Make All Short-Haul Flights Electric By 2040</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fbbZAy8Y7Io/norway-will-make-all-short-haul-flights-electric-by-2040</link>
-<description>Norway's public operator of air transport plans to make all short-haul flights in the country entirely electric by 2040. "State-owned Avinor, which operates most of Norway's civil airports, is aiming to be the 'first in the world' to switch to electric air transport," reports The Independent. From the report: "We think that all flights lasting up to 1.5 hours can be flown by aircraft that are entirely electric," chief executive Dag Falk-Petersen told AFP. The announcement confirms Norway's reputation as a leader in electric power. In a 2017 report, Avinor announced that in cooperation with the Norwegian Sports Aviation Association and major airlines, it had set up a development project for electric aircraft. Avinor said it had "called for Norway to be established as a test arena and innovation center for the development of electric aircraft." Avinor intends to reduce aircraft greenhouse gas emissions in the short term by phasing in biofuels in the coming years, and then build on these reductions by phasing in electric planes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Norway+Will+Make+All+Short-Haul+Flights+Electric+By+2040%3A+http%3A%2F%2Fbit.ly%2F2mRuq9i"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F2325212%2Fnorway-will-make-all-short-haul-flights-electric-by-2040%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636531&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fbbZAy8Y7Io" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-20T00:30:00+00:00</dc:date>
-<dc:subject>transportation</dc:subject>
-<slash:department>first-in-the-world</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>152</slash:comments>
-<slash:hit_parade>152,150,92,77,22,10,6</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/2325212/norway-will-make-all-short-haul-flights-electric-by-2040?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google CEO Sundar Pichai Says He Does Not Regret Firing James Damore</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0ACyt0c3gSA/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore</link>
-<description>An anonymous reader quotes a report from The Verge: Google CEO Sundar Pichai responded today to the firing of employee James Damore over his controversial memo on workplace diversity, stating that while he does not regret the decision, he regrets that people misunderstood it as a politically motivated event. Speaking in a live conversation with journalist and Recode co-founder Kara Swisher, MSNBC host Ari Melber, and YouTube CEO Susan Wojcicki in San Francisco, Pichai said that the decision to fire Damore was about ensuring women at Google felt like the company was committed to creating a welcoming environment.
- 
-"I regret that people misunderstand that we may have made this for a political belief one way or another," Pichai said. "It's important for the women at Google, and all the people at Google, that we want to make a inclusive environment." When pressed by Swisher on the issue of regret, Pichai stated more definitively, "I don't regret it." Wojcicki, who has spoken publicly about how Damore's memo affected her personally, followed up with, "I think it was the right decision."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+CEO+Sundar+Pichai+Says+He+Does+Not+Regret+Firing+James+Damore%3A+http%3A%2F%2Fbit.ly%2F2mTAlKK"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F19%2F2257242%2Fgoogle-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636479&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0ACyt0c3gSA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T23:50:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>right-vs-wrong</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>314</slash:comments>
-<slash:hit_parade>314,305,158,131,57,37,27</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/19/2257242/google-ceo-sundar-pichai-says-he-does-not-regret-firing-james-damore?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Security Breaches Don't Affect Stock Price, Study Suggests</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/G_aqcH3K8aE/security-breaches-dont-affect-stock-price-study-suggests</link>
-<description>Computer security professional Bruce Schneier highlights the key findings of a study that suggests security breaches don't affect stock price. The study has been published in the Journal of Information Privacy and Security. From the report: -While the difference in stock price between the sampled breached companies and their peers was negative (1.13%) in the first 3 days following announcement of a breach, by the 14th day the return difference had rebounded to + 0.05%, and on average remained positive through the period assessed.
- -For the differences in the breached companies' betas and the beta of their peer sets, the differences in the means of 8 months pre-breach versus post-breach was not meaningful at 90, 180, and 360 day post-breach periods.
- -For the differences in the breached companies' beta correlations against the peer indices pre- and post-breach, the difference in the means of the rolling 60 day correlation 8 months pre- breach versus post-breach was not meaningful at 90, 180, and 360 day post-breach periods.
- -In regression analysis, use of the number of accessed records, date, data sensitivity, and malicious versus accidental leak as variables failed to yield an R2 greater than 16.15% for response variables of 3, 14, 60, and 90 day return differential, excess beta differential, and rolling beta correlation differential, indicating that the financial impact on breached companies was highly idiosyncratic.
- -Based on returns, the most impacted industries at the 3 day post-breach date were U.S. Financial Services, Transportation, and Global Telecom. At the 90 day post-breach date, the three most impacted industries were U.S. Financial Services, U.S. Healthcare, and Global Telecom.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Security+Breaches+Don't+Affect+Stock+Price%2C+Study+Suggests%3A+http%3A%2F%2Fbit.ly%2F2mQYIJ4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F19%2F2245222%2Fsecurity-breaches-dont-affect-stock-price-study-suggests%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636471&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/G_aqcH3K8aE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T23:10:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>short-term-vs-long-term-implications</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>26</slash:comments>
-<slash:hit_parade>26,25,11,8,3,1,0</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/19/2245222/security-breaches-dont-affect-stock-price-study-suggests?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Trump Signs Surveillance Extension Into Law</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4tNWls3AU4Y/trump-signs-surveillance-extension-into-law</link>
-<description>President Trump took to Twitter this afternoon to announce that he has signed a six-year renewal of a powerful government surveillance tool. "Just signed 702 Bill to authorize foreign intelligence collection," Trump tweeted. "This is NOT the same FISA law that was so wrongly abused during the election. I will always do the right thing for our country and put the safety of the American people first!" The Hill reports: Section 702 of the Foreign Intelligence Surveillance Act (FISA), which the Senate voted to renew with a few small tweaks this week, allows the U.S. to spy on foreigners overseas. The intelligence community says the program is a critical tool in identifying and disrupting terror plots. But the broader surveillance law, which governs U.S. spying on foreigners, has become politically entangled with the controversy over the federal investigation into Trump's campaign and Russia. Some Republicans have claimed that the FBI inappropriately obtained a politically motivated FISA warrant to spy on Trump during the transition and on Friday, Capitol Hill was consumed with speculation about a four-page memo produced by House Intelligence Committee Republicans that some GOP lawmakers hinted contained evidence of such wrongdoing.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Trump+Signs+Surveillance+Extension+Into+Law%3A+http%3A%2F%2Fbit.ly%2F2mRqLs0"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F2210246%2Ftrump-signs-surveillance-extension-into-law%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636445&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4tNWls3AU4Y" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T22:30:00+00:00</dc:date>
-<dc:subject>privacy</dc:subject>
-<slash:department>invasion-of-privacy</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>85</slash:comments>
-<slash:hit_parade>85,83,25,21,5,3,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/2210246/trump-signs-surveillance-extension-into-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facebook Will Now Ask Users To Rank News Organizations They Trust</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PMEWIOvHHDg/facebook-will-now-ask-users-to-rank-news-organizations-they-trust</link>
-<description>An anonymous reader quotes a report from Recode: Facebook is doing a very un-Facebooky thing: It's going to start declaring that some news sources you see in your Facebook feed are better than others, and act accordingly. But Facebook being Facebook, it's going about it in the most Facebooky way possible: It's going to rely on users -- not the super-smart people who work at Facebook -- to figure out which of those sources are better. Mark Zuckerberg says the move is part of an effort to prioritize "news that is trustworthy, informative, and local," within the network and suggests that there will be more announcements to come. The one he describes today will prioritize what kind of news sources pop up in your Facebook News Feed, and will reward ones that Facebook thinks are "broadly trusted," based on user polls, so it can "build a sense of common ground." Facebook is also using today's news to refine last week's roll-out: Zuckerberg says the previously announced changes will reduce the amount of news stories people see in their feed to 4 percent, down from 5 percent.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Will+Now+Ask+Users+To+Rank+News+Organizations+They+Trust%3A+http%3A%2F%2Fbit.ly%2F2DoWHPm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F19%2F2147209%2Ffacebook-will-now-ask-users-to-rank-news-organizations-they-trust%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636413&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PMEWIOvHHDg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-19T21:50:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>user-generated</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>131</slash:comments>
-<slash:hit_parade>131,127,73,49,9,6,5</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/19/2147209/facebook-will-now-ask-users-to-rank-news-organizations-they-trust?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Linking Is Not Copyright Infringement, Boing Boing and EFF Tell Court</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/tyKlDpUl22k/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court</link>
-<description>An anonymous reader shares a report: The popular blog Boing Boing has asked a federal court in California to drop the copyright infringement lawsuit filed against it by Playboy. With help from the EFF, Boing Boing argues that its article linking to an archive of hundreds of centerfold playmates is clearly fair use. Or else it will be "the end of the web as we know it," the blog warns. Late last year Playboy sued the popular blog Boing Boing for publishing an article that linked to an archive of every playmate centerfold till then. "Kind of amazing to see how our standards of hotness, and the art of commercial erotic photography, have changed over time," Boing Boing's Xena Jardin commented. Playboy, instead, was amazed that infringing copies of their work were being shared in public. While Boing Boing didn't upload or store the images in question, the publisher took the case to court.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Linking+Is+Not+Copyright+Infringement%2C+Boing+Boing+and+EFF+Tell+Court%3A+http%3A%2F%2Fbit.ly%2F2BfCuWx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F19%2F2012225%2Flinking-is-not-copyright-infringement-boing-boing-and-eff-tell-court%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11636203&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/tyKlDpUl22k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-19T21:10:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>shape-of-things</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>80</slash:comments>
-<slash:hit_parade>80,79,41,31,9,7,4</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/19/2012225/linking-is-not-copyright-infringement-boing-boing-and-eff-tell-court?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

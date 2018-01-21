@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.internet.connectivity;
+package com.arivan.amin.widget.internet_connectivity;
 
 import javafx.animation.*;
 import javafx.event.ActionEvent;

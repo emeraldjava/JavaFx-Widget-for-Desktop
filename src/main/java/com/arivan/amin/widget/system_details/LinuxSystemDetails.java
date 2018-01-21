@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.system.details;
+package com.arivan.amin.widget.system_details;
 
 import java.io.IOException;
 import java.io.InputStream;

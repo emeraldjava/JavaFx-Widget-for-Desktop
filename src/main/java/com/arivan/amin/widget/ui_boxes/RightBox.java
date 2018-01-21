@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.ui.boxes;
+package com.arivan.amin.widget.ui_boxes;
 
 import com.arivan.amin.widget.cpu.CpuProgressBar;
 import com.arivan.amin.widget.memory.MemoryProgressBar;

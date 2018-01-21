@@ -1,6 +1,6 @@
-package com.arivan.amin.widget.ui.boxes;
+package com.arivan.amin.widget.ui_boxes;
 
-import com.arivan.amin.widget.system.details.SystemDetailsPane;
+import com.arivan.amin.widget.system_details.SystemDetailsPane;
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
 import javafx.css.Styleable;

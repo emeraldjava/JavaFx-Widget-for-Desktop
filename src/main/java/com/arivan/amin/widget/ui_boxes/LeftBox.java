@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.ui.boxes;
+package com.arivan.amin.widget.ui_boxes;
 
 import javafx.beans.property.DoubleProperty;
 import javafx.scene.layout.*;

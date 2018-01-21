@@ -1,6 +1,6 @@
 package com.arivan.amin.widget.power;
 
-import com.arivan.amin.widget.internet.connectivity.ConnectionStatusBox;
+import com.arivan.amin.widget.internet_connectivity.ConnectionStatusBox;
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
 import javafx.event.ActionEvent;

@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.news.feed;
+package com.arivan.amin.widget.news_feed;
 
 import org.w3c.dom.*;
 

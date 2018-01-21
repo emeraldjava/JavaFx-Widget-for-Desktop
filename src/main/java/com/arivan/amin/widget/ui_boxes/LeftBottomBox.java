@@ -1,6 +1,6 @@
-package com.arivan.amin.widget.ui.boxes;
+package com.arivan.amin.widget.ui_boxes;
 
-import com.arivan.amin.widget.news.feed.RssReaderBox;
+import com.arivan.amin.widget.news_feed.RssReaderBox;
 import javafx.beans.property.DoubleProperty;
 import javafx.scene.layout.HBox;
 

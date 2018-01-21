@@ -1,7 +1,7 @@
 package com.arivan.amin.widget;
 
-import com.arivan.amin.widget.ui.boxes.LeftBox;
-import com.arivan.amin.widget.ui.boxes.RightBox;
+import com.arivan.amin.widget.ui_boxes.LeftBox;
+import com.arivan.amin.widget.ui_boxes.RightBox;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;

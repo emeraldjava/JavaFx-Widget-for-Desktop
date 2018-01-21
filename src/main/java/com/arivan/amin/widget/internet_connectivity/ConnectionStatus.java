@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.internet.connectivity;
+package com.arivan.amin.widget.internet_connectivity;
 
 public interface ConnectionStatus
 {

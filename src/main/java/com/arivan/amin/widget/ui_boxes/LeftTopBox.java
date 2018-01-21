@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.ui.boxes;
+package com.arivan.amin.widget.ui_boxes;
 
 import com.arivan.amin.widget.forecast.WeatherBox;
 import com.arivan.amin.widget.power.BatteryStateBox;
