@@ -1,6 +1,7 @@
 package com.arivan.amin.widget.ui_boxes;
 
 import com.arivan.amin.widget.cpu.CpuProgressBar;
+import com.arivan.amin.widget.file_system.FileSystemBox;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
 import com.arivan.amin.widget.wireless.WirelessMonitorBox;
 import javafx.beans.property.DoubleProperty;
@@ -27,6 +28,7 @@ public class RightBox extends VBox
         getChildren().add(MemoryProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
         getChildren()
                 .add(WirelessMonitorBox.newInstance(prefWidthProperty(), prefHeightProperty()));
+        getChildren().add(FileSystemBox.newInstance(prefWidthProperty(), prefHeightProperty()));
     }
     
     private void bindBoxToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
