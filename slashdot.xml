@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-22T20:48:11+00:00</dc:date>
+<dc:date>2018-01-23T15:32:13+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/22/209215/china-unhampered-by-rules-races-ahead-in-gene-editing-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/1934258/corporate-cultural-issues-hold-back-secure-software-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/22/1915232/intel-urges-oems-and-end-users-to-stop-deploying-spectre-patch-as-it-may-introduce-higher-than-expected-reboots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/22/185222/itunes-snafu-made-thor-ragnarok-available-almost-a-month-early?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/1719247/reskilling-revolution-needed-for-the-millions-of-jobs-at-risk-due-to-technological-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/22/1611230/microsoft-unveils-windows-10-s-laptops-starting-at-189-and-new-office-365-tools-for-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/1623219/googles-20-million-race-to-the-moon-will-end-with-no-winner----and-google-is-ok-with-that?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/1432240/facebook-says-it-cant-guarantee-social-media-is-good-for-democracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/22/159240/yale-privacy-lab-and-exodus-privacys-f-droid-android-app-store-is-a-replacement-for-google-play-that-features-only-foss-apps-that-dont-do-any-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/22/1038216/to-combat-shortage-nvidia-asks-retailers-to-limit-graphics-card-orders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/1223201/facebook-vp-says-company-wont-use-experts-to-fix-fake-news-because-it-is-worried-about-criticism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/22/0727243/lwnnet-celebrates-its-20th-birthday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/01/22/0648227/linus-torvalds-calls-intel-patches-complete-and-utter-garbage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/022250/more-wall-street-pundits-caution-against-investing-in-bitcoins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/22/0225216/will-we-one-day-use-tractor-beams-in-manufacturing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,322 +41,308 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://science.slashdot.org/story/18/01/22/209215/china-unhampered-by-rules-races-ahead-in-gene-editing-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>China, Unhampered by Rules, Races Ahead in Gene-Editing Trials</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ix9V72JyHco/china-unhampered-by-rules-races-ahead-in-gene-editing-trials</link>
-<description>U.S. scientists helped devise the Crispr biotechnology tool. First to test it in humans are Chinese doctors (Editor's note: the link may be paywalled; alternative link). WSJ reports: In a hospital west of Shanghai, Wu Shixiu since March has been trying to treat cancer patients using a promising new gene-editing tool. U.S. scientists helped devise the tool, known as Crispr-Cas9, which has captured global attention since a 2012 report said it can be used to edit DNA. Doctors haven't been allowed to use it in human trials in America. That isn't the case for Dr. Wu and others in China. In a quirk of the globalized technology arena, Dr. Wu can forge ahead with the tool because he faces few regulatory hurdles to testing it on humans. [...] There is little doubt China was first out of the block testing Crispr on humans. Nine trials in China are listed in a U.S. National Library of Medicine database. The Wall Street Journal found at least two other hospital trials, including one beginning in 2015 -- a year earlier than previously reported. Journal reporting found at least 86 Chinese patients have had their genes edited.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=China%2C+Unhampered+by+Rules%2C+Races+Ahead+in+Gene-Editing+Trials%3A+http%3A%2F%2Fbit.ly%2F2DwmLbx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F22%2F209215%2Fchina-unhampered-by-rules-races-ahead-in-gene-editing-trials%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Firefox 58 Gets Graphics Speed Boost, Web App Abilities</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7LSfUzJBsjE/firefox-58-gets-graphics-speed-boost-web-app-abilities</link>
+<description>Mozilla released on Tuesday a new version of its Firefox Quantum browser, boosting its graphics speed and improving a couple of new technologies designed to make the web more powerful. From a report: The browser, version 58, is the first major update since Mozilla's recovery plan hit full stride in November with the debut of Firefox Quantum. Speed is of the essence in Mozilla's recovery plan, and Firefox 58 does better than its predecessor in some graphics tasks by splitting work better across the multiple processor cores that computer chips have these days. The result should be scrolling that's smooth, uninterrupted by the stuttering that in computing circles goes by the disparaging term "jank." [...] Firefox 58 helps with two new web technologies. One, called WebAssembly, provides for dramatically faster web apps. Firefox 58 can get WebAssembly software running faster so you don't have to twiddle your thumbs waiting as long after clicking a link. Another is progressive web apps (PWAs), an initiative that came out of Google to help make the web a better match for the apps we all drop on our phones.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Firefox+58+Gets+Graphics+Speed+Boost%2C+Web+App+Abilities%3A+http%3A%2F%2Fbit.ly%2F2BmTjyw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F23%2F150206%2Ffirefox-58-gets-graphics-speed-boost-web-app-abilities%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/22/209215/china-unhampered-by-rules-races-ahead-in-gene-editing-trials?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/22/209215/china-unhampered-by-rules-races-ahead-in-gene-editing-trials?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645863&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ix9V72JyHco" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650619&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7LSfUzJBsjE" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T20:41:00+00:00</dc:date>
-<dc:subject>china</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>2</slash:comments>
-<slash:hit_parade>2,2,0,0,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/22/209215/china-unhampered-by-rules-races-ahead-in-gene-editing-trials?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/22/1934258/corporate-cultural-issues-hold-back-secure-software-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Corporate Cultural Issues Hold Back Secure Software Development</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3SD-I6RoiaM/corporate-cultural-issues-hold-back-secure-software-development</link>
-<description>An anonymous reader shares a report: As the digital economy expands and software becomes more critical, security worries grow. In a new survey, 74 percent of respondents agree that security threats due to software and code issues are a growing concern. The study of over 1,200 IT leaders, conducted by analysts Freeform Dynamics for software company CA Technologies, finds 58 percent of respondents cite existing culture and lack of skills as hurdles to being able to embed security within processes. In addition, only 24 percent strongly agree that their organization's culture and practices support collaboration across development, operations and security. On top of cultural limitations, less than a quarter of respondents strongly agree that senior management understands the importance of not sacrificing security for time-to-market success.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Corporate+Cultural+Issues+Hold+Back+Secure+Software+Development%3A+http%3A%2F%2Fbit.ly%2F2E09HYK"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F22%2F1934258%2Fcorporate-cultural-issues-hold-back-secure-software-development%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/22/1934258/corporate-cultural-issues-hold-back-secure-software-development?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/22/1934258/corporate-cultural-issues-hold-back-secure-software-development?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645819&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3SD-I6RoiaM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T20:00:00+00:00</dc:date>
-<dc:subject>software</dc:subject>
-<slash:department>closer-look</slash:department>
+<dc:date>2018-01-23T15:25:00+00:00</dc:date>
+<dc:subject>mozilla</dc:subject>
+<slash:department>moving-forward</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>21</slash:comments>
-<slash:hit_parade>21,21,15,12,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/22/1934258/corporate-cultural-issues-hold-back-secure-software-development?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/22/1915232/intel-urges-oems-and-end-users-to-stop-deploying-spectre-patch-as-it-may-introduce-higher-than-expected-reboots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Intel Urges OEMs and End Users To Stop Deploying Spectre Patch As It May 'Introduce Higher Than Expected Reboots'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Y5DJx_dAp1I/intel-urges-oems-and-end-users-to-stop-deploying-spectre-patch-as-it-may-introduce-higher-than-expected-reboots</link>
-<description>Intel executive vice president Neil Shenoy said on Monday that the chip-maker has identified the source of some of the recent problems, so it is now recommended that users skip the available patches. From the blog post: We recommend that OEMs, cloud service providers, system manufacturers, software vendors and end users stop deployment of current versions, as they may introduce higher than expected reboots and other unpredictable system behavior.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Urges+OEMs+and+End+Users+To+Stop+Deploying+Spectre+Patch+As+It+May+'Introduce+Higher+Than+Expected+Reboots'%3A+http%3A%2F%2Fbit.ly%2F2DwuR3L"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F22%2F1915232%2Fintel-urges-oems-and-end-users-to-stop-deploying-spectre-patch-as-it-may-introduce-higher-than-expected-reboots%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>5</slash:comments>
+<slash:hit_parade>5,5,2,2,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hawaii Governor Didn't Correct False Missile Alert Sooner Because He Didn't Know His Twitter Password</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-47uvXo3ZNI/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password</link>
+<description>An anonymous reader shares a WashingtonPost report: Minutes after the Hawaii Emergency Management Agency mistakenly sent a missile alert at 8:07 a.m. on Jan. 13 -- terrifying residents and visitors across the state -- some officials, such as Rep. Tulsi Gabbard, rushed to Twitter to reassure everyone it was a mistake. But one Twitter account was deafeningly silent for 17 minutes: that of Hawaii Gov. David Ige. Though Ige was informed by the state's adjutant general that the alert was false two minutes after it was sent, he waited until 8:24 a.m. to tweet, "There is NO missile threat." On Monday, after he gave the State of the State address in which he avoided the subject of the missile alert fiasco, reporters demanded an explanation for that long silence. Ige's answer: He couldn't log in to Twitter. "I have to confess that I don't know my Twitter account log-ons and the passwords, so certainly that's one of the changes that I've made," Ige said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hawaii+Governor+Didn't+Correct+False+Missile+Alert+Sooner+Because+He+Didn't+Know+His+Twitter+Password%3A+http%3A%2F%2Fbit.ly%2F2E0sPpE"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F23%2F1446224%2Fhawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/22/1915232/intel-urges-oems-and-end-users-to-stop-deploying-spectre-patch-as-it-may-introduce-higher-than-expected-reboots?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/22/1915232/intel-urges-oems-and-end-users-to-stop-deploying-spectre-patch-as-it-may-introduce-higher-than-expected-reboots?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645783&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Y5DJx_dAp1I" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650579&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-47uvXo3ZNI" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T19:20:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>you-had-six-months</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>58</slash:comments>
-<slash:hit_parade>58,55,37,31,10,6,4</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/22/1915232/intel-urges-oems-and-end-users-to-stop-deploying-spectre-patch-as-it-may-introduce-higher-than-expected-reboots?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/22/185222/itunes-snafu-made-thor-ragnarok-available-almost-a-month-early?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>iTunes Snafu Made 'Thor: Ragnarok' Available Almost a Month Early</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uNHM32E3m7Q/itunes-snafu-made-thor-ragnarok-available-almost-a-month-early</link>
-<description>An anonymous reader shares a report: When you check out the 'Thor: Ragnarok' page on iTunes, it says pre-orders of digital copies are expected to arrive on February 20th. But as TorrentFreak reports, some people got their hands on the Marvel film about a month early due to some sort of snafu with iTunes and Movies Anywhere. According to TorrentFreak, a Reddit user said in a now-deleted post that their legal purchase of the film on Vudu landed them an iTunes copy of it the next day. "I pre-ordered Thor Ragnarok on Vudu yesterday and it links it to my iTunes also. But curiously it showed up in my iTunes library this morning (pre-orders shouldn't). And now I can watch the full movie in HD," they wrote. "I obviously downloaded it right away. I know its supposed to come out February 20th." Others then responded that going that same purchase route made the movie available to them in iTunes as well.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=iTunes+Snafu+Made+'Thor%3A+Ragnarok'+Available+Almost+a+Month+Early%3A+http%3A%2F%2Fbit.ly%2F2n2sKtp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F22%2F185222%2Fitunes-snafu-made-thor-ragnarok-available-almost-a-month-early%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/22/185222/itunes-snafu-made-thor-ragnarok-available-almost-a-month-early?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/22/185222/itunes-snafu-made-thor-ragnarok-available-almost-a-month-early?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645659&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uNHM32E3m7Q" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T18:40:00+00:00</dc:date>
-<dc:subject>piracy</dc:subject>
+<dc:date>2018-01-23T14:46:00+00:00</dc:date>
+<dc:subject>twitter</dc:subject>
 <slash:department>oops</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>29</slash:comments>
-<slash:hit_parade>29,29,13,11,3,0,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/22/185222/itunes-snafu-made-thor-ragnarok-available-almost-a-month-early?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/22/1719247/reskilling-revolution-needed-for-the-millions-of-jobs-at-risk-due-to-technological-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>'Reskilling Revolution Needed for the Millions of Jobs at Risk Due To Technological Disruption'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bkbmWyj-lh4/reskilling-revolution-needed-for-the-millions-of-jobs-at-risk-due-to-technological-disruption</link>
-<description>A new report, published by The World Economic Forum on Monday estimates that 1.4 million U.S. jobs will be hit by automation between now and 2026. Of those, 57 percent belong to women. Without re-education, 16 percent of affected workers will have no job prospects, the study finds. A further 25 percent would have one to three job options. The report adds The positive finding from the report is that with adequate reskilling, 95% of the most immediately at-risk workers would find good-quality, higher-wage work in growing job families. Report highlights the urgent need for a massive reskilling programme, safety nets to support workers while they reskill, and support with job-matching.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status='Reskilling+Revolution+Needed+for+the+Millions+of+Jobs+at+Risk+Due+To+Technological+Disruption'%3A+http%3A%2F%2Fbit.ly%2F2DxZCpi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F22%2F1719247%2Freskilling-revolution-needed-for-the-millions-of-jobs-at-risk-due-to-technological-disruption%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,39,23,18,3,1,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hackers Stole $172 Billion From People Last Year</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KmdX2ZiHxqo/hackers-stole-172-billion-from-people-last-year</link>
+<description>Yearly report published by security firm Norton estimates that as many as 978 million people in 20 countries lost money to cybercrime last year. On an average, the firm says, victims lost an average of $142 and spent nearly 24 hours dealing with the fallout of their attack.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hackers+Stole+%24172+Billion+From+People+Last+Year%3A+http%3A%2F%2Fbit.ly%2F2n3k1qZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F23%2F144222%2Fhackers-stole-172-billion-from-people-last-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/22/1719247/reskilling-revolution-needed-for-the-millions-of-jobs-at-risk-due-to-technological-disruption?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/22/1719247/reskilling-revolution-needed-for-the-millions-of-jobs-at-risk-due-to-technological-disruption?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645475&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/bkbmWyj-lh4" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650463&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KmdX2ZiHxqo" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T18:00:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>shape-of-things-to-come</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>232</slash:comments>
-<slash:hit_parade>232,226,147,129,15,4,3</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/22/1719247/reskilling-revolution-needed-for-the-millions-of-jobs-at-risk-due-to-technological-disruption?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/22/1611230/microsoft-unveils-windows-10-s-laptops-starting-at-189-and-new-office-365-tools-for-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Microsoft Unveils Windows 10 S Laptops Starting at $189 and New Office 365 Tools for Students</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eBQeceajaAs/microsoft-unveils-windows-10-s-laptops-starting-at-189-and-new-office-365-tools-for-students</link>
-<description>An anonymous reader shares a report: Microsoft today unveiled new Windows 10 S devices from Lenovo and JP, starting at $189, aimed at the education market. The company also announced new Office 365 learning tools for students. The news mirrors Microsoft's firstline workers push in September, which saw new Windows 10 S devices starting at $275. The company is now simply doing the same as part of its latest EDU push, and it's not mincing words when it comes to explaining its target audience: "schools who don't want to compromise on Chromebooks." Microsoft unveiled four new Windows 10 devices that are all supposed to offer more than Chrome OS. Two are standard laptops: the Lenovo 100e powered by Intel Celeron Apollo Lake for $189 and JP's Classmate Leap T303 with Windows Hello for $199. The other two are 2-in-1s: the Lenovo 300e convertible with pen support for $279 and the Trigono V401 with pen and touch for $299. All four are spill resistant, ruggedized for students, and promise long battery life to avoid having wires all over the classroom.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Unveils+Windows+10+S+Laptops+Starting+at+%24189+and+New+Office+365+Tools+for+Students%3A+http%3A%2F%2Fbit.ly%2F2Bls4o8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F22%2F1611230%2Fmicrosoft-unveils-windows-10-s-laptops-starting-at-189-and-new-office-365-tools-for-students%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/22/1611230/microsoft-unveils-windows-10-s-laptops-starting-at-189-and-new-office-365-tools-for-students?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/22/1611230/microsoft-unveils-windows-10-s-laptops-starting-at-189-and-new-office-365-tools-for-students?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645333&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eBQeceajaAs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T17:20:00+00:00</dc:date>
-<dc:subject>microsoft</dc:subject>
-<slash:department>new-offerings</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>72</slash:comments>
-<slash:hit_parade>72,71,40,36,8,3,2</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/22/1611230/microsoft-unveils-windows-10-s-laptops-starting-at-189-and-new-office-365-tools-for-students?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/22/1623219/googles-20-million-race-to-the-moon-will-end-with-no-winner----and-google-is-ok-with-that?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google's $20 Million Race To the Moon Will End With No Winner -- and Google is OK With That</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/y1MTkMiRoH4/googles-20-million-race-to-the-moon-will-end-with-no-winner----and-google-is-ok-with-that</link>
-<description>Michael Sheetz, reporting for CNBC: More than ten years after it was announced -- and extended over and over -- the Google-sponsored race to win $20 million by landing on the moon will end with no winners. The four teams racing to win the Google Lunar Xprize, which requires a company to land a spacecraft on the moon by March 31, are either short of money or unable to launch this year, three people familiar with the matter told CNBC. Meanwhile, Google -- which extended the deadline from 2012 to 2014 and then eventually to 2018 -- is not willing to push out the date further. "Google does not have plans at this time to extend the deadline again, however we are so thrilled with the progress made by these teams over the last ten years," a Google spokesperson said in a statement to CNBC. The commercial space industry has written off the Lunar Xprize as improbable, and not worth pursuing, according to sources.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google's+%2420+Million+Race+To+the+Moon+Will+End+With+No+Winner+--+and+Google+is+OK+With+That%3A+http%3A%2F%2Fbit.ly%2F2Dx1tdP"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F22%2F1623219%2Fgoogles-20-million-race-to-the-moon-will-end-with-no-winner----and-google-is-ok-with-that%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/22/1623219/googles-20-million-race-to-the-moon-will-end-with-no-winner----and-google-is-ok-with-that?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/22/1623219/googles-20-million-race-to-the-moon-will-end-with-no-winner----and-google-is-ok-with-that?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645357&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/y1MTkMiRoH4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T16:30:00+00:00</dc:date>
-<dc:subject>google</dc:subject>
+<dc:date>2018-01-23T14:04:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
 <slash:department>tough-luck</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,25,16,12,4,1,0</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: What Is Your View On Forced Subscription-Only Software?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GaWunLC4vmg/ask-slashdot-what-is-your-view-on-forced-subscription-only-software</link>
+<description>dryriver writes: All used to be well in the world of Digital Content Creation (DCC) until two very major DCC software makers -- Adobe and Autodesk -- decided to force a monthly subscription model on pretty much every software package they make to please Wall Street investors. Important 2D and 3D DCC software like Photoshop, After Effects, Premiere, InDesign, 3DMax, Maya, and Mudbox is now only available to "rent" from these companies. You simply cannot buy a perpetual license or boxed copy for this software at all anymore, and what makes matters worse is that if you stop paying your subscription, the software locks itself down, leaving you unable to open even old files you created with the software for later review. Also annoying is that subscription software constantly performs "license validity" checks over the internet (subscription software cannot be run offline for any great length of time, or on an air-gapped PC) and the software is increasingly tied into various cloud services these companies have set up. The DCC companies want you to save your -- potentially confidential -- project files on their servers, not on your own hard disk. There are millions of DCC professionals around the world who'd love to be able to buy a normal, perpetual, offline-use capable license for these software tools. That is no longer possible. Adobe and Autodesk no longer provide that. What is your view on this "forced subscription" model? What would happen if all the major commercial software developers forced this model on everyone simultaneously? What if the whole idea of being able to "purchase" a perpetual license for ANY commercial software went away completely, and it was subscription only from that point on?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What+Is+Your+View+On+Forced+Subscription-Only+Software%3F%3A+http%3A%2F%2Fbit.ly%2F2E0saod"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F23%2F0520227%2Fask-slashdot-what-is-your-view-on-forced-subscription-only-software%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646825&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GaWunLC4vmg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T13:00:00+00:00</dc:date>
+<dc:subject>software</dc:subject>
+<slash:department>against-one's-will</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>62</slash:comments>
-<slash:hit_parade>62,58,38,31,6,2,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/22/1623219/googles-20-million-race-to-the-moon-will-end-with-no-winner----and-google-is-ok-with-that?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/22/1432240/facebook-says-it-cant-guarantee-social-media-is-good-for-democracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facebook Says It Can't Guarantee Social Media is Good For Democracy</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FQhW_iGGTo0/facebook-says-it-cant-guarantee-social-media-is-good-for-democracy</link>
-<description>Facebook said on Monday that it could offer no assurance that social media was on balance good for democracy, but noted that it was trying what it could to stop alleged meddling in elections by Russia or anyone else. From a report: The sharing of false or misleading headlines on social media has become a global issue, after accusations that Russia tried to influence votes in the United States, Britain and France. Moscow denies the allegations. Facebook, the largest social network with more than 2 billion users, addressed social media's role in democracy in blog posts from a Harvard University professor, Cass Sunstein, and from an employee working on the subject. "I wish I could guarantee that the positives are destined to outweigh the negatives, but I can't," Samidh Chakrabarti, a Facebook product manager, wrote in his post. Facebook, he added, has a "moral duty to understand how these technologies are being used and what can be done to make communities like Facebook as representative, civil and trustworthy as possible."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Says+It+Can't+Guarantee+Social+Media+is+Good+For+Democracy%3A+http%3A%2F%2Fbit.ly%2F2n19son"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F22%2F1432240%2Ffacebook-says-it-cant-guarantee-social-media-is-good-for-democracy%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>266</slash:comments>
+<slash:hit_parade>266,262,172,134,37,17,8</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>You Spend Nearly a Whole Day Each Week On the Internet</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lgTHAsncYq8/you-spend-nearly-a-whole-day-each-week-on-the-internet</link>
+<description>An anonymous reader quotes a report from CNET: Since 2000, our time spent online each week has steadily increased, rising from 9.4 hours to 23.6 hours -- nearly an entire day, according to a recent report by the USC Annenberg Center for the Digital Future. The internet has become an integral component of our home lives as well, with time spent rising more than 400 percent over that period from 3.3 hours to 17.6 hours each week, according to the report, which surveys more than 2,000 people across the U.S. each year. The center's 15th annual Digital Future Report illustrates the internet's dramatic evolution since 2000 from a secondary medium to an indispensable component of our daily lives -- always on and always with us. It also comes as many fear for the future of the unlimited internet we have largely taken for granted over the past two decades. The report also found that the internet has had a dramatic impact on how we get our news. News consumption for all ages went from a print-to-online ratio of 85-15 in 2001 to a near even 51-49 in 2016.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=You+Spend+Nearly+a+Whole+Day+Each+Week+On+the+Internet%3A+http%3A%2F%2Fbit.ly%2F2DwWfim"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F23%2F0525250%2Fyou-spend-nearly-a-whole-day-each-week-on-the-internet%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/22/1432240/facebook-says-it-cant-guarantee-social-media-is-good-for-democracy?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/22/1432240/facebook-says-it-cant-guarantee-social-media-is-good-for-democracy?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645123&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FQhW_iGGTo0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T16:01:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>closer-look</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646877&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lgTHAsncYq8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T11:30:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>online-behavior</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>153</slash:comments>
-<slash:hit_parade>153,151,85,75,14,3,3</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/22/1432240/facebook-says-it-cant-guarantee-social-media-is-good-for-democracy?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/22/159240/yale-privacy-lab-and-exodus-privacys-f-droid-android-app-store-is-a-replacement-for-google-play-that-features-only-foss-apps-that-dont-do-any-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Yale Privacy Lab and Exodus Privacy's F-Droid Android App Store is a Replacement for Google Play That Features Only FOSS Apps That Don't Do Any Tracking</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1-1BNnxQDSY/yale-privacy-lab-and-exodus-privacys-f-droid-android-app-store-is-a-replacement-for-google-play-that-features-only-foss-apps-that-dont-do-any-tracking</link>
-<description>Google Play, the marquee Android apps store, is filled with apps that are riddled with hidden trackers that siphon a smorgasbord of data from all sensors, in all directions, unknown to the Android user. Not content with the strides Google has made to curtail the issue, Yale Privacy Lab has collaborated with Exodus Privacy to detect and expose trackers with the help of the F-Droid app store. From a report on Wired: F-Droid is the best replacement for Google Play, because it only offers FOSS apps without tracking, has a strict auditing process, and may be installed on most Android devices without any hassles or restrictions. F-Droid doesn't offer the millions of apps available in Google Play, so some people will not want to use it exclusively. It's true that Google does screen apps submitted to the Play store to filter out malware, but the process is still mostly automated and very quick -- too quick to detect Android malware before it's published, as we've seen. Installing F-Droid isn't a silver bullet, but it's the first step in protecting yourself from malware.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Yale+Privacy+Lab+and+Exodus+Privacy's+F-Droid+Android+App+Store+is+a+Replacement+for+Google+Play+That+Features+Only+FOSS+Apps+That+Don't+Do+Any+Tracking%3A+http%3A%2F%2Fbit.ly%2F2n0vUOy"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F22%2F159240%2Fyale-privacy-lab-and-exodus-privacys-f-droid-android-app-store-is-a-replacement-for-google-play-that-features-only-foss-apps-that-dont-do-any-tracking%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,34,24,19,6,1,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Netflix Is Now Worth More Than $100 Billion</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ELgGLWvRjhs/netflix-is-now-worth-more-than-100-billion</link>
+<description>Netflix has crossed the $100 billion mark for its market cap as it once again surprised industry observers with better-than-expected growth in its subscribers. TechCrunch reports: The company said it added more than 8 million new subscribers total after already setting pretty robust targets for the fourth quarter this year, giving it a healthy push as it crossed the $100 billion mark after the report came out this afternoon. While the company's core financials actually came in roughly in line with what Wall Street was looking for (which is still important), Netflix's subscriber numbers are usually the best indicator for the core health of the company. That recurring revenue stream -- and its growth -- is critical as it continues to very aggressively spend on new content. The company said its free cash flow will be between negative $3 billion and negative $4 billion, compared to negative $2 billion this year. And that aggressive spending only seems to get more aggressive every time we hear from the company. Netflix is now saying that it expects to spend between $7.5 billion and $8 billion on content in 2018 -- which is around in line with what it said in October when it said it would spend between $7 billion and $8 billion. It's the same range, but tuning up that bottom end is still an important indicator. Some notable numbers include $3.29 billion in revenue, 1.98 million Q4 U.S. subscriber additions, and 6.36 million Q4 International subscriber additions.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Netflix+Is+Now+Worth+More+Than+%24100+Billion%3A+http%3A%2F%2Fbit.ly%2F2Dxxdj1"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F22%2F2344241%2Fnetflix-is-now-worth-more-than-100-billion%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/22/159240/yale-privacy-lab-and-exodus-privacys-f-droid-android-app-store-is-a-replacement-for-google-play-that-features-only-foss-apps-that-dont-do-any-tracking?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/22/159240/yale-privacy-lab-and-exodus-privacys-f-droid-android-app-store-is-a-replacement-for-google-play-that-features-only-foss-apps-that-dont-do-any-tracking?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645201&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1-1BNnxQDSY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T15:22:00+00:00</dc:date>
-<dc:subject>android</dc:subject>
-<slash:department>watchful-guardian</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>48</slash:comments>
-<slash:hit_parade>48,43,27,22,4,1,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/22/159240/yale-privacy-lab-and-exodus-privacys-f-droid-android-app-store-is-a-replacement-for-google-play-that-features-only-foss-apps-that-dont-do-any-tracking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://games.slashdot.org/story/18/01/22/1038216/to-combat-shortage-nvidia-asks-retailers-to-limit-graphics-card-orders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>To Combat Shortage, Nvidia Asks Retailers To Limit Graphics Card Orders</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2wCfYUaRg9k/to-combat-shortage-nvidia-asks-retailers-to-limit-graphics-card-orders</link>
-<description>An anonymous reader writes: If you're a PC builder -- or your aging desktop system is in dire need of some modern upgrades -- you've probably wondered why it's impossible to get a graphics card lately. You can thank the outrageous interest in cryptocurrency for all of this. Since graphics cards mine cryptocurrency much faster than CPUs, an eager community of get-rich-quick enthusiasts are scooping up graphics cards as fast as they can get them. While there isn't much major manufacturers AMD and Nvidia can do about the overwhelming demand for GPUs, Nvidia is at least trying to let retailers know that they should be holding their stock for the company's core audience: gamers, not miners. "For NVIDIA, gamers come first. All activities related to our GeForce product line are targeted at our main audience. To ensure that GeForce gamers continue to have good GeForce graphics card availability in the current situation, we recommend that our trading partners make the appropriate arrangements to meet gamers' needs as usual," reads a translated statement Nvidia's Boris Bohles. Nvidia is suggesting that retailers limit graphics card orders to just two per person, but that's just an idea -- one Nvidia can't actually enforce beyond restricting sales on its website, which it's currently doing. Further reading: It's a terrible time to buy a graphics card.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=To+Combat+Shortage%2C+Nvidia+Asks+Retailers+To+Limit+Graphics+Card+Orders%3A+http%3A%2F%2Fbit.ly%2F2Bjl9vO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgames.slashdot.org%2Fstory%2F18%2F01%2F22%2F1038216%2Fto-combat-shortage-nvidia-asks-retailers-to-limit-graphics-card-orders%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://games.slashdot.org/story/18/01/22/1038216/to-combat-shortage-nvidia-asks-retailers-to-limit-graphics-card-orders?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://games.slashdot.org/story/18/01/22/1038216/to-combat-shortage-nvidia-asks-retailers-to-limit-graphics-card-orders?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11643765&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/2wCfYUaRg9k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T14:41:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>weird-problems</slash:department>
-<slash:section>games</slash:section>
-<slash:comments>156</slash:comments>
-<slash:hit_parade>156,152,96,84,13,4,3</slash:hit_parade>
-<feedburner:origLink>https://games.slashdot.org/story/18/01/22/1038216/to-combat-shortage-nvidia-asks-retailers-to-limit-graphics-card-orders?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/22/1223201/facebook-vp-says-company-wont-use-experts-to-fix-fake-news-because-it-is-worried-about-criticism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facebook VP Says Company Won't Use Experts To Fix Fake News Because It is Worried About Criticism</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nBC452Vx6qA/facebook-vp-says-company-wont-use-experts-to-fix-fake-news-because-it-is-worried-about-criticism</link>
-<description>Joshua Topolsky, writing for The Outline: According to Axios reporter Ina Fried, the vice president of global communications, marketing, and public policy (phew!) at Facebook shook off suggestions that the network should use outside media literacy watch dogs as opposed to outsourcing its "fake news" problem to a "statistically representative" group of its own users. While speaking at the tech conference DLD (Digital Life Design) in Munich, he revealed that the real motivation behind the company's decision was one based almost entirely on optics. This shouldn't come as much of a surprise, as the company has been totally ignorant and outrageously slow in accepting responsibility for what has been a disaster for its users. While Twitter is turning to media literacy groups such as Common Sense Media and the National Association for Media Literacy for solutions to its own troll and fake news epidemic, Facebook continues to cower behind a broken concept that the company is a neutral platform where all of its participants are equally weighted.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+VP+Says+Company+Won't+Use+Experts+To+Fix+Fake+News+Because+It+is+Worried+About+Criticism%3A+http%3A%2F%2Fbit.ly%2F2n0YO0V"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F22%2F1223201%2Ffacebook-vp-says-company-wont-use-experts-to-fix-fake-news-because-it-is-worried-about-criticism%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/22/1223201/facebook-vp-says-company-wont-use-experts-to-fix-fake-news-because-it-is-worried-about-criticism?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/22/1223201/facebook-vp-says-company-wont-use-experts-to-fix-fake-news-because-it-is-worried-about-criticism?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11644545&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nBC452Vx6qA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-22T14:00:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>Facebook-problem</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>128</slash:comments>
-<slash:hit_parade>128,123,79,56,23,11,6</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/22/1223201/facebook-vp-says-company-wont-use-experts-to-fix-fake-news-because-it-is-worried-about-criticism?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://linux.slashdot.org/story/18/01/22/0727243/lwnnet-celebrates-its-20th-birthday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>LWN.Net Celebrates Its 20th Birthday</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/g3WoxSmmC9c/lwnnet-celebrates-its-20th-birthday</link>
-<description>Free software/Linux news site LWN.net just celebrated its 20th birthday, with publisher Jonathan Corbet calling the last two decades "an amazing journey." LWN published the first edition of their weekly newsletter on January 22, 1998, and Corbet (who also contributes to the Linux kernel) writes today that "It has been quite a ride. We in the free-software community set out to change the world, and we succeeded beyond our wildest expectations." 
-Here's how he described their second edition the next week...
-We were arguably helped by the lead news in that edition: Netscape's decision to open-source its "Communicator" web browser. That quickly brought the world's attention to open-source software, though that term would not be invented for a few months yet, and to Linux in particular. LWN was a shadow of what it is now, but it was evidently good enough to ride on that wave and establish itself as a part of the Linux community. 
-Corbet reviews the highlights. ("Companies discovered our little hobbyist system and invested billions into it, massively accelerating development at all levels of the system...") But he also adds that "Through all of this, we also got to learn some lessons about successfully running a community information source on the net." For the last 16 years the site has supported itself with $7.00-a-month subscriptions, offering early access to their Weekly Edition plus subscriber-only mailing lists, "allowing our content to quickly become part of the community record." 
-Plus, through events around the world, "we have met -- and become friends with -- many of our readers and many people in the community as a whole. This community is an amazing group of people; it has been a honor and a joy to be a part of it..." 
-"The free-software community's work is not done, and neither is ours. "&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=LWN.Net+Celebrates+Its+20th+Birthday%3A+http%3A%2F%2Fbit.ly%2F2DuMAbN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F22%2F0727243%2Flwnnet-celebrates-its-20th-birthday%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/22/0727243/lwnnet-celebrates-its-20th-birthday?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/22/0727243/lwnnet-celebrates-its-20th-birthday?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11642483&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/g3WoxSmmC9c" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-22T11:34:00+00:00</dc:date>
-<dc:subject>themedia</dc:subject>
-<slash:department>news-from-the-source</slash:department>
-<slash:section>linux</slash:section>
-<slash:comments>23</slash:comments>
-<slash:hit_parade>23,21,16,15,6,4,3</slash:hit_parade>
-<feedburner:origLink>https://linux.slashdot.org/story/18/01/22/0727243/lwnnet-celebrates-its-20th-birthday?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://linux.slashdot.org/story/18/01/22/0648227/linus-torvalds-calls-intel-patches-complete-and-utter-garbage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Linus Torvalds Calls Intel Patches 'Complete and Utter Garbage'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MC3bxne1hLc/linus-torvalds-calls-intel-patches-complete-and-utter-garbage</link>
-<description>An anonymous reader writes:
-On the Linux Kernel Mailing List, Linus Torvalds ended up responding to a long-time kernel developer (and former Intel engineer) who'd been describing a new microcode feature addressing Indirect Branch Restricted Speculation "where a future CPU will advertise 'I am able to be not broken' and then you have to set the IBRS bit once at boot time to *ask* it not to be broken." 
-Linus calls it "very much part of the whole 'this is complete garbage' issue. The whole IBRS_ALL feature to me very clearly says 'Intel is not serious about this, we'll have a ugly hack that will be so expensive that we don't want to enable it by default, because that would look bad in benchmarks'. So instead they try to push the garbage down to us. And they are doing it entirely wrong, even from a technical standpoint. I'm sure there is some lawyer there who says 'we'll have to go through motions to protect against a lawsuit'. But legal reasons do not make for good technology, or good patches that I should apply." 
-
-Later Linus says forcefully that these "complete and utter garbage" patches are being pushed by someone "for unclear reasons" -- and adds another criticism.
-The whole point of having cpuid and flags from the microarchitecture is that we can use those to make decisions. But since we already know that the IBRS overhead is huge on existing hardware, all those hardware capability bits are just complete and utter garbage. Nobody sane will use them, since the cost is too damn high. So you end up having to look at "which CPU stepping is this" anyway. I think we need something better than this garbage.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Linus+Torvalds+Calls+Intel+Patches+'Complete+and+Utter+Garbage'%3A+http%3A%2F%2Fbit.ly%2F2DXcMcg"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F01%2F22%2F0648227%2Flinus-torvalds-calls-intel-patches-complete-and-utter-garbage%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/01/22/0648227/linus-torvalds-calls-intel-patches-complete-and-utter-garbage?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/01/22/0648227/linus-torvalds-calls-intel-patches-complete-and-utter-garbage?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11642115&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MC3bxne1hLc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-22T07:44:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>torn-up-by-Torvalds</slash:department>
-<slash:section>linux</slash:section>
-<slash:comments>385</slash:comments>
-<slash:hit_parade>385,366,218,178,75,44,37</slash:hit_parade>
-<feedburner:origLink>https://linux.slashdot.org/story/18/01/22/0648227/linus-torvalds-calls-intel-patches-complete-and-utter-garbage?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/22/022250/more-wall-street-pundits-caution-against-investing-in-bitcoins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>More Wall Street Pundits Caution Against Investing In Bitcoins</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/0omu3k9eESI/more-wall-street-pundits-caution-against-investing-in-bitcoins</link>
-<description>Peter Boockvar is the Chief Investment Officer of Bleakley Financial Group, a $3.5B wealth management firm -- and he predicts "an epic crash will hit the cryptocurrency market," according to CNBC. "He isn't sure if it'll come to a grinding halt or be a slow and steady drop -- but he says it's coming."
- "When something goes parabolic like this has, it typically ends up to where that parabola began," he said on CNBC's "Futures Now." Boockvar, a CNBC contributor, contends bitcoin is in danger of dropping 90 percent from current levels. He calls it a classic bubble. "I wouldn't be surprised if over the next year it's down to $1,000 to $3,000," he added. That's where bitcoin, the largest cryptocurrency player, was trading less than 12 months ago. Friday afternoon it was trading above $11,000. 
-Meanwhile, today the International Business Times chronicled the predictions of tech billionaire Mark Cuban.
-In June of last year as bitcoin was climbing toward the $3,000 threshold, Cuban cautioned potential investors about jumping in on the bandwagon... "[C]rypto is like gold. More religion than asset. Except of course gold makes nice jewelry." He told his followers at the time that he wasn't questioning the value of Bitcoin but was questioning the "valuation" and said , "I think it's in a bubble. I just don't know when or how much it corrects." Cuban suggested that when everyone is "bragging about how easy they are making [money]," that indicates there is a bubble happening... 
-Still, the Dallas Mavericks owner was open to the idea of using cryptocurrencies as a volatile investment vehicle. "If you're a true adventurer and you really want to throw the Hail Mary, you might take 10 percent and put it in Bitcoin or Ethereum," he said. Cuban also cautioned, "If you do that, you've got to pretend you've already lost your money"... Showing just have far Cuban has come on bitcoin and cryptocurrency, he announced earlier this week that his Dallas Mavericks will accept bitcoin and Ethereum as a method to pay for tickets starting next season. Even if the tech investor doesn't fully believe in cryptocurrency, he's clearly willing to try to profit off it...&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=More+Wall+Street+Pundits+Caution+Against+Investing+In+Bitcoins%3A+http%3A%2F%2Fbit.ly%2F2DWFJoN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F22%2F022250%2Fmore-wall-street-pundits-caution-against-investing-in-bitcoins%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/22/022250/more-wall-street-pundits-caution-against-investing-in-bitcoins?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/22/022250/more-wall-street-pundits-caution-against-investing-in-bitcoins?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11641109&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/0omu3k9eESI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-22T04:34:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>bubble-shooters</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646237&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ELgGLWvRjhs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T10:00:00+00:00</dc:date>
+<dc:subject>tv</dc:subject>
+<slash:department>big-milestones</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>163</slash:comments>
-<slash:hit_parade>163,160,90,69,15,6,4</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/22/022250/more-wall-street-pundits-caution-against-investing-in-bitcoins?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/22/0225216/will-we-one-day-use-tractor-beams-in-manufacturing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Will We One Day Use Tractor Beams In Manufacturing?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uK2PAc5Zl5c/will-we-one-day-use-tractor-beams-in-manufacturing</link>
-<description>An anonymous reader quotes CNET:
-Engineers from the University of Bristol have been able to trap (essentially levitate) objects using an acoustic tractor beam that is larger than the wavelengths of sound used by the device... [A]pplications could include touchless control of drug capsules or micro-surgical implements inside the human body using sonic tractor beams. It could also become possible to move and manipulate fragile items in a whole new way. "I'm particularly excited by the idea of contactless production lines where delicate objects are assembled without touching them," said Bristol's Bruce Drinkwater, who oversaw the work. 
-Futurism.com adds that other researchers are also working on tractor beams in manufacturing, including one at the University of Glasgow. "The group demonstrated the process by assembling a pattern of solder beads using an optoelectronic trap, taking the liquid away, then applying heat to fuse the beads together and forge electrical connections," they report, adding "It should be possible to manipulate as many as 10,000 beads at the same time."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Will+We+One+Day+Use+Tractor+Beams+In+Manufacturing%3F%3A+http%3A%2F%2Fbit.ly%2F2DtTNZF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F22%2F0225216%2Fwill-we-one-day-use-tractor-beams-in-manufacturing%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>31</slash:comments>
+<slash:hit_parade>31,30,15,13,3,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Just Broke Amazon's Workaround For YouTube On Fire TV</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cajbyhqVKYk/google-just-broke-amazons-workaround-for-youtube-on-fire-tv</link>
+<description>Google has cracked down on Fire TV users once again. Today, the technology company blocked Silk and Firefox browsers from displaying the YouTube.com interface usually shown on large screens. Cord Cutters News reports: Now if you try to access YouTube.com/TV on a Fire TV through the Firefox or Silk browser you will be redirected to the desktop version of the site. According to Elias Saba from AFTVnews, "By blocking access to the version of YouTube made for television browsers, Google has deliberately made browsing their website an unusable experience on Amazon Fire TVs, Fire TV Sticks, and Fire TV Edition televisions." This fight over YouTube and Amazon has been going on for some time. The standoff heated up in early December as Google announced plans to pull the YouTube app from the Fire TV on January 1st 2018. Amazon responded by adding a browser to allow access to the web version on the Fire TV. Now Google has countered by blocking the Fire TV's browsers from accessing the made-for-TV edition of YouTube.com. Back on December 15th, The Verge reported that Google and Amazon are in talks to keep YouTube on the Fire TV, but as of today it looks like nothing has come from these talks.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Just+Broke+Amazon's+Workaround+For+YouTube+On+Fire+TV%3A+http%3A%2F%2Fbit.ly%2F2DyaVxy"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F22%2F2336248%2Fgoogle-just-broke-amazons-workaround-for-youtube-on-fire-tv%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/22/0225216/will-we-one-day-use-tractor-beams-in-manufacturing?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/22/0225216/will-we-one-day-use-tractor-beams-in-manufacturing?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11641133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uK2PAc5Zl5c" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>EditorDavid</dc:creator>
-<dc:date>2018-01-22T02:34:00+00:00</dc:date>
-<dc:subject>science</dc:subject>
-<slash:department>final-frontiers</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646229&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cajbyhqVKYk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T07:00:00+00:00</dc:date>
+<dc:subject>youtube</dc:subject>
+<slash:department>here-we-go-again</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>149</slash:comments>
+<slash:hit_parade>149,148,78,53,17,10,7</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New Study Finds No Link Between Violent Video Games and Behavior</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BmOvrxnfeGY/new-study-finds-no-link-between-violent-video-games-and-behavior</link>
+<description>An anonymous reader quotes a report from The Daily Dot: Scientists have been investigating the impact of violent video games on behavior for more than two decades, and the results are still being debated. In a 2015 resolution on games, the American Psychological Association reported that multiple studies found a link between violent game exposure and aggressive behavior, though critics at the time questioned the findings. Now, a new study published by researchers at the University of York in the journal Computers in Human Behavior further challenges the connection.
+ 
+It has long been theorized that exposure to in-game concepts like violence has a "priming" effect on players that ultimately impacts behavior, leading scientists to believe that a player exposed to in-game violence will be more susceptible to displaying such violence in real life. The new study found the exact opposite to be true in some instances. In a series of experiments with a little over 3,000 participants (more than any past study to date), university researchers found that exposure to video game concepts like violence won't necessarily impact behavior. It also found that increasing the realism of violent video games does mean aggressive behavior in gamers will increase.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+Study+Finds+No+Link+Between+Violent+Video+Games+and+Behavior%3A+http%3A%2F%2Fbit.ly%2F2DZiPNr"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgames.slashdot.org%2Fstory%2F18%2F01%2F22%2F2322255%2Fnew-study-finds-no-link-between-violent-video-games-and-behavior%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646195&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BmOvrxnfeGY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T03:30:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>back-to-square-one</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>153</slash:comments>
+<slash:hit_parade>153,149,87,69,20,9,3</slash:hit_parade>
+<feedburner:origLink>https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tesla Owner Attempts Autopilot Defense During DUI Stop</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6RZAcSwfA-k/tesla-owner-attempts-autopilot-defense-during-dui-stop</link>
+<description>It turns out driving drunk is still illegal, even with a driver-assistance system active. "On Saturday, January 13, police discovered a man in his Tesla vehicle on the San Francisco-Oakland Bay Bridge," reports Ars Technica. "The San Francisco Chronicle reports that 'the man had apparently passed out in the stopped car while stuck in the flow of busy bridge traffic at 5:30pm, according to the California Highway Patrol." From the report: When police woke the man up, he assured officers that everything was fine because the car was "on autopilot." No one was injured in the incident, and the California Highway Patrol made a snarky tweet about it. Needless to say, other Tesla owners -- and people who own competing systems like Cadillac's Super Cruise -- should not follow this guy's example. No cars on the market right now have fully driverless technology available. Autopilot, Supercruise, and other products are driver assistance products -- they're designed to operate with an attentive human driver as a backup. Driving drunk using one of these systems is just as illegal as driving drunk in a conventional car.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+Owner+Attempts+Autopilot+Defense+During+DUI+Stop%3A+http%3A%2F%2Fbit.ly%2F2BkkpXj"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F22%2F2311225%2Ftesla-owner-attempts-autopilot-defense-during-dui-stop%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646169&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6RZAcSwfA-k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T02:05:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>driver-assistance</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>102</slash:comments>
+<slash:hit_parade>102,100,62,52,20,10,9</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook Announces That It Has Invented a New Unit of Time</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8MNrabWAiwA/facebook-announces-that-it-has-invented-a-new-unit-of-time</link>
+<description>Facebook has announced a new unit of time, called Flicks. "According to the GitHub page documenting Flicks, a Flick is 'the smallest time unit which is LARGER than a nanosecond,' defined as 1/705,600,000 of a second," reports The Verge. (For comparison, a nanosecond is 1/1,000,000,000 of a second, making a Flick roughly 1.41723356 nanoseconds long.) From the report: Now, you may be sitting there wondering what was wrong with regular seconds that Facebook had to go and invent its own unit, especially since the second is one of the few units that is universal across SI and imperial units. The name itself is a portmanteau of the phase "frame-tick," which is also why you might want to use them. Flicks are designed to help measure individual frame duration for video frame rates. So whether your video is 24hz, 25hz, 30hz, 48hz, 50hz, 60hz, 90hz, 100hz, or 120hz, you'll be able to use Flicks to ensure that everything is in sync while still using whole integers (instead of decimals). Programmers already use built in tools in C++ to manage these sorts of exact frame syncing, especially when it comes to designing visual effects in CGI, but the most exact timing possible in C++ is nanoseconds, which doesn't divide evenly into most frame rates. The idea to create a new unit of time to solve this problem dates back to last year, when developer Christopher Horvath posted about it on Facebook.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Announces+That+It+Has+Invented+a+New+Unit+of+Time%3A+http%3A%2F%2Fbit.ly%2F2n1aRey"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F22%2F2242235%2Ffacebook-announces-that-it-has-invented-a-new-unit-of-time%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646121&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8MNrabWAiwA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T01:25:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>flick-of-the-wrist</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>157</slash:comments>
+<slash:hit_parade>157,157,96,78,28,16,12</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Trump Administration Approves Tariffs of 30 Percent On Imported Solar Panels</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DiBxA-3JXE4/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels</link>
+<description>The Trump administration just approved tariffs of 30% on imported solar panels. Axios explains why it matters: "Most of the American solar industry has opposed tariffs on panels, saying they would raise prices and hurt the sector. A small group of solar panel manufacturers argued -- successfully -- that an influx of cheap imports, largely from China or Chinese-owned companies, was hurting domestic manufacturing. It's also part of President Trump's broader trade agenda against China." From the report: The tariffs would last for four years and decline in increments of 5% from 30%: 25%, 20% and finally 15% in the fourth year. The tariffs are lower than the 35% the U.S. International Trade Commission had initially recommended last year, per Bloomberg. This is actually the third, and broadest, set of tariffs the U.S. government has issued on solar imports in recent years. The Obama administration issued two earlier rounds of tariffs on a narrower set of imports. Monday's action also imposed import tariffs on washing machines, a much lower profile issue than solar energy.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Trump+Administration+Approves+Tariffs+of+30+Percent+On+Imported+Solar+Panels%3A+http%3A%2F%2Fbit.ly%2F2E0bc9A"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F22%2F2251213%2Ftrump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646127&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DiBxA-3JXE4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T00:45:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>nickel-and-dimed</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>277</slash:comments>
+<slash:hit_parade>277,275,152,117,33,22,13</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Rupert Murdoch Pushes Facebook To Pay For News To Guarantee Quality</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/kYc_EHU2Rx0/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality</link>
+<description>An anonymous reader quotes a report from Bloomberg: Rupert Murdoch, the media billionaire who controls the Wall Street Journal, called on Facebook to begin paying publishers fees to carry the news that its users post and share online in a sign of the print industry's growing frustration with social media. "If Facebook wants to recognize 'trusted' publishers then it should pay those publishers a carriage fee similar to the model adopted by cable companies," Murdoch, the executive chairman of News Corp. said Monday in a statement. "The publishers are obviously enhancing the value and integrity of Facebook through their news and content but are not being adequately rewarded for those services." "Facebook and Google have popularized scurrilous news sources through algorithms that are profitable for these platforms but inherently unreliable," Murdoch said. "Recognition of a problem is one step on the pathway to cure, but the remedial measures that both companies have so far proposed are inadequate, commercially, socially and journalistically." Murdoch, who also leads 21st Century Fox, called for a system similar to that in cable television, where large distributors like Comcast and AT&amp;amp;T pay fees to the TV network owners that attract their viewers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Rupert+Murdoch+Pushes+Facebook+To+Pay+For+News+To+Guarantee+Quality%3A+http%3A%2F%2Fbit.ly%2F2E0Uh6H"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F22%2F2121203%2Frupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646003&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/kYc_EHU2Rx0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-23T00:03:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>highest-bidder</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>86</slash:comments>
+<slash:hit_parade>86,84,47,34,14,8,5</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Android Can Now Tell You How Fast Wi-Fi Networks Are Before You Join Them</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8war_NTbf5U/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them</link>
+<description>Today, Google announced that Android 8.1 Oreo will now display the speed of nearby open Wi-Fi networks to help you decide whether they're even worth the effort of connecting to. The Wi-Fi settings menu will now display one of four speed labels: Very Fast, Fast, OK, or Slow. The Verge reports: The difference between Very Fast and Fast, according to Google, is that you can stream "very high-quality videos" on the former and "most videos" on the latter. Most coffee shop dwellers should be fine with the OK level, as that's enough for web browsing, social media, and Spotify streaming. Private Wi-Fi networks that require passwords don't display any speed data since it's really none of your business and Google can't randomly test them, but they do continue to indicate signal strength. Google says network administrators can also opt out of Android's Wi-Fi Assistant showing speed info by using a "canary URL."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Android+Can+Now+Tell+You+How+Fast+Wi-Fi+Networks+Are+Before+You+Join+Them%3A+http%3A%2F%2Fbit.ly%2F2E0OQoj"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F22%2F2133220%2Fandroid-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646027&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8war_NTbf5U" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-22T23:20:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>decisions-decisions</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,32,19,15,4,1,1</slash:hit_parade>
+<feedburner:origLink>https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>UK Hospitals Can Now Store Confidential Patient Records In the Public Cloud</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FM7Tz3H6oA0/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud</link>
+<description>The National Health Service (NHS) has given hospitals the go-ahead to store sensitive patient records in the cloud. "NHS Digital said the advantages of using cloud services include cost savings associated with not having to buy and maintain hardware and software, and availability of backup and fast system recovery," reports ZDNet. "'Together these features cut the risk of health information not being available due to local hardware failure,' said the report." From ZDNet: Rob Shaw, deputy chief executive at NHS Digital, said: "It is for individual organizations to decide if they wish to use cloud and data offshoring but there are a huge range of benefits in doing so, such as greater data security protection and reduced running costs when implemented effectively." The UK government introduced a 'cloud first' policy for public sector IT in 2013, and NHS Choices and NHS England's Code4Health initiative are already successfully using the cloud. NHS Digital's guidance said that the NHS and social care providers may use cloud computing services for NHS data, although data must only be hosted within the European Economic Area, a country deemed adequate by the European Commission, or in the U.S. where covered by Privacy Shield.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=UK+Hospitals+Can+Now+Store+Confidential+Patient+Records+In+the+Public+Cloud%3A+http%3A%2F%2Fbit.ly%2F2DAqEw8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F22%2F2059236%2Fuk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645961&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FM7Tz3H6oA0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-22T22:40:00+00:00</dc:date>
+<dc:subject>cloud</dc:subject>
+<slash:department>red-light-green-light</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>50</slash:comments>
-<slash:hit_parade>50,46,22,15,2,0,0</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/22/0225216/will-we-one-day-use-tractor-beams-in-manufacturing?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,65,46,40,16,5,3</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Montana Becomes First State To Implement Net Neutrality After FCC Repeal</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5hybSu3COk0/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal</link>
+<description>An anonymous reader quotes a report from The Hill: Montana Gov. Steve Bullock (D) signed an executive order on Monday requiring internet service providers with state contracts to abide by net neutrality principles. The order makes his state the first to push back on the Federal Communications Commission's decision to repeal the open internet rules last month. The order says that in order to receive a contract with the state government, internet service providers must not engage in blocking or throttling web content or create internet fast lanes. Those practices were all banned under the Obama-era 2015 net neutrality order. Bullock's office said the executive order goes into effect immediately, but there will be a six-month grace period for companies to ensure that they're in compliance. The governor said on Monday that he is encouraging his counterparts and legislators in other states to follow suit, promising to personally email a copy of his order to any who ask for it. Further reading: The New York Times&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Montana+Becomes+First+State+To+Implement+Net+Neutrality+After+FCC+Repeal%3A+http%3A%2F%2Fbit.ly%2F2n1M2PN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F22%2F2047227%2Fmontana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645933&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5hybSu3COk0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-22T22:00:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>take-matters-into-your-own-hands</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>122</slash:comments>
+<slash:hit_parade>122,119,68,59,12,7,7</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
