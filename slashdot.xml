@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-23T15:32:13+00:00</dc:date>
+<dc:date>2018-01-23T19:47:11+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,12 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -25,12 +31,6 @@
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,126 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Rise Of The Contract Workforce</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eqG-0U7ltfA/the-rise-of-the-contract-workforce</link>
+<description>An anonymous reader shares a report: A new NPR/Marist poll finds that 1 in 5 jobs in America is held by a worker under contract. Within a decade, contractors and freelancers could make up half of the American workforce. Workers across all industries and at all professional levels will be touched by the movement toward independent work -- one without the constraints, or benefits, of full-time employment. Policymakers are just starting to talk about the implications. [...] It's not just business driving the trend. Surveys show a large majority of freelancers are free agents by choice. John Vensel is a contract attorney at Orrick who grew up a few miles from Wheeling, on the other side of the Pennsylvania state line. In his 20s, he was a freelance paralegal by day and a gig musician by night. "I actually wanted to be a rock star," he says. But these days there are no edgy vestiges of a former rocker, only a 47-year-old family man cooing over cellphone photos of his children, Grace and Gabe. In the two decades in between, Vensel worked full-time corporate jobs. But he was laid off in 2010, on the eve of his graduation from his night-school law program. He graduated with huge piles of debt, into one of the worst job markets. For a time, Vensel commuted three hours round-trip to a full-time job in Pittsburgh. But more recently, he quit and took up contracting to stay near home in Wheeling.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Rise+Of+The+Contract+Workforce%3A+http%3A%2F%2Fbit.ly%2F2E1K7Tt"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F23%2F1657209%2Fthe-rise-of-the-contract-workforce%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650923&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eqG-0U7ltfA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-23T19:25:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,11,10,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Second Coming of Ultrasound</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jfBhhHY70Is/the-second-coming-of-ultrasound</link>
+<description>Ultrasound, which works on the principle of piezoelectricity, is finding a second lease of life in medicine, Wired outlines. Applying voltage to a piezoelectric crystal makes it vibrate, sending out a sound wave. When the echo that bounces back is converted into electrical signals, you get an image of, say, a fetus, or a submarine. But in the last few years, the lo-fi tech has reinvented itself in some weird new ways. From a report: Researchers are fitting people's heads with ultrasound-emitting helmets to treat tremors and Alzheimer's. They're using it to remotely activate cancer-fighting immune cells. Startups are designing swallowable capsules and ultrasonically vibrating enemas to shoot drugs into the bloodstream. One company is even using the shockwaves to heal wounds -- stuff Curie never could have even imagined. So how did this 100-year-old technology learn some new tricks? With the help of modern-day medical imaging, and lots and lots of bubbles.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Second+Coming+of+Ultrasound%3A+http%3A%2F%2Fbit.ly%2F2E1mwCh"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F23%2F1636248%2Fthe-second-coming-of-ultrasound%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650863&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jfBhhHY70Is" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-23T18:45:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>second-life</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,20,14,10,2,1,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Might Discontinue the MacBook Air</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wUr3P6UqEYQ/apple-might-discontinue-the-macbook-air</link>
+<description>An anonymous reader shares a report: Just in time for its tenth anniversary, Apple might finally be killing the MacBook Air, according to a new report from Digitimes. If this is true, it'd be the first axing of a laptop line from Apple since the iBook and Powerbook were axed back in 2006. It would also be about damn time. Apple quietly killed the 11-inch MacBook Air back in 2016, but the larger 13-inch version has lingered on, getting a mild processor refresh last year that still left the laptop using a 5th generation Intel processor. That's three generations behind the processors currently found in the MacBook Air's competition, and it is the primary reason the laptop was excluded from our piece looking at the best laptop to be had for under $1000.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Might+Discontinue+the+MacBook+Air%3A+http%3A%2F%2Fbit.ly%2F2E3lju7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F23%2F1626217%2Fapple-might-discontinue-the-macbook-air%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650831&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wUr3P6UqEYQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-23T18:05:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>end-of-road</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,43,27,23,3,3,1</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Mystery of the Cars Abandoned in a Robot Car Park</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DreWsLIncdE/the-mystery-of-the-cars-abandoned-in-a-robot-car-park</link>
+<description>The mystery of why a handful of cars were abandoned in a derelict car park in Edinburgh, Capital of Scotland, may have been solved. From a report on BBC: The $7m Autosafe SkyPark used robots to stack cars and was dubbed the "car park of the future" -- but went into receivership in 2003. After lying empty for more than a decade, the building in Morrison Street is now being demolished. And the work has uncovered eight cars which were left behind when the doors were closed. Images of the abandoned vehicles has sparked a number of theories about why they were never removed. But a former employee has said they could be old vehicles which were bought by the car park's former operators to test out the robot equipment. A spokesperson said: "We can confirm that there are eight cars present at the car park on the Capital Square site, which have been there since the car park closed in 2003. The owners of the cars are unknown and they are now the property of the demolition company who will remove the cars once work begins on the levels on which they are located."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Mystery+of+the+Cars+Abandoned+in+a+Robot+Car+Park%3A+http%3A%2F%2Fbit.ly%2F2Bngjxs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F23%2F1555218%2Fthe-mystery-of-the-cars-abandoned-in-a-robot-car-park%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650767&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DreWsLIncdE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-23T17:25:00+00:00</dc:date>
+<dc:subject>robot</dc:subject>
+<slash:department>mystery-solved</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,78,52,44,4,2,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Vaping Can Be Addictive and May Lure Teenagers to Smoking, Science Panel Concludes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8wFX9u2OZBw/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes</link>
+<description>A national panel of public health experts concluded in a report released on Tuesday that vaping with e-cigarettes that contain nicotine can be addictive and that teenagers who use the devices may be put at higher risk of switching to traditional smoking. From a report: Whether teenage use of e-cigarettes may lead to conventional smoking has been intensely debated in the United States and elsewhere. While the industry argues that vaping is not a steppingstone to conventional cigarettes or addiction, some antismoking advocates contend that young people become hooked on nicotine, and are enticed to cancer-causing tobacco-based cigarettes over time. The new report by the National Academies of Sciences, Engineering and Medicine is the most comprehensive analysis of existing research on e-cigarettes. It concluded the devices are safer than traditional smoking products and that they do help smokers quit, citing conclusive proof that switching can reduce smokers' exposure to deadly tar, numerous dangerous chemicals and other carcinogens.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Vaping+Can+Be+Addictive+and+May+Lure+Teenagers+to+Smoking%2C+Science+Panel+Concludes%3A+http%3A%2F%2Fbit.ly%2F2BoIegw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F23%2F1613227%2Fvaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650803&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8wFX9u2OZBw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-23T16:45:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>134</slash:comments>
+<slash:hit_parade>134,132,93,85,13,5,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tinder's Lack of Encryption Lets Strangers Spy on Your Swipes</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/O5c5xwRW8bg/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes</link>
+<description>Tinder's mobile apps still lack the standard encryption necessary to keep your photos, swipes, and matches hidden from snoops, a security firm reports. From Wired: On Tuesday, researchers at Tel Aviv-based app security firm Checkmarx demonstrated that Tinder still lacks basic HTTPS encryption for photos. Just by being on the same Wi-Fi network as any user of Tinder's iOS or Android app, the researchers could see any photo the user did, or even inject their own images into his or her photo stream. And while other data in Tinder's apps are HTTPS-encrypted, Checkmarx found that they still leaked enough information to tell encrypted commands apart, allowing a hacker on the same network to watch every swipe left, swipe right, or match on the target's phone nearly as easily as if they were looking over the target's shoulder. The researchers suggest that lack of protection could enable anything from simple voyeuristic nosiness to blackmail schemes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tinder's+Lack+of+Encryption+Lets+Strangers+Spy+on+Your+Swipes%3A+http%3A%2F%2Fbit.ly%2F2E1eqJZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F23%2F1543234%2Ftinders-lack-of-encryption-lets-strangers-spy-on-your-swipes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650723&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/O5c5xwRW8bg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-23T16:05:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>privacy-woes</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>33</slash:comments>
+<slash:hit_parade>33,31,17,14,4,3,3</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Firefox 58 Gets Graphics Speed Boost, Web App Abilities</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7LSfUzJBsjE/firefox-58-gets-graphics-speed-boost-web-app-abilities</link>
@@ -58,8 +178,8 @@
 <dc:subject>mozilla</dc:subject>
 <slash:department>moving-forward</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>5</slash:comments>
-<slash:hit_parade>5,5,2,2,0,0,0</slash:hit_parade>
+<slash:comments>117</slash:comments>
+<slash:hit_parade>117,115,62,41,8,2,1</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Hawaii Governor Didn't Correct False Missile Alert Sooner Because He Didn't Know His Twitter Password</title>
@@ -78,8 +198,8 @@
 <dc:subject>twitter</dc:subject>
 <slash:department>oops</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,39,23,18,3,1,0</slash:hit_parade>
+<slash:comments>138</slash:comments>
+<slash:hit_parade>138,137,89,82,16,7,4</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Hackers Stole $172 Billion From People Last Year</title>
@@ -98,8 +218,8 @@
 <dc:subject>security</dc:subject>
 <slash:department>tough-luck</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>27</slash:comments>
-<slash:hit_parade>27,25,16,12,4,1,0</slash:hit_parade>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,38,24,18,6,1,1</slash:hit_parade>
 <feedburner:origLink>https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ask Slashdot: What Is Your View On Forced Subscription-Only Software?</title>
@@ -118,8 +238,8 @@
 <dc:subject>software</dc:subject>
 <slash:department>against-one's-will</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>266</slash:comments>
-<slash:hit_parade>266,262,172,134,37,17,8</slash:hit_parade>
+<slash:comments>471</slash:comments>
+<slash:hit_parade>471,464,311,241,53,26,15</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>You Spend Nearly a Whole Day Each Week On the Internet</title>
@@ -138,8 +258,8 @@
 <dc:subject>internet</dc:subject>
 <slash:department>online-behavior</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>36</slash:comments>
-<slash:hit_parade>36,34,24,19,6,1,0</slash:hit_parade>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,48,34,29,7,2,0</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Netflix Is Now Worth More Than $100 Billion</title>
@@ -158,8 +278,8 @@
 <dc:subject>tv</dc:subject>
 <slash:department>big-milestones</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>31</slash:comments>
-<slash:hit_parade>31,30,15,13,3,0,0</slash:hit_parade>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,38,20,18,3,0,0</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Google Just Broke Amazon's Workaround For YouTube On Fire TV</title>
@@ -178,8 +298,8 @@
 <dc:subject>youtube</dc:subject>
 <slash:department>here-we-go-again</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>149</slash:comments>
-<slash:hit_parade>149,148,78,53,17,10,7</slash:hit_parade>
+<slash:comments>202</slash:comments>
+<slash:hit_parade>202,201,117,82,27,17,13</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>New Study Finds No Link Between Violent Video Games and Behavior</title>
@@ -200,8 +320,8 @@ It has long been theorized that exposure to in-game concepts like violence has a
 <dc:subject>medicine</dc:subject>
 <slash:department>back-to-square-one</slash:department>
 <slash:section>games</slash:section>
-<slash:comments>153</slash:comments>
-<slash:hit_parade>153,149,87,69,20,9,3</slash:hit_parade>
+<slash:comments>184</slash:comments>
+<slash:hit_parade>184,180,105,83,25,11,6</slash:hit_parade>
 <feedburner:origLink>https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Tesla Owner Attempts Autopilot Defense During DUI Stop</title>
@@ -220,129 +340,9 @@ It has long been theorized that exposure to in-game concepts like violence has a
 <dc:subject>transportation</dc:subject>
 <slash:department>driver-assistance</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>102</slash:comments>
-<slash:hit_parade>102,100,62,52,20,10,9</slash:hit_parade>
+<slash:comments>123</slash:comments>
+<slash:hit_parade>123,121,73,61,24,11,9</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facebook Announces That It Has Invented a New Unit of Time</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8MNrabWAiwA/facebook-announces-that-it-has-invented-a-new-unit-of-time</link>
-<description>Facebook has announced a new unit of time, called Flicks. "According to the GitHub page documenting Flicks, a Flick is 'the smallest time unit which is LARGER than a nanosecond,' defined as 1/705,600,000 of a second," reports The Verge. (For comparison, a nanosecond is 1/1,000,000,000 of a second, making a Flick roughly 1.41723356 nanoseconds long.) From the report: Now, you may be sitting there wondering what was wrong with regular seconds that Facebook had to go and invent its own unit, especially since the second is one of the few units that is universal across SI and imperial units. The name itself is a portmanteau of the phase "frame-tick," which is also why you might want to use them. Flicks are designed to help measure individual frame duration for video frame rates. So whether your video is 24hz, 25hz, 30hz, 48hz, 50hz, 60hz, 90hz, 100hz, or 120hz, you'll be able to use Flicks to ensure that everything is in sync while still using whole integers (instead of decimals). Programmers already use built in tools in C++ to manage these sorts of exact frame syncing, especially when it comes to designing visual effects in CGI, but the most exact timing possible in C++ is nanoseconds, which doesn't divide evenly into most frame rates. The idea to create a new unit of time to solve this problem dates back to last year, when developer Christopher Horvath posted about it on Facebook.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Announces+That+It+Has+Invented+a+New+Unit+of+Time%3A+http%3A%2F%2Fbit.ly%2F2n1aRey"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F22%2F2242235%2Ffacebook-announces-that-it-has-invented-a-new-unit-of-time%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646121&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8MNrabWAiwA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T01:25:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>flick-of-the-wrist</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>157</slash:comments>
-<slash:hit_parade>157,157,96,78,28,16,12</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/22/2242235/facebook-announces-that-it-has-invented-a-new-unit-of-time?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Trump Administration Approves Tariffs of 30 Percent On Imported Solar Panels</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DiBxA-3JXE4/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels</link>
-<description>The Trump administration just approved tariffs of 30% on imported solar panels. Axios explains why it matters: "Most of the American solar industry has opposed tariffs on panels, saying they would raise prices and hurt the sector. A small group of solar panel manufacturers argued -- successfully -- that an influx of cheap imports, largely from China or Chinese-owned companies, was hurting domestic manufacturing. It's also part of President Trump's broader trade agenda against China." From the report: The tariffs would last for four years and decline in increments of 5% from 30%: 25%, 20% and finally 15% in the fourth year. The tariffs are lower than the 35% the U.S. International Trade Commission had initially recommended last year, per Bloomberg. This is actually the third, and broadest, set of tariffs the U.S. government has issued on solar imports in recent years. The Obama administration issued two earlier rounds of tariffs on a narrower set of imports. Monday's action also imposed import tariffs on washing machines, a much lower profile issue than solar energy.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Trump+Administration+Approves+Tariffs+of+30+Percent+On+Imported+Solar+Panels%3A+http%3A%2F%2Fbit.ly%2F2E0bc9A"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F22%2F2251213%2Ftrump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646127&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DiBxA-3JXE4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T00:45:00+00:00</dc:date>
-<dc:subject>power</dc:subject>
-<slash:department>nickel-and-dimed</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>277</slash:comments>
-<slash:hit_parade>277,275,152,117,33,22,13</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/22/2251213/trump-administration-approves-tariffs-of-30-percent-on-imported-solar-panels?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Rupert Murdoch Pushes Facebook To Pay For News To Guarantee Quality</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/kYc_EHU2Rx0/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality</link>
-<description>An anonymous reader quotes a report from Bloomberg: Rupert Murdoch, the media billionaire who controls the Wall Street Journal, called on Facebook to begin paying publishers fees to carry the news that its users post and share online in a sign of the print industry's growing frustration with social media. "If Facebook wants to recognize 'trusted' publishers then it should pay those publishers a carriage fee similar to the model adopted by cable companies," Murdoch, the executive chairman of News Corp. said Monday in a statement. "The publishers are obviously enhancing the value and integrity of Facebook through their news and content but are not being adequately rewarded for those services." "Facebook and Google have popularized scurrilous news sources through algorithms that are profitable for these platforms but inherently unreliable," Murdoch said. "Recognition of a problem is one step on the pathway to cure, but the remedial measures that both companies have so far proposed are inadequate, commercially, socially and journalistically." Murdoch, who also leads 21st Century Fox, called for a system similar to that in cable television, where large distributors like Comcast and AT&amp;amp;T pay fees to the TV network owners that attract their viewers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Rupert+Murdoch+Pushes+Facebook+To+Pay+For+News+To+Guarantee+Quality%3A+http%3A%2F%2Fbit.ly%2F2E0Uh6H"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F22%2F2121203%2Frupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646003&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/kYc_EHU2Rx0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T00:03:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>highest-bidder</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>86</slash:comments>
-<slash:hit_parade>86,84,47,34,14,8,5</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/22/2121203/rupert-murdoch-pushes-facebook-to-pay-for-news-to-guarantee-quality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Android Can Now Tell You How Fast Wi-Fi Networks Are Before You Join Them</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8war_NTbf5U/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them</link>
-<description>Today, Google announced that Android 8.1 Oreo will now display the speed of nearby open Wi-Fi networks to help you decide whether they're even worth the effort of connecting to. The Wi-Fi settings menu will now display one of four speed labels: Very Fast, Fast, OK, or Slow. The Verge reports: The difference between Very Fast and Fast, according to Google, is that you can stream "very high-quality videos" on the former and "most videos" on the latter. Most coffee shop dwellers should be fine with the OK level, as that's enough for web browsing, social media, and Spotify streaming. Private Wi-Fi networks that require passwords don't display any speed data since it's really none of your business and Google can't randomly test them, but they do continue to indicate signal strength. Google says network administrators can also opt out of Android's Wi-Fi Assistant showing speed info by using a "canary URL."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Android+Can+Now+Tell+You+How+Fast+Wi-Fi+Networks+Are+Before+You+Join+Them%3A+http%3A%2F%2Fbit.ly%2F2E0OQoj"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F22%2F2133220%2Fandroid-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646027&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8war_NTbf5U" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-22T23:20:00+00:00</dc:date>
-<dc:subject>android</dc:subject>
-<slash:department>decisions-decisions</slash:department>
-<slash:section>mobile</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,32,19,15,4,1,1</slash:hit_parade>
-<feedburner:origLink>https://mobile.slashdot.org/story/18/01/22/2133220/android-can-now-tell-you-how-fast-wi-fi-networks-are-before-you-join-them?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>UK Hospitals Can Now Store Confidential Patient Records In the Public Cloud</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/FM7Tz3H6oA0/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud</link>
-<description>The National Health Service (NHS) has given hospitals the go-ahead to store sensitive patient records in the cloud. "NHS Digital said the advantages of using cloud services include cost savings associated with not having to buy and maintain hardware and software, and availability of backup and fast system recovery," reports ZDNet. "'Together these features cut the risk of health information not being available due to local hardware failure,' said the report." From ZDNet: Rob Shaw, deputy chief executive at NHS Digital, said: "It is for individual organizations to decide if they wish to use cloud and data offshoring but there are a huge range of benefits in doing so, such as greater data security protection and reduced running costs when implemented effectively." The UK government introduced a 'cloud first' policy for public sector IT in 2013, and NHS Choices and NHS England's Code4Health initiative are already successfully using the cloud. NHS Digital's guidance said that the NHS and social care providers may use cloud computing services for NHS data, although data must only be hosted within the European Economic Area, a country deemed adequate by the European Commission, or in the U.S. where covered by Privacy Shield.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=UK+Hospitals+Can+Now+Store+Confidential+Patient+Records+In+the+Public+Cloud%3A+http%3A%2F%2Fbit.ly%2F2DAqEw8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F22%2F2059236%2Fuk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645961&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/FM7Tz3H6oA0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-22T22:40:00+00:00</dc:date>
-<dc:subject>cloud</dc:subject>
-<slash:department>red-light-green-light</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>65</slash:comments>
-<slash:hit_parade>65,65,46,40,16,5,3</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/22/2059236/uk-hospitals-can-now-store-confidential-patient-records-in-the-public-cloud?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Montana Becomes First State To Implement Net Neutrality After FCC Repeal</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5hybSu3COk0/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal</link>
-<description>An anonymous reader quotes a report from The Hill: Montana Gov. Steve Bullock (D) signed an executive order on Monday requiring internet service providers with state contracts to abide by net neutrality principles. The order makes his state the first to push back on the Federal Communications Commission's decision to repeal the open internet rules last month. The order says that in order to receive a contract with the state government, internet service providers must not engage in blocking or throttling web content or create internet fast lanes. Those practices were all banned under the Obama-era 2015 net neutrality order. Bullock's office said the executive order goes into effect immediately, but there will be a six-month grace period for companies to ensure that they're in compliance. The governor said on Monday that he is encouraging his counterparts and legislators in other states to follow suit, promising to personally email a copy of his order to any who ask for it. Further reading: The New York Times&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Montana+Becomes+First+State+To+Implement+Net+Neutrality+After+FCC+Repeal%3A+http%3A%2F%2Fbit.ly%2F2n1M2PN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F22%2F2047227%2Fmontana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11645933&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5hybSu3COk0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-22T22:00:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>take-matters-into-your-own-hands</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>122</slash:comments>
-<slash:hit_parade>122,119,68,59,12,7,7</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/22/2047227/montana-becomes-first-state-to-implement-net-neutrality-after-fcc-repeal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

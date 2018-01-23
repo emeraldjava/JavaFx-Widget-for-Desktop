@@ -40,9 +40,10 @@ public class LinuxFileSystem implements FileSystem
         List<String> splitList = List.of(line.split(" "));
         String percent = splitList.get(4);
         percent = percent.replace("%", "");
+        double usedPercentage = Double.parseDouble(percent) / 100;
         return FileSystemItem
-                .newInstance(splitList.get(1), splitList.get(2), splitList.get(3), splitList.get(3),
-                        Double.parseDouble(percent));
+                .newInstance(splitList.get(5), splitList.get(1), splitList.get(2), splitList.get(3),
+                        usedPercentage);
     }
     
     @Override
