@@ -57,6 +57,7 @@ public class ApplicationMain extends Application
                 .newInstance(mainHBox.prefWidthProperty(), mainHBox.prefHeightProperty()));
     }
     
+    // todo application freezes when there is connection problems
     private void setStageProperties (Stage primaryStage)
     {
         setStageChangeListeners(primaryStage);
