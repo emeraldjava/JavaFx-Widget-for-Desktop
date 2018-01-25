@@ -10,8 +10,8 @@ import java.util.logging.Logger;
 
 public class FileSystemBox extends VBox
 {
-    private static final int BOX_SPACING = 15;
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final int BOX_SPACING = 15;
     private FileSystem fileSystem;
     
     private FileSystemBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
@@ -20,6 +20,12 @@ public class FileSystemBox extends VBox
         bindBoxToParent(parentWidth, parentHeight);
         setSpacing(BOX_SPACING);
         createBoxesForPartitions(fileSystem.partitions());
+    }
+    
+    public static FileSystemBox newInstance (DoubleProperty parentWidth,
+            DoubleProperty parentHeight)
+    {
+        return new FileSystemBox(parentWidth, parentHeight);
     }
     
     @SuppressWarnings ("TypeMayBeWeakened")
@@ -32,12 +38,6 @@ public class FileSystemBox extends VBox
     private void determineOperatingSystem ()
     {
         fileSystem = LinuxFileSystem.newInstance();
-    }
-    
-    public static FileSystemBox newInstance (DoubleProperty parentWidth,
-            DoubleProperty parentHeight)
-    {
-        return new FileSystemBox(parentWidth, parentHeight);
     }
     
     @SuppressWarnings ("MethodParameterOfConcreteClass")

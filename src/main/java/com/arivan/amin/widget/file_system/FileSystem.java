@@ -5,6 +5,7 @@ import java.io.InputStream;
 import java.nio.charset.StandardCharsets;
 import java.util.List;
 
+@FunctionalInterface
 public interface FileSystem
 {
     default String getCommandOutput (List<String> command) throws IOException

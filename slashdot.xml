@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-23T19:47:11+00:00</dc:date>
+<dc:date>2018-01-24T20:42:04+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/24/203201/windows-10-will-soon-let-users-track-the-data-microsoft-collects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/24/1930236/net-neutrality-comment-fraud-will-be-investigated-by-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://slashdot.org/story/18/01/24/1844258/an-ai-powered-app-has-resulted-in-an-explosion-of-convincing-face-swap-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/24/1810234/tax-change-aims-to-lure-intellectual-property-back-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/24/1729241/longtime-google-engineer-quits-says-company-can-no-longer-innovate-is-mired-in-politics-and-has-become-absolutely-competitor-focused?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/24/1630213/apple-will-soon-let-users-turn-off-its-iphone-slowing-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/24/1555258/nsa-deletes-honesty-and-openness-from-core-values?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/24/1520253/eu-fines-qualcomm-12-billion-for-paying-apple-to-use-its-microchips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/24/1437258/youtubes-support-for-musicians-comes-with-a-catch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/24/1312241/dell-and-hp-advise-all-their-customers-to-not-install-spectre-bios-updates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/24/0516231/17-billion-year-old-chunk-of-north-america-found-sticking-to-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/23/2258232/official-no-one-is-going-to-win-the-google-lunar-x-prize-competition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/23/226256/half-assed-solar-geoengineering-is-worse-than-climate-change-itself?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/23/2241241/the-us-drops-out-of-the-top-10-in-innovation-ranking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/23/2223249/elon-musk-to-stay-at-tesla-for-another-decade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,308 +41,309 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Rise Of The Contract Workforce</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eqG-0U7ltfA/the-rise-of-the-contract-workforce</link>
-<description>An anonymous reader shares a report: A new NPR/Marist poll finds that 1 in 5 jobs in America is held by a worker under contract. Within a decade, contractors and freelancers could make up half of the American workforce. Workers across all industries and at all professional levels will be touched by the movement toward independent work -- one without the constraints, or benefits, of full-time employment. Policymakers are just starting to talk about the implications. [...] It's not just business driving the trend. Surveys show a large majority of freelancers are free agents by choice. John Vensel is a contract attorney at Orrick who grew up a few miles from Wheeling, on the other side of the Pennsylvania state line. In his 20s, he was a freelance paralegal by day and a gig musician by night. "I actually wanted to be a rock star," he says. But these days there are no edgy vestiges of a former rocker, only a 47-year-old family man cooing over cellphone photos of his children, Grace and Gabe. In the two decades in between, Vensel worked full-time corporate jobs. But he was laid off in 2010, on the eve of his graduation from his night-school law program. He graduated with huge piles of debt, into one of the worst job markets. For a time, Vensel commuted three hours round-trip to a full-time job in Pittsburgh. But more recently, he quit and took up contracting to stay near home in Wheeling.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Rise+Of+The+Contract+Workforce%3A+http%3A%2F%2Fbit.ly%2F2E1K7Tt"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F23%2F1657209%2Fthe-rise-of-the-contract-workforce%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://yro.slashdot.org/story/18/01/24/203201/windows-10-will-soon-let-users-track-the-data-microsoft-collects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Windows 10 Will Soon Let Users Track the Data Microsoft Collects</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/o7c8eN72Yss/windows-10-will-soon-let-users-track-the-data-microsoft-collects</link>
+<description>Windows 10 will soon get a new application that will allow users to keep track of the data that Microsoft collects from their device. From a report: Ahead of the Data Privacy Day, Microsoft today introduced a new Diagnostic Data Viewer app for Windows 10 -- first coming to Windows Insiders -- that enables users to view all the diagnostic data that's being collected by Windows 10. The new Diagnostic Data Viewer will display different types of diagnostic data collected by the OS. This includes Common Data (your OS version, device ID/type, etc.), Device Connectivity and Configuration data (device capabilities, user settings, peripherals and network info), Product and Service Performance (device health, performance, reliability data), Product and Service Usage (data on usage of device, apps, OS), and Software Setup and Inventory (update information). The app includes a search feature that lets you search for specific items.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Windows+10+Will+Soon+Let+Users+Track+the+Data+Microsoft+Collects%3A+http%3A%2F%2Fbit.ly%2F2DCjzLF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F24%2F203201%2Fwindows-10-will-soon-let-users-track-the-data-microsoft-collects%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/24/203201/windows-10-will-soon-let-users-track-the-data-microsoft-collects?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650923&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eqG-0U7ltfA" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/24/203201/windows-10-will-soon-let-users-track-the-data-microsoft-collects?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656723&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/o7c8eN72Yss" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T19:25:00+00:00</dc:date>
-<dc:subject>usa</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>22</slash:comments>
-<slash:hit_parade>22,22,11,10,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/23/1657209/the-rise-of-the-contract-workforce?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Second Coming of Ultrasound</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jfBhhHY70Is/the-second-coming-of-ultrasound</link>
-<description>Ultrasound, which works on the principle of piezoelectricity, is finding a second lease of life in medicine, Wired outlines. Applying voltage to a piezoelectric crystal makes it vibrate, sending out a sound wave. When the echo that bounces back is converted into electrical signals, you get an image of, say, a fetus, or a submarine. But in the last few years, the lo-fi tech has reinvented itself in some weird new ways. From a report: Researchers are fitting people's heads with ultrasound-emitting helmets to treat tremors and Alzheimer's. They're using it to remotely activate cancer-fighting immune cells. Startups are designing swallowable capsules and ultrasonically vibrating enemas to shoot drugs into the bloodstream. One company is even using the shockwaves to heal wounds -- stuff Curie never could have even imagined. So how did this 100-year-old technology learn some new tricks? With the help of modern-day medical imaging, and lots and lots of bubbles.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Second+Coming+of+Ultrasound%3A+http%3A%2F%2Fbit.ly%2F2E1mwCh"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F23%2F1636248%2Fthe-second-coming-of-ultrasound%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650863&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jfBhhHY70Is" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T18:45:00+00:00</dc:date>
-<dc:subject>medicine</dc:subject>
-<slash:department>second-life</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>20</slash:comments>
-<slash:hit_parade>20,20,14,10,2,1,0</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/23/1636248/the-second-coming-of-ultrasound?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple Might Discontinue the MacBook Air</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wUr3P6UqEYQ/apple-might-discontinue-the-macbook-air</link>
-<description>An anonymous reader shares a report: Just in time for its tenth anniversary, Apple might finally be killing the MacBook Air, according to a new report from Digitimes. If this is true, it'd be the first axing of a laptop line from Apple since the iBook and Powerbook were axed back in 2006. It would also be about damn time. Apple quietly killed the 11-inch MacBook Air back in 2016, but the larger 13-inch version has lingered on, getting a mild processor refresh last year that still left the laptop using a 5th generation Intel processor. That's three generations behind the processors currently found in the MacBook Air's competition, and it is the primary reason the laptop was excluded from our piece looking at the best laptop to be had for under $1000.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Might+Discontinue+the+MacBook+Air%3A+http%3A%2F%2Fbit.ly%2F2E3lju7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F23%2F1626217%2Fapple-might-discontinue-the-macbook-air%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650831&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wUr3P6UqEYQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T18:05:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>end-of-road</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>46</slash:comments>
-<slash:hit_parade>46,43,27,23,3,3,1</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/23/1626217/apple-might-discontinue-the-macbook-air?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Mystery of the Cars Abandoned in a Robot Car Park</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DreWsLIncdE/the-mystery-of-the-cars-abandoned-in-a-robot-car-park</link>
-<description>The mystery of why a handful of cars were abandoned in a derelict car park in Edinburgh, Capital of Scotland, may have been solved. From a report on BBC: The $7m Autosafe SkyPark used robots to stack cars and was dubbed the "car park of the future" -- but went into receivership in 2003. After lying empty for more than a decade, the building in Morrison Street is now being demolished. And the work has uncovered eight cars which were left behind when the doors were closed. Images of the abandoned vehicles has sparked a number of theories about why they were never removed. But a former employee has said they could be old vehicles which were bought by the car park's former operators to test out the robot equipment. A spokesperson said: "We can confirm that there are eight cars present at the car park on the Capital Square site, which have been there since the car park closed in 2003. The owners of the cars are unknown and they are now the property of the demolition company who will remove the cars once work begins on the levels on which they are located."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Mystery+of+the+Cars+Abandoned+in+a+Robot+Car+Park%3A+http%3A%2F%2Fbit.ly%2F2Bngjxs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F23%2F1555218%2Fthe-mystery-of-the-cars-abandoned-in-a-robot-car-park%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650767&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DreWsLIncdE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T17:25:00+00:00</dc:date>
-<dc:subject>robot</dc:subject>
-<slash:department>mystery-solved</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>83</slash:comments>
-<slash:hit_parade>83,78,52,44,4,2,1</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/23/1555218/the-mystery-of-the-cars-abandoned-in-a-robot-car-park?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Vaping Can Be Addictive and May Lure Teenagers to Smoking, Science Panel Concludes</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8wFX9u2OZBw/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes</link>
-<description>A national panel of public health experts concluded in a report released on Tuesday that vaping with e-cigarettes that contain nicotine can be addictive and that teenagers who use the devices may be put at higher risk of switching to traditional smoking. From a report: Whether teenage use of e-cigarettes may lead to conventional smoking has been intensely debated in the United States and elsewhere. While the industry argues that vaping is not a steppingstone to conventional cigarettes or addiction, some antismoking advocates contend that young people become hooked on nicotine, and are enticed to cancer-causing tobacco-based cigarettes over time. The new report by the National Academies of Sciences, Engineering and Medicine is the most comprehensive analysis of existing research on e-cigarettes. It concluded the devices are safer than traditional smoking products and that they do help smokers quit, citing conclusive proof that switching can reduce smokers' exposure to deadly tar, numerous dangerous chemicals and other carcinogens.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Vaping+Can+Be+Addictive+and+May+Lure+Teenagers+to+Smoking%2C+Science+Panel+Concludes%3A+http%3A%2F%2Fbit.ly%2F2BoIegw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F23%2F1613227%2Fvaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650803&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8wFX9u2OZBw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T16:45:00+00:00</dc:date>
-<dc:subject>medicine</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>134</slash:comments>
-<slash:hit_parade>134,132,93,85,13,5,1</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/23/1613227/vaping-can-be-addictive-and-may-lure-teenagers-to-smoking-science-panel-concludes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Tinder's Lack of Encryption Lets Strangers Spy on Your Swipes</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/O5c5xwRW8bg/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes</link>
-<description>Tinder's mobile apps still lack the standard encryption necessary to keep your photos, swipes, and matches hidden from snoops, a security firm reports. From Wired: On Tuesday, researchers at Tel Aviv-based app security firm Checkmarx demonstrated that Tinder still lacks basic HTTPS encryption for photos. Just by being on the same Wi-Fi network as any user of Tinder's iOS or Android app, the researchers could see any photo the user did, or even inject their own images into his or her photo stream. And while other data in Tinder's apps are HTTPS-encrypted, Checkmarx found that they still leaked enough information to tell encrypted commands apart, allowing a hacker on the same network to watch every swipe left, swipe right, or match on the target's phone nearly as easily as if they were looking over the target's shoulder. The researchers suggest that lack of protection could enable anything from simple voyeuristic nosiness to blackmail schemes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Tinder's+Lack+of+Encryption+Lets+Strangers+Spy+on+Your+Swipes%3A+http%3A%2F%2Fbit.ly%2F2E1eqJZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F23%2F1543234%2Ftinders-lack-of-encryption-lets-strangers-spy-on-your-swipes%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650723&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/O5c5xwRW8bg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T16:05:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>privacy-woes</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>33</slash:comments>
-<slash:hit_parade>33,31,17,14,4,3,3</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/23/1543234/tinders-lack-of-encryption-lets-strangers-spy-on-your-swipes?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Firefox 58 Gets Graphics Speed Boost, Web App Abilities</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7LSfUzJBsjE/firefox-58-gets-graphics-speed-boost-web-app-abilities</link>
-<description>Mozilla released on Tuesday a new version of its Firefox Quantum browser, boosting its graphics speed and improving a couple of new technologies designed to make the web more powerful. From a report: The browser, version 58, is the first major update since Mozilla's recovery plan hit full stride in November with the debut of Firefox Quantum. Speed is of the essence in Mozilla's recovery plan, and Firefox 58 does better than its predecessor in some graphics tasks by splitting work better across the multiple processor cores that computer chips have these days. The result should be scrolling that's smooth, uninterrupted by the stuttering that in computing circles goes by the disparaging term "jank." [...] Firefox 58 helps with two new web technologies. One, called WebAssembly, provides for dramatically faster web apps. Firefox 58 can get WebAssembly software running faster so you don't have to twiddle your thumbs waiting as long after clicking a link. Another is progressive web apps (PWAs), an initiative that came out of Google to help make the web a better match for the apps we all drop on our phones.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Firefox+58+Gets+Graphics+Speed+Boost%2C+Web+App+Abilities%3A+http%3A%2F%2Fbit.ly%2F2BmTjyw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F23%2F150206%2Ffirefox-58-gets-graphics-speed-boost-web-app-abilities%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650619&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7LSfUzJBsjE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T15:25:00+00:00</dc:date>
-<dc:subject>mozilla</dc:subject>
-<slash:department>moving-forward</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>117</slash:comments>
-<slash:hit_parade>117,115,62,41,8,2,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/23/150206/firefox-58-gets-graphics-speed-boost-web-app-abilities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Hawaii Governor Didn't Correct False Missile Alert Sooner Because He Didn't Know His Twitter Password</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-47uvXo3ZNI/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password</link>
-<description>An anonymous reader shares a WashingtonPost report: Minutes after the Hawaii Emergency Management Agency mistakenly sent a missile alert at 8:07 a.m. on Jan. 13 -- terrifying residents and visitors across the state -- some officials, such as Rep. Tulsi Gabbard, rushed to Twitter to reassure everyone it was a mistake. But one Twitter account was deafeningly silent for 17 minutes: that of Hawaii Gov. David Ige. Though Ige was informed by the state's adjutant general that the alert was false two minutes after it was sent, he waited until 8:24 a.m. to tweet, "There is NO missile threat." On Monday, after he gave the State of the State address in which he avoided the subject of the missile alert fiasco, reporters demanded an explanation for that long silence. Ige's answer: He couldn't log in to Twitter. "I have to confess that I don't know my Twitter account log-ons and the passwords, so certainly that's one of the changes that I've made," Ige said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Hawaii+Governor+Didn't+Correct+False+Missile+Alert+Sooner+Because+He+Didn't+Know+His+Twitter+Password%3A+http%3A%2F%2Fbit.ly%2F2E0sPpE"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F23%2F1446224%2Fhawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650579&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-47uvXo3ZNI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T14:46:00+00:00</dc:date>
-<dc:subject>twitter</dc:subject>
-<slash:department>oops</slash:department>
+<dc:date>2018-01-24T20:10:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>more-transparency</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>138</slash:comments>
-<slash:hit_parade>138,137,89,82,16,7,4</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/23/1446224/hawaii-governor-didnt-correct-false-missile-alert-sooner-because-he-didnt-know-his-twitter-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Hackers Stole $172 Billion From People Last Year</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KmdX2ZiHxqo/hackers-stole-172-billion-from-people-last-year</link>
-<description>Yearly report published by security firm Norton estimates that as many as 978 million people in 20 countries lost money to cybercrime last year. On an average, the firm says, victims lost an average of $142 and spent nearly 24 hours dealing with the fallout of their attack.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Hackers+Stole+%24172+Billion+From+People+Last+Year%3A+http%3A%2F%2Fbit.ly%2F2n3k1qZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F23%2F144222%2Fhackers-stole-172-billion-from-people-last-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>18</slash:comments>
+<slash:hit_parade>18,18,5,5,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/24/203201/windows-10-will-soon-let-users-track-the-data-microsoft-collects?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/24/1930236/net-neutrality-comment-fraud-will-be-investigated-by-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Net Neutrality Comment Fraud Will Be Investigated By Government</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/RYbgwqz3D9E/net-neutrality-comment-fraud-will-be-investigated-by-government</link>
+<description>Last month, a number of US Representatives sent a letter to the Government Accountability Office (GAO) asking it to investigate fraudulent comments submitted to the FCC's proposal to repeal net neutrality. Multiple groups found evidence that millions of the comments submitted during the FCC's public comment period were linked to fake email addresses, were fraudulently posted under others' names and addresses and were even attributed to people known to be dead. ArsTechnica reported on Wednesday that the GAO has agreed to investigate the issue. From the report: The GAO will do just that, having told Democrats in a letter that it will "review the extent and pervasiveness of fraud and the misuse of American identities during federal rulemaking processes." The investigation was requested by nine Democrats led by Reps. Gregory Meeks (D-NY), Elijah Cummings (D-Md.), and Frank Pallone, Jr. (D-NJ). GAO investigations do not happen quickly. "At the current time we anticipate that staff with the required skills will be available to initiate an engagement in about five months," the office said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Net+Neutrality+Comment+Fraud+Will+Be+Investigated+By+Government%3A+http%3A%2F%2Fbit.ly%2F2E9coYp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F24%2F1930236%2Fnet-neutrality-comment-fraud-will-be-investigated-by-government%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/24/1930236/net-neutrality-comment-fraud-will-be-investigated-by-government?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11650463&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KmdX2ZiHxqo" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/24/1930236/net-neutrality-comment-fraud-will-be-investigated-by-government?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656671&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/RYbgwqz3D9E" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-23T14:04:00+00:00</dc:date>
+<dc:date>2018-01-24T19:30:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>justice-league</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>41</slash:comments>
+<slash:hit_parade>41,40,21,15,5,0,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/24/1930236/net-neutrality-comment-fraud-will-be-investigated-by-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://slashdot.org/story/18/01/24/1844258/an-ai-powered-app-has-resulted-in-an-explosion-of-convincing-face-swap-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>An AI-Powered App Has Resulted in an Explosion of Convincing Face-Swap Porn</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/TBaBCH5lTXY/an-ai-powered-app-has-resulted-in-an-explosion-of-convincing-face-swap-porn</link>
+<description>Samantha Cole, reporting for Motherboard: In December, Motherboard discovered a Redditor named 'deepfakes' quietly enjoying his hobby: Face-swapping celebrity faces onto porn performers' bodies. He made several convincing porn videos of celebrities -- including Gal Gadot, Maisie Williams, and Taylor Swift -- using a machine learning algorithm, his home computer, publicly available videos, and some spare time. Since we first wrote about deepfakes, the practice of producing AI-assisted fake porn has exploded. More people are creating fake celebrity porn using machine learning, and the results have become increasingly convincing. A redditor even created an app specifically designed to allow users without a computer science background to create AI-assisted fake porn. All the tools one needs to make these videos are free, readily available, and accompanied with instructions that walk novices through the process.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=An+AI-Powered+App+Has+Resulted+in+an+Explosion+of+Convincing+Face-Swap+Porn%3A+http%3A%2F%2Fbit.ly%2F2BpKsMQ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F24%2F1844258%2Fan-ai-powered-app-has-resulted-in-an-explosion-of-convincing-face-swap-porn%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/24/1844258/an-ai-powered-app-has-resulted-in-an-explosion-of-convincing-face-swap-porn?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/24/1844258/an-ai-powered-app-has-resulted-in-an-explosion-of-convincing-face-swap-porn?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656601&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/TBaBCH5lTXY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-24T18:50:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>stranger-things</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,81,46,35,3,3,2</slash:hit_parade>
+<feedburner:origLink>https://slashdot.org/story/18/01/24/1844258/an-ai-powered-app-has-resulted-in-an-explosion-of-convincing-face-swap-porn?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/24/1810234/tax-change-aims-to-lure-intellectual-property-back-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tax Change Aims to Lure Intellectual Property Back to the US</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nxRhLdNzQoA/tax-change-aims-to-lure-intellectual-property-back-to-the-us</link>
+<description>U.S. companies rich in intellectual property are looking at a new tax-friendly regime: the U.S (Editor's note: the link may be paywalled; alternative source). From a report: A provision in the newly revised U.S. tax code slashes the income tax companies pay on royalties from the overseas use of intellectual property or so-called intangible assets, such as licenses and patents. The new tax break, for what is dubbed foreign-derived intangible income, effectively reduces tax on foreign income from goods and services produced in the U.S. using patents and other intellectual property to 13.125% until the end of 2025, after which the rate rises to 16.4%. Previously, royalties paid to a unit in the U.S. would have been taxed similarly to other U.S. income, for which the top corporate tax rate was 35%. The new headline corporate rate is 21%. The deduction is meant to induce companies with large U.S. operations and significant foreign income from patent royalties to base more of those assets in the U.S. Such companies, especially in technology and pharmaceutical sectors, often hold foreign rights for their IP in a company based in a low-tax country.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tax+Change+Aims+to+Lure+Intellectual+Property+Back+to+the+US%3A+http%3A%2F%2Fbit.ly%2F2DA0jyh"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F24%2F1810234%2Ftax-change-aims-to-lure-intellectual-property-back-to-the-us%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/24/1810234/tax-change-aims-to-lure-intellectual-property-back-to-the-us?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/24/1810234/tax-change-aims-to-lure-intellectual-property-back-to-the-us?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656529&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nxRhLdNzQoA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-24T18:10:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>interesting-moves</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>75</slash:comments>
+<slash:hit_parade>75,70,39,32,4,2,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/24/1810234/tax-change-aims-to-lure-intellectual-property-back-to-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/24/1729241/longtime-google-engineer-quits-says-company-can-no-longer-innovate-is-mired-in-politics-and-has-become-absolutely-competitor-focused?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Longtime Google Engineer Quits; Says Company Can No Longer Innovate, Is Mired in Politics, and Has Become Absolutely Competitor-Focused</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xNVvw_1K1TE/longtime-google-engineer-quits-says-company-can-no-longer-innovate-is-mired-in-politics-and-has-become-absolutely-competitor-focused</link>
+<description>Steve Yegge, a longtime Google engineer who gained popularity after his rant on Google+ went viral, wrote another rant on Wednesday, in which he announced he has left Google. His rationale behind leaving Google, in his own words: The main reason I left Google is that they can no longer innovate. They've pretty much lost that ability. I believe there are several contributing factors, of which I'll list four here. First, they're conservative: They are so focused on protecting what they've got, that they fear risk-taking and real innovation. Gatekeeping and risk aversion at Google are the norm rather the exception. Second, they are mired in politics, which is sort of inevitable with a large enough organization; the only real alternative is a dictatorship, which has its own downsides. Third, Google is arrogant. It has taken me years to understand that a company full of humble individuals can still be an arrogant company. Google has the arrogance of the "we", not the "I". Fourth, last, and probably worst of all, Google has become 100% competitor-focused rather than customer focused. They've made a weak attempt to pivot from this, with their new internal slogan "Focus on the user and all else will follow." But unfortunately it's just lip service. You can look at Google's entire portfolio of launches over the past decade, and trace nearly all of them to copying a competitor: Google+ (Facebook), Google Cloud (AWS), Google Home (Amazon Echo), Allo (WhatsApp), Android Instant Apps (Facebook, WeChat), Google Assistant (Apple/Siri), and on and on and on. They are stuck in me-too mode and have been for years. They simply don't have innovation in their DNA any more. And it's because their eyes are fixed on their competitors, not their customers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Longtime+Google+Engineer+Quits%3B+Says+Company+Can+No+Longer+Innovate%2C+Is+Mired+in+Politics%2C+and+Has+Become+Absolutely+Competitor-Focused%3A+http%3A%2F%2Fbit.ly%2F2E7HH5u"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F24%2F1729241%2Flongtime-google-engineer-quits-says-company-can-no-longer-innovate-is-mired-in-politics-and-has-become-absolutely-competitor-focused%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/24/1729241/longtime-google-engineer-quits-says-company-can-no-longer-innovate-is-mired-in-politics-and-has-become-absolutely-competitor-focused?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/24/1729241/longtime-google-engineer-quits-says-company-can-no-longer-innovate-is-mired-in-politics-and-has-become-absolutely-competitor-focused?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656399&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xNVvw_1K1TE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-24T17:30:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>exit-interview</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>199</slash:comments>
+<slash:hit_parade>199,193,96,86,34,18,11</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/24/1729241/longtime-google-engineer-quits-says-company-can-no-longer-innovate-is-mired-in-politics-and-has-become-absolutely-competitor-focused?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/24/1630213/apple-will-soon-let-users-turn-off-its-iphone-slowing-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple Will Soon Let Users Turn Off its iPhone-slowing Software</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Dd36ZYEN82M/apple-will-soon-let-users-turn-off-its-iphone-slowing-software</link>
+<description>Following an uproar from customers last month, Apple on Wednesday said it's adding a feature to its latest iOS update that will let customers turn off software that slows down their iPhones. From a report: Apple in December revealed that it released software a year earlier that makes your phone run more slowly to prevent problems with its aging lithium ion battery, such as unexpected shutdowns. As part of the new iOS 11.3 update, iPhone users will get a recommendation if a battery needs to be serviced. Plus, they will be able to see if the power management feature that slows the phone's performance is on and can choose to turn it off, the company said Wednesday.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Will+Soon+Let+Users+Turn+Off+its+iPhone-slowing+Software%3A+http%3A%2F%2Fbit.ly%2F2n93xO9"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F24%2F1630213%2Fapple-will-soon-let-users-turn-off-its-iphone-slowing-software%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/24/1630213/apple-will-soon-let-users-turn-off-its-iphone-slowing-software?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/24/1630213/apple-will-soon-let-users-turn-off-its-iphone-slowing-software?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656261&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Dd36ZYEN82M" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-24T16:40:00+00:00</dc:date>
+<dc:subject>ios</dc:subject>
+<slash:department>fixing-things</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>85</slash:comments>
+<slash:hit_parade>85,82,53,47,6,1,1</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/24/1630213/apple-will-soon-let-users-turn-off-its-iphone-slowing-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/24/1555258/nsa-deletes-honesty-and-openness-from-core-values?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NSA Deletes 'Honesty' and 'Openness' From Core Values</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dtFOHEOhcg8/nsa-deletes-honesty-and-openness-from-core-values</link>
+<description>An anonymous shares a report: The National Security Agency maintains a page on its website that outlines its mission statement. But earlier this month, the agency made a discreet change: It removed "honesty" as its top priority. Since at least May 2016, the surveillance agency had featured honesty as the first of four "core values" listed on NSA.gov, alongside "respect for the law," "integrity," and "transparency." The agency vowed on the site to "be truthful with each other." On January 12, however, the NSA removed the mission statement page -- which can still be viewed through the Internet Archive -- and replaced it with a new version. Now, the parts about honesty and the pledge to be truthful have been deleted. The agency's new top value is "commitment to service," which it says means "excellence in the pursuit of our critical mission." Those are not the only striking alterations. In its old core values, the NSA explained that it would strive to be deserving of the "great trust" placed in it by national leaders and American citizens. It said that it would "honor the public's need for openness." But those phrases are now gone; all references to "trust," "honor," and "openness" have disappeared.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NSA+Deletes+'Honesty'+and+'Openness'+From+Core+Values%3A+http%3A%2F%2Fbit.ly%2F2DARvIn"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F24%2F1555258%2Fnsa-deletes-honesty-and-openness-from-core-values%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/24/1555258/nsa-deletes-honesty-and-openness-from-core-values?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/24/1555258/nsa-deletes-honesty-and-openness-from-core-values?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656193&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dtFOHEOhcg8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-24T15:55:00+00:00</dc:date>
 <dc:subject>security</dc:subject>
-<slash:department>tough-luck</slash:department>
+<slash:department>closer-look</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>40</slash:comments>
-<slash:hit_parade>40,38,24,18,6,1,1</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/23/144222/hackers-stole-172-billion-from-people-last-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ask Slashdot: What Is Your View On Forced Subscription-Only Software?</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GaWunLC4vmg/ask-slashdot-what-is-your-view-on-forced-subscription-only-software</link>
-<description>dryriver writes: All used to be well in the world of Digital Content Creation (DCC) until two very major DCC software makers -- Adobe and Autodesk -- decided to force a monthly subscription model on pretty much every software package they make to please Wall Street investors. Important 2D and 3D DCC software like Photoshop, After Effects, Premiere, InDesign, 3DMax, Maya, and Mudbox is now only available to "rent" from these companies. You simply cannot buy a perpetual license or boxed copy for this software at all anymore, and what makes matters worse is that if you stop paying your subscription, the software locks itself down, leaving you unable to open even old files you created with the software for later review. Also annoying is that subscription software constantly performs "license validity" checks over the internet (subscription software cannot be run offline for any great length of time, or on an air-gapped PC) and the software is increasingly tied into various cloud services these companies have set up. The DCC companies want you to save your -- potentially confidential -- project files on their servers, not on your own hard disk. There are millions of DCC professionals around the world who'd love to be able to buy a normal, perpetual, offline-use capable license for these software tools. That is no longer possible. Adobe and Autodesk no longer provide that. What is your view on this "forced subscription" model? What would happen if all the major commercial software developers forced this model on everyone simultaneously? What if the whole idea of being able to "purchase" a perpetual license for ANY commercial software went away completely, and it was subscription only from that point on?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+What+Is+Your+View+On+Forced+Subscription-Only+Software%3F%3A+http%3A%2F%2Fbit.ly%2F2E0saod"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F23%2F0520227%2Fask-slashdot-what-is-your-view-on-forced-subscription-only-software%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>161</slash:comments>
+<slash:hit_parade>161,149,79,56,18,8,6</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/24/1555258/nsa-deletes-honesty-and-openness-from-core-values?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/24/1520253/eu-fines-qualcomm-12-billion-for-paying-apple-to-use-its-microchips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>EU Fines Qualcomm $1.2 Billion for Paying Apple To Use Its Microchips</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Vs5zi5PdWUE/eu-fines-qualcomm-12-billion-for-paying-apple-to-use-its-microchips</link>
+<description>The European Union on Wednesday slapped a $1.23 billion fine on U.S. chipmaker Qualcomm for abusing its market dominance in the lucrative sector of components in smartphones and tablets for half a decade. From a report: EU Commissioner Margrethe Vestager said that San Diego-based Qualcomm "illegally shut out rivals from the market" for more than five years by paying key customer Apple to not use chips made by Qualcomm's rivals. Vestager said Qualcomm paid "billions of dollars" to Apple and in the process helped establish itself as the dominant force.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=EU+Fines+Qualcomm+%241.2+Billion+for+Paying+Apple+To+Use+Its+Microchips%3A+http%3A%2F%2Fbit.ly%2F2DzfXty"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F24%2F1520253%2Feu-fines-qualcomm-12-billion-for-paying-apple-to-use-its-microchips%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646825&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GaWunLC4vmg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T13:00:00+00:00</dc:date>
-<dc:subject>software</dc:subject>
-<slash:department>against-one's-will</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>471</slash:comments>
-<slash:hit_parade>471,464,311,241,53,26,15</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/23/0520227/ask-slashdot-what-is-your-view-on-forced-subscription-only-software?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>You Spend Nearly a Whole Day Each Week On the Internet</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lgTHAsncYq8/you-spend-nearly-a-whole-day-each-week-on-the-internet</link>
-<description>An anonymous reader quotes a report from CNET: Since 2000, our time spent online each week has steadily increased, rising from 9.4 hours to 23.6 hours -- nearly an entire day, according to a recent report by the USC Annenberg Center for the Digital Future. The internet has become an integral component of our home lives as well, with time spent rising more than 400 percent over that period from 3.3 hours to 17.6 hours each week, according to the report, which surveys more than 2,000 people across the U.S. each year. The center's 15th annual Digital Future Report illustrates the internet's dramatic evolution since 2000 from a secondary medium to an indispensable component of our daily lives -- always on and always with us. It also comes as many fear for the future of the unlimited internet we have largely taken for granted over the past two decades. The report also found that the internet has had a dramatic impact on how we get our news. News consumption for all ages went from a print-to-online ratio of 85-15 in 2001 to a near even 51-49 in 2016.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=You+Spend+Nearly+a+Whole+Day+Each+Week+On+the+Internet%3A+http%3A%2F%2Fbit.ly%2F2DwWfim"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F23%2F0525250%2Fyou-spend-nearly-a-whole-day-each-week-on-the-internet%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/24/1520253/eu-fines-qualcomm-12-billion-for-paying-apple-to-use-its-microchips?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646877&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lgTHAsncYq8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T11:30:00+00:00</dc:date>
-<dc:subject>internet</dc:subject>
-<slash:department>online-behavior</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>50</slash:comments>
-<slash:hit_parade>50,48,34,29,7,2,0</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/23/0525250/you-spend-nearly-a-whole-day-each-week-on-the-internet?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Netflix Is Now Worth More Than $100 Billion</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ELgGLWvRjhs/netflix-is-now-worth-more-than-100-billion</link>
-<description>Netflix has crossed the $100 billion mark for its market cap as it once again surprised industry observers with better-than-expected growth in its subscribers. TechCrunch reports: The company said it added more than 8 million new subscribers total after already setting pretty robust targets for the fourth quarter this year, giving it a healthy push as it crossed the $100 billion mark after the report came out this afternoon. While the company's core financials actually came in roughly in line with what Wall Street was looking for (which is still important), Netflix's subscriber numbers are usually the best indicator for the core health of the company. That recurring revenue stream -- and its growth -- is critical as it continues to very aggressively spend on new content. The company said its free cash flow will be between negative $3 billion and negative $4 billion, compared to negative $2 billion this year. And that aggressive spending only seems to get more aggressive every time we hear from the company. Netflix is now saying that it expects to spend between $7.5 billion and $8 billion on content in 2018 -- which is around in line with what it said in October when it said it would spend between $7 billion and $8 billion. It's the same range, but tuning up that bottom end is still an important indicator. Some notable numbers include $3.29 billion in revenue, 1.98 million Q4 U.S. subscriber additions, and 6.36 million Q4 International subscriber additions.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Netflix+Is+Now+Worth+More+Than+%24100+Billion%3A+http%3A%2F%2Fbit.ly%2F2Dxxdj1"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F22%2F2344241%2Fnetflix-is-now-worth-more-than-100-billion%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/24/1520253/eu-fines-qualcomm-12-billion-for-paying-apple-to-use-its-microchips?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656121&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Vs5zi5PdWUE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-24T15:20:00+00:00</dc:date>
+<dc:subject>eu</dc:subject>
+<slash:department>not-in-my-house</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>82</slash:comments>
+<slash:hit_parade>82,76,49,42,19,8,3</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/24/1520253/eu-fines-qualcomm-12-billion-for-paying-apple-to-use-its-microchips?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/24/1437258/youtubes-support-for-musicians-comes-with-a-catch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>YouTube's Support for Musicians Comes With a Catch</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UqM3A7HnBU0/youtubes-support-for-musicians-comes-with-a-catch</link>
+<description>YouTube has asked musicians to agree not to disparage the streaming-video service in exchange for promotional support, Bloomberg reports, citing people familiar with the matter. From the report: In recent months, YouTube has given a handful of musicians a couple hundred thousand dollars to produce videos and promoted their work on billboards, part of a larger campaign to improve the site's relationship with the music industry. Yet such support comes with a catch, with some musicians required to promise the won't say negative things about YouTube, said the people, who asked not to be identified discussing private business transactions. Non-disparagement agreements are common in business, but YouTube's biggest direct competitors in music don't require them, the people said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=YouTube's+Support+for+Musicians+Comes+With+a+Catch%3A+http%3A%2F%2Fbit.ly%2F2n879Qx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F24%2F1437258%2Fyoutubes-support-for-musicians-comes-with-a-catch%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646237&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ELgGLWvRjhs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T10:00:00+00:00</dc:date>
-<dc:subject>tv</dc:subject>
-<slash:department>big-milestones</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,38,20,18,3,0,0</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/22/2344241/netflix-is-now-worth-more-than-100-billion?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google Just Broke Amazon's Workaround For YouTube On Fire TV</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cajbyhqVKYk/google-just-broke-amazons-workaround-for-youtube-on-fire-tv</link>
-<description>Google has cracked down on Fire TV users once again. Today, the technology company blocked Silk and Firefox browsers from displaying the YouTube.com interface usually shown on large screens. Cord Cutters News reports: Now if you try to access YouTube.com/TV on a Fire TV through the Firefox or Silk browser you will be redirected to the desktop version of the site. According to Elias Saba from AFTVnews, "By blocking access to the version of YouTube made for television browsers, Google has deliberately made browsing their website an unusable experience on Amazon Fire TVs, Fire TV Sticks, and Fire TV Edition televisions." This fight over YouTube and Amazon has been going on for some time. The standoff heated up in early December as Google announced plans to pull the YouTube app from the Fire TV on January 1st 2018. Amazon responded by adding a browser to allow access to the web version on the Fire TV. Now Google has countered by blocking the Fire TV's browsers from accessing the made-for-TV edition of YouTube.com. Back on December 15th, The Verge reported that Google and Amazon are in talks to keep YouTube on the Fire TV, but as of today it looks like nothing has come from these talks.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Just+Broke+Amazon's+Workaround+For+YouTube+On+Fire+TV%3A+http%3A%2F%2Fbit.ly%2F2DyaVxy"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F22%2F2336248%2Fgoogle-just-broke-amazons-workaround-for-youtube-on-fire-tv%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/24/1437258/youtubes-support-for-musicians-comes-with-a-catch?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646229&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cajbyhqVKYk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T07:00:00+00:00</dc:date>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/24/1437258/youtubes-support-for-musicians-comes-with-a-catch?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11656035&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/UqM3A7HnBU0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-24T14:40:00+00:00</dc:date>
 <dc:subject>youtube</dc:subject>
-<slash:department>here-we-go-again</slash:department>
+<slash:department>quid-pro-quo</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>202</slash:comments>
-<slash:hit_parade>202,201,117,82,27,17,13</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/22/2336248/google-just-broke-amazons-workaround-for-youtube-on-fire-tv?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>New Study Finds No Link Between Violent Video Games and Behavior</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BmOvrxnfeGY/new-study-finds-no-link-between-violent-video-games-and-behavior</link>
-<description>An anonymous reader quotes a report from The Daily Dot: Scientists have been investigating the impact of violent video games on behavior for more than two decades, and the results are still being debated. In a 2015 resolution on games, the American Psychological Association reported that multiple studies found a link between violent game exposure and aggressive behavior, though critics at the time questioned the findings. Now, a new study published by researchers at the University of York in the journal Computers in Human Behavior further challenges the connection.
- 
-It has long been theorized that exposure to in-game concepts like violence has a "priming" effect on players that ultimately impacts behavior, leading scientists to believe that a player exposed to in-game violence will be more susceptible to displaying such violence in real life. The new study found the exact opposite to be true in some instances. In a series of experiments with a little over 3,000 participants (more than any past study to date), university researchers found that exposure to video game concepts like violence won't necessarily impact behavior. It also found that increasing the realism of violent video games does mean aggressive behavior in gamers will increase.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=New+Study+Finds+No+Link+Between+Violent+Video+Games+and+Behavior%3A+http%3A%2F%2Fbit.ly%2F2DZiPNr"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgames.slashdot.org%2Fstory%2F18%2F01%2F22%2F2322255%2Fnew-study-finds-no-link-between-violent-video-games-and-behavior%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,35,21,17,6,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/24/1437258/youtubes-support-for-musicians-comes-with-a-catch?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/24/1312241/dell-and-hp-advise-all-their-customers-to-not-install-spectre-bios-updates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> Dell and HP Advise All Their Customers To Not Install Spectre BIOS Updates</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-NWSQ242QP0/dell-and-hp-advise-all-their-customers-to-not-install-spectre-bios-updates</link>
+<description>An anonymous reader writes: The Spectre and Meltdown mess continues with Dell now recommending their customers to not install the BIOS updates that are supposed to resolve the Spectre (Variant 2) vulnerabilities. These updates have been causing numerous problems for users including performance issues, boot issues, reboot issues, and general system stability. Due to this, Dell EMC has updated its knowledgebase article with a statement advising customers to not install the BIOS update and to potentially rollback to the previous BIOS if their computers are exhibiting "unpredictable system behavior". ZDNet reports that HP too has issued a similar advisory. The computer manufacturer pulled its softpaqs BIOS updates with Intel's patches from its website, and said it would be releasing a BIOS update with a previous version of Intel's microcode on Thursday.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+Dell+and+HP+Advise+All+Their+Customers+To+Not+Install+Spectre+BIOS+Updates%3A+http%3A%2F%2Fbit.ly%2F2DAonkp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F24%2F1312241%2Fdell-and-hp-advise-all-their-customers-to-not-install-spectre-bios-updates%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/24/1312241/dell-and-hp-advise-all-their-customers-to-not-install-spectre-bios-updates?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646195&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BmOvrxnfeGY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T03:30:00+00:00</dc:date>
-<dc:subject>medicine</dc:subject>
-<slash:department>back-to-square-one</slash:department>
-<slash:section>games</slash:section>
-<slash:comments>184</slash:comments>
-<slash:hit_parade>184,180,105,83,25,11,6</slash:hit_parade>
-<feedburner:origLink>https://games.slashdot.org/story/18/01/22/2322255/new-study-finds-no-link-between-violent-video-games-and-behavior?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Tesla Owner Attempts Autopilot Defense During DUI Stop</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6RZAcSwfA-k/tesla-owner-attempts-autopilot-defense-during-dui-stop</link>
-<description>It turns out driving drunk is still illegal, even with a driver-assistance system active. "On Saturday, January 13, police discovered a man in his Tesla vehicle on the San Francisco-Oakland Bay Bridge," reports Ars Technica. "The San Francisco Chronicle reports that 'the man had apparently passed out in the stopped car while stuck in the flow of busy bridge traffic at 5:30pm, according to the California Highway Patrol." From the report: When police woke the man up, he assured officers that everything was fine because the car was "on autopilot." No one was injured in the incident, and the California Highway Patrol made a snarky tweet about it. Needless to say, other Tesla owners -- and people who own competing systems like Cadillac's Super Cruise -- should not follow this guy's example. No cars on the market right now have fully driverless technology available. Autopilot, Supercruise, and other products are driver assistance products -- they're designed to operate with an attentive human driver as a backup. Driving drunk using one of these systems is just as illegal as driving drunk in a conventional car.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+Owner+Attempts+Autopilot+Defense+During+DUI+Stop%3A+http%3A%2F%2Fbit.ly%2F2BkkpXj"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F22%2F2311225%2Ftesla-owner-attempts-autopilot-defense-during-dui-stop%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11646169&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6RZAcSwfA-k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-23T02:05:00+00:00</dc:date>
-<dc:subject>transportation</dc:subject>
-<slash:department>driver-assistance</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/24/1312241/dell-and-hp-advise-all-their-customers-to-not-install-spectre-bios-updates?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11655789&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-NWSQ242QP0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-24T14:00:00+00:00</dc:date>
+<dc:subject>hp</dc:subject>
+<slash:department>oops</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>123</slash:comments>
-<slash:hit_parade>123,121,73,61,24,11,9</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/22/2311225/tesla-owner-attempts-autopilot-defense-during-dui-stop?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:comments>68</slash:comments>
+<slash:hit_parade>68,67,49,39,16,5,3</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/24/1312241/dell-and-hp-advise-all-their-customers-to-not-install-spectre-bios-updates?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/24/0516231/17-billion-year-old-chunk-of-north-america-found-sticking-to-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>1.7-Billion-Year-Old Chunk of North America Found Sticking To Australia</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Q5YpQjuOn0k/17-billion-year-old-chunk-of-north-america-found-sticking-to-australia</link>
+<description>walterbyrd shares a report from Live Science: Geologists matching rocks from opposite sides of the globe have found that part of Australia was once attached to North America 1.7 billion years ago. Researchers from Curtin University in Australia examined rocks from the Georgetown region of northern Queensland. The rocks -- sandstone sedimentary rocks that formed in a shallow sea -- had signatures that were unknown in Australia but strongly resembled rocks that can be seen in present-day Canada. The researchers, who described their findings online Jan. 17 in the journal Geology, concluded that the Georgetown area broke away from North America 1.7 billion years ago. Then, 100 million years later, this landmass collided with what is now northern Australia, at the Mount Isa region. 
+ "This was a critical part of global continental reorganization when almost all continents on Earth assembled to form the supercontinent called Nuna," Adam Nordsvan, Curtin University doctoral student and lead author of the study, said in a statement. Nordsvan added that Nuna then broke apart some 300 million years later, with the Georgetown area stuck to Australia as the North American landmass drifted away.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=1.7-Billion-Year-Old+Chunk+of+North+America+Found+Sticking+To+Australia%3A+http%3A%2F%2Fbit.ly%2F2BpqHEQ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F24%2F0516231%2F17-billion-year-old-chunk-of-north-america-found-sticking-to-australia%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/24/0516231/17-billion-year-old-chunk-of-north-america-found-sticking-to-australia?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/24/0516231/17-billion-year-old-chunk-of-north-america-found-sticking-to-australia?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11652207&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Q5YpQjuOn0k" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-24T13:00:00+00:00</dc:date>
+<dc:subject>australia</dc:subject>
+<slash:department>broken-apart</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,77,60,55,8,6,4</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/24/0516231/17-billion-year-old-chunk-of-north-america-found-sticking-to-australia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/23/2258232/official-no-one-is-going-to-win-the-google-lunar-x-prize-competition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Official: No One Is Going To Win the Google Lunar X Prize Competition</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/F15siXPerfs/official-no-one-is-going-to-win-the-google-lunar-x-prize-competition</link>
+<description>The X Prize Foundation announced today that no one is going to win the foundation's competition to send a spacecraft to the Moon. "Only five finalists remained in the Google-sponsored Lunar X Prize competition, and in order to win any grand prize money, the teams had to launch and complete their missions to the Moon before March 31st, 2018," reports The Verge. "But with only two months until the deadline, no team is ready to launch, so Google will keep the prize money instead." From the report: The Google Lunar X Prize was established in 2007 as a way to help lower the cost of getting to space. So far, only government agencies have landed on the lunar surface, with missions that have cost many millions and even billions of dollars. That's why the X Prize Foundation, which sets up global competitions, challenged teams with developing and launching robotic lunar landers using mostly private funding. The idea was to make them come up with creative methods for getting to the Moon on the cheap. Landing on the lunar surface was only part of the challenge. Teams had to travel up to 1,640 feet (500 meters) on the Moon too, as well as do live broadcasts. The first to fulfill all these requirements before the deadline would receive $20 million, while the second place team would get $5 million. Other smaller purses would be awarded to teams that did special tasks, such as completing an orbit around the Moon before landing. "As a result of this competition, we have sparked the conversation and changed expectations with regard to who can land on the Moon," the X Prize Foundation said in its statement. "Many now believe it's no longer the sole purview of a few government agencies, but now may be achieved by small teams of entrepreneurs, engineers, and innovators from around the world." A Google spokesperson also told CNBC that the company is "thrilled with the progress made by these teams over the last ten years."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Official%3A+No+One+Is+Going+To+Win+the+Google+Lunar+X+Prize+Competition%3A+http%3A%2F%2Fbit.ly%2F2n8uO3g"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F23%2F2258232%2Fofficial-no-one-is-going-to-win-the-google-lunar-x-prize-competition%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/23/2258232/official-no-one-is-going-to-win-the-google-lunar-x-prize-competition?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/23/2258232/official-no-one-is-going-to-win-the-google-lunar-x-prize-competition?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11651593&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/F15siXPerfs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-24T10:00:00+00:00</dc:date>
+<dc:subject>google</dc:subject>
+<slash:department>money-back-guaranteed</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,27,5,4,2,1,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/23/2258232/official-no-one-is-going-to-win-the-google-lunar-x-prize-competition?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/23/226256/half-assed-solar-geoengineering-is-worse-than-climate-change-itself?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Half-Assed Solar Geoengineering Is Worse Than Climate Change Itself</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PTT9zASYjKU/half-assed-solar-geoengineering-is-worse-than-climate-change-itself</link>
+<description>New submitter beccaf writes: Ecologists and climate scientists investigated the consequences of rapid initiation of solar geoengineering (pumping sulfuric aerosols into the atmosphere) in 2020 and then rapid termination of this solar geoengineering fifty years later. It provides only short-term benefits to biodiversity, and, if stopped abruptly, temperatures will soar faster than they would with climate change alone and the consequences to all living things will be even worse than if humans had never interfered in Earth's natural processes at all. The study has been published in the journal Nature Ecology &amp;amp; Evolution. Rebecca Flowers via Motherboard summarizes the effects of solar geoengineering, according to research conducted by Christopher Trisos, an ecologist at the National Socio-Environmental Synthesis Center, and his colleagues: "Initially, organisms stop having to change habitats in response to rising temperatures. Highly mobile species that had already moved, like migratory birds, might return to their original ecosystems, and species that were too slow to move before, like corals, have a higher chance of survival than they did before the geoengineering project began. After mere decades, though, living things in highly biodiverse areas like the Amazon Basin have to start moving again, as much as they would have to in a non-geoengineering scenario." "Suddenly, it's 2070," Flowers continues. "Governments begin to disagree on how to handle climate change, and, besides, they can no longer afford to pump aerosols into the atmosphere. As a result, we stop pumping aerosols into the atmosphere. Then things really go to hell. The amount of warming that would have happened without geoengineering over fifty years is essentially squished into a decade..."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Half-Assed+Solar+Geoengineering+Is+Worse+Than+Climate+Change+Itself%3A+http%3A%2F%2Fbit.ly%2F2Bq66jN"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F23%2F226256%2Fhalf-assed-solar-geoengineering-is-worse-than-climate-change-itself%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/23/226256/half-assed-solar-geoengineering-is-worse-than-climate-change-itself?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/23/226256/half-assed-solar-geoengineering-is-worse-than-climate-change-itself?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11651511&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PTT9zASYjKU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-24T07:00:00+00:00</dc:date>
+<dc:subject>earth</dc:subject>
+<slash:department>A-for-effort</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>142</slash:comments>
+<slash:hit_parade>142,134,75,67,16,9,5</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/23/226256/half-assed-solar-geoengineering-is-worse-than-climate-change-itself?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/23/2241241/the-us-drops-out-of-the-top-10-in-innovation-ranking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The US Drops Out of the Top 10 In Innovation Ranking</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ZzSqNwNruzU/the-us-drops-out-of-the-top-10-in-innovation-ranking</link>
+<description>An anonymous reader quotes a report from Bloomberg: The U.S. dropped out of the top 10 in the 2018 Bloomberg Innovation Index for the first time in the six years the gauge has been compiled. South Korea and Sweden retained their No. 1 and No. 2 rankings. The index scores countries using seven criteria, including research and development spending and concentration of high-tech public companies. The U.S. fell to 11th place from ninth mainly because of an eight-spot slump in the post-secondary, or tertiary, education-efficiency category, which includes the share of new science and engineering graduates in the labor force. Value-added manufacturing also declined. Improvement in the productivity score couldn't make up for the lost ground.
+ 
+South Korea remained the global-innovation gold medalist for the fifth consecutive year. China moved up two spots to 19th, buoyed by its high proportion of new science and engineering graduates in the labor force and increasing number of patents by innovators such as Huawei Technologies Co. Japan, one of three Asian nations in the top 10, rose one slot to No. 6. France moved up to ninth from 11th, joining five other European economies in the top tier. Israel rounded out this group and was the only country to beat South Korea in the R&amp;amp;D category. South Africa and Iran moved back into the top 50; the last time both were included was 2014. Turkey was one of the biggest gainers, jumping four spots to 33rd because of improvements in tertiary efficiency, productivity and two other categories. The biggest losers were New Zealand and Ukraine, which each dropped four places. The productivity measure influenced New Zealand's shift, while Ukraine was hurt by a lower tertiary-efficiency ranking.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+US+Drops+Out+of+the+Top+10+In+Innovation+Ranking%3A+http%3A%2F%2Fbit.ly%2F2E3RGJi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F23%2F2241241%2Fthe-us-drops-out-of-the-top-10-in-innovation-ranking%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/23/2241241/the-us-drops-out-of-the-top-10-in-innovation-ranking?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/23/2241241/the-us-drops-out-of-the-top-10-in-innovation-ranking?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11651565&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ZzSqNwNruzU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-24T03:30:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>innovation-index</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>315</slash:comments>
+<slash:hit_parade>315,300,171,140,43,20,10</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/23/2241241/the-us-drops-out-of-the-top-10-in-innovation-ranking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/23/2223249/elon-musk-to-stay-at-tesla-for-another-decade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Elon Musk To Stay At Tesla For Another Decade</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/hlElywbvEm4/elon-musk-to-stay-at-tesla-for-another-decade</link>
+<description>Thelasko writes: "On Tuesday, Tesla's board announced that it had convinced Musk to stay at the helm for another decade with a truly gargantuan performance-based pay package," reports Ars Technica. The pay package is in a series of 12 milestones based on market capitalization. [The report notes the possibility that Musk could get nothing for a decade's work as Tesla's CEO if the company's stock never rises above $100 billion. However, Musk will get awarded with $1 billion -- 1 percent of the company's stock -- if the stock reaches a value of $100 billion and the company either achieves revenues of $20 billion or earnings of $1.5 billion.] "If the stock rises to $150 billion (and Musk reaches another revenue or profit target), Musk gets another 1 percent of the stock, which will be worth $1.5 billion," reports Ars. "That pattern continues in $50 billion increments until Tesla's stock rises above $650 billion -- at which point Musk will get a stock award worth $6.5 billion. Musk's stock awards will total $45 billion if he hits all 12 milestones." I guess Musk will have to wait to move to Mars until 2028...&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Elon+Musk+To+Stay+At+Tesla+For+Another+Decade%3A+http%3A%2F%2Fbit.ly%2F2BoCpjd"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F23%2F2223249%2Felon-musk-to-stay-at-tesla-for-another-decade%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/23/2223249/elon-musk-to-stay-at-tesla-for-another-decade?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/23/2223249/elon-musk-to-stay-at-tesla-for-another-decade?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11651539&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/hlElywbvEm4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-24T02:03:00+00:00</dc:date>
+<dc:subject>money</dc:subject>
+<slash:department>money-talks</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,82,42,34,13,6,5</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/23/2223249/elon-musk-to-stay-at-tesla-for-another-decade?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

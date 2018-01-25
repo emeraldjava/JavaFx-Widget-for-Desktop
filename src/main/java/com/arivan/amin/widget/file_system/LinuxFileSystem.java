@@ -38,8 +38,7 @@ public class LinuxFileSystem implements FileSystem
     private FileSystemItem createItemFromLine (String line)
     {
         List<String> splitList = List.of(line.split(" "));
-        String percent = splitList.get(4);
-        percent = percent.replace("%", "");
+        String percent = splitList.get(4).replace("%", "");
         double usedPercentage = Double.parseDouble(percent) / 100;
         return FileSystemItem
                 .newInstance(splitList.get(5), splitList.get(1), splitList.get(2), splitList.get(3),
@@ -49,9 +48,14 @@ public class LinuxFileSystem implements FileSystem
     @Override
     public List<FileSystemItem> partitions ()
     {
-        List<String> lines = List.of(data.split("\n")).stream().filter(s -> s.startsWith("/dev/"))
+        return List.of(data.split("\n")).stream().filter(s -> s.startsWith("/dev/"))
+                .map(e -> EXTRA_SPACE.matcher(e).replaceAll(" ")).map(this::createItemFromLine)
                 .collect(Collectors.toList());
-        return lines.stream().map(e -> EXTRA_SPACE.matcher(e).replaceAll(" "))
-                .map(this::createItemFromLine).collect(Collectors.toList());
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "LinuxFileSystem{" + "data='" + data + '\'' + '}';
     }
 }
