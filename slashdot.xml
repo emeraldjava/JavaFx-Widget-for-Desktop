@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-26T08:45:11+00:00</dc:date>
+<dc:date>2018-01-26T16:28:10+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,12 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -25,12 +31,6 @@
   <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/25/2221252/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/25/2133202/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/25/2110201/the-legislative-fight-over-loot-boxes-expands-to-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://politics.slashdot.org/story/18/01/25/1938222/tech-firms-let-russia-probe-software-widely-used-by-us-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/25/1523235/scientists-calculate-carbon-emissions-of-your-sandwich?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://slashdot.org/story/18/01/25/1736236/the-worlds-first-graphical-ai-interface?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/25/199255/the-doomsday-clock-just-ticked-closer-to-midnight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/25/188239/apples-whats-a-computer-ad-is-annoying-people-business-insider?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/25/1752209/san-jose-mayor-quits-fcc-advisory-committee-says-it-is-dealing-isps-a-very-favorable-hand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,126 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ubuntu 18.04 LTS Will Default To The X.Org Stack, Not Wayland</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lac3Q8eBt9c/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland</link>
+<description>An anonymous reader writes: Five years after their original goal to ship Ubuntu with Wayland, Ubuntu 17.10 transitioned to using the Wayland display system by default as part of their transition to GNOME Shell as the default desktop. But with the upcoming Ubuntu 18.04 LTS release, Canonical has decided to transition back to the X.Org Server. Their reasoning for moving to an X.Org Server by default is better support for screen sharing, remote desktop, and better recovery from crashes. But for those interested the Wayland session will still be available as a log-in option.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ubuntu+18.04+LTS+Will+Default+To+The+X.Org+Stack%2C+Not+Wayland%3A+http%3A%2F%2Fbit.ly%2F2nfiGxt"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F26%2F1437212%2Fubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664161&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lac3Q8eBt9c" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-26T16:00:00+00:00</dc:date>
+<dc:subject>ubuntu</dc:subject>
+<slash:department>tough-calls</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>20</slash:comments>
+<slash:hit_parade>20,20,11,9,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Washington Bill Makes It Illegal To Sell Gadgets Without Replaceable Batteries</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/w6OSgkePP9Q/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries</link>
+<description>Jason Koebler writes: A bill that would make it easier to fix your electronics is rapidly hurtling through the Washington state legislature. The bill's ascent is fueled by Apple's iPhone-throttling controversy, which has placed a renewed focus on the fact that our electronics have become increasingly difficult to repair. Starting in 2019, the bill would ban the sale of electronics that are designed "in such a way as to prevent reasonable diagnostic or repair functions by an independent repair provider. Preventing reasonable diagnostic or repair functions includes permanently affixing a battery in a manner that makes it difficult or impossible to remove."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Washington+Bill+Makes+It+Illegal+To+Sell+Gadgets+Without+Replaceable+Batteries%3A+http%3A%2F%2Fbit.ly%2F2BvvUvd"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F26%2F1514202%2Fwashington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664255&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/w6OSgkePP9Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-26T15:20:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>right-to-repair</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>113</slash:comments>
+<slash:hit_parade>113,113,69,56,7,5,2</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Intel Plans To Release Chips That Have Built-in Meltdown and Spectre Protections Later This Year</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8l3-duuiVbE/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year</link>
+<description>Intel plans to release chips that have built-in protections against the Spectre and Meltdown attacks later this year, company CEO Brian Krzanich said during company's quarterly earnings call this week. From a report: The company has "assigned some of our very best minds" to work on addressing the vulnerability that's exploited by those attacks, Krzanich said on a conference call following Intel's quarterly earnings announcement. That will result in "silicon-based" changes to the company's future chips, he said. "We've been working around clock" to address the vulnerability and attacks, Krzanich said. But, he added, "we're acutely aware we have more to do."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Plans+To+Release+Chips+That+Have+Built-in+Meltdown+and+Spectre+Protections+Later+This+Year%3A+http%3A%2F%2Fbit.ly%2F2BvZPDb"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F26%2F1425245%2Fintel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8l3-duuiVbE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-26T14:40:00+00:00</dc:date>
+<dc:subject>intel</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,66,32,26,9,6,3</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ford Has An Idea For An Autonomous Police Car That Could Find A Hiding Spot</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/QsGFt8Qil80/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot</link>
+<description>Ford has submitted a patent application to the U.S. Patent and Trademark Office for an autonomous police car that could function "in lieu of or in addition to human police officers." From a report: Now, companies always file patents for technology that may never get made, but an autonomous police cruiser seems like the logical conclusion to the development self-driving cars. But damn is it weird to read about. The patent, describes how the hypothetical car would rely on artificial intelligence and use "on-board speed detection equipment, cameras, and [it would] communicate with other devices in the area such as stationary speed cameras."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ford+Has+An+Idea+For+An+Autonomous+Police+Car+That+Could+Find+A+Hiding+Spot%3A+http%3A%2F%2Fbit.ly%2F2DFmymr"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F26%2F1311223%2Fford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11663987&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/QsGFt8Qil80" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-26T14:00:00+00:00</dc:date>
+<dc:subject>robot</dc:subject>
+<slash:department>who-writes-the-ticket?</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,67,43,41,2,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Burger King Makes the Case For Net Neutrality</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/du7p90r9dYg/burger-king-makes-the-case-for-net-neutrality</link>
+<description>An anonymous reader writes: By now you've probably seen Burger King's spoof ad on the decision by the U.S. Federal Communications Commission to repeal net neutrality. In the ad, Burger King customers are informed that there are now three "lanes" for ordering Whoppers -- each with substantially different prices and waiting times. The ad has already generated over a million views on Youtube and is lighting up Twitter. One thing I missed the first time is that while the Burger King "counter service" is clearly in on the act, the customers are apparently real; they learn of the cockamamie scheme at the counter in the style of the old TV show Candid Camera. Variety notes that the video "ends with an apparent dig at FCC Chairman Ajit Pai [...] as the Burger King character is shown drinking from an oversized Reese's coffee mug. That is the type of coffee mug that Pai uses at FCC meetings."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Burger+King+Makes+the+Case+For+Net+Neutrality%3A+http%3A%2F%2Fbit.ly%2F2DFnebp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F25%2F2359235%2Fburger-king-makes-the-case-for-net-neutrality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662397&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/du7p90r9dYg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-26T13:00:00+00:00</dc:date>
+<dc:subject>advertising</dc:subject>
+<slash:department>everyone-has-a-voice</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>132</slash:comments>
+<slash:hit_parade>132,126,79,71,17,9,3</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>China Is Quickly Switching From Pirating To Streaming</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ym_Z2gzURCE/china-is-quickly-switching-from-pirating-to-streaming</link>
+<description>hackingbear shares a report from CNN: Not so long ago, China was an oasis for pirated music and videos. CDs and DVDs were easily copied and sold for cheap at roadside markets. If you had a computer and an internet connection, top selling albums and Hollywood movies were widely available for free online. That's changing fast as new technologies such as the convenient WeChat payment and a long-running crackdown on pirated content mean members of the country's growing, smartphone-wielding middle class are increasingly willing to pay to stream videos and music online. "When you have to spend two-to-three hours digging up pirated content, users are willing to pay a [small] amount of money to get non-pirated content," said Karen Chan, an analyst with research firm Jefferies. Across major Chinese video platforms, the monthly fee is about 20 yuan ($3); streaming music is even cheaper, ranging from 8 to 15 yuan ($1-$2) per month. Compare that with a basic monthly Netflix subscription in the U.S. at $8, or a Spotify one at $10. The rapid spread of digital payment platforms like Tencent's WeChat Pay and Alibaba-affiliated Alipay has also played a role, according to Xue Yu, an analyst with research firm IDC. The platforms created a market of young Chinese consumers comfortable with buying goods and services for a few yuan online, Xue said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=China+Is+Quickly+Switching+From+Pirating+To+Streaming%3A+http%3A%2F%2Fbit.ly%2F2Eb0Ovv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F25%2F2345251%2Fchina-is-quickly-switching-from-pirating-to-streaming%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662379&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ym_Z2gzURCE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-26T10:00:00+00:00</dc:date>
+<dc:subject>china</dc:subject>
+<slash:department>don't-blink</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,56,31,28,5,2,2</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Microbes May Help Astronauts Transform Human Waste Into Food</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uH7wxsKG7yI/microbes-may-help-astronauts-transform-human-waste-into-food</link>
@@ -58,8 +178,8 @@
 <dc:subject>medicine</dc:subject>
 <slash:department>better-out-than-in</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>30</slash:comments>
-<slash:hit_parade>30,27,16,13,2,0,0</slash:hit_parade>
+<slash:comments>76</slash:comments>
+<slash:hit_parade>76,70,37,32,6,2,1</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Plastic Pollution Is Killing Coral Reefs, 4-Year Study Finds</title>
@@ -78,8 +198,8 @@
 <dc:subject>earth</dc:subject>
 <slash:department>wrapped-in-plastic</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>45</slash:comments>
-<slash:hit_parade>45,41,26,18,5,1,0</slash:hit_parade>
+<slash:comments>71</slash:comments>
+<slash:hit_parade>71,68,39,31,9,4,2</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Researchers Warn of Physics-Based Attacks On Sensors</title>
@@ -100,8 +220,8 @@
 <dc:subject>security</dc:subject>
 <slash:department>heads-up-seven-up</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>53</slash:comments>
-<slash:hit_parade>53,49,31,30,9,2,0</slash:hit_parade>
+<slash:comments>76</slash:comments>
+<slash:hit_parade>76,69,44,40,13,9,3</slash:hit_parade>
 <feedburner:origLink>https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple Prepares MacOS Users For Discontinuation of 32-Bit App Support</title>
@@ -120,8 +240,8 @@
 <dc:subject>os</dc:subject>
 <slash:department>no-compromises</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>68</slash:comments>
-<slash:hit_parade>68,68,33,31,9,1,1</slash:hit_parade>
+<slash:comments>140</slash:comments>
+<slash:hit_parade>140,140,88,84,24,9,3</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Jack White Bans Cellphones At Concerts For '100% Human Experience'</title>
@@ -140,8 +260,8 @@
 <dc:subject>cellphones</dc:subject>
 <slash:department>phone-free</slash:department>
 <slash:section>mobile</slash:section>
-<slash:comments>134</slash:comments>
-<slash:hit_parade>134,132,73,43,15,7,5</slash:hit_parade>
+<slash:comments>226</slash:comments>
+<slash:hit_parade>226,221,137,106,28,16,11</slash:hit_parade>
 <feedburner:origLink>https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Former Employees Say Lyft Staffers Spied On Passengers</title>
@@ -160,8 +280,8 @@
 <dc:subject>privacy</dc:subject>
 <slash:department>location-services</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>22</slash:comments>
-<slash:hit_parade>22,22,14,14,2,2,1</slash:hit_parade>
+<slash:comments>27</slash:comments>
+<slash:hit_parade>27,27,16,15,4,2,2</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://tech.slashdot.org/story/18/01/25/2221252/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>PSA: Google Chrome Now Lets You Permanently Mute Websites That Autoplay Videos</title>
@@ -180,8 +300,8 @@
 <dc:subject>chrome</dc:subject>
 <slash:department>sanity-saving-features</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>68</slash:comments>
-<slash:hit_parade>68,68,36,33,12,7,2</slash:hit_parade>
+<slash:comments>82</slash:comments>
+<slash:hit_parade>82,79,42,40,15,8,8</slash:hit_parade>
 <feedburner:origLink>https://tech.slashdot.org/story/18/01/25/2221252/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/25/2133202/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>CNN Shutters Casey Neistat's Video Company Beme, Which It Bought 14 Months Ago For $25 Million</title>
@@ -200,8 +320,8 @@
 <dc:subject>business</dc:subject>
 <slash:department>short-and-sweet</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>38</slash:comments>
-<slash:hit_parade>38,38,23,20,7,3,2</slash:hit_parade>
+<slash:comments>49</slash:comments>
+<slash:hit_parade>49,49,30,27,10,3,2</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/25/2133202/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://games.slashdot.org/story/18/01/25/2110201/the-legislative-fight-over-loot-boxes-expands-to-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>The Legislative Fight Over Loot Boxes Expands To Washington State</title>
@@ -222,129 +342,9 @@ The bill text puts specific focus on the question of whether children who "may b
 <dc:subject>communications</dc:subject>
 <slash:department>randomized-department-name</slash:department>
 <slash:section>games</slash:section>
-<slash:comments>89</slash:comments>
-<slash:hit_parade>89,85,47,41,12,5,2</slash:hit_parade>
+<slash:comments>116</slash:comments>
+<slash:hit_parade>116,111,59,52,16,6,3</slash:hit_parade>
 <feedburner:origLink>https://games.slashdot.org/story/18/01/25/2110201/the-legislative-fight-over-loot-boxes-expands-to-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://politics.slashdot.org/story/18/01/25/1938222/tech-firms-let-russia-probe-software-widely-used-by-us-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Tech Firms Let Russia Probe Software Widely Used by US Government</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/px1WzjtEcOE/tech-firms-let-russia-probe-software-widely-used-by-us-government</link>
-<description>Major global technology providers SAP, Symantec, and McAfee have allowed Russian authorities to hunt for vulnerabilities in software deeply embedded across the U.S. government, Reuters reported on Thursday. From the report: The practice potentially jeopardizes the security of computer networks in at least a dozen federal agencies, U.S. lawmakers and security experts said. It involves more companies and a broader swath of the government than previously reported. In order to sell in the Russian market, the tech companies let a Russian defense agency scour the inner workings, or source code, of some of their products. Russian authorities say the reviews are necessary to detect flaws that could be exploited by hackers. But those same products protect some of the most sensitive areas of the U.S government, including the Pentagon, NASA, the State Department, the FBI and the intelligence community, against hacking by sophisticated cyber adversaries like Russia.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Tech+Firms+Let+Russia+Probe+Software+Widely+Used+by+US+Government%3A+http%3A%2F%2Fbit.ly%2F2E931I7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F18%2F01%2F25%2F1938222%2Ftech-firms-let-russia-probe-software-widely-used-by-us-government%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://politics.slashdot.org/story/18/01/25/1938222/tech-firms-let-russia-probe-software-widely-used-by-us-government?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://politics.slashdot.org/story/18/01/25/1938222/tech-firms-let-russia-probe-software-widely-used-by-us-government?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662053&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/px1WzjtEcOE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-25T21:20:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>politics</slash:section>
-<slash:comments>92</slash:comments>
-<slash:hit_parade>92,84,46,33,11,5,4</slash:hit_parade>
-<feedburner:origLink>https://politics.slashdot.org/story/18/01/25/1938222/tech-firms-let-russia-probe-software-widely-used-by-us-government?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/25/1523235/scientists-calculate-carbon-emissions-of-your-sandwich?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Scientists Calculate Carbon Emissions of Your Sandwich</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/DNPGuXI_9fQ/scientists-calculate-carbon-emissions-of-your-sandwich</link>
-<description>An anonymous reader shares a report: It's a staple of the British diet and a popular choice for a quick and easy lunch. But new research reveals the carbon footprint of the humble sandwich could be fuelling harmful greenhouse emissions. The worst offender is revealed as the ready-made "all-day breakfast" sandwich, crammed with egg, bacon and sausage. Researchers at the University of Manchester carried out the first ever study of the carbon footprint of sandwiches -- both home-made and ready-made. They considered the entire life cycle of sandwiches, including the production of ingredients, packaging, refrigeration and food waste. The team scrutinised 40 different sandwich types, recipes and combinations and found the highest carbon footprints for the sandwiches containing pork meat (bacon, ham or sausages) and also those filled with cheese or prawns. The researchers estimate that a ready-made (and highly calorific) all-day breakfast sandwich generates 1441g of carbon dioxide equivalent -- equal to the emissions created by driving a car for 12 miles (19km).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Calculate+Carbon+Emissions+of+Your+Sandwich%3A+http%3A%2F%2Fbit.ly%2F2E9rixI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F25%2F1523235%2Fscientists-calculate-carbon-emissions-of-your-sandwich%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/25/1523235/scientists-calculate-carbon-emissions-of-your-sandwich?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/25/1523235/scientists-calculate-carbon-emissions-of-your-sandwich?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11661453&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/DNPGuXI_9fQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-25T20:40:00+00:00</dc:date>
-<dc:subject>science</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>213</slash:comments>
-<slash:hit_parade>213,208,120,98,24,7,6</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/25/1523235/scientists-calculate-carbon-emissions-of-your-sandwich?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://slashdot.org/story/18/01/25/1736236/the-worlds-first-graphical-ai-interface?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The World's First Graphical AI Interface</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AKYGVsJVfNE/the-worlds-first-graphical-ai-interface</link>
-<description>FastCompany reports: Machine learning and artificial intelligence are so difficult to understand, only a few very smart computer scientists know how to build them. But the designers of a new tool have a big ambition: to create the Javascript for AI. The tool, called Cortex, uses a graphical user interface to make it so that building an AI model doesn't require a PhD. The honeycomb-like interface, designed by Mark Rolston of Argodesign, enables developers -- and even designers -- to use premade AI "skills," as Rolston describes them, that can do things like sentiment analysis or natural language processing. They can then drag and drop these skills into an interface that shows the progression of the model. The key? Using a visual layout to organize the system makes it more accessible to non-scientists.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+World's+First+Graphical+AI+Interface%3A+http%3A%2F%2Fbit.ly%2F2naHkPz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F25%2F1736236%2Fthe-worlds-first-graphical-ai-interface%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/25/1736236/the-worlds-first-graphical-ai-interface?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/25/1736236/the-worlds-first-graphical-ai-interface?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11661787&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AKYGVsJVfNE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-25T20:01:00+00:00</dc:date>
-<dc:subject>ai</dc:subject>
-<slash:department>simplifying-things</slash:department>
-<slash:section>slashdot</slash:section>
-<slash:comments>38</slash:comments>
-<slash:hit_parade>38,38,21,17,7,2,1</slash:hit_parade>
-<feedburner:origLink>https://slashdot.org/story/18/01/25/1736236/the-worlds-first-graphical-ai-interface?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/25/199255/the-doomsday-clock-just-ticked-closer-to-midnight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Doomsday Clock Just Ticked Closer To Midnight</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/2fGx4wIIj7U/the-doomsday-clock-just-ticked-closer-to-midnight</link>
-<description>Scientists moved the hands of the symbolic "Doomsday Clock" closer to midnight on Thursday amid increasing worries over nuclear weapons and climate change. From a report: The clock is now two minutes to midnight. "Because of the extraordinary danger of the current moment, the Science and Security Board today moves the minute hand of the Doomsday Clock 30 seconds closer to catastrophe," said Rachel Bronson, president of the Bulletin of the Atomic Scientists. "This is the closest the Clock has ever been to Doomsday, and as close as it was in 1953, at the height of the Cold War." Each year, the Bulletin of the Atomic Scientists, a non-profit group that sets the clock, decides whether the events of the previous year pushed humanity closer or farther from destruction. The symbolic clock is now the closest it's been to midnight since 1953. It was also two minutes to midnight in 1953 when the hydrogen bomb was first tested.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Doomsday+Clock+Just+Ticked+Closer+To+Midnight%3A+http%3A%2F%2Fbit.ly%2F2DDO9Ev"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F25%2F199255%2Fthe-doomsday-clock-just-ticked-closer-to-midnight%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/25/199255/the-doomsday-clock-just-ticked-closer-to-midnight?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/25/199255/the-doomsday-clock-just-ticked-closer-to-midnight?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11661989&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/2fGx4wIIj7U" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-25T19:20:00+00:00</dc:date>
-<dc:subject>science</dc:subject>
-<slash:department>stranger-things</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>257</slash:comments>
-<slash:hit_parade>257,250,152,130,33,18,13</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/25/199255/the-doomsday-clock-just-ticked-closer-to-midnight?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/25/188239/apples-whats-a-computer-ad-is-annoying-people-business-insider?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple's 'What's a Computer?' Ad is Annoying People: Business Insider</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VZYzmO7sEP8/apples-whats-a-computer-ad-is-annoying-people-business-insider</link>
-<description>Can an iPad replace your computer? It has been the topic of debate for years, with plenty of people advising against it. Apple sure begs to differ. It has been running a commercial in which it predicts a world where a computer is extinct and a child with an iPad doesn't even know what the word "computer" means. Business Insider reports that plenty of people are finding that commercial annoying. From the report: "Does this commercial tick anybody else off?" writes one commenter on a snippet of the commercial that was posted to Facebook. "I want to smack this kid. What's a computer? You know what a computer is you disrespectful smarta--!!" Plenty of other social media posts, some with thousands of retweets, have made the same observation.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple's+'What's+a+Computer%3F'+Ad+is+Annoying+People%3A+Business+Insider%3A+http%3A%2F%2Fbit.ly%2F2naVfW0"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F25%2F188239%2Fapples-whats-a-computer-ad-is-annoying-people-business-insider%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/25/188239/apples-whats-a-computer-ad-is-annoying-people-business-insider?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/25/188239/apples-whats-a-computer-ad-is-annoying-people-business-insider?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11661865&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VZYzmO7sEP8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-25T18:40:00+00:00</dc:date>
-<dc:subject>apple</dc:subject>
-<slash:department>what's-a-computer,-you-ask</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>465</slash:comments>
-<slash:hit_parade>465,458,293,240,66,36,23</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/25/188239/apples-whats-a-computer-ad-is-annoying-people-business-insider?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/25/1752209/san-jose-mayor-quits-fcc-advisory-committee-says-it-is-dealing-isps-a-very-favorable-hand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>San Jose Mayor Quits FCC Advisory Committee, Says It is Dealing ISPs a 'Very Favorable Hand'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/W1Yz6njZpTI/san-jose-mayor-quits-fcc-advisory-committee-says-it-is-dealing-isps-a-very-favorable-hand</link>
-<description>San Jose Mayor Sam Liccardo resigned today from a panel that advises the Federal Communications Commission on broadband deployment, alleging that the committee is dealing internet service providers "a very favorable hand" of policy recommendations, Axios reports. From the report: The Broadband Deployment Advisory Committee is a key element of Republican FCC Chairman Ajit Pai's priority of making sure broadband internet reaches all Americans. "It has become abundantly clear that despite the good intentions of several participants, the industry-heavy makeup of BDAC will simply relegate the body to being a vehicle for advancing the interests of the telecommunications industry over those of the public," said Liccardo, a Democrat, in his resignation letter. He told Axios that he thought that the committee's draft recommendations were trying to "steamroll cities" in favor of industry access to infrastructure. He pointed to a draft model law that would give states power over permitting for wireless broadband infrastructure at the expense, Liccardo says, of cities' interests.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=San+Jose+Mayor+Quits+FCC+Advisory+Committee%2C+Says+It+is+Dealing+ISPs+a+'Very+Favorable+Hand'%3A+http%3A%2F%2Fbit.ly%2F2nexPii"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F25%2F1752209%2Fsan-jose-mayor-quits-fcc-advisory-committee-says-it-is-dealing-isps-a-very-favorable-hand%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/25/1752209/san-jose-mayor-quits-fcc-advisory-committee-says-it-is-dealing-isps-a-very-favorable-hand?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/25/1752209/san-jose-mayor-quits-fcc-advisory-committee-says-it-is-dealing-isps-a-very-favorable-hand?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11661811&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/W1Yz6njZpTI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-25T18:00:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>major-claims</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>95</slash:comments>
-<slash:hit_parade>95,84,41,27,12,9,3</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/25/1752209/san-jose-mayor-quits-fcc-advisory-committee-says-it-is-dealing-isps-a-very-favorable-hand?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

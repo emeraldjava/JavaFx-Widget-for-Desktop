@@ -59,7 +59,6 @@ public class ApplicationMain extends Application
     
     private void setStageProperties (Stage primaryStage)
     {
-        setStageChangeListeners(primaryStage);
         primaryStage.initStyle(StageStyle.UTILITY);
         primaryStage.setTitle("JavaFx Widget");
         addMaximizedListenerToStage(primaryStage);
@@ -68,6 +67,7 @@ public class ApplicationMain extends Application
         primaryStage.setX(properties.getStageX());
         primaryStage.setY(properties.getStageY());
         primaryStage.getIcons().add(new Image("widget icon.png"));
+        setStageChangeListeners(primaryStage);
         primaryStage.show();
     }
     
@@ -100,11 +100,8 @@ public class ApplicationMain extends Application
     
     private void storePropertyValues (Stage primaryStage)
     {
-        // todo application y value is set to zero in this method
-        // System.out.println(" before probable bug " + properties.getStageY());
         properties.setWidth((int) scene.widthProperty().get());
         properties.setHeight((int) scene.heightProperty().get());
-        // System.out.println("stage y is " + primaryStage.yProperty().get());
         properties.setStageX((int) primaryStage.xProperty().get());
         properties.setStageY((int) primaryStage.yProperty().get());
         properties.storeValues();

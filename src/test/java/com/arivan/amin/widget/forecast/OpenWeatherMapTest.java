@@ -13,6 +13,7 @@ public class OpenWeatherMapTest
     public void setUp () throws Exception
     {
         weatherData = OpenWeatherMap.newInstance(TextFileWeatherProvider.newInstance());
+        weatherData.updateWeatherData();
     }
     
     @After

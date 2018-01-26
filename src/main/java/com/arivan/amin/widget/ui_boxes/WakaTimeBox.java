@@ -18,6 +18,7 @@ public class WakaTimeBox extends VBox
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final ImageView codingImageView;
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private WakaTimeBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         // todo implement a way to show data from wakatime, coding activity image is taking to much space
@@ -45,5 +46,11 @@ public class WakaTimeBox extends VBox
     private void updateImage ()
     {
         codingImageView.setImage(new Image(CODING_IMAGE_URL));
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "WakaTimeBox{" + "codingImageView=" + codingImageView + '}';
     }
 }

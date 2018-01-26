@@ -63,8 +63,8 @@ public class SlashdotRssReader implements RssReader
         {
             URL url = new URL(SLASHDOT_URL);
             URLConnection connection = url.openConnection();
-            connection.setConnectTimeout(3000);
-            connection.setReadTimeout(3000);
+            connection.setReadTimeout(500);
+            connection.setConnectTimeout(500);
             InputStream stream = connection.getInputStream();
             Files.write(path, stream.readAllBytes());
         }

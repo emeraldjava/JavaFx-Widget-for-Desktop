@@ -2,6 +2,7 @@ package com.arivan.amin.widget.ui_boxes;
 
 import com.arivan.amin.widget.system_details.SystemDetailsPane;
 import javafx.animation.*;
+import javafx.application.Platform;
 import javafx.beans.property.DoubleProperty;
 import javafx.css.Styleable;
 import javafx.event.ActionEvent;
@@ -40,8 +41,11 @@ public class ClockBox extends VBox
     private void addItemsToBox (VBox dateTimeVBox)
     {
         setSpacing(BOX_SPACING);
-        getChildren().addAll(dateTimeVBox,
-                SystemDetailsPane.newInstance(prefWidthProperty(), prefHeightProperty()));
+        Platform.runLater(() ->
+        {
+            getChildren().addAll(dateTimeVBox,
+                    SystemDetailsPane.newInstance(prefWidthProperty(), prefHeightProperty()));
+        });
     }
     
     private void bindDateTimeBoxToParent (VBox dateTimeVBox)
@@ -64,6 +68,7 @@ public class ClockBox extends VBox
         timeline.play();
     }
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private void bindBoxToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         prefWidthProperty().bind(parentWidth.multiply(BOX_WIDTH));

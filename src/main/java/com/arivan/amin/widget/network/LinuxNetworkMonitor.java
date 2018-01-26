@@ -11,6 +11,8 @@ public class LinuxNetworkMonitor implements NetworkMonitor
     private static final Pattern EXTRA_SPACE = Pattern.compile(" {2,}");
     private final Logger logger = Logger.getLogger(getClass().getName());
     private String data;
+    private long previousDownload;
+    private long previousUpload;
     
     private LinuxNetworkMonitor ()
     {
@@ -25,18 +27,66 @@ public class LinuxNetworkMonitor implements NetworkMonitor
     @Override
     public String downloadSpeed ()
     {
-        data = data.substring(data.indexOf("wlo"));
-        String mcast = "mcast";
-        data = data.substring(data.indexOf(mcast) + mcast.length(), data.indexOf("TX"));
-        data = EXTRA_SPACE.matcher(data).replaceAll(" ");
-        // System.out.println(data);
-        return "3 mbps";
+        String dataCopy = new String(data);
+        dataCopy = dataCopy.replace("\n", " ");
+        dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
+        String delimiter = "mcast";
+        dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length(),
+                dataCopy.indexOf("TX"));
+        dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(":");
+        String[] split = dataCopy.split(":");
+        long download = Long.parseLong(split[1]);
+        long bytes = download - previousDownload;
+        previousDownload = download;
+        return bytesIntoHumanReadable(bytes);
     }
     
     @Override
     public String uploadSpeed ()
     {
-        return "1 mbps";
+        String dataCopy = new String(data);
+        dataCopy = dataCopy.replace("\n", " ");
+        dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
+        String delimiter = "collsns";
+        dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length());
+        dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(":");
+        String[] split = dataCopy.split(":");
+        long upload = Long.parseLong(split[1]);
+        long bytes = upload - previousUpload;
+        previousUpload = upload;
+        return bytesIntoHumanReadable(bytes);
+    }
+    
+    private String bytesIntoHumanReadable (long bytes)
+    {
+        long kilobyte = 1024;
+        long megabyte = kilobyte * 1024;
+        long gigabyte = megabyte * 1024;
+        long terabyte = gigabyte * 1024;
+        if ((bytes >= 0) && (bytes < kilobyte))
+        {
+            return "0 KB";
+        }
+        else if ((bytes >= kilobyte) && (bytes < megabyte))
+        {
+            return (bytes / kilobyte) + " KB";
+        }
+        else if ((bytes >= megabyte) && (bytes < gigabyte))
+        {
+            return (bytes / megabyte) + " MB";
+        }
+        else if ((bytes >= gigabyte) && (bytes < terabyte))
+        {
+            return (bytes / gigabyte) + " GB";
+        }
+        else if (bytes >= terabyte)
+        {
+            return (bytes / terabyte) + " TB";
+        }
+        else
+        {
+            return bytes + " Bytes";
+        }
     }
     
     @Override
