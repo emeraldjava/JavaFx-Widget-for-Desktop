@@ -106,6 +106,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
     @Override
     public String toString ()
     {
-        return "LinuxNetworkMonitor{" + "data='" + data + '\'' + '}';
+        return "LinuxNetworkMonitor{" + "data='" + data + '\'' + ", previousDownload=" +
+                previousDownload + ", previousUpload=" + previousUpload + '}';
     }
 }

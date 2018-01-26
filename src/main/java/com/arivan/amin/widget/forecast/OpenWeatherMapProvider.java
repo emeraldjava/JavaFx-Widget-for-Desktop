@@ -32,8 +32,8 @@ public class OpenWeatherMapProvider implements WeatherProvider
         {
             URL url = new URL(WEATHER_PROVIDER_URL);
             URLConnection connection = url.openConnection();
-            connection.setReadTimeout(500);
-            connection.setConnectTimeout(500);
+            connection.setReadTimeout(1000);
+            connection.setConnectTimeout(1000);
             InputStream stream = connection.getInputStream();
             String data = new String(stream.readAllBytes(), StandardCharsets.UTF_8);
             Files.write(path, data.getBytes(StandardCharsets.UTF_8));

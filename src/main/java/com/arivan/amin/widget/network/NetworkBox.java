@@ -19,9 +19,9 @@ public class NetworkBox extends VBox
     
     private NetworkBox ()
     {
+        determineOperatingSystem();
         setAlignment(Pos.TOP_CENTER);
         setSpacing(10);
-        determineOperatingSystem();
         initializeAndAddFields();
         updateDataPeriodically();
     }

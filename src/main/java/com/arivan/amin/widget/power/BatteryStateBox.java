@@ -1,7 +1,9 @@
 package com.arivan.amin.widget.power;
 
 import com.arivan.amin.widget.connectivity.ConnectionStatusBox;
+import com.arivan.amin.widget.uptime.UptimeMonitorBox;
 import javafx.animation.*;
+import javafx.application.Platform;
 import javafx.beans.property.DoubleProperty;
 import javafx.event.ActionEvent;
 import javafx.geometry.Pos;
@@ -33,12 +35,16 @@ public class BatteryStateBox extends VBox
     
     private void addConnectionStatusBox ()
     {
-        getChildren().add(ConnectionStatusBox.newInstance());
+        getChildren().add(0, ConnectionStatusBox.newInstance());
+        Platform.runLater(() ->
+        {
+            getChildren().add(1, UptimeMonitorBox.newInstance());
+        });
     }
     
     private void setBoxPropertiesAndAddItems ()
     {
-        setSpacing(10);
+        setSpacing(15);
         setAlignment(Pos.TOP_CENTER);
         getChildren().addAll(new Label("Battery percentage"), batteryBar, stateLabel,
                 timeRemainingLabel);
@@ -49,7 +55,8 @@ public class BatteryStateBox extends VBox
         stateLabel = new Label();
         timeRemainingLabel = new Label();
         batteryBar = new ProgressBar();
-        batteryBar.prefWidthProperty().bind(prefWidthProperty().multiply(BATTERY_PROGRESS_BAR_WIDTH));
+        batteryBar.prefWidthProperty()
+                .bind(prefWidthProperty().multiply(BATTERY_PROGRESS_BAR_WIDTH));
     }
     
     private void bindBoxSizeToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)

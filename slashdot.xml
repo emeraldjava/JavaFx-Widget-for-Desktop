@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-26T16:28:10+00:00</dc:date>
+<dc:date>2018-01-26T18:21:09+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,6 +16,9 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
@@ -28,9 +31,6 @@
   <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/25/2221252/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/25/2133202/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/25/2110201/the-legislative-fight-over-loot-boxes-expands-to-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,66 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Genes that Your Parents Don't Pass To You Still Shape Who You Are, Study Finds </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Luau-DfHyDg/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds</link>
+<description>From a research paper published on ScienceMag journal on Friday: Children resemble their parents in health, wealth, and well-being. Is parent-child similarity in traits and behaviors due to nature (the genes that children inherit from their parents) or nurture (the environment that parents provide for their children)? Answering this enduring question can directly inform our efforts to reduce social inequality and disease burden. Kong et al. used genetic data from trios of parents and offspring to address this question in an intriguing way. By measuring parents' and children's genes, they provide evidence that inherited family environments influence children's educational success, a phenomenon termed genetic nurture. Specifically, Kong et al. show that the part of the parental genotype that children do not inherit can nonetheless predict children's educational attainment. This genetic nurture effect is an indirect link between parental genotypes and children's characteristics, not caused by the children's own biology but rather by the family environment that covaries with parental genes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Genes+that+Your+Parents+Don't+Pass+To+You+Still+Shape+Who+You+Are%2C+Study+Finds+%3A+http%3A%2F%2Fbit.ly%2F2DFSh6R"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F26%2F180214%2Fgenes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664635&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Luau-DfHyDg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-26T18:00:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>9</slash:comments>
+<slash:hit_parade>9,8,6,6,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Breaking Up Amazon, Google, Apple, and Facebook Could Save Capitalism, NYU Professor Says</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BO7OUM6ec84/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says</link>
+<description>An anonymous reader shares a VentureBeat report: If you want to get an idea of how quickly sentiment has shifted against U.S. tech giants, just listen to NYU professor Scott Galloway. [...] "After spending the majority of the last two years of my life really trying to understand them and the relationship of the ecosystem, I've become 100 percent convinced that it's time to break these companies up." It's an audacious claim from anyone, even more startling coming from someone who has been such a close and bullish observer of these tech giants. Yet for Galloway, it is clear that the four companies have simply become too big, and too powerful. "The premise of my book is that Amazon, Apple, Facebook, and Google are our new gods, our new source of love, our consumptive gods," he said. "And as a result of their ability to tap into these very basic instincts, they've aggregated more market cap than the majority of nation's GDP ... I think these entities are more powerful than any entity, with maybe the exception of China and the U.S." [...] Galloway said he wasn't making his argument based on many of the current emotional outcries against the companies, though these are important to note. And he proceeded to list what he considers to be these giants' numerous sins. "There are reasons to be angry at them," he said. "They basically power fake news ... So the notion that our platforms have been weaponized by the intelligence unit of a foreign adversary was initially responded to by Facebook as crazy, that we were crazy for thinking that. Then we found out it was millions of people, and now we're finding out it was hundreds of millions of people who were exposed."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Breaking+Up+Amazon%2C+Google%2C+Apple%2C+and+Facebook+Could+Save+Capitalism%2C+NYU+Professor+Says%3A+http%3A%2F%2Fbit.ly%2F2BvSSC8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F26%2F1648226%2Fbreaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664471&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BO7OUM6ec84" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-26T17:20:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>the-big-four</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,69,46,36,6,3,1</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Are the BSDs Dying? Some Security Researchers Think So</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VQwT4pProS0/are-the-bsds-dying-some-security-researchers-think-so</link>
+<description>itwbennett writes: The BSDs have lost the battle for mindshare to Linux, and that may well bode ill for the future sustainability of the BSDs as viable, secure operating systems, writes CSO's JM Porup. The reason why is a familiar refrain: more eyeballs mean more secure code. Porup cites the work of Ilja von Sprundel, director of penetration testing at IOActive, who, noting the "small number of reported BSD kernel vulnerabilities compared to Linux," dug into BSD source code. His search 'easily' turned up about 115 kernel bugs. Porup looks at the relative security of OpenBSD, FreeBSD and NetBSD, the effect on Mac OS, and why, despite FreeBSD's relative popularity, OpenBSD may be the most likely to survive.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Are+the+BSDs+Dying%3F+Some+Security+Researchers+Think+So%3A+http%3A%2F%2Fbit.ly%2F2BvyjG6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fbsd.slashdot.org%2Fstory%2F18%2F01%2F26%2F1636229%2Fare-the-bsds-dying-some-security-researchers-think-so%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664449&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VQwT4pProS0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-26T16:40:00+00:00</dc:date>
+<dc:subject>opensource</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>bsd</slash:section>
+<slash:comments>78</slash:comments>
+<slash:hit_parade>78,74,35,26,11,6,5</slash:hit_parade>
+<feedburner:origLink>https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ubuntu 18.04 LTS Will Default To The X.Org Stack, Not Wayland</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lac3Q8eBt9c/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland</link>
@@ -58,8 +118,8 @@
 <dc:subject>ubuntu</dc:subject>
 <slash:department>tough-calls</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>20</slash:comments>
-<slash:hit_parade>20,20,11,9,0,0,0</slash:hit_parade>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,69,51,43,18,7,5</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Washington Bill Makes It Illegal To Sell Gadgets Without Replaceable Batteries</title>
@@ -78,8 +138,8 @@
 <dc:subject>government</dc:subject>
 <slash:department>right-to-repair</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>113</slash:comments>
-<slash:hit_parade>113,113,69,56,7,5,2</slash:hit_parade>
+<slash:comments>240</slash:comments>
+<slash:hit_parade>240,239,167,144,33,10,9</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Intel Plans To Release Chips That Have Built-in Meltdown and Spectre Protections Later This Year</title>
@@ -98,8 +158,8 @@
 <dc:subject>intel</dc:subject>
 <slash:department>next-up</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,66,32,26,9,6,3</slash:hit_parade>
+<slash:comments>94</slash:comments>
+<slash:hit_parade>94,93,48,40,15,9,5</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Ford Has An Idea For An Autonomous Police Car That Could Find A Hiding Spot</title>
@@ -118,8 +178,8 @@
 <dc:subject>robot</dc:subject>
 <slash:department>who-writes-the-ticket?</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,67,43,41,2,0,0</slash:hit_parade>
+<slash:comments>88</slash:comments>
+<slash:hit_parade>88,88,59,54,2,0,0</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Burger King Makes the Case For Net Neutrality</title>
@@ -138,8 +198,8 @@
 <dc:subject>advertising</dc:subject>
 <slash:department>everyone-has-a-voice</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>132</slash:comments>
-<slash:hit_parade>132,126,79,71,17,9,3</slash:hit_parade>
+<slash:comments>170</slash:comments>
+<slash:hit_parade>170,164,101,92,22,14,14</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>China Is Quickly Switching From Pirating To Streaming</title>
@@ -158,8 +218,8 @@
 <dc:subject>china</dc:subject>
 <slash:department>don't-blink</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>60</slash:comments>
-<slash:hit_parade>60,56,31,28,5,2,2</slash:hit_parade>
+<slash:comments>71</slash:comments>
+<slash:hit_parade>71,67,37,34,5,3,2</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Microbes May Help Astronauts Transform Human Waste Into Food</title>
@@ -178,8 +238,8 @@
 <dc:subject>medicine</dc:subject>
 <slash:department>better-out-than-in</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>76</slash:comments>
-<slash:hit_parade>76,70,37,32,6,2,1</slash:hit_parade>
+<slash:comments>83</slash:comments>
+<slash:hit_parade>83,77,39,35,10,3,1</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Plastic Pollution Is Killing Coral Reefs, 4-Year Study Finds</title>
@@ -198,8 +258,8 @@
 <dc:subject>earth</dc:subject>
 <slash:department>wrapped-in-plastic</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>71</slash:comments>
-<slash:hit_parade>71,68,39,31,9,4,2</slash:hit_parade>
+<slash:comments>77</slash:comments>
+<slash:hit_parade>77,73,45,33,12,5,4</slash:hit_parade>
 <feedburner:origLink>https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Researchers Warn of Physics-Based Attacks On Sensors</title>
@@ -220,8 +280,8 @@
 <dc:subject>security</dc:subject>
 <slash:department>heads-up-seven-up</slash:department>
 <slash:section>it</slash:section>
-<slash:comments>76</slash:comments>
-<slash:hit_parade>76,69,44,40,13,9,3</slash:hit_parade>
+<slash:comments>78</slash:comments>
+<slash:hit_parade>78,71,44,40,14,9,3</slash:hit_parade>
 <feedburner:origLink>https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Apple Prepares MacOS Users For Discontinuation of 32-Bit App Support</title>
@@ -240,8 +300,8 @@
 <dc:subject>os</dc:subject>
 <slash:department>no-compromises</slash:department>
 <slash:section>apple</slash:section>
-<slash:comments>140</slash:comments>
-<slash:hit_parade>140,140,88,84,24,9,3</slash:hit_parade>
+<slash:comments>149</slash:comments>
+<slash:hit_parade>149,149,93,88,24,11,3</slash:hit_parade>
 <feedburner:origLink>https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Jack White Bans Cellphones At Concerts For '100% Human Experience'</title>
@@ -260,8 +320,8 @@
 <dc:subject>cellphones</dc:subject>
 <slash:department>phone-free</slash:department>
 <slash:section>mobile</slash:section>
-<slash:comments>226</slash:comments>
-<slash:hit_parade>226,221,137,106,28,16,11</slash:hit_parade>
+<slash:comments>248</slash:comments>
+<slash:hit_parade>248,240,152,117,34,18,13</slash:hit_parade>
 <feedburner:origLink>https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Former Employees Say Lyft Staffers Spied On Passengers</title>
@@ -280,71 +340,9 @@
 <dc:subject>privacy</dc:subject>
 <slash:department>location-services</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>27</slash:comments>
-<slash:hit_parade>27,27,16,15,4,2,2</slash:hit_parade>
+<slash:comments>28</slash:comments>
+<slash:hit_parade>28,28,16,14,4,4,2</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/25/2221252/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>PSA: Google Chrome Now Lets You Permanently Mute Websites That Autoplay Videos</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/WzvQIJK7UcE/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos</link>
-<description>Google is releasing a new version of Chrome this week and it includes a number of new features, such as an improved ad blocker and Spectre mitigations. The best new feature in Chrome 64 is the ability to permanently mute websites that autoplay videos. This feature was teased for several months, but now it's finally here. The Independent reports: To mute a site that automatically plays videos, users will need click the View Site Information symbol, which may look like a green padlock, on the left-hand edge of the omnibar -- the address bar combined with the Google search box. Then they will need to select Sound. Once the website is muted, it will not automatically play videos with sound again until you unmute it.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=PSA%3A+Google+Chrome+Now+Lets+You+Permanently+Mute+Websites+That+Autoplay+Videos%3A+http%3A%2F%2Fbit.ly%2F2DGhwpX"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F25%2F2221252%2Fpsa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/25/2221252/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/25/2221252/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662291&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/WzvQIJK7UcE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-25T23:20:00+00:00</dc:date>
-<dc:subject>chrome</dc:subject>
-<slash:department>sanity-saving-features</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>82</slash:comments>
-<slash:hit_parade>82,79,42,40,15,8,8</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/25/2221252/psa-google-chrome-now-lets-you-permanently-mute-websites-that-autoplay-videos?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/25/2133202/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>CNN Shutters Casey Neistat's Video Company Beme, Which It Bought 14 Months Ago For $25 Million</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_X4cIqvsTho/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million</link>
-<description>In late November 2016, CNN purchased YouTube star Casey Neistat's video-sharing app Beme for $25 million. The news network purchased the app in a bid to harness Neistat's (at the time) 6 million subscribers, with the hopes of turning the company into an independently operated daily online news show and a core part of CNN's offerings that would appeal to a younger demographic. Today, CNN has shut down Beme because Neistat was unable to figure out a viable strategy due to creative differences and sluggish process. He will be departing from CNN. The Verge reports: "I couldn't find answers. I would sort of disappear, and I would hide, and I would make YouTube videos for my channel because at least I would be able to yield something," Neistat told Buzzfeed News. "I don't think I'm giving CNN what I want to give them, and I don't think they're getting value from me." When CNN bought Beme, it said Neistat's company would focus on "timely and topical video and empowering content creators to use technology to find their voice." Beme currently employs 22 people, and CNN said it would re-employ most of the team, though some would lose their jobs. CNN plans to continue developing tech products developed by Beme, including an unreleased live-news app called Wire.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=CNN+Shutters+Casey+Neistat's+Video+Company+Beme%2C+Which+It+Bought+14+Months+Ago+For+%2425+Million%3A+http%3A%2F%2Fbit.ly%2F2ncPd7o"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F25%2F2133202%2Fcnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/25/2133202/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/25/2133202/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662237&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_X4cIqvsTho" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-25T22:40:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>short-and-sweet</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>49</slash:comments>
-<slash:hit_parade>49,49,30,27,10,3,2</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/25/2133202/cnn-shutters-casey-neistats-video-company-beme-which-it-bought-14-months-ago-for-25-million?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://games.slashdot.org/story/18/01/25/2110201/the-legislative-fight-over-loot-boxes-expands-to-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Legislative Fight Over Loot Boxes Expands To Washington State</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IMvTYKO-xr0/the-legislative-fight-over-loot-boxes-expands-to-washington-state</link>
-<description>An anonymous reader quotes a report from Ars Technica: The government backlash against video game loot boxes -- the randomized in-game item purchases that some observers and legislators consider a form of gambling -- moved from Hawaii to Washington state earlier this month. That's when a group of three Democratic state senators introduced a bill that would require the state gambling commission to examine loot boxes and determine "whether games and apps containing these mechanisms are considered gambling under Washington law." "What the bill says is, 'Industry, state: sit down to figure out the best way to regulate this,'" Orcas Island Senator and bill coauthor Kevin Ranker told the Tacoma News Tribune. "It is unacceptable to be targeting our children with predatory gambling masked in a game with dancing bunnies or something."
- 
-The bill text puts specific focus on the question of whether children who "may be more vulnerable to gambling addiction" should be allowed to access games with loot boxes, and on the question of "transparency" around "the odds of receiving each type of virtual item." The latter point took on additional salience last month as Apple required such odds to be posted alongside games with loot boxes. Actual government regulation of loot boxes in Washington is still a ways off, though. Ranker's bill needs to be approved by the full Washington state legislature (which is narrowly held by Democrats) and be signed by the governor before being referred to the gambling commission. At that point, the commission would have until December 1 to form its recommendations for any regulatory and enforcement system the state might set up.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Legislative+Fight+Over+Loot+Boxes+Expands+To+Washington+State%3A+http%3A%2F%2Fbit.ly%2F2DD5qxr"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgames.slashdot.org%2Fstory%2F18%2F01%2F25%2F2110201%2Fthe-legislative-fight-over-loot-boxes-expands-to-washington-state%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://games.slashdot.org/story/18/01/25/2110201/the-legislative-fight-over-loot-boxes-expands-to-washington-state?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://games.slashdot.org/story/18/01/25/2110201/the-legislative-fight-over-loot-boxes-expands-to-washington-state?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662193&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/IMvTYKO-xr0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-25T22:00:00+00:00</dc:date>
-<dc:subject>communications</dc:subject>
-<slash:department>randomized-department-name</slash:department>
-<slash:section>games</slash:section>
-<slash:comments>116</slash:comments>
-<slash:hit_parade>116,111,59,52,16,6,3</slash:hit_parade>
-<feedburner:origLink>https://games.slashdot.org/story/18/01/25/2110201/the-legislative-fight-over-loot-boxes-expands-to-washington-state?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
