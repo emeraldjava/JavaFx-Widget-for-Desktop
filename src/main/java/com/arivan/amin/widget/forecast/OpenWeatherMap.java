@@ -20,7 +20,6 @@ public class OpenWeatherMap implements WeatherData
     private OpenWeatherMap (WeatherProvider weatherProvider)
     {
         this.weatherProvider = weatherProvider;
-        updateWeatherData();
     }
     
     public static OpenWeatherMap newInstance (WeatherProvider weatherProvider)

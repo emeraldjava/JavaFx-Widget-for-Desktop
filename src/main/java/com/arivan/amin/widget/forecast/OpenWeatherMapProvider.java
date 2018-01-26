@@ -2,6 +2,7 @@ package com.arivan.amin.widget.forecast;
 
 import java.io.InputStream;
 import java.net.URL;
+import java.net.URLConnection;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.logging.Logger;
@@ -27,8 +28,13 @@ public class OpenWeatherMapProvider implements WeatherProvider
     {
         String dataFileUri = "";
         Path path = Paths.get(WEATHER_FILE);
-        try (InputStream stream = new URL(WEATHER_PROVIDER_URL).openStream())
+        try
         {
+            URL url = new URL(WEATHER_PROVIDER_URL);
+            URLConnection connection = url.openConnection();
+            connection.setConnectTimeout(3000);
+            connection.setReadTimeout(3000);
+            InputStream stream = connection.getInputStream();
             String data = new String(stream.readAllBytes(), StandardCharsets.UTF_8);
             Files.write(path, data.getBytes(StandardCharsets.UTF_8));
         }

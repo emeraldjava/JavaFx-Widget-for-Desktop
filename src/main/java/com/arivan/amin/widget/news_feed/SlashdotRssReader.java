@@ -6,6 +6,7 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.InputStream;
 import java.net.URL;
+import java.net.URLConnection;
 import java.nio.file.*;
 import java.util.*;
 import java.util.logging.Logger;
@@ -14,6 +15,7 @@ import java.util.stream.IntStream;
 
 public class SlashdotRssReader implements RssReader
 {
+    public static final String SLASHDOT_URL = "http://rss.slashdot.org/Slashdot/slashdot";
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final String SLASHDOT_RSS_FILE = "slashdot.xml";
     private List<Element> elementList;
@@ -57,8 +59,13 @@ public class SlashdotRssReader implements RssReader
     public void updateNewsData ()
     {
         Path path = Paths.get(SLASHDOT_RSS_FILE);
-        try (InputStream stream = new URL("http://rss.slashdot.org/Slashdot/slashdot").openStream())
+        try
         {
+            URL url = new URL(SLASHDOT_URL);
+            URLConnection connection = url.openConnection();
+            connection.setConnectTimeout(3000);
+            connection.setReadTimeout(3000);
+            InputStream stream = connection.getInputStream();
             Files.write(path, stream.readAllBytes());
         }
         catch (Exception e)
