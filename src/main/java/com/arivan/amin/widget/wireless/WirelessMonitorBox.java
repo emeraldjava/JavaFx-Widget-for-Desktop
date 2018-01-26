@@ -3,6 +3,7 @@ package com.arivan.amin.widget.wireless;
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
 import javafx.event.ActionEvent;
+import javafx.geometry.Pos;
 import javafx.scene.control.Label;
 import javafx.scene.control.ProgressBar;
 import javafx.scene.layout.BorderPane;
@@ -21,6 +22,7 @@ public class WirelessMonitorBox extends VBox
     private WirelessMonitorBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         setSpacing(5);
+        setAlignment(Pos.TOP_CENTER);
         bindBoxToParent(parentWidth, parentHeight);
         determineOperatingSystem();
         initializeFields();

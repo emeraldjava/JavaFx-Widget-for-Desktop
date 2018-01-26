@@ -27,10 +27,10 @@ public class RightBox extends VBox
     {
         getChildren().add(CpuProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
         getChildren().add(MemoryProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
+        getChildren().add(NetworkBox.newInstance());
         getChildren()
                 .add(WirelessMonitorBox.newInstance(prefWidthProperty(), prefHeightProperty()));
         getChildren().add(FileSystemBox.newInstance(prefWidthProperty(), prefHeightProperty()));
-        getChildren().add(NetworkBox.newInstance());
     }
     
     private void bindBoxToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)

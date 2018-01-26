@@ -1,4 +1,4 @@
-package com.arivan.amin.widget.internet_connectivity;
+package com.arivan.amin.widget.connectivity;
 
 import java.io.IOException;
 import java.io.InputStream;

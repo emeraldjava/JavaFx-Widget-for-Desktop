@@ -1,6 +1,8 @@
 package com.arivan.amin.widget.power;
 
-public interface BatteryState
+import com.arivan.amin.widget.SystemCommandHandler;
+
+public interface BatteryState extends SystemCommandHandler
 {
     String batteryState ();
     

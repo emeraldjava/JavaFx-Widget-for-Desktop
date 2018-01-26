@@ -1,6 +1,8 @@
 package com.arivan.amin.widget.network;
 
-public interface NetworkMonitor
+import com.arivan.amin.widget.SystemCommandHandler;
+
+public interface NetworkMonitor extends SystemCommandHandler
 {
     String downloadSpeed ();
     

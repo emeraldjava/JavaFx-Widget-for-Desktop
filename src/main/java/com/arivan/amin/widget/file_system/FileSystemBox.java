@@ -1,6 +1,7 @@
 package com.arivan.amin.widget.file_system;
 
 import javafx.beans.property.DoubleProperty;
+import javafx.geometry.Pos;
 import javafx.scene.control.Label;
 import javafx.scene.control.ProgressBar;
 import javafx.scene.layout.BorderPane;
@@ -16,6 +17,7 @@ public class FileSystemBox extends VBox
     
     private FileSystemBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
+        setAlignment(Pos.TOP_CENTER);
         determineOperatingSystem();
         bindBoxToParent(parentWidth, parentHeight);
         setSpacing(BOX_SPACING);
@@ -56,6 +58,7 @@ public class FileSystemBox extends VBox
     
     private void createBoxesForPartitions (Iterable<FileSystemItem> items)
     {
+        getChildren().add(new Label("System partitions"));
         items.forEach(this::createPartitionBox);
     }
     

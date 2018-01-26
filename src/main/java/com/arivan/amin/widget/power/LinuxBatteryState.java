@@ -1,8 +1,7 @@
 package com.arivan.amin.widget.power;
 
 import java.io.IOException;
-import java.io.InputStream;
-import java.nio.charset.StandardCharsets;
+import java.util.List;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
 
@@ -14,9 +13,23 @@ public class LinuxBatteryState implements BatteryState
             { "upower", "-i", "/org/freedesktop/UPower/devices/battery_BAT0" };
     private String outputData;
     
+    // todo change command to upower -d
     private LinuxBatteryState ()
     {
-        outputData = getBatteryCommandOutput();
+        updateBatteryCommandOutput();
+    }
+    
+    private void updateBatteryCommandOutput ()
+    {
+        try
+        {
+            outputData = removeExtraData(getCommandOutput(List.of(BATTERY_COMMAND)));
+        }
+        catch (IOException e)
+        {
+            logger.warning(e.getMessage());
+            outputData = "";
+        }
     }
     
     public static LinuxBatteryState newInstance ()
@@ -59,25 +72,12 @@ public class LinuxBatteryState implements BatteryState
     @Override
     public void updateData ()
     {
-        outputData = getBatteryCommandOutput();
+        updateBatteryCommandOutput();
     }
     
     private static String removeExtraData (CharSequence output)
     {
         return REMOVE_SPACE.matcher(output).replaceAll("");
-    }
-    
-    private String getBatteryCommandOutput ()
-    {
-        try (InputStream stream = new ProcessBuilder(BATTERY_COMMAND).start().getInputStream())
-        {
-            return removeExtraData(new String(stream.readAllBytes(), StandardCharsets.UTF_8));
-        }
-        catch (IOException e)
-        {
-            logger.warning(e.getMessage());
-            return "";
-        }
     }
     
     @Override
