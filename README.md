@@ -5,4 +5,6 @@ Made into a widget like desktop application that currently supports linux and so
 Any feedback, suggestion or contribution is highly appreciated.
 
 current application screenshot:
-![Alt text](docs/app screenshot.png?raw=true "Title")
+<p align="center">
+  <img src="docs/app screenshot.png"/>
+</p>
