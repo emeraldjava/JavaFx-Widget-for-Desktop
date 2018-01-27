@@ -8,5 +8,7 @@ public interface NetworkMonitor extends SystemCommandHandler
     
     String uploadSpeed ();
     
+    String ipAddress ();
+    
     void updateData ();
 }

@@ -13,8 +13,8 @@ public class UnitConverter
     {
     }
     
-    public static int convertKelvinToCelsius (int kelvin)
+    public static int convertCelsiusToKelvin (int celsius)
     {
-        return kelvin - KELVIN_WATER_FREEZING_POINT;
+        return celsius + KELVIN_WATER_FREEZING_POINT;
     }
 }

@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-26T18:21:09+00:00</dc:date>
+<dc:date>2018-01-27T18:27:05+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/27/0257234/how-we-made-starship-troopers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/27/0158239/employers-want-javascript-but-developers-want-python-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/27/0653225/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/27/0135248/tesla-employees-say-gigafactory-problems-are-worse-than-known?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,308 +41,323 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Genes that Your Parents Don't Pass To You Still Shape Who You Are, Study Finds </title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Luau-DfHyDg/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds</link>
-<description>From a research paper published on ScienceMag journal on Friday: Children resemble their parents in health, wealth, and well-being. Is parent-child similarity in traits and behaviors due to nature (the genes that children inherit from their parents) or nurture (the environment that parents provide for their children)? Answering this enduring question can directly inform our efforts to reduce social inequality and disease burden. Kong et al. used genetic data from trios of parents and offspring to address this question in an intriguing way. By measuring parents' and children's genes, they provide evidence that inherited family environments influence children's educational success, a phenomenon termed genetic nurture. Specifically, Kong et al. show that the part of the parental genotype that children do not inherit can nonetheless predict children's educational attainment. This genetic nurture effect is an indirect link between parental genotypes and children's characteristics, not caused by the children's own biology but rather by the family environment that covaries with parental genes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Genes+that+Your+Parents+Don't+Pass+To+You+Still+Shape+Who+You+Are%2C+Study+Finds+%3A+http%3A%2F%2Fbit.ly%2F2DFSh6R"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F26%2F180214%2Fgenes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://entertainment.slashdot.org/story/18/01/27/0257234/how-we-made-starship-troopers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'How We Made Starship Troopers'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MnECbUVEwUk/how-we-made-starship-troopers</link>
+<description>The Guardian quotes Paul Verhoeven, the director of Starship Troopers:
+Robert Heinlein's original 1959 science-fiction novel was militaristic, if not fascistic. So I decided to make a movie about fascists who aren't aware of their fascism... I was looking for the prototype of blond, white and arrogant, and Casper Van Dien was so close to the images I remembered from Leni Riefenstahl's films. I borrowed from Triumph of the Will in the parody propaganda reel that opens the film, too. I was using Riefenstahl to point out, or so I thought, that these heroes and heroines were straight out of Nazi propaganda... 
+With a title like Starship Troopers, people were expecting a new Star Wars. They got that, but not really: it stuck in your throat. It said: "Here are your heroes and your heroines, but by the way -- they're fascists." 
+The actors weren't even clear on what the giant arachnids would look like, since their "Bug" battles were filmed entirely with green screens, remembers one of the movie's stars, Denise Richards. Instead Verhoeven "would be there jumping up and down with a broom in the air so we would have a sense of how big they were."
+ 
+Verhoeven told one interviewer that he never actually read Robert Heinlein's original book. "I stopped after two chapters because it was so boring. It is really quite a bad book."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='How+We+Made+Starship+Troopers'%3A+http%3A%2F%2Fbit.ly%2F2DIV3s4"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F18%2F01%2F27%2F0257234%2Fhow-we-made-starship-troopers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664635&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Luau-DfHyDg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-26T18:00:00+00:00</dc:date>
-<dc:subject>science</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>9</slash:comments>
-<slash:hit_parade>9,8,6,6,0,0,0</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/26/180214/genes-that-your-parents-dont-pass-to-you-still-shape-who-you-are-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Breaking Up Amazon, Google, Apple, and Facebook Could Save Capitalism, NYU Professor Says</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BO7OUM6ec84/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says</link>
-<description>An anonymous reader shares a VentureBeat report: If you want to get an idea of how quickly sentiment has shifted against U.S. tech giants, just listen to NYU professor Scott Galloway. [...] "After spending the majority of the last two years of my life really trying to understand them and the relationship of the ecosystem, I've become 100 percent convinced that it's time to break these companies up." It's an audacious claim from anyone, even more startling coming from someone who has been such a close and bullish observer of these tech giants. Yet for Galloway, it is clear that the four companies have simply become too big, and too powerful. "The premise of my book is that Amazon, Apple, Facebook, and Google are our new gods, our new source of love, our consumptive gods," he said. "And as a result of their ability to tap into these very basic instincts, they've aggregated more market cap than the majority of nation's GDP ... I think these entities are more powerful than any entity, with maybe the exception of China and the U.S." [...] Galloway said he wasn't making his argument based on many of the current emotional outcries against the companies, though these are important to note. And he proceeded to list what he considers to be these giants' numerous sins. "There are reasons to be angry at them," he said. "They basically power fake news ... So the notion that our platforms have been weaponized by the intelligence unit of a foreign adversary was initially responded to by Facebook as crazy, that we were crazy for thinking that. Then we found out it was millions of people, and now we're finding out it was hundreds of millions of people who were exposed."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Breaking+Up+Amazon%2C+Google%2C+Apple%2C+and+Facebook+Could+Save+Capitalism%2C+NYU+Professor+Says%3A+http%3A%2F%2Fbit.ly%2F2BvSSC8"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F26%2F1648226%2Fbreaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://entertainment.slashdot.org/story/18/01/27/0257234/how-we-made-starship-troopers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664471&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BO7OUM6ec84" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-26T17:20:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>the-big-four</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>69</slash:comments>
-<slash:hit_parade>69,69,46,36,6,3,1</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/26/1648226/breaking-up-amazon-google-apple-and-facebook-could-save-capitalism-nyu-professor-says?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Are the BSDs Dying? Some Security Researchers Think So</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VQwT4pProS0/are-the-bsds-dying-some-security-researchers-think-so</link>
-<description>itwbennett writes: The BSDs have lost the battle for mindshare to Linux, and that may well bode ill for the future sustainability of the BSDs as viable, secure operating systems, writes CSO's JM Porup. The reason why is a familiar refrain: more eyeballs mean more secure code. Porup cites the work of Ilja von Sprundel, director of penetration testing at IOActive, who, noting the "small number of reported BSD kernel vulnerabilities compared to Linux," dug into BSD source code. His search 'easily' turned up about 115 kernel bugs. Porup looks at the relative security of OpenBSD, FreeBSD and NetBSD, the effect on Mac OS, and why, despite FreeBSD's relative popularity, OpenBSD may be the most likely to survive.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Are+the+BSDs+Dying%3F+Some+Security+Researchers+Think+So%3A+http%3A%2F%2Fbit.ly%2F2BvyjG6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fbsd.slashdot.org%2Fstory%2F18%2F01%2F26%2F1636229%2Fare-the-bsds-dying-some-security-researchers-think-so%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://entertainment.slashdot.org/story/18/01/27/0257234/how-we-made-starship-troopers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665297&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/MnECbUVEwUk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-27T17:44:00+00:00</dc:date>
+<dc:subject>movies</dc:subject>
+<slash:department>Bug-hunt-at-outpost-nine</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,28,14,12,3,1,0</slash:hit_parade>
+<feedburner:origLink>https://entertainment.slashdot.org/story/18/01/27/0257234/how-we-made-starship-troopers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://developers.slashdot.org/story/18/01/27/0158239/employers-want-javascript-but-developers-want-python-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Employers Want JavaScript, But Developers Want Python, Survey Finds</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eEdirv3av6Q/employers-want-javascript-but-developers-want-python-survey-finds</link>
+<description>An anonymous reader quotes InfoWorld:
+When it comes to which programming languages are in demand by employers, JavaScript, Java, Python, C++, and C -- in that order -- came out on top in a recent developer survey. Developers, however, want to learn languages like Python, Go, and Kotlin. A survey of developers by technical recruiter HackerRank, conducted in October, found no gap between languages employers want and what developers actually know, with JavaScript barely edging out Java... 
+HackerRank also found gaps in JavaScript frameworks between what employers want and what developers know. The React JavaScript UI library had the biggest delta between employers and developers, with about 37 percent of employers wanting React skills but only about 19 percent of developers having them... [But] problem-solving skills are the most-sought by employers, more than language proficiency, debugging, and system design. 
+The survey involved 39,441 developers, and concluded that "Python ruled among all age groups," according to Application Development Trends, "except for those 55 years or older, who narrowly prefer C."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Employers+Want+JavaScript%2C+But+Developers+Want+Python%2C+Survey+Finds%3A+http%3A%2F%2Fbit.ly%2F2BxBTzx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F18%2F01%2F27%2F0158239%2Femployers-want-javascript-but-developers-want-python-survey-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664449&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VQwT4pProS0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-26T16:40:00+00:00</dc:date>
-<dc:subject>opensource</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>bsd</slash:section>
-<slash:comments>78</slash:comments>
-<slash:hit_parade>78,74,35,26,11,6,5</slash:hit_parade>
-<feedburner:origLink>https://bsd.slashdot.org/story/18/01/26/1636229/are-the-bsds-dying-some-security-researchers-think-so?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ubuntu 18.04 LTS Will Default To The X.Org Stack, Not Wayland</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lac3Q8eBt9c/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland</link>
-<description>An anonymous reader writes: Five years after their original goal to ship Ubuntu with Wayland, Ubuntu 17.10 transitioned to using the Wayland display system by default as part of their transition to GNOME Shell as the default desktop. But with the upcoming Ubuntu 18.04 LTS release, Canonical has decided to transition back to the X.Org Server. Their reasoning for moving to an X.Org Server by default is better support for screen sharing, remote desktop, and better recovery from crashes. But for those interested the Wayland session will still be available as a log-in option.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ubuntu+18.04+LTS+Will+Default+To+The+X.Org+Stack%2C+Not+Wayland%3A+http%3A%2F%2Fbit.ly%2F2nfiGxt"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F26%2F1437212%2Fubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://developers.slashdot.org/story/18/01/27/0158239/employers-want-javascript-but-developers-want-python-survey-finds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664161&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lac3Q8eBt9c" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-26T16:00:00+00:00</dc:date>
-<dc:subject>ubuntu</dc:subject>
-<slash:department>tough-calls</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>69</slash:comments>
-<slash:hit_parade>69,69,51,43,18,7,5</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/26/1437212/ubuntu-1804-lts-will-default-to-the-xorg-stack-not-wayland?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Washington Bill Makes It Illegal To Sell Gadgets Without Replaceable Batteries</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/w6OSgkePP9Q/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries</link>
-<description>Jason Koebler writes: A bill that would make it easier to fix your electronics is rapidly hurtling through the Washington state legislature. The bill's ascent is fueled by Apple's iPhone-throttling controversy, which has placed a renewed focus on the fact that our electronics have become increasingly difficult to repair. Starting in 2019, the bill would ban the sale of electronics that are designed "in such a way as to prevent reasonable diagnostic or repair functions by an independent repair provider. Preventing reasonable diagnostic or repair functions includes permanently affixing a battery in a manner that makes it difficult or impossible to remove."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Washington+Bill+Makes+It+Illegal+To+Sell+Gadgets+Without+Replaceable+Batteries%3A+http%3A%2F%2Fbit.ly%2F2BvvUvd"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F26%2F1514202%2Fwashington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/18/01/27/0158239/employers-want-javascript-but-developers-want-python-survey-finds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665227&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eEdirv3av6Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-27T16:39:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>loving-languages</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,60,32,27,6,2,0</slash:hit_parade>
+<feedburner:origLink>https://developers.slashdot.org/story/18/01/27/0158239/employers-want-javascript-but-developers-want-python-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://games.slashdot.org/story/18/01/27/0653225/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Two More Gamers May Be Charged in Fatal Kansas 'SWAT' Shooting</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/g0y-cvYaaI4/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting</link>
+<description>A newly-released affidavit reveals that money was at stake in a game of Call Of Duty: World War II which led to the fatal real-life police shooting of Andrew Finch. The Wichita Eagle reports:
+Investigators learned that Shane Gaskill, who lives in Wichita, was involved in an online video game with other people when he accidentally [virtually] shot and killed one of his teammates in the online game. The teammate who was killed in the game became "extremely upset" and began talking trash to Gaskill, the affidavit says. The dispute escalated until the teammate, who the document identifies as Casey Viner of North College Hill, Ohio, threatened via Twitter to "SWATT" Gaskill, according to the affidavit. Gaskill replied, "Please try some s---." He then posted the address... 
+Viner "is considered a suspect in several 'swatting' incidents in Cincinnati," reports the Los Angeles Times, adding that prosecutors are still deciding whether these two gamers should also face criminal charges. 
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+Meanwhile, Kansas officials have been informed that the third gamer who actually made the phone call, 25-year-old Tyler Barriss, matches the voice on a fake 2015 bomb threat, and is already the subject of an open investigation by an FBI Joint Terrorism Task Force.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Two+More+Gamers+May+Be+Charged+in+Fatal+Kansas+'SWAT'+Shooting%3A+http%3A%2F%2Fbit.ly%2F2DGKzJF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgames.slashdot.org%2Fstory%2F18%2F01%2F27%2F0653225%2Ftwo-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664255&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/w6OSgkePP9Q" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-26T15:20:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>right-to-repair</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>240</slash:comments>
-<slash:hit_parade>240,239,167,144,33,10,9</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/26/1514202/washington-bill-makes-it-illegal-to-sell-gadgets-without-replaceable-batteries?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Intel Plans To Release Chips That Have Built-in Meltdown and Spectre Protections Later This Year</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8l3-duuiVbE/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year</link>
-<description>Intel plans to release chips that have built-in protections against the Spectre and Meltdown attacks later this year, company CEO Brian Krzanich said during company's quarterly earnings call this week. From a report: The company has "assigned some of our very best minds" to work on addressing the vulnerability that's exploited by those attacks, Krzanich said on a conference call following Intel's quarterly earnings announcement. That will result in "silicon-based" changes to the company's future chips, he said. "We've been working around clock" to address the vulnerability and attacks, Krzanich said. But, he added, "we're acutely aware we have more to do."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Intel+Plans+To+Release+Chips+That+Have+Built-in+Meltdown+and+Spectre+Protections+Later+This+Year%3A+http%3A%2F%2Fbit.ly%2F2BvZPDb"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F26%2F1425245%2Fintel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://games.slashdot.org/story/18/01/27/0653225/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8l3-duuiVbE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-26T14:40:00+00:00</dc:date>
-<dc:subject>intel</dc:subject>
-<slash:department>next-up</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://games.slashdot.org/story/18/01/27/0653225/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665923&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/g0y-cvYaaI4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-27T15:34:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>violence-and-video-games</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,73,48,33,8,5,4</slash:hit_parade>
+<feedburner:origLink>https://games.slashdot.org/story/18/01/27/0653225/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/27/0135248/tesla-employees-say-gigafactory-problems-are-worse-than-known?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tesla Employees Say Gigafactory Problems Are Worse Than Known</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/8PAnsdJPRFo/tesla-employees-say-gigafactory-problems-are-worse-than-known</link>
+<description>An anonymous reader quotes a report from CNBC: Tesla's problems with battery production at the company's Gigafactory in Sparks, Nevada, are worse than the company has acknowledged and could cause further delays and quality issues for the new Model 3, according to a number of current and former Tesla employees. These problems include Tesla needing to make some of the batteries by hand and borrowing scores of employees from one of its suppliers to help with this manual assembly, said these people. Tesla's future as a mass-market carmaker hinges on automated production of the Model 3, which more than 400,000 people have already reserved, paying $1,000 refundable fees to do so. The company has already delayed production, citing problems at the Gigafactory. On Nov. 1, 2017, CEO Elon Musk assured investors in an earnings call that Tesla was making strides to correct its manufacturing issues and get the Model 3 out. But more than a month later, in mid-December, Tesla was still making its Model 3 batteries partly by hand, according to current engineers and ex-Tesla employees who worked at the Gigafactory in recent months. They say Tesla had to "borrow" scores of employees from Panasonic, which is a partner in the Gigafactory and supplies lithium-ion battery cells, to help with this manual assembly. Tesla is still not close to mass producing batteries for the basic $35,000 model of this electric sedan, sources say.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tesla+Employees+Say+Gigafactory+Problems+Are+Worse+Than+Known%3A+http%3A%2F%2Fbit.ly%2F2BxlU4v"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F27%2F0135248%2Ftesla-employees-say-gigafactory-problems-are-worse-than-known%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/27/0135248/tesla-employees-say-gigafactory-problems-are-worse-than-known?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/27/0135248/tesla-employees-say-gigafactory-problems-are-worse-than-known?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665215&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/8PAnsdJPRFo" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-27T13:00:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>under-the-hood</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>94</slash:comments>
-<slash:hit_parade>94,93,48,40,15,9,5</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/26/1425245/intel-plans-to-release-chips-that-have-built-in-meltdown-and-spectre-protections-later-this-year?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ford Has An Idea For An Autonomous Police Car That Could Find A Hiding Spot</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/QsGFt8Qil80/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot</link>
-<description>Ford has submitted a patent application to the U.S. Patent and Trademark Office for an autonomous police car that could function "in lieu of or in addition to human police officers." From a report: Now, companies always file patents for technology that may never get made, but an autonomous police cruiser seems like the logical conclusion to the development self-driving cars. But damn is it weird to read about. The patent, describes how the hypothetical car would rely on artificial intelligence and use "on-board speed detection equipment, cameras, and [it would] communicate with other devices in the area such as stationary speed cameras."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ford+Has+An+Idea+For+An+Autonomous+Police+Car+That+Could+Find+A+Hiding+Spot%3A+http%3A%2F%2Fbit.ly%2F2DFmymr"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F26%2F1311223%2Fford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>91</slash:comments>
+<slash:hit_parade>91,85,60,48,22,12,8</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/27/0135248/tesla-employees-say-gigafactory-problems-are-worse-than-known?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Scientists Discover the Oldest Human Fossils Outside Africa</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pQbCarmiS2c/scientists-discover-the-oldest-human-fossils-outside-africa</link>
+<description>Archaeologists in Israel have discovered the oldest fossil of a modern human outside Africa, suggesting that humans first migrated out of the content much earlier than previously believed. NPR reports: The scientists were digging in a cave called Misliya, on the slopes of Mount Carmel on the northern coast of Israel. "The cave is one of a series of prehistoric caves," says Mina Weinstein-Evron of the Zinman Institute of Archaeology at the University of Haifa, who led the team. "It's a collapsed cave, but people lived there before it collapsed." The cave had been occupied for several hundred thousand years, she says. All the archaeological evidence suggested that the ancient people who lived in the cave were hunter-gatherers. "They were hunting animals, mainly ungulates, like fallow dear, gazelle, aurochs [an extinct species of wild cattle] and other small animals," says Weinstein-Evron. "They built fireplaces throughout the length of the cave, again and again, in the same place, in the same sort of defined arrangement." Weinstein-Evron says she and her team wanted to find out which species of ancient humans lived in the cave. So, she says, they kept digging. "And among the animal bones and flint tools we found a jawbone, an upper jawbone of an individual," she says. A detailed analysis of the jawbone and the teeth confirmed that it indeed belonged to someone of our species, Homo sapiens. And when they dated the fossil, it turned out to be between 177,000 and 194,000 years old, making it the oldest known such fossil outside the African continent.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Discover+the+Oldest+Human+Fossils+Outside+Africa%3A+http%3A%2F%2Fbit.ly%2F2ni4SSL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F27%2F0115255%2Fscientists-discover-the-oldest-human-fossils-outside-africa%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11663987&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/QsGFt8Qil80" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-26T14:00:00+00:00</dc:date>
-<dc:subject>robot</dc:subject>
-<slash:department>who-writes-the-ticket?</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>88</slash:comments>
-<slash:hit_parade>88,88,59,54,2,0,0</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/26/1311223/ford-has-an-idea-for-an-autonomous-police-car-that-could-find-a-hiding-spot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Burger King Makes the Case For Net Neutrality</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/du7p90r9dYg/burger-king-makes-the-case-for-net-neutrality</link>
-<description>An anonymous reader writes: By now you've probably seen Burger King's spoof ad on the decision by the U.S. Federal Communications Commission to repeal net neutrality. In the ad, Burger King customers are informed that there are now three "lanes" for ordering Whoppers -- each with substantially different prices and waiting times. The ad has already generated over a million views on Youtube and is lighting up Twitter. One thing I missed the first time is that while the Burger King "counter service" is clearly in on the act, the customers are apparently real; they learn of the cockamamie scheme at the counter in the style of the old TV show Candid Camera. Variety notes that the video "ends with an apparent dig at FCC Chairman Ajit Pai [...] as the Burger King character is shown drinking from an oversized Reese's coffee mug. That is the type of coffee mug that Pai uses at FCC meetings."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Burger+King+Makes+the+Case+For+Net+Neutrality%3A+http%3A%2F%2Fbit.ly%2F2DFnebp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F25%2F2359235%2Fburger-king-makes-the-case-for-net-neutrality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662397&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/du7p90r9dYg" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665197&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/pQbCarmiS2c" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T13:00:00+00:00</dc:date>
-<dc:subject>advertising</dc:subject>
-<slash:department>everyone-has-a-voice</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>170</slash:comments>
-<slash:hit_parade>170,164,101,92,22,14,14</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/25/2359235/burger-king-makes-the-case-for-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>China Is Quickly Switching From Pirating To Streaming</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ym_Z2gzURCE/china-is-quickly-switching-from-pirating-to-streaming</link>
-<description>hackingbear shares a report from CNN: Not so long ago, China was an oasis for pirated music and videos. CDs and DVDs were easily copied and sold for cheap at roadside markets. If you had a computer and an internet connection, top selling albums and Hollywood movies were widely available for free online. That's changing fast as new technologies such as the convenient WeChat payment and a long-running crackdown on pirated content mean members of the country's growing, smartphone-wielding middle class are increasingly willing to pay to stream videos and music online. "When you have to spend two-to-three hours digging up pirated content, users are willing to pay a [small] amount of money to get non-pirated content," said Karen Chan, an analyst with research firm Jefferies. Across major Chinese video platforms, the monthly fee is about 20 yuan ($3); streaming music is even cheaper, ranging from 8 to 15 yuan ($1-$2) per month. Compare that with a basic monthly Netflix subscription in the U.S. at $8, or a Spotify one at $10. The rapid spread of digital payment platforms like Tencent's WeChat Pay and Alibaba-affiliated Alipay has also played a role, according to Xue Yu, an analyst with research firm IDC. The platforms created a market of young Chinese consumers comfortable with buying goods and services for a few yuan online, Xue said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=China+Is+Quickly+Switching+From+Pirating+To+Streaming%3A+http%3A%2F%2Fbit.ly%2F2Eb0Ovv"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F25%2F2345251%2Fchina-is-quickly-switching-from-pirating-to-streaming%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662379&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ym_Z2gzURCE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T10:00:00+00:00</dc:date>
-<dc:subject>china</dc:subject>
-<slash:department>don't-blink</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>71</slash:comments>
-<slash:hit_parade>71,67,37,34,5,3,2</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/25/2345251/china-is-quickly-switching-from-pirating-to-streaming?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Microbes May Help Astronauts Transform Human Waste Into Food</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uH7wxsKG7yI/microbes-may-help-astronauts-transform-human-waste-into-food</link>
-<description>A Penn State researcher team has shown that it is possible to rapidly break down solid and liquid waste to grow food with a series of microbial reactors, while simultaneously minimizing pathogen growth. They reported their findings in the journal Life Sciences in Space Research. Phys.Org reports: To test their idea, the researchers used an artificial solid and liquid waste that's commonly used in waste management tests. They created an enclosed, cylindrical system, four feet long by four inches in diameter, in which select microbes came into contact with the waste. The microbes broke down waste using anaerobic digestion, a process similar to the way humans digest food. The team found that methane was readily produced during anaerobic digestion of human waste and could be used to grow a different microbe, Methylococcus capsulatus, which is used as animal feed today. The team concluded that such microbial growth could be used to produce a nutritious food for deep space flight. They reported in Life Sciences in Space Research that they grew M. capsulatus that was 52 percent protein and 36 percent fats, making it a potential source of nutrition for astronauts. Because pathogens are also a concern with growing microbes in an enclosed, humid space, the team studied ways to grow microbes in either an alkaline environment or a high-heat environment. They raised the system's pH to 11 and were surprised to find a strain of the bacteria Halomonas desiderata that could thrive. The team found this bacteria to be 15 percent protein and 7 percent fats. At 158 degrees Fahrenheit, which kills most pathogens, they grew the edible Thermus aquaticus, which consisted of 61 percent protein and 16 percent fats.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Microbes+May+Help+Astronauts+Transform+Human+Waste+Into+Food%3A+http%3A%2F%2Fbit.ly%2F2DG2ZdC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F26%2F006252%2Fmicrobes-may-help-astronauts-transform-human-waste-into-food%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662405&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uH7wxsKG7yI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T07:00:00+00:00</dc:date>
-<dc:subject>medicine</dc:subject>
-<slash:department>better-out-than-in</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>83</slash:comments>
-<slash:hit_parade>83,77,39,35,10,3,1</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/26/006252/microbes-may-help-astronauts-transform-human-waste-into-food?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Plastic Pollution Is Killing Coral Reefs, 4-Year Study Finds</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/4QkVXDSn5dU/plastic-pollution-is-killing-coral-reefs-4-year-study-finds</link>
-<description>An anonymous reader quotes a report from NPR: A new study based on four years of diving on 159 reefs in the Pacific shows that reefs in four countries -- Australia, Thailand, Indonesia and Myanmar -- are heavily contaminated with plastic. It clings to the coral, especially branching coral. And where it clings, it sickens or kills. "The likelihood of disease increases from 4 percent to 89 percent when corals are in contact with plastic," researchers report in the journal Science. Study leader Drew Harvell at Cornell University says the plastic could be harming coral in at least two ways. First, bacteria and other harmful microorganisms are abundant in the water and on corals; when the coral is abraded, that might invite pathogens into the coral. In addition, Harvell says, plastic can block sunlight from reaching coral. Based on how much plastic the researchers found while diving, they estimate that over 11 billion plastic items could be entangled in coral reefs in the Asia-Pacific region, home to over half the world's coral reefs. And their survey did not include China, one of the biggest sources of plastic pollution.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Plastic+Pollution+Is+Killing+Coral+Reefs%2C+4-Year+Study+Finds%3A+http%3A%2F%2Fbit.ly%2F2Bu145U"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F25%2F2056235%2Fplastic-pollution-is-killing-coral-reefs-4-year-study-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662177&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/4QkVXDSn5dU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T03:30:00+00:00</dc:date>
+<dc:date>2018-01-27T10:00:00+00:00</dc:date>
 <dc:subject>earth</dc:subject>
-<slash:department>wrapped-in-plastic</slash:department>
+<slash:department>land-before-time</slash:department>
 <slash:section>science</slash:section>
-<slash:comments>77</slash:comments>
-<slash:hit_parade>77,73,45,33,12,5,4</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/25/2056235/plastic-pollution-is-killing-coral-reefs-4-year-study-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Researchers Warn of Physics-Based Attacks On Sensors</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/S5EzrPjdt3M/researchers-warn-of-physics-based-attacks-on-sensors</link>
-<description>chicksdaddy shares a report from The Security Ledger: Billions of sensors that are already deployed lack protections against attacks that manipulate the physical properties of devices to cause sensors and embedded devices to malfunction, researchers working in the U.S. and China have warned. In an article in Communications of the ACM, researchers Kevin Fu of the University of Michigan and Wenyuan Xu of Zhejiang University warn that analog signals such as sound or electromagnetic waves can be used as part of "transduction attacks" to spoof data by exploiting the physics of sensors. Researchers say a "return to classic engineering approaches" is needed to cope with physics-based attacks on sensors and other embedded devices, including a focus on system-wide (versus component-specific) testing and the use of new manufacturing techniques to thwart certain types of transduction attacks. 
+<slash:comments>81</slash:comments>
+<slash:hit_parade>81,67,43,38,10,3,1</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amateur Astronomer Discovers Long-Dead NASA Satellite Has Come Back To Life</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HbqV-8F8sZE/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life</link>
+<description>schwit1 shares a report from Behind The Black: In his hunt to locate Zuma, an amateur astronomer has discovered that a long-dead NASA satellite, designed to study the magnetosphere, has come back to life. IMAGE went dead in 2005, and though NASA thought it might come back to life after experiencing a total eclipse in 2007 that would force a reboot, no evidence of life was seen then. It now appears that the satellite came to life sometime between then and 2018, and was chattering away at Earth waiting for a response. NASA is now looking at what it must do to take control of the spacecraft and resume science operations. Zuma is the secret U.S. government payload that was launched by SpaceX earlier this month and reportedly lost. As for why Scott Tilley -- the amateur radio astronomer -- decided to have a look for the present of secret military satellites, Ars Technica reports that he apparently does this semi-regularly as a hobby and, in this case, was inspired by the Zuma satellite.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amateur+Astronomer+Discovers+Long-Dead+NASA+Satellite+Has+Come+Back+To+Life%3A+http%3A%2F%2Fbit.ly%2F2ni2Jq9"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F27%2F0128256%2Famateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-"This is about uncovering the physics of cyber security and how some of the physical properties of systems have been abstracted to the point that we don't have a good way to describe the security of the system," Dr Fu told The Security Ledger in a conversation last week. That is particularly true of sensor driven systems, like those that will populate the Internet of Things. Cyberattacks typically target vulnerabilities in software such as buffer overflows or cross-site scripting. But transduction attacks target the physics of the hardware that underlies that software, including the circuit boards that discrete components are deployed on, or the materials that make up the components themselves. Although the attacks target vulnerabilities in the hardware, the consequences often arise as software systems, such as the improper functioning or denial of service to a sensor or actuator, the researchers said. Hardware and software have what might be considered a "social contract" that analog information captured by sensors will be rendered faithfully as it is transformed into binary data that software can interpret and act on it. But materials used to create sensors can be influenced by other phenomenon -- such as sound waves. Through the targeted use of such signals, the behavior of the sensor can be interfered with and even manipulated. "The problem starts with the mechanics or physics of the material and bubbles up into the operating system," Fu told The Security Ledger.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers+Warn+of+Physics-Based+Attacks+On+Sensors%3A+http%3A%2F%2Fbit.ly%2F2ndfCSy"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F25%2F2239241%2Fresearchers-warn-of-physics-based-attacks-on-sensors%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662317&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/S5EzrPjdt3M" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665205&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HbqV-8F8sZE" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T02:05:00+00:00</dc:date>
-<dc:subject>security</dc:subject>
-<slash:department>heads-up-seven-up</slash:department>
-<slash:section>it</slash:section>
-<slash:comments>78</slash:comments>
-<slash:hit_parade>78,71,44,40,14,9,3</slash:hit_parade>
-<feedburner:origLink>https://it.slashdot.org/story/18/01/25/2239241/researchers-warn-of-physics-based-attacks-on-sensors?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple Prepares MacOS Users For Discontinuation of 32-Bit App Support</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/BhFqLZY6IFw/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support</link>
-<description>Last year, Apple announced that macOS High Sierra "will be the last macOS release to support 32-bit apps without compromise." Now, in the macOS High Sierra 10.13.4 beta, Apple is notifying users of the impending change, too. "To prepare for a future release of macOS in which 32-bit software will no longer run without compromise, starting in macOS High Sierra 10.13.4, a user is notified on the launch of an app that depends on 32-bit software. The alert appears only once per app," Apple says in the beta release notes. Ars Technica reports: When users attempt to launch a 32-bit app in 10.13.4, it will still launch, but it will do so with a warning message notifying the user that the app will eventually not be compatible with the operating system unless it is updated. This follows the same approach that Apple took with iOS, which completed its sunset of 32-bit app support with iOS 11 last fall. Developers and users curious about how this will play out will be able to look at the similar process in iOS for context. On January 1 of this year, Apple stopped accepting 32-bit app submissions in the Mac App Store. This June, the company will also stop accepting updates for existing 32-bit applications. iOS followed a similar progression, with 32-bit app submissions ending in February of 2015 and acceptance of app updates for 32-bit apps ending in June of 2015.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+Prepares+MacOS+Users+For+Discontinuation+of+32-Bit+App+Support%3A+http%3A%2F%2Fbit.ly%2F2Bvxu02"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F25%2F2341206%2Fapple-prepares-macos-users-for-discontinuation-of-32-bit-app-support%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-01-27T07:00:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>back-from-the-dead</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>51</slash:comments>
+<slash:hit_parade>51,47,25,20,8,5,4</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Robert Mueller's Team Reportedly Interviewed Facebook Staff As Part of Russia Probe</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/itsCsWCZhgQ/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe</link>
+<description>An anonymous reader quotes a report from The Hill: Special counsel Robert Mueller's team has interviewed at least one Facebook employee tasked with helping the Trump campaign's digital operations during the 2016 campaign, Wired reported on Friday. The report, which cited a source familiar with the matter, does not say when the employee was questioned nor does it detail the focus of the interview. Mueller's team has been investigating for months any collusion between Trump campaign associates and Russia. During the election, Facebook deployed employees to embed with the Trump campaign to assist its digital operations. The company also worked with Hillary Clinton's campaign team but did not have employees embedded with them. The company has also been scrutinized by Congress for selling more than 3,000 ads to the Internet Research Agency, a Russian "troll farm" alleged to have carried out misinformation operations online during the campaign.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Robert+Mueller's+Team+Reportedly+Interviewed+Facebook+Staff+As+Part+of+Russia+Probe%3A+http%3A%2F%2Fbit.ly%2F2BwzHIz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F26%2F2328236%2Frobert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662373&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/BhFqLZY6IFw" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/itsCsWCZhgQ" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T01:25:00+00:00</dc:date>
-<dc:subject>os</dc:subject>
-<slash:department>no-compromises</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>149</slash:comments>
-<slash:hit_parade>149,149,93,88,24,11,3</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/25/2341206/apple-prepares-macos-users-for-discontinuation-of-32-bit-app-support?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Jack White Bans Cellphones At Concerts For '100% Human Experience'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3Mr0C-15jDk/jack-white-bans-cellphones-at-concerts-for-100-human-experience</link>
-<description>Singer and guitarist Jack White has banned the use of mobile phones at upcoming live shows. NME reports that the policy will be strictly enforced, requiring concert-goers to lock up their smartphones in pouches." From the report: White embarks on a tour of the U.S. from April, with a statement announcing that shows would be "phone-free," confirming: "No photos, video or audio recording devices allowed." "We think you'll enjoy looking up from your gadgets for a little while and experience music and our shared love of it IN PERSON," the statement adds. "Upon arrival at the venue, all phones and other photo or video-capturing gizmos will be secured in a Yondr pouch that will be unlocked at the end of the show. You keep your pouch-secured phone on you during the show and, if needed, can unlock your phone at any time in a designated Yondr Phone Zone located in the lobby or concourse." "For those looking to do some social media postings, let us help you with that. Our official tour photographer will be posting photos and videos after the show... Repost our photos &amp;amp; videos as much as you want and enjoy a phone-free, 100% human experience."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Jack+White+Bans+Cellphones+At+Concerts+For+'100%25+Human+Experience'%3A+http%3A%2F%2Fbit.ly%2F2ndaC0h"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F25%2F2314209%2Fjack-white-bans-cellphones-at-concerts-for-100-human-experience%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-01-27T03:30:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>election-interference</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>154</slash:comments>
+<slash:hit_parade>154,146,63,42,9,4,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>OnePlus Is Again Sending User Data To a Chinese Company Without User Consent </title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wgF9lxF4hT4/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent</link>
+<description>In October 2017, a researcher caught OnePlus silently collecting all sorts of data from its users. Now, a new report says that there's still a OnePlus app that can grab data from the phone and send it to servers in China without a user's knowledge or express consent. BGR reports: The French security researcher hiding behind the name Elliot Alderson on Twitter detailed OnePlus's data collection practices back in October, and he has now discovered a strange file in the OnePlus clipboard app. A Badword.txt file contains various keywords, including "Chairman, Vice President, Deputy Director, Associate Professor, Deputy Heads, General, Private Message, shipping, Address, email," and others. The file is then duplicated in a zip file called pattern alongside six other .txt files. All these files are apparently used in "in an obfuscated package which seems to be an #Android library from teddymobile." Now, TeddyMobile is a Chinese company that works with plenty of smartphone makers from China. The company seems to be able to recognize words and numbers in text messages. And OnePlus is apparently sending your phone's IMEI number to a TeddyMobile server, too. It looks like the TeddyMobile package might be able to grab all sorts of data from a phone. Even bank numbers are apparently recognized. OnePlus has yet to issue a statement on the matter.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=OnePlus+Is+Again+Sending+User+Data+To+a+Chinese+Company+Without+User+Consent+%3A+http%3A%2F%2Fbit.ly%2F2DFT1c7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F27%2F0013220%2Foneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662349&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3Mr0C-15jDk" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665161&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wgF9lxF4hT4" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T00:45:00+00:00</dc:date>
-<dc:subject>cellphones</dc:subject>
-<slash:department>phone-free</slash:department>
-<slash:section>mobile</slash:section>
-<slash:comments>248</slash:comments>
-<slash:hit_parade>248,240,152,117,34,18,13</slash:hit_parade>
-<feedburner:origLink>https://mobile.slashdot.org/story/18/01/25/2314209/jack-white-bans-cellphones-at-concerts-for-100-human-experience?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Former Employees Say Lyft Staffers Spied On Passengers</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Ncy7-vy3j_E/former-employees-say-lyft-staffers-spied-on-passengers</link>
-<description>An anonymous reader quotes a report from TechCrunch: Similar to Uber's "God View" scandal, Lyft staffers have been abusing customer insight software to view the personal contact info and ride history of the startup's passengers. One source that formerly worked with Lyft tells TechCrunch that widespread access to the company's backend let staffers "see pretty much everything including feedback, and yes, pick up and drop off coordinates." When asked if staffers, ranging from core team members to customer service reps, abused this privilege, the source said "Hell yes. I definitely looked at my friends' rider history and looked at what drivers said about them. I never got in trouble." Another supposed employee anonymously reported on workplace app Blind that staffers had access to this private information and that the access was abused. Our source says that the data insights tool logs all usage, so staffers were warned by their peers to be careful when accessing it surreptitiously. For example, some thought that repeatedly searching for the same person might get noticed. But despite Lyft logging the access, enforcement was weak, so team members still abused it. A Lyft spokesperson issued the following statement to TechCrunch: "Maintaining the trust of passengers and drivers is fundamental to Lyft. The specific allegations in this post would be a violation of Lyft's policies and a cause for termination, and have not been raised with our Legal or Executive teams. We are conducting an investigation into the matter. Access to data is restricted to certain teams that need it to do their jobs. For those teams, each query is logged and attributed to a specific individual. We require employees to be trained in our data privacy practices and responsible use policy, which categorically prohibit accessing and using customer data for reasons other than those required by their specific role at the company. Employees are required to sign confidentiality and responsible use agreements that bar them from accessing, using, or disclosing customer data outside the confines of their job responsibilities."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Former+Employees+Say+Lyft+Staffers+Spied+On+Passengers%3A+http%3A%2F%2Fbit.ly%2F2ndhXgh"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F25%2F2230214%2Fformer-employees-say-lyft-staffers-spied-on-passengers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-01-27T02:05:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>here-we-go-again</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>111</slash:comments>
+<slash:hit_parade>111,106,60,37,6,3,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Elon Musk's Boring Company Delivers $600 Flamethrower</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Rxq2CdKWjUY/elon-musks-boring-company-delivers-600-flamethrower</link>
+<description>Last December, Boring Company CEO Elon Musk promised to sell a Boring Company-branded flamethrower after selling 50,000 Boring Company hats. Well, sure enough, 50,000 hats were sold and Musk is delivering on his promise. The Verge reports: Mark this down as one of the promises Elon delivers on, apparently, because it looks like the Boring Company flamethrower is here. Redditors in a few SpaceX, Boring Company, and Musk-related subreddits noticed earlier this week that the URL "boringcompany.com/flamethrower" started redirecting to a page with a password box. And at least one user was able to guess the original password, too: "flame." (It's since been changed.) Behind that password was a shop page that looks just like the one for The Boring Company's hat. But instead of a $20 cap, they found a preorder prompt for a $600 flamethrower. "Prototype pictured above," the listing reads. "Final production flamethrower will be better."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Elon+Musk's+Boring+Company+Delivers+%24600+Flamethrower%3A+http%3A%2F%2Fbit.ly%2F2DHgOIZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F27%2F0143219%2Felon-musks-boring-company-delivers-600-flamethrower%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11662297&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Ncy7-vy3j_E" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665219&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Rxq2CdKWjUY" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T00:03:00+00:00</dc:date>
-<dc:subject>privacy</dc:subject>
+<dc:date>2018-01-27T01:45:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>promise-is-a-promise</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>89</slash:comments>
+<slash:hit_parade>89,87,46,41,12,5,3</slash:hit_parade>
+<feedburner:origLink>https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Crooks Created 28 Fake Ad Agencies To Disguise Massive Malvertising Campaign</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lzXhRR3EAtA/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign</link>
+<description>An anonymous reader quotes a report from Bleeping Computer: A group of cyber-criminals created 28 fake ad agencies and bought over 1 billion ad views in 2017, which they used to deliver malicious ads that redirected unsuspecting users to tech support scams or sneaky pages peddling malware-laden software updates or software installers. The entire operation -- codenamed Zirconium -- appears to have started in February 2017, when the group started creating the fake ad agencies which later bought ad views from larger ad platforms. These fake ad agencies each had individual websites and even LinkedIn profiles for their fake CEOs. Their sole purpose was to interface with larger advertising platforms, appearing as legitimate businesses. Ad security company Confiant, the one who discovered this entire operation, says ads bought by this group reached 62% of ad-monetized websites on a weekly basis. All in all, Confiant believes that about 2.5 million users who've encountered Zirconium's malicious ads were redirected to a malicious site, with 95% of the victims being based in the U.S.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Crooks+Created+28+Fake+Ad+Agencies+To+Disguise+Massive+Malvertising+Campaign%3A+http%3A%2F%2Fbit.ly%2F2EcaNki"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F26%2F2358230%2Fcrooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665155&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lzXhRR3EAtA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-27T01:25:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>under-the-radar</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>25</slash:comments>
+<slash:hit_parade>25,24,15,13,7,3,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facial Recognition Integrates With IFTTT</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IZHFDxPuk8Q/facial-recognition-integrates-with-ifttt</link>
+<description>Trueface.ai, the stealthy facial recognition startup that's backed by 500 Startups and a slew of angel investors, is integrating with IFTTT to allow developers to start playing around with its technology. TechCrunch reports: Chief executive Shaun Moore tells me that the integration with IFTTT represents the first time that facial recognition technology will be made available to the masses without the need to understand complex code. The company initially started as both a hardware and software vendor, but back in 2017 Moore said that the company stripped out its hardware component and focused on its software. Focusing on digital identification and verification tools, Trueface.ai sells technology that it says can be used to verify a request to open a bank account or for digital document notarization. "We can do that remotely and verify proof of possession and identity," says Moore. The goal, says Moore, is to make facial recognition available to everybody. And IFTTT's integration is one step to make that happen, because it will familiarize product developers and makers with the toolkit, Moore says.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facial+Recognition+Integrates+With+IFTTT%3A+http%3A%2F%2Fbit.ly%2F2EfSmeM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F26%2F2334215%2Ffacial-recognition-integrates-with-ifttt%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665139&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/IZHFDxPuk8Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-27T00:45:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>first-of-its-kind</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>18</slash:comments>
+<slash:hit_parade>18,18,13,12,6,3,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Montana To FCC: You Can't Stop Us From Protecting Net Neutrality</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mJpVyg4kCOI/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality</link>
+<description>An anonymous reader quotes a report from Ars Technica: The Montana governor's office has a message for the Federal Communications Commission and Internet service providers: the state can't be stopped from protecting net neutrality, and ISPs that don't like it don't have to do business with state agencies. Governor Steve Bullock signed an executive order to protect net neutrality on Monday. But with questions raised about whether Bullock is exceeding his authority, the governor's legal office prepared a fact sheet that it's distributing to anyone curious about potential legal challenges to the executive order. ISPs are free to violate net neutrality if they only serve non-government customers -- they just can't do so and expect to receive state contracts. "Companies that don't like it don't have to do business with the State -- nothing stops ISPs from selling dumpy Internet plans in Montana if they insist," the fact sheet says. The FCC's repeal of net neutrality rules attempts to preempt states and localities from issuing their own similar rules. But Bullock's executive order doesn't directly require ISPs to follow net neutrality rules. Instead, ISPs that accept contracts to provide Internet service to any state agency must agree to abide by net neutrality principles throughout the state. Bullock's fact sheet is titled, "Why Isn't Montana's Executive Order Preempted?" and it offers numerous answers to that question. "Through the order, the State of Montana acts as a consumer -- not a regulator," the fact sheet says. "Because there's no mandate, and no new regulations, there's certainly no federal preemption. Companies that don't like Montana's proposed contract terms don't have to do business with the State."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Montana+To+FCC%3A+You+Can't+Stop+Us+From+Protecting+Net+Neutrality%3A+http%3A%2F%2Fbit.ly%2F2DI7pRu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F26%2F2118228%2Fmontana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664999&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mJpVyg4kCOI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-27T00:03:00+00:00</dc:date>
+<dc:subject>internet</dc:subject>
+<slash:department>legal-battle-brewing</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>109</slash:comments>
+<slash:hit_parade>109,102,56,45,17,9,5</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>ICE Is About To Start Tracking License Plates Across the US</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sA_ngGtIGXA/ice-is-about-to-start-tracking-license-plates-across-the-us</link>
+<description>Presto Vivace shares a report from The Verge: The Immigration and Customs Enforcement (ICE) agency has officially gained agency-wide access to a nationwide license plate recognition database, according to a contract finalized earlier this month. The system gives the agency access to billions of license plate records and new powers of real-time location tracking, raising significant concerns from civil libertarians. The source of the data is not named in the contract, but an ICE representative said the data came from Vigilant Solutions, the leading network for license plate recognition data. While it collects few photos itself, Vigilant Solutions has amassed a database of more than 2 billion license plate photos by ingesting data from partners like vehicle repossession agencies and other private groups. ICE agents would be able to query that database in two ways. A historical search would turn up every place a given license plate has been spotted in the last five years, a detailed record of the target's movements. That data could be used to find a given subject's residence or even identify associates if a given car is regularly spotted in a specific parking lot. 
+
+
+
+Presto Vivace adds, "This will not end well."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=ICE+Is+About+To+Start+Tracking+License+Plates+Across+the+US%3A+http%3A%2F%2Fbit.ly%2F2EesCPJ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F26%2F2111225%2Fice-is-about-to-start-tracking-license-plates-across-the-us%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664971&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sA_ngGtIGXA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-26T23:20:00+00:00</dc:date>
+<dc:subject>database</dc:subject>
 <slash:department>location-services</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>28</slash:comments>
-<slash:hit_parade>28,28,16,14,4,4,2</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/25/2230214/former-employees-say-lyft-staffers-spied-on-passengers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:comments>146</slash:comments>
+<slash:hit_parade>146,142,79,61,18,5,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>$500 Million Worth of Cryptocurrency Stolen From Japanese Exchange</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cio-tsbaQhs/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange</link>
+<description>Locke2005 shares a report from CNBC: Hackers stole several hundred million dollars' worth of a lesser-known cryptocurrency from a major Japanese exchange Friday. Coincheck said that around 523 million of the exchange's NEM coins were sent to another account around 3 a.m. local time (1 p.m. ET Thursday), according to a Google translate of a Japanese transcript of the Friday press conference from Logmi. The exchange has about 6 percent of yen-bitcoin trading, ranking fourth by market share on CryptoCompare. The stolen NEM coins were worth about 58 billion yen at the time of detection, or roughly $534.8 million, according to the exchange. Coincheck subsequently restricted withdrawals of all currencies, including yen, and trading of cryptocurrencies other than bitcoin. Locke2005 adds, "That, my friends, is the prime reason why speculating in cryptocurrency is a bad idea!"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=%24500+Million+Worth+of+Cryptocurrency+Stolen+From+Japanese+Exchange%3A+http%3A%2F%2Fbit.ly%2F2Ec8v4M"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F26%2F2050259%2F500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664931&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cio-tsbaQhs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-26T22:40:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>gone-in-the-blink-of-an-eye</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>90</slash:comments>
+<slash:hit_parade>90,87,45,37,8,7,5</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Walmart Teams Up With Kobo To Sell EBooks and Audiobooks</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nh99ayyLYKM/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks</link>
+<description>An anonymous reader quotes a report from Engadget: Later this year, you'll be able to buy ebooks and audiobooks straight from Walmart's website. The big box retailer has teamed up with Japanese e-commerce titan Rakuten to launch a business that can take on Amazon's Kindle offerings. Walmart will give its customers in the U.S. an easy way to access to Kobo's library -- Kobo is Rakuten's digital book division -- and its six million titles from tens of thousands of publishers. The company will also start selling Kobo eReaders, which will set you back at least $120, online and in stores sometime this year.
+Walmart said Kobo's titles will be fully integrated into its website, so the ebook and audiobook versions of the title you're searching for will appear alongside the listing of its physical book. However, you won't be able to access the digital files through random apps. You'll have to use the co-branded apps for iOS, Android and desktop that Walmart and Kobo will release in the future, though you'll of course be able access ebooks through a Kobo e-reader.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Walmart+Teams+Up+With+Kobo+To+Sell+EBooks+and+Audiobooks%3A+http%3A%2F%2Fbit.ly%2F2EdzZqO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F26%2F214255%2Fwalmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664965&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nh99ayyLYKM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-26T22:00:00+00:00</dc:date>
+<dc:subject>books</dc:subject>
+<slash:department>two-is-better-than-one</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,32,22,20,4,2,0</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

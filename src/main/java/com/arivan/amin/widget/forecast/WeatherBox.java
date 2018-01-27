@@ -1,5 +1,6 @@
 package com.arivan.amin.widget.forecast;
 
+import com.arivan.amin.widget.PropertiesManager;
 import javafx.animation.*;
 import javafx.beans.property.DoubleProperty;
 import javafx.event.ActionEvent;
@@ -28,6 +29,8 @@ public class WeatherBox extends HBox
     private Label sunLabel;
     private VBox fourDaysVBox;
     private Label precipitationLabel;
+    @SuppressWarnings ("InstanceVariableOfConcreteClass")
+    private PropertiesManager propertiesManager;
     
     private WeatherBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
@@ -77,6 +80,7 @@ public class WeatherBox extends HBox
     
     private void initializeFields ()
     {
+        propertiesManager = PropertiesManager.newInstance();
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
         currentWeatherImage.setPreserveRatio(true);
@@ -148,7 +152,8 @@ public class WeatherBox extends HBox
         dayIconHBox.getChildren().add(dayImageView);
         VBox labelsVBox = new VBox();
         labelsVBox.setPadding(new Insets(10, 0, 0, 0));
-        Label temperaturesLabel = new Label(maxTemp + "C   -  " + minTemp + 'C');
+        Label temperaturesLabel =
+                new Label(convertTemperature(maxTemp) + "   /   " + convertTemperature(minTemp));
         Label dateLabel = new Label(date);
         labelsVBox.getChildren().addAll(temperaturesLabel, dateLabel);
         dayHBox.getChildren().addAll(dayIconHBox, labelsVBox);
@@ -184,14 +189,26 @@ public class WeatherBox extends HBox
     
     private void updateLabelValues ()
     {
-        temperatureLabel.setText(
-                "Temperature: " + weatherData.temperatureValue() + weatherData.temperatureUnit());
+        temperatureLabel
+                .setText("Temperature: " + convertTemperature(weatherData.temperatureValue()));
         conditionLabel.setText("Condition: " + weatherData.weatherCondition());
         humidityLabel.setText("Humidity: " + weatherData.humidityValue() + '%');
         windLabel.setText(
                 "Wind: " + weatherData.windsSpeed() + " mps " + weatherData.windDirection());
         cloudsLabel.setText("Clouds: " + weatherData.cloudsRate() + '%');
         sunLabel.setText("Sun rise: " + weatherData.sunrise() + " set: " + weatherData.sunset());
+    }
+    
+    private String convertTemperature (int temp)
+    {
+        String tempUnit = propertiesManager.getTemperature();
+        if ("k".equalsIgnoreCase(tempUnit))
+        {
+        }
+        if ("f".equalsIgnoreCase(tempUnit))
+        {
+        }
+        return temp + " C";
     }
     
     private void setNewIconImage ()
@@ -212,7 +229,6 @@ public class WeatherBox extends HBox
         }
     }
     
-    // TODO 1/8/18 provide location selection for forecast
     @Override
     public String toString ()
     {
@@ -221,6 +237,6 @@ public class WeatherBox extends HBox
                 ", conditionLabel=" + conditionLabel + ", humidityLabel=" + humidityLabel +
                 ", windLabel=" + windLabel + ", cloudsLabel=" + cloudsLabel + ", sunLabel=" +
                 sunLabel + ", fourDaysVBox=" + fourDaysVBox + ", precipitationLabel=" +
-                precipitationLabel + '}';
+                precipitationLabel + ", propertiesManager=" + propertiesManager + '}';
     }
 }

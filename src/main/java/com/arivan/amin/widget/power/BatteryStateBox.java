@@ -59,6 +59,7 @@ public class BatteryStateBox extends VBox
                 .bind(prefWidthProperty().multiply(BATTERY_PROGRESS_BAR_WIDTH));
     }
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private void bindBoxSizeToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         prefWidthProperty().bind(parentWidth.multiply(0.3));

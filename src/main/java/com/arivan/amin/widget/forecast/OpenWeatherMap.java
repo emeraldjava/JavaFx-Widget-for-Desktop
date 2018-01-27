@@ -100,7 +100,6 @@ public class OpenWeatherMap implements WeatherData
                         .getChildNodes());
     }
     
-    // todo possible refactoring in stream api code
     private String getTimeNodeChildAttribute (int nodeNumber, String tagName, String attribute)
     {
         List<Element> list = elementList.stream().filter(e -> "forecast".equals(e.getTagName()))
@@ -264,10 +263,8 @@ public class OpenWeatherMap implements WeatherData
     private String getWeatherIcon (int daysFromNow)
     {
         List<String> list = getAttributesOfDaysFromNow(daysFromNow, "symbol", "var");
-        List<String> collect = list.stream().map(e ->
-        {
-            return e.replace('n', 'd');
-        }).collect(Collectors.toList());
+        List<String> collect = list.stream().map(e -> e.replace('n', 'd')).
+                collect(Collectors.toList());
         Map<String, Long> set = collect.stream()
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
         String max =
@@ -347,6 +344,7 @@ public class OpenWeatherMap implements WeatherData
         return getMinTemperature(4);
     }
     
+    // todo timeZone Selection
     private static String changeTimeZoneToLocal (CharSequence dateTime)
     {
         LocalDateTime localDateTime = LocalDateTime.parse(dateTime);
@@ -359,7 +357,6 @@ public class OpenWeatherMap implements WeatherData
         return time;
     }
     
-    // todo refactoring of entire forecast package
     @Override
     public String toString ()
     {

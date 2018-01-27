@@ -1,6 +1,8 @@
 package com.arivan.amin.widget.network;
 
-import java.io.IOException;
+import com.arivan.amin.widget.wireless.LinuxWirelessMonitor;
+import com.arivan.amin.widget.wireless.WirelessMonitor;
+
 import java.util.List;
 import java.util.logging.Logger;
 import java.util.regex.Pattern;
@@ -13,9 +15,11 @@ public class LinuxNetworkMonitor implements NetworkMonitor
     private String data;
     private long previousDownload;
     private long previousUpload;
+    WirelessMonitor wirelessMonitor;
     
     private LinuxNetworkMonitor ()
     {
+        wirelessMonitor = LinuxWirelessMonitor.newInstance();
         updateData();
     }
     
@@ -27,34 +31,72 @@ public class LinuxNetworkMonitor implements NetworkMonitor
     @Override
     public String downloadSpeed ()
     {
-        String dataCopy = new String(data);
-        dataCopy = dataCopy.replace("\n", " ");
-        dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
-        String delimiter = "mcast";
-        dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length(),
-                dataCopy.indexOf("TX"));
-        dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(":");
-        String[] split = dataCopy.split(":");
-        long download = Long.parseLong(split[1]);
-        long bytes = download - previousDownload;
-        previousDownload = download;
-        return bytesIntoHumanReadable(bytes);
+        try
+        {
+            String dataCopy = new String(data);
+            dataCopy = dataCopy.replace("\n", " ");
+            dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
+            String delimiter = "mcast";
+            dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length(),
+                    dataCopy.indexOf("TX"));
+            dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(" ");
+            String[] split = dataCopy.split(" ");
+            long download = Long.parseLong(split[1]);
+            long bytes = download - previousDownload;
+            previousDownload = download;
+            return bytesIntoHumanReadable(bytes);
+        }
+        catch (Exception e)
+        {
+            logger.warning(e.getMessage());
+            return "";
+        }
     }
     
     @Override
     public String uploadSpeed ()
     {
-        String dataCopy = new String(data);
-        dataCopy = dataCopy.replace("\n", " ");
-        dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
-        String delimiter = "collsns";
-        dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length());
-        dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(":");
-        String[] split = dataCopy.split(":");
-        long upload = Long.parseLong(split[1]);
-        long bytes = upload - previousUpload;
-        previousUpload = upload;
-        return bytesIntoHumanReadable(bytes);
+        try
+        {
+            String dataCopy = new String(data);
+            dataCopy = dataCopy.replace("\n", " ");
+            dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
+            String delimiter = "collsns";
+            dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length());
+            dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(" ");
+            String[] split = dataCopy.split(" ");
+            long upload = Long.parseLong(split[1]);
+            long bytes = upload - previousUpload;
+            previousUpload = upload;
+            return bytesIntoHumanReadable(bytes);
+        }
+        catch (Exception e)
+        {
+            logger.warning(e.getMessage());
+            return "";
+        }
+    }
+    
+    @Override
+    public String ipAddress ()
+    {
+        try
+        {
+            if (wirelessMonitor.isConnected())
+            {
+                String output = getCommandOutput(List.of("ifconfig"));
+                output = output.substring(output.indexOf("wlo"));
+                String delimiter = "inet";
+                output = output.substring(output.indexOf(delimiter) + delimiter.length(),
+                        output.indexOf("netmask"));
+                return output;
+            }
+        }
+        catch (Exception e)
+        {
+            logger.warning(e.getMessage());
+        }
+        return "";
     }
     
     private String bytesIntoHumanReadable (long bytes)
@@ -94,9 +136,10 @@ public class LinuxNetworkMonitor implements NetworkMonitor
     {
         try
         {
+            wirelessMonitor.updateData();
             data = getCommandOutput(NETWORK_COMMAND);
         }
-        catch (IOException e)
+        catch (Exception e)
         {
             logger.warning(e.getMessage());
             data = "";

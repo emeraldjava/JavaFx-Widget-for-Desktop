@@ -16,6 +16,7 @@ public class NetworkBox extends VBox
     private Label downloadLabel;
     private Label uploadLabel;
     private NetworkMonitor networkMonitor;
+    private Label ipLabel;
     
     private NetworkBox ()
     {
@@ -39,13 +40,16 @@ public class NetworkBox extends VBox
         networkMonitor.updateData();
         downloadLabel.setText(networkMonitor.downloadSpeed());
         uploadLabel.setText(networkMonitor.uploadSpeed());
+        ipLabel.setText(networkMonitor.ipAddress());
     }
     
     private void initializeAndAddFields ()
     {
+        ipLabel = new Label();
         downloadLabel = new Label();
         uploadLabel = new Label();
         getChildren().add(new Label("Network usage"));
+        getChildren().add(ipLabel);
         BorderPane downloadBorderPane = new BorderPane();
         downloadBorderPane.setLeft(new Label("download"));
         downloadBorderPane.setRight(downloadLabel);

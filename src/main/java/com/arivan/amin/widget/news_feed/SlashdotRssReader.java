@@ -6,7 +6,6 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.InputStream;
 import java.net.URL;
-import java.net.URLConnection;
 import java.nio.file.*;
 import java.util.*;
 import java.util.logging.Logger;
@@ -59,13 +58,8 @@ public class SlashdotRssReader implements RssReader
     public void updateNewsData ()
     {
         Path path = Paths.get(SLASHDOT_RSS_FILE);
-        try
+        try (InputStream stream = new URL(SLASHDOT_URL).openStream())
         {
-            URL url = new URL(SLASHDOT_URL);
-            URLConnection connection = url.openConnection();
-            connection.setReadTimeout(1000);
-            connection.setConnectTimeout(1000);
-            InputStream stream = connection.getInputStream();
             Files.write(path, stream.readAllBytes());
         }
         catch (Exception e)

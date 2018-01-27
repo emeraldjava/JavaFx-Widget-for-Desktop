@@ -10,10 +10,9 @@ public class LinuxBatteryState implements BatteryState
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final Pattern REMOVE_SPACE = Pattern.compile(" ");
     private static final String[] BATTERY_COMMAND =
-            { "upower", "-i", "/org/freedesktop/UPower/devices/battery_BAT0" };
+            { "upower", "-d" };
     private String outputData;
     
-    // todo change command to upower -d
     private LinuxBatteryState ()
     {
         updateBatteryCommandOutput();
@@ -75,8 +74,9 @@ public class LinuxBatteryState implements BatteryState
         updateBatteryCommandOutput();
     }
     
-    private static String removeExtraData (CharSequence output)
+    private static String removeExtraData (String output)
     {
+        output = output.substring(output.indexOf("battery"));
         return REMOVE_SPACE.matcher(output).replaceAll("");
     }
     

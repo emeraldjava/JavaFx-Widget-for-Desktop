@@ -9,17 +9,20 @@ import java.util.logging.Logger;
 public final class PropertiesManager
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final String PROPERTY_FILE = "widget.properties";
+    private static final String TEMPERATURE_KEY = "temperature";
     private static final String WIDTH_KEY = "width";
     private static final String HEIGHT_KEY = "height";
     private static final String X_KEY = "x";
     private static final String Y_KEY = "y";
     private static final String IS_MAXIMIZED_KEY = "is-maximized";
-    private static final String PROPERTY_FILE = "widget.properties";
+    private static final String DEFAULT_TEMPERATURE = "c";
     private static final int DEFAULT_WIDTH = 1200;
     private static final int DEFAULT_HEIGHT = 700;
     private static final int DEFAULT_X = 10;
     private static final int DEFAULT_Y = 10;
     private static final boolean DEFAULT_MAXIMIZED_STATE = false;
+    private String temperature;
     private int width;
     private int height;
     private int stageX;
@@ -51,12 +54,13 @@ public final class PropertiesManager
     private void updateProperties () throws IOException
     {
         Properties properties = new Properties();
+        properties.setProperty(TEMPERATURE_KEY, temperature);
         properties.setProperty(WIDTH_KEY, String.valueOf(width));
         properties.setProperty(HEIGHT_KEY, String.valueOf(height));
         properties.setProperty(X_KEY, String.valueOf(stageX));
         properties.setProperty(Y_KEY, String.valueOf(stageY));
         properties.setProperty(IS_MAXIMIZED_KEY, String.valueOf(isStageMaximized));
-        properties.store(getOutputStream(), "");
+        properties.store(getOutputStream(), "options for temperature are c, k, f");
     }
     
     private static FileOutputStream getOutputStream () throws FileNotFoundException
@@ -70,6 +74,7 @@ public final class PropertiesManager
         {
             Properties properties = new Properties();
             properties.load(getInputStream());
+            temperature = properties.getProperty(TEMPERATURE_KEY);
             width = Integer.parseInt(properties.getProperty(WIDTH_KEY));
             height = Integer.parseInt(properties.getProperty(HEIGHT_KEY));
             stageX = Integer.parseInt(properties.getProperty(X_KEY));
@@ -78,6 +83,7 @@ public final class PropertiesManager
         }
         catch (Exception e)
         {
+            temperature = DEFAULT_TEMPERATURE;
             width = DEFAULT_WIDTH;
             height = DEFAULT_HEIGHT;
             stageX = DEFAULT_X;
@@ -150,10 +156,21 @@ public final class PropertiesManager
         isStageMaximized = stageMaximized;
     }
     
+    public String getTemperature ()
+    {
+        return temperature;
+    }
+    
+    public void setTemperature (String temperature)
+    {
+        this.temperature = temperature;
+    }
+    
     @Override
     public String toString ()
     {
-        return "PropertiesManager{" + "width=" + width + ", height=" + height + ", stageX=" +
-                stageX + ", stageY=" + stageY + ", getIsStageMaximized=" + isStageMaximized + '}';
+        return "PropertiesManager{" + "temperature='" + temperature + '\'' + ", width=" + width +
+                ", height=" + height + ", stageX=" + stageX + ", stageY=" + stageY +
+                ", isStageMaximized=" + isStageMaximized + '}';
     }
 }

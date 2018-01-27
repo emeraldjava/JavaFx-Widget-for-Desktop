@@ -7,7 +7,6 @@ import javafx.scene.control.Label;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
 
-import java.util.List;
 import java.util.logging.Logger;
 
 public class RssReaderBox extends VBox
@@ -62,15 +61,13 @@ public class RssReaderBox extends VBox
         getChildren().add(label);
     }
     
-    // todo replace loop with stream api
     private void addNewsToLabel (Label label)
     {
-        List<RssItem> items = rssReader.newsList();
-        for (int i = 0; i < items.size(); i++)
+        rssReader.newsList().stream().forEach(rssItem ->
         {
-            label.setText(label.getText() + (i + 1) + "-- " + items.get(i).getTitle() +
-                    System.lineSeparator() + System.lineSeparator());
-        }
+            label.setText(label.getText() + rssItem.getTitle() + System.lineSeparator() +
+                    System.lineSeparator());
+        });
     }
     
     private Label createNewsLabel ()
