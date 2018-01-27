@@ -5,6 +5,8 @@ Made into a widget like desktop application that currently supports linux and so
 
 Any feedback, suggestion or contribution is highly appreciated.
 
+View Contribuiting guide, pull request and code of conduct for more details.
+
 current application screenshot:
 <p align="center">
   <img src="docs/app screenshot.png"/>
