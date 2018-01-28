@@ -34,6 +34,7 @@ public class WirelessMonitorBox extends VBox
         updateDataPeriodically();
     }
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private void bindBoxToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         prefWidthProperty().bind(parentWidth);

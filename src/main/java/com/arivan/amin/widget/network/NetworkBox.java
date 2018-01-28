@@ -45,9 +45,7 @@ public class NetworkBox extends VBox
     
     private void initializeAndAddFields ()
     {
-        ipLabel = new Label();
-        downloadLabel = new Label();
-        uploadLabel = new Label();
+        initializeFields();
         getChildren().add(new Label("Network usage"));
         getChildren().add(ipLabel);
         BorderPane downloadBorderPane = new BorderPane();
@@ -57,6 +55,13 @@ public class NetworkBox extends VBox
         uploadBorderPane.setLeft(new Label("Upload"));
         uploadBorderPane.setRight(uploadLabel);
         getChildren().addAll(downloadBorderPane, uploadBorderPane);
+    }
+    
+    private void initializeFields ()
+    {
+        ipLabel = new Label();
+        downloadLabel = new Label();
+        uploadLabel = new Label();
     }
     
     private void determineOperatingSystem ()
@@ -72,7 +77,7 @@ public class NetworkBox extends VBox
     @Override
     public String toString ()
     {
-        return "NetworkBox {" + "downloadLabel=" + downloadLabel + ", uploadLabel=" + uploadLabel +
-                ", networkMonitor=" + networkMonitor + '}';
+        return "NetworkBox{" + "downloadLabel=" + downloadLabel + ", uploadLabel=" + uploadLabel +
+                ", networkMonitor=" + networkMonitor + ", ipLabel=" + ipLabel + '}';
     }
 }

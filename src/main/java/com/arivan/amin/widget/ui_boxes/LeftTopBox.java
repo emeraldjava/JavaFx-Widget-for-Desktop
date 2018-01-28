@@ -10,12 +10,14 @@ import java.util.logging.Logger;
 
 public class LeftTopBox extends HBox
 {
+    private static final double BOX_SIZE = 0.4;
     private final Logger logger = Logger.getLogger(getClass().getName());
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private LeftTopBox (DoubleProperty parentWidthProperty, DoubleProperty parentHeightProperty)
     {
         prefWidthProperty().bind(parentWidthProperty);
-        prefHeightProperty().bind(parentHeightProperty.multiply(0.4));
+        prefHeightProperty().bind(parentHeightProperty.multiply(BOX_SIZE));
         Platform.runLater(() ->
         {
             getChildren().add(0, ClockBox.newInstance(prefWidthProperty(), prefHeightProperty()));

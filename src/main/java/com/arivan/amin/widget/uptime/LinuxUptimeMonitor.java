@@ -25,7 +25,7 @@ public class LinuxUptimeMonitor implements UptimeMonitor
             String uptime = getCommandOutput(List.of("uptime"));
             String delimiter = "up";
             uptime = uptime.substring(uptime.indexOf(delimiter) + delimiter.length(),
-                    uptime.indexOf(","));
+                    uptime.indexOf(','));
             return uptime;
         }
         catch (IOException e)

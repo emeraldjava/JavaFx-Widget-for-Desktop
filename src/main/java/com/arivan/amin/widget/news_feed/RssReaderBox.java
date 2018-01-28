@@ -11,6 +11,7 @@ import java.util.logging.Logger;
 
 public class RssReaderBox extends VBox
 {
+    private static final double RSS_BOX_WIDTH = 0.4;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final int MINUTES_BETWEEN_RSS_UPDATES = 10;
     private RssReader rssReader;
@@ -37,9 +38,10 @@ public class RssReaderBox extends VBox
         timeline.play();
     }
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private void bindBoxSizeToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        prefWidthProperty().bind(parentWidth.multiply(0.4));
+        prefWidthProperty().bind(parentWidth.multiply(RSS_BOX_WIDTH));
         prefHeightProperty().bind(parentHeight);
     }
     
@@ -63,7 +65,7 @@ public class RssReaderBox extends VBox
     
     private void addNewsToLabel (Label label)
     {
-        rssReader.newsList().stream().forEach(rssItem ->
+        rssReader.newsList().forEach(rssItem ->
         {
             label.setText(label.getText() + rssItem.getTitle() + System.lineSeparator() +
                     System.lineSeparator());

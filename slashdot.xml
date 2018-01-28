@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-27T18:27:05+00:00</dc:date>
+<dc:date>2018-01-28T14:42:04+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/27/2245240/should-apps-replace-title-bars-with-header-bars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/28/0151209/a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/28/0529257/dutch-intelligence-agents-watched-russia-hack-the-dnc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/28/047229/fbi-warns-of-email-death-threats-demanding-bitcoin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/28/0217253/rocket-lab-criticized-for-launching-their-own-private-star-into-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/27/2157238/deanonymizing-tor-your-bitcoin-transactions-may-come-back-to-haunt-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/27/2122227/uber-ceo-urges-portable-benefits-for-gig-economy-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/18/01/27/016207/is-it-time-for-zero-trust-corporate-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/27/063209/duckduckgo-app-and-extension-upgrades-offer-privacy-beyond-the-search-box?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/27/0415238/car-manufacturers-are-tracking-millions-of-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/27/0347206/a-15-year-old-convinced-verizon-he-was-the-head-of-the-cia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://entertainment.slashdot.org/story/18/01/27/0257234/how-we-made-starship-troopers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://developers.slashdot.org/story/18/01/27/0158239/employers-want-javascript-but-developers-want-python-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/27/0653225/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/27/0135248/tesla-employees-say-gigafactory-problems-are-worse-than-known?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,280 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://tech.slashdot.org/story/18/01/27/2245240/should-apps-replace-title-bars-with-header-bars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Should Apps Replace Title Bars with Header Bars?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rOP2NaRa87Y/should-apps-replace-title-bars-with-header-bars</link>
+<description>Gnome contributor Tobias Bernard is on a crusade against title bars -- "the largely empty bars at the top of some application windows [that] contain only the window title and a close button." Instead he wants to see header bars -- "a newer, more flexible pattern that allows putting window controls and other UI elements in the same bar." Tobias Bernard writes:
+Header bars are client-side decorations (CSD), which means they are drawn by the app rather than the display server. This allows for better integration between application and window chrome. All GNOME apps (except for Terminal) have moved to header bars over the past few years, and so have many third-party apps. However, there are still a few holdouts. 
+
+He's announcing the CSD Initiative, "an effort to get apps (both GNOME and third-party) to drop title bars and adopt GNOME-style client-side decorations... The only way to solve this problem long-term is to patch applications upstream to not use title bars. So this is what we'll have to do."
+ 
+ Talk to the maintainers and convince them that this is a good idea
+ Do the design work of adapting the layout and make mockups
+ Figure out what is required at a technical level
+ Actually implement the new layout and get it merged
+
+
+Implementation is already in progress for Firefox, though it has not yet been started for other high-priority apps like LibreOffice, GNOME Terminal, and Skype. "If you want to help with any of the above tasks," writes Tobias, "come talk to us on #gnome-design on IRC/Matrix."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Should+Apps+Replace+Title+Bars+with+Header+Bars%3F%3A+http%3A%2F%2Fbit.ly%2F2niU72t"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F27%2F2245240%2Fshould-apps-replace-title-bars-with-header-bars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/27/2245240/should-apps-replace-title-bars-with-header-bars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/27/2245240/should-apps-replace-title-bars-with-header-bars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11668003&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rOP2NaRa87Y" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-28T14:34:00+00:00</dc:date>
+<dc:subject>gnome</dc:subject>
+<slash:department>window-frames</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>4</slash:comments>
+<slash:hit_parade>4,4,2,2,0,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/27/2245240/should-apps-replace-title-bars-with-header-bars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/28/0151209/a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>A Single Line of Computer Code Put Thousands of Innocent Turks in Jail</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HWmvoJjyZFs/a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail</link>
+<description>Long-time Slashdot reader kbahey writes:
+Can a single pixel cost you your livelihood and/or freedom? Apparently, this has already happened in Turkey to thousands of people and their relatives. It all stems from the purge by president Edrogan following a failed coupe. The result is that many innocent people lost their jobs (and source of income), their freedom, their reputation, and more. 
+The details are frightening. The underlying technology is the use of 1x1 transparent pixels, as most web sites do, to track their visitors. This particular pixel was used by Bylock, a messaging app that the Turkish government deemed seditious, in their purge against Fethullah Gulen loyalists. Pre-dawn raids by police were conducted on those who have this pixel. The long legal proceedings caused a digital forensic expert to challenge those cases, because [the pixel using] the servers for Bylock was also being used by other applications for music streaming, and prayer times/direction of Mecca. 
+30,000 innocent people may have been swept up among the 150,000 Turks detained, arrested or forced from their jobs under state of emergency decrees since the summer of 2016. One 29-year-old high school teacher "wished the worst" for the revolutionaries accused of using Bylock, "until authorities said he was one of them."
+ 
+The government eventually exonerated 11,480 of the wrongly accused, but some had already spent months in prison, and reportedly some even committed suicide.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=A+Single+Line+of+Computer+Code+Put+Thousands+of+Innocent+Turks+in+Jail%3A+http%3A%2F%2Fbit.ly%2F2DJGjsS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F28%2F0151209%2Fa-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/28/0151209/a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/28/0151209/a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11668073&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HWmvoJjyZFs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-28T12:04:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>wrongfully-accused</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,58,38,25,8,4,3</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/28/0151209/a-single-line-of-computer-code-put-thousands-of-innocent-turks-in-jail?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/28/0529257/dutch-intelligence-agents-watched-russia-hack-the-dnc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Dutch Intelligence Agents Watched Russia Hack the DNC</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Hh65wa8c7VI/dutch-intelligence-agents-watched-russia-hack-the-dnc</link>
+<description>Long-time Slashdot readers Agilulf, Sara Chan, and wiredmikey -- plus an anonymous reader -- all submitted the same story. Agilulf writes:
+Dutch hackers from AIVD (their intelligence agency) infiltrated Russian hackers, had access to their CCTV system, and followed them for more than a year, watched their attack on the DNC, provided the proof to the U.S. intelligence community that Russia was behind those hacks and the stolen emails, and were disappointed with the response from the U.S. 
+The Dutch agents also watched Russian agents breach a non-classified network at the U.S. State Department in 2014, where the Russians then sent a phishing email to the White House, successfully stole login credentials, and then accessed email from embassies and diplomats.
+ 
+"Three American intelligence services state with 'high confidence' that the Kremlin was behind the attack on the Democratic Party," according to the article, which adds that that certainty "is derived from the AIVD hackers having had access to the office-like space in the center of Moscow for years."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Dutch+Intelligence+Agents+Watched+Russia+Hack+the+DNC%3A+http%3A%2F%2Fbit.ly%2F2BAhaeu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F28%2F0529257%2Fdutch-intelligence-agents-watched-russia-hack-the-dnc%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/28/0529257/dutch-intelligence-agents-watched-russia-hack-the-dnc?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/28/0529257/dutch-intelligence-agents-watched-russia-hack-the-dnc?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11668183&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Hh65wa8c7VI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-28T08:29:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>I-spy</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>163</slash:comments>
+<slash:hit_parade>163,147,65,44,6,5,4</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/28/0529257/dutch-intelligence-agents-watched-russia-hack-the-dnc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/28/047229/fbi-warns-of-email-death-threats-demanding-bitcoin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FBI Warns of Email Death Threats Demanding Bitcoin</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/NteI7aD2398/fbi-warns-of-email-death-threats-demanding-bitcoin</link>
+<description>An anonymous reader writes:
+"I will be short. I've got an order to kill you," the note said, demanding $2,800 in U.S. dollars or Bitcoin. "I switched from being upset about it to, 'I need to get the word out'," one of its targets told a local newscaster. They filed a report through the FBI's web site. 
+
+ "If only 1% of people send money -- there's no overhead for them; that's money in the bank," one FBI agent tells the news team. A quick Google search finds recent reports of two nearly identical threats using the same text.
+ 
+
+"I have been thinking for a long time whether it is worth sending this notice, and decided that you still have the right to know... I've got an order to kill you, because some of your activity causes trouble to several people... I decided to break some rules, as this will be my final order... As soon as I receive the funds, I will forward you the name of the man [this] order came from, and all other information I have."
+&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FBI+Warns+of+Email+Death+Threats+Demanding+Bitcoin%3A+http%3A%2F%2Fbit.ly%2F2Bz0fZw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F28%2F047229%2Ffbi-warns-of-email-death-threats-demanding-bitcoin%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/28/047229/fbi-warns-of-email-death-threats-demanding-bitcoin?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/28/047229/fbi-warns-of-email-death-threats-demanding-bitcoin?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11668127&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/NteI7aD2398" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-28T05:24:00+00:00</dc:date>
+<dc:subject>crime</dc:subject>
+<slash:department>crimes-for-cryptocurrency</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>74</slash:comments>
+<slash:hit_parade>74,73,46,33,9,5,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/28/047229/fbi-warns-of-email-death-threats-demanding-bitcoin?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/28/0217253/rocket-lab-criticized-for-launching-their-own-private-star-into-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Rocket Lab Criticized For Launching Their Own Private 'Star' Into Orbit</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5YlsVC30Uno/rocket-lab-criticized-for-launching-their-own-private-star-into-orbit</link>
+<description>Newsweek reports:
+A private satellite company launched a three-foot-wide, carbon-fiber orb called the Humanity Star into the sky last week. Rocket Lab has promised the Humanity Star will be "the brightest thing in the sky," presumably other than the sun. The orb will reflect light from the sun back to Earth to achieve this effect. It's expected to orbit the Earth once every 90 minutes for the next nine months before it falls out of the sky and burns up in the atmosphere. The reaction on social media has been largely swift and scornful... 
+The stated goal of the project, at least, seems admirable: "No matter where you are in the world, rich or in poverty, in conflict or at peace, everyone will be able to see the bright, blinking Humanity Star orbiting Earth in the night sky," Rocket Lab CEO Peter Beck said in a statement on the project's website. "Wait for when the Humanity Star is overhead, and take your loved ones outside to look up and reflect. You may just feel a connection to the more than 7 billion other people on this planet we share this ride with." 
+Slashdot reader dmoberhaus writes that "astronomers are annoyed by what they perceive as just another piece of space junk getting in the way." 
+"Wow. Intentionally bright long-term space graffiti. Thanks a lot Rocket Lab," complained an astronomer at the California Institute of Technology. And one New Zealand journalist accused Rocket Lab of "vandalising the night sky with shiny space rubbish."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Rocket+Lab+Criticized+For+Launching+Their+Own+Private+'Star'+Into+Orbit%3A+http%3A%2F%2Fbit.ly%2F2DHIWvs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F28%2F0217253%2Frocket-lab-criticized-for-launching-their-own-private-star-into-orbit%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/28/0217253/rocket-lab-criticized-for-launching-their-own-private-star-into-orbit?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/28/0217253/rocket-lab-criticized-for-launching-their-own-private-star-into-orbit?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11668085&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5YlsVC30Uno" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-28T02:20:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>fake-stars</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>193</slash:comments>
+<slash:hit_parade>193,188,112,86,16,5,3</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/28/0217253/rocket-lab-criticized-for-launching-their-own-private-star-into-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/27/2157238/deanonymizing-tor-your-bitcoin-transactions-may-come-back-to-haunt-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Deanonymizing Tor: Your Bitcoin Transactions May Come Back To Haunt You</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/eOYLizTAtEI/deanonymizing-tor-your-bitcoin-transactions-may-come-back-to-haunt-you</link>
+<description>jwhyche, Slashdot reader #6,192, writes:
+If you bought some illegal narcotics off Silk Road or even gave money to Wikileaks. Researchers at Qatar University and Hamad Bin Khalifa University have been able to link these transactions with real world identities. They have been able to do this even if the transactions are years old. Their research shows how easy it is to link accounts to these transactions without using any of the tools available to law enforcement like search warrants or subpoenas. 
+
+The researchers started with 88 unique bitcoin addresses from Tor hidden services, and then searched 5 billion tweets and 1 million pages on the Bitcoin Talk forum -- ultimately linking 125 unique users to 20 Tor hidden services. "Bitcoin addresses should always be considered exploitable," the researchers conclude, "as they can be used to deanonymize users retroactively." 
+
+Their paper is titled "When a Small Leak Sinks a Great Ship: Deanonymizing Tor Hidden Service Users Through Bitcoin Transactions Analysis," and Wired summarizes one of their conclusions. "Even deleting profile information that includes bitcoin addresses may not be enough if a post has been cached or captured by services like the Internet Archive, they point out. 'If you're vulnerable now, you're vulnerable in the future.'"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Deanonymizing+Tor%3A+Your+Bitcoin+Transactions+May+Come+Back+To+Haunt+You%3A+http%3A%2F%2Fbit.ly%2F2nm777Q"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F27%2F2157238%2Fdeanonymizing-tor-your-bitcoin-transactions-may-come-back-to-haunt-you%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/27/2157238/deanonymizing-tor-your-bitcoin-transactions-may-come-back-to-haunt-you?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/27/2157238/deanonymizing-tor-your-bitcoin-transactions-may-come-back-to-haunt-you?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11667965&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/eOYLizTAtEI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-28T00:14:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>like-a-bad-penny</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>94</slash:comments>
+<slash:hit_parade>94,94,44,38,6,3,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/27/2157238/deanonymizing-tor-your-bitcoin-transactions-may-come-back-to-haunt-you?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/27/2122227/uber-ceo-urges-portable-benefits-for-gig-economy-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Uber CEO Urges 'Portable Benefits' for Gig Economy Workers</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/h6ycHCd7MbM/uber-ceo-urges-portable-benefits-for-gig-economy-workers</link>
+<description>An anonymous reader quotes The Hill:
+Uber's chief executive is calling for Washington state to develop a "portable benefits system" to give contract workers in the so-called gig economy access to health care and retirement planning accounts. Uber CEO Dara Khosrowshahi signed onto a letter with Service Employees International Union (SEIU) 775 President David Rolf and Seattle investor and workers rights advocate Nick Hanauer urging the state to take action. 
+
+Uber does not hire drivers as actual employees meaning the company does not offer them benefits beyond compensation. Khosrowshahi said having the state change laws so that contract workers can carry benefits between jobs would be preferable to Uber hiring them as full employees.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Uber+CEO+Urges+'Portable+Benefits'+for+Gig+Economy+Workers%3A+http%3A%2F%2Fbit.ly%2F2DK14VC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F27%2F2122227%2Fuber-ceo-urges-portable-benefits-for-gig-economy-workers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/27/2122227/uber-ceo-urges-portable-benefits-for-gig-economy-workers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/27/2122227/uber-ceo-urges-portable-benefits-for-gig-economy-workers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11667945&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/h6ycHCd7MbM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-27T23:09:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>social-insecurity</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>103</slash:comments>
+<slash:hit_parade>103,103,52,46,12,6,4</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/27/2122227/uber-ceo-urges-portable-benefits-for-gig-economy-workers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://it.slashdot.org/story/18/01/27/016207/is-it-time-for-zero-trust-corporate-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Is It Time For Zero-Trust Corporate Networks?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/kBesbcypoPs/is-it-time-for-zero-trust-corporate-networks</link>
+<description>An anonymous reader quotes CSO:
+"The strategy around Zero Trust boils down to don't trust anyone. We're talking about, 'Let's cut off all access until the network knows who you are. Don't allow access to IP addresses, machines, etc. until you know who that user is and whether they're authorized,'" says Charlie Gero, CTO of Enterprise and Advanced Projects Group at Akamai Technologies in Cambridge, Mass... The Zero Trust model of information security basically kicks to the curb the old castle-and-moat mentality that had organizations focused on defending their perimeters while assuming everything already inside didn't pose a threat and therefore was cleared for access. Security and technology experts say the castle-and-moat approach isn't working. They point to the fact that some of the most egregious data breaches happened because hackers, once they gained access inside corporate firewalls, were able move through internal systems without much resistance...
+ 
+Experts say that today's enterprise IT departments require a new way of thinking because, for the most part, the castle itself no longer exists in isolation as it once did. Companies don't have corporate data centers serving a contained network of systems but instead today typically have some applications on-premises and some in the cloud with users -- employees, partners, customers -- accessing applications from a range of devices from multiple locations and even potentially from around the globe... The Zero Trust approach relies on various existing technologies and governance processes to accomplish its mission of securing the enterprise IT environment. It calls for enterprises to leverage micro-segmentation and granular perimeter enforcement based on users, their locations and other data to determine whether to trust a user, machine or application seeking access to a particular part of the enterprise... Zero Trust draws on technologies such as multifactor authentication, Identity and Access Management (IAM), orchestration, analytics, encryption, scoring and file system permissions. Zero Trust also calls for governance policies such as giving users the least amount of access they need to accomplish a specific task. 
+"Most organizational IT experts have been trained, unfortunately, to implicitly trust their environments," says the chief product officer at an IAM/PIM solutions supplier. 
+"Everybody has been [taught] to think that the firewall is keeping the bad guys out. People need to adjust their mindset and understand that the bad actors are already in their environment."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Is+It+Time+For+Zero-Trust+Corporate+Networks%3F%3A+http%3A%2F%2Fbit.ly%2F2Bz72CA"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F18%2F01%2F27%2F016207%2Fis-it-time-for-zero-trust-corporate-networks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://it.slashdot.org/story/18/01/27/016207/is-it-time-for-zero-trust-corporate-networks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/18/01/27/016207/is-it-time-for-zero-trust-corporate-networks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665191&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/kBesbcypoPs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-27T22:04:00+00:00</dc:date>
+<dc:subject>networking</dc:subject>
+<slash:department>halt-who-goes-there</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>131</slash:comments>
+<slash:hit_parade>131,130,84,73,28,12,7</slash:hit_parade>
+<feedburner:origLink>https://it.slashdot.org/story/18/01/27/016207/is-it-time-for-zero-trust-corporate-networks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/27/063209/duckduckgo-app-and-extension-upgrades-offer-privacy-beyond-the-search-box?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>DuckDuckGo App and Extension Upgrades Offer Privacy 'Beyond the Search Box'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/A127G2sQS-g/duckduckgo-app-and-extension-upgrades-offer-privacy-beyond-the-search-box</link>
+<description>An anonymous reader quotes the Verge:
+DuckDuckGo is launching updated versions of its browser extension and mobile app, with the promise of keeping internet users safe from snooping "beyond the search box." The company's flagship product, its privacy-focused search engine, will remain the same, but the revamped extension and app will offer new tools to help users keep their web-browsing as safe and private as possible. These include grade ratings for websites, factoring in their use of encryption and ad tracking networks, and offering summaries of their terms of service (with summaries provided by third-party Terms of Service Didn't Read). The app and extension are available for Firefox, Safari, Chrome, iOS, and Android.
+ 
+The ability to block ad tracking networks is probably the most important feature here. These networks are used by companies like Google and Facebook to follow users around the web, stitching together their browsing history to create a more accurate profile for targeted advertising. 
+DuckDuckGo calls it "a major step to simplify online privacy," adding that without it, "It's hard to use the Internet without it feeling a bit creepy -- like there's a nosey neighbor watching everything you do from across the street."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=DuckDuckGo+App+and+Extension+Upgrades+Offer+Privacy+'Beyond+the+Search+Box'%3A+http%3A%2F%2Fbit.ly%2F2BxSLWS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F27%2F063209%2Fduckduckgo-app-and-extension-upgrades-offer-privacy-beyond-the-search-box%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/27/063209/duckduckgo-app-and-extension-upgrades-offer-privacy-beyond-the-search-box?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/27/063209/duckduckgo-app-and-extension-upgrades-offer-privacy-beyond-the-search-box?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665707&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/A127G2sQS-g" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-27T20:59:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>I'm-feeling-private</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>45</slash:comments>
+<slash:hit_parade>45,45,26,22,6,4,2</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/27/063209/duckduckgo-app-and-extension-upgrades-offer-privacy-beyond-the-search-box?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/27/0415238/car-manufacturers-are-tracking-millions-of-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Car Manufacturers Are Tracking Millions of Cars</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/oddCmYNxsP4/car-manufacturers-are-tracking-millions-of-cars</link>
+<description>Cory Doctorow writes:
+Millions of new cars sold in the US and Europe are "connected," having some mechanism for exchanging data with their manufacturers after the cars are sold; these cars stream or batch-upload location data and other telemetry to their manufacturers, who argue that they are allowed to do virtually anything they want with this data, thanks to the "explicit consent" of the car owners -- who signed a lengthy contract at purchase time that contained a vague and misleading clause deep in its fine-print. 
+
+Slashdot reader Luthair adds that "OnStar infamously has done this for some time, even if the vehicle's owner was not a subscriber of their services." But now 78 million cars have an embedded cyber connection, according to one report, with analysts predicting 98% of new cars will be "connected" by 2021. The Washington Post calls it "Big Brother on Wheels." 
+"Carmakers have turned on a powerful spigot of precious personal data, often without owners' knowledge, transforming the automobile from a machine that helps us travel to a sophisticated computer on wheels that offers even more access to our personal habits and behaviors than smartphones do."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Car+Manufacturers+Are+Tracking+Millions+of+Cars%3A+http%3A%2F%2Fbit.ly%2F2EgGfy7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F27%2F0415238%2Fcar-manufacturers-are-tracking-millions-of-cars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/27/0415238/car-manufacturers-are-tracking-millions-of-cars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/27/0415238/car-manufacturers-are-tracking-millions-of-cars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665379&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/oddCmYNxsP4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-27T19:54:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>along-for-the-ride</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>100</slash:comments>
+<slash:hit_parade>100,98,60,48,13,5,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/27/0415238/car-manufacturers-are-tracking-millions-of-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/27/0347206/a-15-year-old-convinced-verizon-he-was-the-head-of-the-cia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>A 15-Year-Old Convinced Verizon He Was the Head of the CIA</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/-K4z2moRkY4/a-15-year-old-convinced-verizon-he-was-the-head-of-the-cia</link>
+<description>schwit1 shares an interesting story. Newsweek reports:
+A British teenager managed to obtain access to sensitive U.S. plans about intelligence operations in different Middle East countries by acting as former CIA Director John Brennan, a court heard on Friday. Kane Gamble, 18, researched Brennan and used the information he gathered to speak to an internet company and persuade call handlers to give him access to the spy chief's email inbox in 2015. He pretended to be both a Verizon employee and Brennan to access Brennan's internet account. 
+Astonishingly, Gamble managed to gain access to Brennan's emails and his addressbook, as well as his iCloud storage. He even managed to remotely access the iPad of Brennan's wife... Gamble, aged 15 at the time, also persuaded a helpdesk at the FBI that he was the then deputy director Mark Giuliano... In October 2017, Gamble pleaded guilty to 10 charges, including eight charges of "performing a function with intent to secure unauthorized access" to the computers and two of "unauthorized modification of computer material."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=A+15-Year-Old+Convinced+Verizon+He+Was+the+Head+of+the+CIA%3A+http%3A%2F%2Fbit.ly%2F2EdVoA7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F27%2F0347206%2Fa-15-year-old-convinced-verizon-he-was-the-head-of-the-cia%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/27/0347206/a-15-year-old-convinced-verizon-he-was-the-head-of-the-cia?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/27/0347206/a-15-year-old-convinced-verizon-he-was-the-head-of-the-cia?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665357&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/-K4z2moRkY4" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2018-01-27T18:49:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>one-factor-authentication</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>129</slash:comments>
+<slash:hit_parade>129,120,52,42,17,3,1</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/27/0347206/a-15-year-old-convinced-verizon-he-was-the-head-of-the-cia?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://entertainment.slashdot.org/story/18/01/27/0257234/how-we-made-starship-troopers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>'How We Made Starship Troopers'</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/MnECbUVEwUk/how-we-made-starship-troopers</link>
@@ -63,8 +337,8 @@ Verhoeven told one interviewer that he never actually read Robert Heinlein's ori
 <dc:subject>movies</dc:subject>
 <slash:department>Bug-hunt-at-outpost-nine</slash:department>
 <slash:section>entertainment</slash:section>
-<slash:comments>32</slash:comments>
-<slash:hit_parade>32,28,14,12,3,1,0</slash:hit_parade>
+<slash:comments>440</slash:comments>
+<slash:hit_parade>440,430,288,244,57,44,30</slash:hit_parade>
 <feedburner:origLink>https://entertainment.slashdot.org/story/18/01/27/0257234/how-we-made-starship-troopers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://developers.slashdot.org/story/18/01/27/0158239/employers-want-javascript-but-developers-want-python-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Employers Want JavaScript, But Developers Want Python, Survey Finds</title>
@@ -86,8 +360,8 @@ The survey involved 39,441 developers, and concluded that "Python ruled among al
 <dc:subject>programming</dc:subject>
 <slash:department>loving-languages</slash:department>
 <slash:section>developers</slash:section>
-<slash:comments>60</slash:comments>
-<slash:hit_parade>60,60,32,27,6,2,0</slash:hit_parade>
+<slash:comments>187</slash:comments>
+<slash:hit_parade>187,187,120,109,13,9,3</slash:hit_parade>
 <feedburner:origLink>https://developers.slashdot.org/story/18/01/27/0158239/employers-want-javascript-but-developers-want-python-survey-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://games.slashdot.org/story/18/01/27/0653225/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Two More Gamers May Be Charged in Fatal Kansas 'SWAT' Shooting</title>
@@ -110,8 +384,8 @@ Meanwhile, Kansas officials have been informed that the third gamer who actually
 <dc:subject>crime</dc:subject>
 <slash:department>violence-and-video-games</slash:department>
 <slash:section>games</slash:section>
-<slash:comments>74</slash:comments>
-<slash:hit_parade>74,73,48,33,8,5,4</slash:hit_parade>
+<slash:comments>145</slash:comments>
+<slash:hit_parade>145,143,85,63,21,12,10</slash:hit_parade>
 <feedburner:origLink>https://games.slashdot.org/story/18/01/27/0653225/two-more-gamers-may-be-charged-in-fatal-kansas-swat-shooting?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/27/0135248/tesla-employees-say-gigafactory-problems-are-worse-than-known?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Tesla Employees Say Gigafactory Problems Are Worse Than Known</title>
@@ -130,234 +404,9 @@ Meanwhile, Kansas officials have been informed that the third gamer who actually
 <dc:subject>power</dc:subject>
 <slash:department>under-the-hood</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>91</slash:comments>
-<slash:hit_parade>91,85,60,48,22,12,8</slash:hit_parade>
+<slash:comments>169</slash:comments>
+<slash:hit_parade>169,164,123,107,29,17,14</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/27/0135248/tesla-employees-say-gigafactory-problems-are-worse-than-known?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Scientists Discover the Oldest Human Fossils Outside Africa</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pQbCarmiS2c/scientists-discover-the-oldest-human-fossils-outside-africa</link>
-<description>Archaeologists in Israel have discovered the oldest fossil of a modern human outside Africa, suggesting that humans first migrated out of the content much earlier than previously believed. NPR reports: The scientists were digging in a cave called Misliya, on the slopes of Mount Carmel on the northern coast of Israel. "The cave is one of a series of prehistoric caves," says Mina Weinstein-Evron of the Zinman Institute of Archaeology at the University of Haifa, who led the team. "It's a collapsed cave, but people lived there before it collapsed." The cave had been occupied for several hundred thousand years, she says. All the archaeological evidence suggested that the ancient people who lived in the cave were hunter-gatherers. "They were hunting animals, mainly ungulates, like fallow dear, gazelle, aurochs [an extinct species of wild cattle] and other small animals," says Weinstein-Evron. "They built fireplaces throughout the length of the cave, again and again, in the same place, in the same sort of defined arrangement." Weinstein-Evron says she and her team wanted to find out which species of ancient humans lived in the cave. So, she says, they kept digging. "And among the animal bones and flint tools we found a jawbone, an upper jawbone of an individual," she says. A detailed analysis of the jawbone and the teeth confirmed that it indeed belonged to someone of our species, Homo sapiens. And when they dated the fossil, it turned out to be between 177,000 and 194,000 years old, making it the oldest known such fossil outside the African continent.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Discover+the+Oldest+Human+Fossils+Outside+Africa%3A+http%3A%2F%2Fbit.ly%2F2ni4SSL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F27%2F0115255%2Fscientists-discover-the-oldest-human-fossils-outside-africa%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665197&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/pQbCarmiS2c" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-27T10:00:00+00:00</dc:date>
-<dc:subject>earth</dc:subject>
-<slash:department>land-before-time</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>81</slash:comments>
-<slash:hit_parade>81,67,43,38,10,3,1</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/27/0115255/scientists-discover-the-oldest-human-fossils-outside-africa?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Amateur Astronomer Discovers Long-Dead NASA Satellite Has Come Back To Life</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HbqV-8F8sZE/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life</link>
-<description>schwit1 shares a report from Behind The Black: In his hunt to locate Zuma, an amateur astronomer has discovered that a long-dead NASA satellite, designed to study the magnetosphere, has come back to life. IMAGE went dead in 2005, and though NASA thought it might come back to life after experiencing a total eclipse in 2007 that would force a reboot, no evidence of life was seen then. It now appears that the satellite came to life sometime between then and 2018, and was chattering away at Earth waiting for a response. NASA is now looking at what it must do to take control of the spacecraft and resume science operations. Zuma is the secret U.S. government payload that was launched by SpaceX earlier this month and reportedly lost. As for why Scott Tilley -- the amateur radio astronomer -- decided to have a look for the present of secret military satellites, Ars Technica reports that he apparently does this semi-regularly as a hobby and, in this case, was inspired by the Zuma satellite.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Amateur+Astronomer+Discovers+Long-Dead+NASA+Satellite+Has+Come+Back+To+Life%3A+http%3A%2F%2Fbit.ly%2F2ni2Jq9"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F27%2F0128256%2Famateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665205&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HbqV-8F8sZE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-27T07:00:00+00:00</dc:date>
-<dc:subject>nasa</dc:subject>
-<slash:department>back-from-the-dead</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>51</slash:comments>
-<slash:hit_parade>51,47,25,20,8,5,4</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/27/0128256/amateur-astronomer-discovers-long-dead-nasa-satellite-has-come-back-to-life?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Robert Mueller's Team Reportedly Interviewed Facebook Staff As Part of Russia Probe</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/itsCsWCZhgQ/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe</link>
-<description>An anonymous reader quotes a report from The Hill: Special counsel Robert Mueller's team has interviewed at least one Facebook employee tasked with helping the Trump campaign's digital operations during the 2016 campaign, Wired reported on Friday. The report, which cited a source familiar with the matter, does not say when the employee was questioned nor does it detail the focus of the interview. Mueller's team has been investigating for months any collusion between Trump campaign associates and Russia. During the election, Facebook deployed employees to embed with the Trump campaign to assist its digital operations. The company also worked with Hillary Clinton's campaign team but did not have employees embedded with them. The company has also been scrutinized by Congress for selling more than 3,000 ads to the Internet Research Agency, a Russian "troll farm" alleged to have carried out misinformation operations online during the campaign.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Robert+Mueller's+Team+Reportedly+Interviewed+Facebook+Staff+As+Part+of+Russia+Probe%3A+http%3A%2F%2Fbit.ly%2F2BwzHIz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F26%2F2328236%2Frobert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665133&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/itsCsWCZhgQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-27T03:30:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>election-interference</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>154</slash:comments>
-<slash:hit_parade>154,146,63,42,9,4,0</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/26/2328236/robert-muellers-team-reportedly-interviewed-facebook-staff-as-part-of-russia-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>OnePlus Is Again Sending User Data To a Chinese Company Without User Consent </title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wgF9lxF4hT4/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent</link>
-<description>In October 2017, a researcher caught OnePlus silently collecting all sorts of data from its users. Now, a new report says that there's still a OnePlus app that can grab data from the phone and send it to servers in China without a user's knowledge or express consent. BGR reports: The French security researcher hiding behind the name Elliot Alderson on Twitter detailed OnePlus's data collection practices back in October, and he has now discovered a strange file in the OnePlus clipboard app. A Badword.txt file contains various keywords, including "Chairman, Vice President, Deputy Director, Associate Professor, Deputy Heads, General, Private Message, shipping, Address, email," and others. The file is then duplicated in a zip file called pattern alongside six other .txt files. All these files are apparently used in "in an obfuscated package which seems to be an #Android library from teddymobile." Now, TeddyMobile is a Chinese company that works with plenty of smartphone makers from China. The company seems to be able to recognize words and numbers in text messages. And OnePlus is apparently sending your phone's IMEI number to a TeddyMobile server, too. It looks like the TeddyMobile package might be able to grab all sorts of data from a phone. Even bank numbers are apparently recognized. OnePlus has yet to issue a statement on the matter.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=OnePlus+Is+Again+Sending+User+Data+To+a+Chinese+Company+Without+User+Consent+%3A+http%3A%2F%2Fbit.ly%2F2DFT1c7"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F27%2F0013220%2Foneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665161&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wgF9lxF4hT4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-27T02:05:00+00:00</dc:date>
-<dc:subject>android</dc:subject>
-<slash:department>here-we-go-again</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>111</slash:comments>
-<slash:hit_parade>111,106,60,37,6,3,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/27/0013220/oneplus-is-again-sending-user-data-to-a-chinese-company-without-user-consent?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Elon Musk's Boring Company Delivers $600 Flamethrower</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Rxq2CdKWjUY/elon-musks-boring-company-delivers-600-flamethrower</link>
-<description>Last December, Boring Company CEO Elon Musk promised to sell a Boring Company-branded flamethrower after selling 50,000 Boring Company hats. Well, sure enough, 50,000 hats were sold and Musk is delivering on his promise. The Verge reports: Mark this down as one of the promises Elon delivers on, apparently, because it looks like the Boring Company flamethrower is here. Redditors in a few SpaceX, Boring Company, and Musk-related subreddits noticed earlier this week that the URL "boringcompany.com/flamethrower" started redirecting to a page with a password box. And at least one user was able to guess the original password, too: "flame." (It's since been changed.) Behind that password was a shop page that looks just like the one for The Boring Company's hat. But instead of a $20 cap, they found a preorder prompt for a $600 flamethrower. "Prototype pictured above," the listing reads. "Final production flamethrower will be better."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Elon+Musk's+Boring+Company+Delivers+%24600+Flamethrower%3A+http%3A%2F%2Fbit.ly%2F2DHgOIZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F18%2F01%2F27%2F0143219%2Felon-musks-boring-company-delivers-600-flamethrower%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665219&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Rxq2CdKWjUY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-27T01:45:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>promise-is-a-promise</slash:department>
-<slash:section>slashdot</slash:section>
-<slash:comments>89</slash:comments>
-<slash:hit_parade>89,87,46,41,12,5,3</slash:hit_parade>
-<feedburner:origLink>https://slashdot.org/story/18/01/27/0143219/elon-musks-boring-company-delivers-600-flamethrower?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Crooks Created 28 Fake Ad Agencies To Disguise Massive Malvertising Campaign</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/lzXhRR3EAtA/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign</link>
-<description>An anonymous reader quotes a report from Bleeping Computer: A group of cyber-criminals created 28 fake ad agencies and bought over 1 billion ad views in 2017, which they used to deliver malicious ads that redirected unsuspecting users to tech support scams or sneaky pages peddling malware-laden software updates or software installers. The entire operation -- codenamed Zirconium -- appears to have started in February 2017, when the group started creating the fake ad agencies which later bought ad views from larger ad platforms. These fake ad agencies each had individual websites and even LinkedIn profiles for their fake CEOs. Their sole purpose was to interface with larger advertising platforms, appearing as legitimate businesses. Ad security company Confiant, the one who discovered this entire operation, says ads bought by this group reached 62% of ad-monetized websites on a weekly basis. All in all, Confiant believes that about 2.5 million users who've encountered Zirconium's malicious ads were redirected to a malicious site, with 95% of the victims being based in the U.S.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Crooks+Created+28+Fake+Ad+Agencies+To+Disguise+Massive+Malvertising+Campaign%3A+http%3A%2F%2Fbit.ly%2F2EcaNki"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F26%2F2358230%2Fcrooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665155&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/lzXhRR3EAtA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-27T01:25:00+00:00</dc:date>
-<dc:subject>crime</dc:subject>
-<slash:department>under-the-radar</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>25</slash:comments>
-<slash:hit_parade>25,24,15,13,7,3,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/26/2358230/crooks-created-28-fake-ad-agencies-to-disguise-massive-malvertising-campaign?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facial Recognition Integrates With IFTTT</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IZHFDxPuk8Q/facial-recognition-integrates-with-ifttt</link>
-<description>Trueface.ai, the stealthy facial recognition startup that's backed by 500 Startups and a slew of angel investors, is integrating with IFTTT to allow developers to start playing around with its technology. TechCrunch reports: Chief executive Shaun Moore tells me that the integration with IFTTT represents the first time that facial recognition technology will be made available to the masses without the need to understand complex code. The company initially started as both a hardware and software vendor, but back in 2017 Moore said that the company stripped out its hardware component and focused on its software. Focusing on digital identification and verification tools, Trueface.ai sells technology that it says can be used to verify a request to open a bank account or for digital document notarization. "We can do that remotely and verify proof of possession and identity," says Moore. The goal, says Moore, is to make facial recognition available to everybody. And IFTTT's integration is one step to make that happen, because it will familiarize product developers and makers with the toolkit, Moore says.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facial+Recognition+Integrates+With+IFTTT%3A+http%3A%2F%2Fbit.ly%2F2EfSmeM"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F26%2F2334215%2Ffacial-recognition-integrates-with-ifttt%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11665139&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/IZHFDxPuk8Q" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-27T00:45:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>first-of-its-kind</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>18</slash:comments>
-<slash:hit_parade>18,18,13,12,6,3,1</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/26/2334215/facial-recognition-integrates-with-ifttt?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Montana To FCC: You Can't Stop Us From Protecting Net Neutrality</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/mJpVyg4kCOI/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality</link>
-<description>An anonymous reader quotes a report from Ars Technica: The Montana governor's office has a message for the Federal Communications Commission and Internet service providers: the state can't be stopped from protecting net neutrality, and ISPs that don't like it don't have to do business with state agencies. Governor Steve Bullock signed an executive order to protect net neutrality on Monday. But with questions raised about whether Bullock is exceeding his authority, the governor's legal office prepared a fact sheet that it's distributing to anyone curious about potential legal challenges to the executive order. ISPs are free to violate net neutrality if they only serve non-government customers -- they just can't do so and expect to receive state contracts. "Companies that don't like it don't have to do business with the State -- nothing stops ISPs from selling dumpy Internet plans in Montana if they insist," the fact sheet says. The FCC's repeal of net neutrality rules attempts to preempt states and localities from issuing their own similar rules. But Bullock's executive order doesn't directly require ISPs to follow net neutrality rules. Instead, ISPs that accept contracts to provide Internet service to any state agency must agree to abide by net neutrality principles throughout the state. Bullock's fact sheet is titled, "Why Isn't Montana's Executive Order Preempted?" and it offers numerous answers to that question. "Through the order, the State of Montana acts as a consumer -- not a regulator," the fact sheet says. "Because there's no mandate, and no new regulations, there's certainly no federal preemption. Companies that don't like Montana's proposed contract terms don't have to do business with the State."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Montana+To+FCC%3A+You+Can't+Stop+Us+From+Protecting+Net+Neutrality%3A+http%3A%2F%2Fbit.ly%2F2DI7pRu"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F26%2F2118228%2Fmontana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664999&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/mJpVyg4kCOI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-27T00:03:00+00:00</dc:date>
-<dc:subject>internet</dc:subject>
-<slash:department>legal-battle-brewing</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>109</slash:comments>
-<slash:hit_parade>109,102,56,45,17,9,5</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/26/2118228/montana-to-fcc-you-cant-stop-us-from-protecting-net-neutrality?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>ICE Is About To Start Tracking License Plates Across the US</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sA_ngGtIGXA/ice-is-about-to-start-tracking-license-plates-across-the-us</link>
-<description>Presto Vivace shares a report from The Verge: The Immigration and Customs Enforcement (ICE) agency has officially gained agency-wide access to a nationwide license plate recognition database, according to a contract finalized earlier this month. The system gives the agency access to billions of license plate records and new powers of real-time location tracking, raising significant concerns from civil libertarians. The source of the data is not named in the contract, but an ICE representative said the data came from Vigilant Solutions, the leading network for license plate recognition data. While it collects few photos itself, Vigilant Solutions has amassed a database of more than 2 billion license plate photos by ingesting data from partners like vehicle repossession agencies and other private groups. ICE agents would be able to query that database in two ways. A historical search would turn up every place a given license plate has been spotted in the last five years, a detailed record of the target's movements. That data could be used to find a given subject's residence or even identify associates if a given car is regularly spotted in a specific parking lot. 
-
-
-
-Presto Vivace adds, "This will not end well."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=ICE+Is+About+To+Start+Tracking+License+Plates+Across+the+US%3A+http%3A%2F%2Fbit.ly%2F2EesCPJ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F26%2F2111225%2Fice-is-about-to-start-tracking-license-plates-across-the-us%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664971&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sA_ngGtIGXA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T23:20:00+00:00</dc:date>
-<dc:subject>database</dc:subject>
-<slash:department>location-services</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>146</slash:comments>
-<slash:hit_parade>146,142,79,61,18,5,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/26/2111225/ice-is-about-to-start-tracking-license-plates-across-the-us?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>$500 Million Worth of Cryptocurrency Stolen From Japanese Exchange</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cio-tsbaQhs/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange</link>
-<description>Locke2005 shares a report from CNBC: Hackers stole several hundred million dollars' worth of a lesser-known cryptocurrency from a major Japanese exchange Friday. Coincheck said that around 523 million of the exchange's NEM coins were sent to another account around 3 a.m. local time (1 p.m. ET Thursday), according to a Google translate of a Japanese transcript of the Friday press conference from Logmi. The exchange has about 6 percent of yen-bitcoin trading, ranking fourth by market share on CryptoCompare. The stolen NEM coins were worth about 58 billion yen at the time of detection, or roughly $534.8 million, according to the exchange. Coincheck subsequently restricted withdrawals of all currencies, including yen, and trading of cryptocurrencies other than bitcoin. Locke2005 adds, "That, my friends, is the prime reason why speculating in cryptocurrency is a bad idea!"&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=%24500+Million+Worth+of+Cryptocurrency+Stolen+From+Japanese+Exchange%3A+http%3A%2F%2Fbit.ly%2F2Ec8v4M"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F26%2F2050259%2F500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664931&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cio-tsbaQhs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T22:40:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>gone-in-the-blink-of-an-eye</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>90</slash:comments>
-<slash:hit_parade>90,87,45,37,8,7,5</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/26/2050259/500-million-worth-of-cryptocurrency-stolen-from-japanese-exchange?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Walmart Teams Up With Kobo To Sell EBooks and Audiobooks</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/nh99ayyLYKM/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks</link>
-<description>An anonymous reader quotes a report from Engadget: Later this year, you'll be able to buy ebooks and audiobooks straight from Walmart's website. The big box retailer has teamed up with Japanese e-commerce titan Rakuten to launch a business that can take on Amazon's Kindle offerings. Walmart will give its customers in the U.S. an easy way to access to Kobo's library -- Kobo is Rakuten's digital book division -- and its six million titles from tens of thousands of publishers. The company will also start selling Kobo eReaders, which will set you back at least $120, online and in stores sometime this year.
-Walmart said Kobo's titles will be fully integrated into its website, so the ebook and audiobook versions of the title you're searching for will appear alongside the listing of its physical book. However, you won't be able to access the digital files through random apps. You'll have to use the co-branded apps for iOS, Android and desktop that Walmart and Kobo will release in the future, though you'll of course be able access ebooks through a Kobo e-reader.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Walmart+Teams+Up+With+Kobo+To+Sell+EBooks+and+Audiobooks%3A+http%3A%2F%2Fbit.ly%2F2EdzZqO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F26%2F214255%2Fwalmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11664965&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/nh99ayyLYKM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-26T22:00:00+00:00</dc:date>
-<dc:subject>books</dc:subject>
-<slash:department>two-is-better-than-one</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>32</slash:comments>
-<slash:hit_parade>32,32,22,20,4,2,0</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/26/214255/walmart-teams-up-with-kobo-to-sell-ebooks-and-audiobooks?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

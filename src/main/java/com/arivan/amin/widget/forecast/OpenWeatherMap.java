@@ -93,7 +93,7 @@ public class OpenWeatherMap implements WeatherData
                 .findAny().get();
     }
     
-    private List<Element> getTimeNodes ()
+    private Collection<Element> getTimeNodes ()
     {
         return createList(
                 elementList.stream().filter(e -> "forecast".equals(e.getTagName())).findAny().get()
@@ -203,8 +203,7 @@ public class OpenWeatherMap implements WeatherData
         List<String> list = new ArrayList<>(50);
         LocalDateTime dayStart = getDayStart(dayNumber);
         LocalDateTime dayEnd = dayStart.plusDays(1);
-        List<Element> timeNodes = getTimeNodes();
-        for (int i = 0; i < timeNodes.size(); i++)
+        for (int i = 0; i < getTimeNodes().size(); i++)
         {
             LocalDateTime weatherDataTime =
                     LocalDateTime.parse(getTimeNodeAttribute(i)).plusMinutes(1);
@@ -216,6 +215,7 @@ public class OpenWeatherMap implements WeatherData
         return list;
     }
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private boolean isWeatherDataForRequiredDay (LocalDateTime dayStart, LocalDateTime dayEnd,
             LocalDateTime weatherDataTime)
     {

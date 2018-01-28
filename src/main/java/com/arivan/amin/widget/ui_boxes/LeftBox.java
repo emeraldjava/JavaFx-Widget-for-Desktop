@@ -7,6 +7,7 @@ import java.util.logging.Logger;
 
 public class LeftBox extends VBox
 {
+    private static final double GAP_BETWEEN_BOXES = 0.1;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final double LEFT_BOX_WIDTH = 0.80;
     
@@ -14,12 +15,13 @@ public class LeftBox extends VBox
     {
         bindBoxToParent(parentWidth, parentHeight);
         HBox leftMiddleHBox = new HBox();
-        leftMiddleHBox.prefHeightProperty().bind(heightProperty().multiply(0.1));
+        leftMiddleHBox.prefHeightProperty().bind(heightProperty().multiply(GAP_BETWEEN_BOXES));
         getChildren().add(LeftTopBox.newInstance(prefWidthProperty(), prefHeightProperty()));
         getChildren().addAll(leftMiddleHBox);
         getChildren().add(LeftBottomBox.newInstance(prefWidthProperty(), prefHeightProperty()));
     }
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private void bindBoxToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         prefWidthProperty().bind(parentWidth.multiply(LEFT_BOX_WIDTH));

@@ -19,13 +19,14 @@ public class MemoryProgressBar extends VBox
     private ProgressBar memoryBar;
     private Label memoryLabel;
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private MemoryProgressBar (DoubleProperty parentWidthProperty,
             DoubleProperty parentHeightProperty)
     {
         prefWidthProperty().bind(parentWidthProperty);
         determineOperatingSystem();
         setSpacing(5);
-        initiliazeFields();
+        initializeFields();
         BorderPane memoryBorderPane = new BorderPane();
         memoryBorderPane.setLeft(new Label("RAM"));
         memoryBorderPane.setRight(memoryLabel);
@@ -33,7 +34,7 @@ public class MemoryProgressBar extends VBox
         animateBar();
     }
     
-    private void initiliazeFields ()
+    private void initializeFields ()
     {
         memoryBar = new ProgressBar();
         memoryLabel = new Label();

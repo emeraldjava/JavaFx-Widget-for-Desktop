@@ -1,5 +1,6 @@
 package com.arivan.amin.widget.file_system;
 
+@SuppressWarnings ({ "PublicMethodNotExposedInInterface", "ClassWithoutLogger" })
 public class FileSystemItem
 {
     private String name;
@@ -28,6 +29,7 @@ public class FileSystemItem
         return new FileSystemItem(name);
     }
     
+    @SuppressWarnings ("MethodWithTooManyParameters")
     public static FileSystemItem newInstance (String name, String size, String used,
             String available, double usedPercentage)
     {
@@ -82,5 +84,13 @@ public class FileSystemItem
     public void setUsedPercentage (double usedPercentage)
     {
         this.usedPercentage = usedPercentage;
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "FileSystemItem{" + "name='" + name + '\'' + ", size='" + size + '\'' + ", used='" +
+                used + '\'' + ", available='" + available + '\'' + ", usedPercentage=" +
+                usedPercentage + '}';
     }
 }

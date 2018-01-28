@@ -13,7 +13,7 @@ public class UptimeMonitorBox extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final Label uptimeLabel;
-    UptimeMonitor uptimeMonitor;
+    private UptimeMonitor uptimeMonitor;
     
     private UptimeMonitorBox ()
     {
@@ -48,5 +48,12 @@ public class UptimeMonitorBox extends VBox
     public static UptimeMonitorBox newInstance ()
     {
         return new UptimeMonitorBox();
+    }
+    
+    @Override
+    public String toString ()
+    {
+        return "UptimeMonitorBox{" + "uptimeLabel=" + uptimeLabel + ", uptimeMonitor=" +
+                uptimeMonitor + '}';
     }
 }

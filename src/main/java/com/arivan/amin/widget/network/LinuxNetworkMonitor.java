@@ -9,13 +9,14 @@ import java.util.regex.Pattern;
 
 public class LinuxNetworkMonitor implements NetworkMonitor
 {
+    private static final int BYTES_THOUSAND_UNIT = 1024;
+    private final Logger logger = Logger.getLogger(getClass().getName());
     private static final List<String> NETWORK_COMMAND = List.of("ip", "-s", "link");
     private static final Pattern EXTRA_SPACE = Pattern.compile(" {2,}");
-    private final Logger logger = Logger.getLogger(getClass().getName());
     private String data;
     private long previousDownload;
     private long previousUpload;
-    WirelessMonitor wirelessMonitor;
+    private final WirelessMonitor wirelessMonitor;
     
     private LinuxNetworkMonitor ()
     {
@@ -34,16 +35,9 @@ public class LinuxNetworkMonitor implements NetworkMonitor
         try
         {
             String dataCopy = new String(data);
-            dataCopy = dataCopy.replace("\n", " ");
-            dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
-            String delimiter = "mcast";
-            dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length(),
-                    dataCopy.indexOf("TX"));
-            dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(" ");
-            String[] split = dataCopy.split(" ");
-            long download = Long.parseLong(split[1]);
-            long bytes = download - previousDownload;
-            previousDownload = download;
+            dataCopy = removeExtraOutput(dataCopy);
+            dataCopy = extractDownloadNumbers(dataCopy, "mcast", "TX");
+            long bytes = getBytesAndSetPrevDownload(removeExtraSpaceAndSplit(dataCopy)[1]);
             return bytesIntoHumanReadable(bytes);
         }
         catch (Exception e)
@@ -53,21 +47,43 @@ public class LinuxNetworkMonitor implements NetworkMonitor
         }
     }
     
+    private long getBytesAndSetPrevDownload (String s)
+    {
+        long download = Long.parseLong(s);
+        long bytes = download - previousDownload;
+        previousDownload = download;
+        return bytes;
+    }
+    
+    private String[] removeExtraSpaceAndSplit (String dataCopy)
+    {
+        dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(" ");
+        return dataCopy.split(" ");
+    }
+    
+    private String extractDownloadNumbers (String dataCopy, String mcast, String tx)
+    {
+        return dataCopy.substring(dataCopy.indexOf(mcast) + mcast.length(), dataCopy.indexOf(tx));
+    }
+    
+    private String removeExtraOutput (String dataCopy)
+    {
+        dataCopy = dataCopy.replace("\n", " ");
+        dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
+        return dataCopy;
+    }
+    
     @Override
     public String uploadSpeed ()
     {
         try
         {
             String dataCopy = new String(data);
-            dataCopy = dataCopy.replace("\n", " ");
-            dataCopy = dataCopy.substring(dataCopy.indexOf("wlo"));
+            dataCopy = removeExtraOutput(dataCopy);
             String delimiter = "collsns";
             dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length());
-            dataCopy = EXTRA_SPACE.matcher(dataCopy).replaceAll(" ");
-            String[] split = dataCopy.split(" ");
-            long upload = Long.parseLong(split[1]);
-            long bytes = upload - previousUpload;
-            previousUpload = upload;
+            long upload = Long.parseLong(removeExtraSpaceAndSplit(dataCopy)[1]);
+            long bytes = getBytesAndSetPrevUpload(upload);
             return bytesIntoHumanReadable(bytes);
         }
         catch (Exception e)
@@ -75,6 +91,13 @@ public class LinuxNetworkMonitor implements NetworkMonitor
             logger.warning(e.getMessage());
             return "";
         }
+    }
+    
+    private long getBytesAndSetPrevUpload (long upload)
+    {
+        long bytes = upload - previousUpload;
+        previousUpload = upload;
+        return bytes;
     }
     
     @Override
@@ -86,9 +109,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
             {
                 String output = getCommandOutput(List.of("ifconfig"));
                 output = output.substring(output.indexOf("wlo"));
-                String delimiter = "inet";
-                output = output.substring(output.indexOf(delimiter) + delimiter.length(),
-                        output.indexOf("netmask"));
+                output = extractDownloadNumbers(output, "inet", "netmask");
                 return output;
             }
         }
@@ -99,12 +120,13 @@ public class LinuxNetworkMonitor implements NetworkMonitor
         return "";
     }
     
+    @SuppressWarnings ({ "OverlyLongMethod", "IfStatementWithTooManyBranches" })
     private String bytesIntoHumanReadable (long bytes)
     {
-        long kilobyte = 1024;
-        long megabyte = kilobyte * 1024;
-        long gigabyte = megabyte * 1024;
-        long terabyte = gigabyte * 1024;
+        long kilobyte = BYTES_THOUSAND_UNIT;
+        long megabyte = kilobyte * BYTES_THOUSAND_UNIT;
+        long gigabyte = megabyte * BYTES_THOUSAND_UNIT;
+        long terabyte = gigabyte * BYTES_THOUSAND_UNIT;
         if ((bytes >= 0) && (bytes < kilobyte))
         {
             return "0 KB";
@@ -150,6 +172,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
     public String toString ()
     {
         return "LinuxNetworkMonitor{" + "data='" + data + '\'' + ", previousDownload=" +
-                previousDownload + ", previousUpload=" + previousUpload + '}';
+                previousDownload + ", previousUpload=" + previousUpload + ", wirelessMonitor=" +
+                wirelessMonitor + '}';
     }
 }

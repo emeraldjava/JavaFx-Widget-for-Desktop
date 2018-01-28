@@ -19,6 +19,7 @@ public class CpuProgressBar extends VBox
     private ProgressBar cpuBar;
     private Label cpuLabel;
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private CpuProgressBar (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         setSpacing(5);

@@ -1,5 +1,6 @@
 package com.arivan.amin.widget.news_feed;
 
+@SuppressWarnings ({ "ClassWithoutLogger", "PublicMethodNotExposedInInterface" })
 public class RssItem
 {
     private String title;

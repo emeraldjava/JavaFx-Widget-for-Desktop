@@ -113,6 +113,7 @@ public class ClockBox extends VBox
         return day;
     }
     
+    @SuppressWarnings ("OverlyLongMethod")
     private String getDaySuffix (LocalDate date, String day)
     {
         switch (date.getDayOfMonth())

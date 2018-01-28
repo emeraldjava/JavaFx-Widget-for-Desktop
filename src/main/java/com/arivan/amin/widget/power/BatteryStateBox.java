@@ -17,6 +17,8 @@ import java.util.logging.Logger;
 public class BatteryStateBox extends VBox
 {
     private static final double BATTERY_PROGRESS_BAR_WIDTH = 0.7;
+    private static final int SPACING = 15;
+    private static final double BATTERY_STATE_BOX_WIDTH = 0.3;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private BatteryState batteryState;
     private Label stateLabel;
@@ -44,7 +46,7 @@ public class BatteryStateBox extends VBox
     
     private void setBoxPropertiesAndAddItems ()
     {
-        setSpacing(15);
+        setSpacing(SPACING);
         setAlignment(Pos.TOP_CENTER);
         getChildren().addAll(new Label("Battery percentage"), batteryBar, stateLabel,
                 timeRemainingLabel);
@@ -62,7 +64,7 @@ public class BatteryStateBox extends VBox
     @SuppressWarnings ("TypeMayBeWeakened")
     private void bindBoxSizeToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        prefWidthProperty().bind(parentWidth.multiply(0.3));
+        prefWidthProperty().bind(parentWidth.multiply(BATTERY_STATE_BOX_WIDTH));
         prefHeightProperty().bind(parentHeight);
     }
     

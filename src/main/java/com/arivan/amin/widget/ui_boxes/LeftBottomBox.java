@@ -12,6 +12,7 @@ public class LeftBottomBox extends HBox
     private static final double BOX_HEIGHT = 0.5;
     private final Logger logger = Logger.getLogger(getClass().getName());
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private LeftBottomBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         prefWidthProperty().bind(parentWidth);

@@ -52,6 +52,7 @@ public class RightBox extends VBox
         });
     }
     
+    @SuppressWarnings ("TypeMayBeWeakened")
     private void bindBoxToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         prefWidthProperty().bind(parentWidth.multiply(RIGHT_BOX_WIDTH));

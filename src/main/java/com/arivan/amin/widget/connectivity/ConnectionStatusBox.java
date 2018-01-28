@@ -12,6 +12,7 @@ import java.util.logging.Logger;
 
 public class ConnectionStatusBox extends VBox
 {
+    private static final int TOP_PADDING = 20;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final int PERIOD_BETWEEN_UPDATES = 1;
     private ConnectionStatus connectionStatus;
@@ -20,7 +21,7 @@ public class ConnectionStatusBox extends VBox
     
     private ConnectionStatusBox ()
     {
-        setPadding(new Insets(20, 0, 0, 0));
+        setPadding(new Insets(TOP_PADDING, 0, 0, 0));
         determineOperatingSystem();
         adjustBoxProperties();
         initializeAndAddFields();
