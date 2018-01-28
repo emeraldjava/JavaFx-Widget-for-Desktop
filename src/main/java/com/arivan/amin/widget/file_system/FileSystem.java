@@ -4,9 +4,17 @@ import com.arivan.amin.widget.SystemCommandHandler;
 
 import java.util.List;
 
-// todo add package info and javadoc
+/**
+ * The interface File system.
+ */
 @FunctionalInterface
 public interface FileSystem extends SystemCommandHandler
 {
+    /**
+     * Partitions list of the system containing all the drives.
+     * their name, size, used space and available space.
+     *
+     * @return the list of partation items.
+     */
     List<FileSystemItem> partitions ();
 }

@@ -7,6 +7,9 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
+/**
+ * The type Linux cpu monitor.
+ */
 public class LinuxCpuMonitor implements CpuMonitor
 {
     private static final Pattern EXTRA_SPACE = Pattern.compile(" {2,}");
@@ -19,6 +22,11 @@ public class LinuxCpuMonitor implements CpuMonitor
         prevData = getUsageData();
     }
     
+    /**
+     * New instance linux cpu monitor.
+     *
+     * @return the linux cpu monitor
+     */
     public static LinuxCpuMonitor newInstance ()
     {
         return new LinuxCpuMonitor();
@@ -35,7 +43,7 @@ public class LinuxCpuMonitor implements CpuMonitor
         List<Integer> deltaList = computeDifferenceBetweenReads();
         double deltaSum = sumDeltaValues(deltaList);
         double usedCpu = deltaSum - deltaList.get(3);
-        return ((PERCENT * usedCpu) / deltaSum) / 100;
+        return ((100 * usedCpu) / deltaSum) / 100;
     }
     
     private double sumDeltaValues (Collection<Integer> deltaList)

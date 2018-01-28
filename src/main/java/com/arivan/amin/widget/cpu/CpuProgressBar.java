@@ -11,6 +11,9 @@ import javafx.util.Duration;
 
 import java.util.logging.Logger;
 
+/**
+ * The type Cpu progress bar.
+ */
 public class CpuProgressBar extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
@@ -44,10 +47,18 @@ public class CpuProgressBar extends VBox
         processor = LinuxCpuMonitor.newInstance();
     }
     
-    public static CpuProgressBar newInstance (DoubleProperty parentWidthProperty,
-            DoubleProperty parentHeightProperty)
+    /**
+     * New instance cpu progress bar.
+     *
+     * @param parentWidth the parent width property for this box to be bound with
+     * @param parentHeight the parent height property for this box to be bound with
+     *
+     * @return a new cpu progress bar instance
+     */
+    public static CpuProgressBar newInstance (DoubleProperty parentWidth,
+            DoubleProperty parentHeight)
     {
-        return new CpuProgressBar(parentWidthProperty, parentHeightProperty);
+        return new CpuProgressBar(parentWidth, parentHeight);
     }
     
     private void animateBar ()

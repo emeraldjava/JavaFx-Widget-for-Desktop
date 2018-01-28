@@ -9,6 +9,9 @@ import javafx.scene.layout.VBox;
 
 import java.util.logging.Logger;
 
+/**
+ * The type File system box.
+ */
 public class FileSystemBox extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
@@ -24,6 +27,14 @@ public class FileSystemBox extends VBox
         createBoxesForPartitions(fileSystem.partitions());
     }
     
+    /**
+     * New instance file system box.
+     *
+     * @param parentWidth the parent width for this box to be bound with.
+     * @param parentHeight the parent height for this box to be bound with.
+     *
+     * @return the file system box
+     */
     public static FileSystemBox newInstance (DoubleProperty parentWidth,
             DoubleProperty parentHeight)
     {

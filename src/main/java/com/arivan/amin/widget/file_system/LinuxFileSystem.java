@@ -6,6 +6,9 @@ import java.util.logging.Logger;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+/**
+ * The type Linux file system.
+ */
 public class LinuxFileSystem implements FileSystem
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
@@ -30,6 +33,11 @@ public class LinuxFileSystem implements FileSystem
         }
     }
     
+    /**
+     * New instance linux file system.
+     *
+     * @return the linux file system
+     */
     public static LinuxFileSystem newInstance ()
     {
         return new LinuxFileSystem();

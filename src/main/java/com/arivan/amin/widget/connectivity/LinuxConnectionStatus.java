@@ -6,6 +6,9 @@ import java.net.*;
 import java.nio.charset.StandardCharsets;
 import java.util.logging.Logger;
 
+/**
+ * The type Linux connection status.
+ */
 public class LinuxConnectionStatus implements ConnectionStatus
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
@@ -19,6 +22,11 @@ public class LinuxConnectionStatus implements ConnectionStatus
     {
     }
     
+    /**
+     * New instance linux connection status.
+     *
+     * @return the linux connection status
+     */
     public static LinuxConnectionStatus newInstance ()
     {
         return new LinuxConnectionStatus();
