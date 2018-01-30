@@ -6,9 +6,8 @@ public class UnitConverter
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     
-    // todo implement temperature selection for forecast
     private static final int KELVIN_WATER_FREEZING_POINT = 273;
-    private static final double FAHRENHEIT_CONVERSION_RATE = 9.0/5.0;
+    private static final double FAHRENHEIT_CONVERSION_RATE = 9.0 / 5.0;
     
     private UnitConverter ()
     {
@@ -18,6 +17,8 @@ public class UnitConverter
     {
         return celsius + KELVIN_WATER_FREEZING_POINT;
     }
+    
+    // todo public ip site http://checkip.amazonaws.com/
     public static int convertCelsiusToFahrenheit (int celsius)
     {
         return (int) ((celsius * FAHRENHEIT_CONVERSION_RATE) + 32);

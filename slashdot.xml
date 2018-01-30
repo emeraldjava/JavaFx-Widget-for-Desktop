@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-30T07:31:08+00:00</dc:date>
+<dc:date>2018-01-30T20:53:14+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/0419222/mpeg-founder-says-the-mpeg-business-model-is-broken?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/29/2222210/ethereum-startup-vanishes-after-seemingly-making-11-leaves-message-penis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/29/2257235/worlds-second-largest-meat-processor-invests-in-lab-grown-meat-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/29/2215249/facebook-will-prioritize-local-stories-in-your-news-feed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/29/2154249/volkswagen-admits-to-testing-diesel-fumes-on-monkeys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/29/2142210/there-may-not-be-an-iphone-se-2-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/29/2130238/inside-amazons-mini-rainforest-work-space-spheres?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/29/2116227/pentagon-reviews-gps-policies-after-fitness-trackers-reveal-locations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/29/2032220/automation-to-take-1-in-3-jobs-in-uks-northern-centres-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/29/2022231/longest-standing-video-game-record-declared-impossible-thrown-out-after-35-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/29/201250/china-denies-report-it-hacked-african-union-headquarters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/29/1827248/dell-is-considering-a-sale-to-vmware-in-what-may-be-techs-biggest-deal-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/29/182210/lenovos-fingerprint-scanner-can-be-bypassed-via-a-hardcoded-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/29/1655225/one-in-50-of-us-is-face-blind----and-many-dont-even-realize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,266 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Robot Delivery Vans Are Arriving Before Self-Driving Cars</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VNLdAGKxyxg/robot-delivery-vans-are-arriving-before-self-driving-cars</link>
+<description>The future of driverless driving looks like a giant toaster with a funny hat. From a report: That's an approximation of a new autonomous vehicle unveiled Tuesday by Nuro, a Silicon Valley startup that's been cryptic about its business plan since it launched about 18 months ago. Nuro's shiny, minimalist appliance on wheels doesn't have doors or windows to speak of, because it will be carrying packages -- not people. As every major automaker and dozens of tech companies race to replace drivers in Uber cars and taxi fleets, Nuro is ignoring humans altogether and steering for Amazon.com, United Parcel Service and any retailer looking to build its e-commerce business.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Robot+Delivery+Vans+Are+Arriving+Before+Self-Driving+Cars%3A+http%3A%2F%2Fbit.ly%2F2BElut6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F30%2F1810206%2Frobot-delivery-vans-are-arriving-before-self-driving-cars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679699&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VNLdAGKxyxg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T20:20:00+00:00</dc:date>
+<dc:subject>robot</dc:subject>
+<slash:department>next-up</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>15</slash:comments>
+<slash:hit_parade>15,14,10,9,2,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>California Senate Defies FCC, Approves Net Neutrality Law</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3g2DIuhDivE/california-senate-defies-fcc-approves-net-neutrality-law</link>
+<description>The California State Senate yesterday approved a bill to impose net neutrality restrictions on Internet service providers, challenging the Federal Communications Commission attempt to preempt such rules. From a report: The FCC's repeal of its own net neutrality rules included a provision to preempt state and municipal governments from enforcing similar rules at the local level. But the governors of Montana and New York have signed executive orders to enforce net neutrality and several states are considering net neutrality legislation. The FCC is already being sued by t21 states and the District of Columbia, which are trying to reverse the net neutrality repeal and the preemption of state laws. Attempts to enforce net neutrality rules at the state or local level could end up being challenged in separate lawsuits.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=California+Senate+Defies+FCC%2C+Approves+Net+Neutrality+Law%3A+http%3A%2F%2Fbit.ly%2F2DNaIqm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F30%2F1649233%2Fcalifornia-senate-defies-fcc-approves-net-neutrality-law%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679505&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3g2DIuhDivE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T19:40:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>fighting-back</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>76</slash:comments>
+<slash:hit_parade>76,73,40,32,10,6,4</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Next Time You Order Room Service, It May Come by Robot</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AcDhoTe_7nw/the-next-time-you-order-room-service-it-may-come-by-robot</link>
+<description>Hotels across the country are rushing to introduce robots with the promise of enhancing the guest experience and increasing efficiency. From a report: The automated companions can do everything from make and pick up deliveries to help guests find their way around. Aloft Cupertino in the Silicon Valley (rates from $150) was the first hotel in the United States to debut Savioke's Relay robot in 2014. The three foot tall autonomous robot, nicknamed Botlr, weighs 90 pounds and makes deliveries throughout the hotel using multiple sensors, 3D cameras and Wi-Fi to operate the elevators. Marriott has since begun mobile robot service at four other Aloft properties. Other hotels are following suit. H Hotel Los Angeles's Relay robot, named Hannah, made 610 front desk deliveries and 42 room service deliveries, traveling a total of 50 miles, in the first three months since the hotel opened last October (rates from $249).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Next+Time+You+Order+Room+Service%2C+It+May+Come+by+Robot%3A+http%3A%2F%2Fbit.ly%2F2DNEM55"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F30%2F1711255%2Fthe-next-time-you-order-room-service-it-may-come-by-robot%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679553&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AcDhoTe_7nw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T19:00:00+00:00</dc:date>
+<dc:subject>robot</dc:subject>
+<slash:department>how-about-that</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>57</slash:comments>
+<slash:hit_parade>57,54,35,35,3,1,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>US Regulators To Subpoena Crypto Exchange Bitfinex, Tether</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/C1B_UtUc970/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether</link>
+<description>U.S. regulators are scrutinizing one of the world's largest cryptocurrency exchanges as questions mount over a digital token linked to its backers, Bloomberg reported on Tuesday. From the report: The U.S. Commodity Futures Trading Commission sent subpoenas last week to virtual-currency venue Bitfinex and Tether, a company that issues a widely traded coin and claims it's pegged to the dollar, according to a person familiar with the matter. The firms share the same chief executive officer. Tether's coins have become a popular substitute for dollars on cryptocurrency exchanges worldwide, with about $2.3 billion of the tokens outstanding as of Tuesday. While Tether has said all of its coins are backed by U.S. dollars held in reserve, the company has yet to provide conclusive evidence of its holdings to the public or have its accounts audited. Skeptics have questioned whether the money is really there.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=US+Regulators+To+Subpoena+Crypto+Exchange+Bitfinex%2C+Tether%3A+http%3A%2F%2Fbit.ly%2F2BDzqDT"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F1816253%2Fus-regulators-to-subpoena-crypto-exchange-bitfinex-tether%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679723&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/C1B_UtUc970" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T18:16:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>tough-luck</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,30,17,13,2,0,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>False Hawaii Missile Alert Sent After Drill Recording Said 'This Is Not A Drill'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yMsG1seIjNc/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill</link>
+<description>A false ballistic missile alert in Hawaii was sent on January 13 because an emergency worker believed there really was a missile threat, according to a preliminary investigation by The Federal Communications Commission. From a report: The report finds that the false alert was not the result of a worker choosing the wrong alert by accident from a drop-down menu, but rather because the worker misunderstood a drill as a true emergency. The drill incorrectly included the language "This is not a drill."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=False+Hawaii+Missile+Alert+Sent+After+Drill+Recording+Said+'This+Is+Not+A+Drill'%3A+http%3A%2F%2Fbit.ly%2F2nq5wO6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F30%2F181234%2Ffalse-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679689&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yMsG1seIjNc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T18:01:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>92</slash:comments>
+<slash:hit_parade>92,86,62,59,19,11,7</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>New FCC Rules Will Require Wireless Companies To Deliver Emergency Alerts More Accurately</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/k2Jxd4hhOXU/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately</link>
+<description>The Federal Communications Commission voted Tuesday to update the country's wireless emergency alert system, aiming to ensure that local officials only sound alarms on Americans' smartphones when those citizens are truly in harm's way. From a report: The system, implemented in 2012, allows first responders around the country to dispatch short, loud, text-message-like bulletins to warn mobile users about inclement weather, abducted children or criminals at large. But public-safety leaders long have complained the alerts are inaccurate, rendering it difficult to use them in times of disaster without creating undue panic. And they fret that "over-alerting" has proven so frustrating to smartphone owners that they've simply turned off the alarms entirely -- rendering it even more difficult to communicate in times of an emergency.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=New+FCC+Rules+Will+Require+Wireless+Companies+To+Deliver+Emergency+Alerts+More+Accurately%3A+http%3A%2F%2Fbit.ly%2F2DNfTqi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F30%2F1721213%2Fnew-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679577&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/k2Jxd4hhOXU" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T17:21:00+00:00</dc:date>
+<dc:subject>usa</dc:subject>
+<slash:department>up-next</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>33</slash:comments>
+<slash:hit_parade>33,32,24,14,5,2,2</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Naked Mole Rats Defy Mortality Mathematics</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Xid_mWu1pVw/naked-mole-rats-defy-mortality-mathematics</link>
+<description>An anonymous reader shares a report: Naked mole rats are adorably ugly creatures that challenge what we think we know about aging. Naked mole rats can live to be 30 years old. Further, female mole rats show no signs of menopause, and remain highly fertile even into their final years of life. Neurogenesis in naked mole rats continues over two decades, and their hearts and bones don't seem to change significantly over time. They rarely get cancer. Hell, they can even live up to 18 minutes utterly deprived of oxygen. [...] At Google's biotech company, Calico, in San Francisco, California, biologist Rochelle Buffenstein is looking to the naked survivors to unlock their secrets of aging. Buffenstein says naked mole rats violate to the Gompertz-Makeham law, and she has over 3,000 data points to back her conclusion. After reaching adulthood six months into their lives, a naked mole rat's mortality risk remained the same for the rest of its days her analysis revealed. Rather than grow exponentially, a naked mole rat's risk of death on any given day, no matter their point in life, hovered around 1 in 10,000. Surprisingly, their mortality risk even fell a little when they grew very old. In this sense, Buffenstein writes, naked mole rats have established themselves as "a non-aging mammal. This life-history trend is unprecedented for mammals," Buffenstein and colleagues wrote in a study published recently in the journal eLife.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Naked+Mole+Rats+Defy+Mortality+Mathematics%3A+http%3A%2F%2Fbit.ly%2F2DPATNh"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F1641238%2Fnaked-mole-rats-defy-mortality-mathematics%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679487&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Xid_mWu1pVw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T16:41:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>stranger-things</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>174</slash:comments>
+<slash:hit_parade>174,173,129,94,25,13,10</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Child Experts: Just Say 'No' To Facebook's Kids App</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6JW07p9ZMVE/child-experts-just-say-no-to-facebooks-kids-app</link>
+<description>A group letter sent Tuesday to CEO Mark Zuckerberg argues that younger children -- the app is intended for those under 13 -- aren't ready to have social media accounts, navigate the complexities of online relationships or protect their own privacy. From a report: Facebook launched the free Messenger Kids app in December, pitching it as a way for children to chat with family members and parent-approved friends. It doesn't give kids separate Facebook or Messenger accounts. Rather, the app works as an extension of a parent's account, and parents get controls such as the ability to decide who their kids can chat with. The social media giant has said it fills "a need for a messaging app that lets kids connect with people they love but also has the level of control parents want." But a group of 100 experts, advocates and parenting organizations is contesting those claims. Led by the Boston-based Campaign for a Commercial-Free Childhood, the group includes psychiatrists, pediatricians, educators and the children's music singer Raffi Cavoukian. "Messenger Kids is not responding to a need -- it is creating one," the letter states. "It appeals primarily to children who otherwise would not have their own social media accounts."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Child+Experts%3A+Just+Say+'No'+To+Facebook's+Kids+App%3A+http%3A%2F%2Fbit.ly%2F2Emg1Kp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F30%2F160244%2Fchild-experts-just-say-no-to-facebooks-kids-app%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679345&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6JW07p9ZMVE" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T16:00:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>big-concerns</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>67</slash:comments>
+<slash:hit_parade>67,61,32,27,7,2,1</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Drug Firms Shipped 20.8 Million Pain Pills To West Virginia Town of 2,900</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PdU-jsyVfHw/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900</link>
+<description>A congressional committee investigating the opioid crisis has discovered out-of-state drug companies shipped 20.8 million prescription painkillers over a decade to two pharmacies in a Southern West Virginia town with 2,900 people. From a report: Between 2006 and 2016, two drug wholesalers shipped 10.2 million hydrocodone pills and 10.6 million oxycodone pills to Tug Valley Pharmacy and Hurley Drug in the town of Williamson, in Mingo County, the Charleston Gazette-Mail reported. "These numbers are outrageous, and we will get to the bottom of how this destruction was able to be unleashed across West Virginia," the House Energy and Commerce Committee Chairman Greg Walden, R-Ore. and ranking member Frank Pallone Jr., D-N.J. said in a joint statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Drug+Firms+Shipped+20.8+Million+Pain+Pills+To+West+Virginia+Town+of+2%2C900%3A+http%3A%2F%2Fbit.ly%2F2EnY5PJ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F154255%2Fdrug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679209&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PdU-jsyVfHw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T15:10:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>outrageous</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>241</slash:comments>
+<slash:hit_parade>241,237,154,127,30,13,9</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Lawyers Faced With Emojis and Emoticons Are All \_("/)_/</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pjMZYsdTllM/lawyers-faced-with-emojis-and-emoticons-are-all-</link>
+<description>Zorro shares a WSJ report: Lawyers gathered at the Atlanta office of a big law firm were debating a head-scratching legal question. What does the emoji known as the "unamused face" actually mean? They couldn't even agree that the emoji in question -- it has raised eyebrows and a frown -- looked unamused. "Everybody said something different," recalls Morgan Clemons, 33 years old, a regulatory compliance lawyer at Aldridge Pite who organized the gathering last summer at Bryan Cave LLP, called "Emoji Law 101." Emojis -- tiny pictures of facial expressions or objects used in text messages, emails and on social media -- are no longer a laughing matter for the legal profession. (Editor's note: the link may be paywalled; alternative source.) Increasingly, they are bones of contention in lawsuits ranging from business disputes to harassment to defamation. In one Michigan defamation dispute, the meaning of an emoticon, an emoji-like image created with text characters from a standard keyboard, was up for debate. A comment on an internet message board appeared to accuse a local official of corruption. The comment was followed by a ":P" emoticon. The judges on the Michigan Court of Appeals concluded in 2014 that the emoticon "is used to represent a face with its tongue sticking out to denote a joke or sarcasm." The court said the comment couldn't be taken seriously or viewed as defamatory. Puzzled lawyers are turning to seminars, informal meetings and academic papers to discern innuendo in seemingly innocuous pictures of martini glasses and prancing horses.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Lawyers+Faced+With+Emojis+and+Emoticons+Are+All+%5C_(%22%2F)_%2F%3A+http%3A%2F%2Fbit.ly%2F2BECP54"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F1436253%2Flawyers-faced-with-emojis-and-emoticons-are-all-%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679137&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/pjMZYsdTllM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T14:40:00+00:00</dc:date>
+<dc:subject>court</dc:subject>
+<slash:department>stranger-things</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>104</slash:comments>
+<slash:hit_parade>104,100,54,46,16,6,2</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple is Postponing Release of New Features To iOS This Year To Focus on Reliability and Performance: Report</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qv8fFPetu10/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report</link>
+<description>For a change, Apple plans to not push new features to iOS devices this year so that it could focus on reliability and quality of the software instead, Axios reported on Tuesday. From the report: Apple has been criticized of late, both for security issues and for a number of quality issues, as well as for how it handles battery issues on older devices. Software head Craig Federighi announced the revised plan to employees at a meeting earlier this month, shortly before he and some top lieutenants headed to a company offsite. Pushed into 2019 are a number of features including a refresh of the home screen and in-car user interfaces, improvements to core apps like mail and updates to the picture-taking, photo editing and sharing experiences.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+is+Postponing+Release+of+New+Features+To+iOS+This+Year+To+Focus+on+Reliability+and+Performance%3A+Report%3A+http%3A%2F%2Fbit.ly%2F2DObaVx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F30%2F138249%2Fapple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11678867&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qv8fFPetu10" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-01-30T14:00:00+00:00</dc:date>
+<dc:subject>bug</dc:subject>
+<slash:department>priorities</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>89</slash:comments>
+<slash:hit_parade>89,87,61,59,14,3,1</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>AI May Have Finally Decoded the Mysterious 'Voynich Manuscript'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ASXAefPIEVI/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript</link>
+<description>An anonymous reader quotes a report from Gizmodo: Since its discovery over a hundred years ago, the 240-page Voynich manuscript, filled with seemingly coded language and inscrutable illustrations, of has confounded linguists and cryptographers. Using artificial intelligence, Canadian researchers have taken a huge step forward in unraveling the document's hidden meaning. Named after Wilfrid Voynich, the Polish book dealer who procured the manuscript in 1912, the document is written in an unknown script that encodes an unknown language -- a double-whammy of unknowns that has, until this point, been impossible to interpret. The Voynich manuscript contains hundreds of fragile pages, some missing, with hand-written text going from left to right. Most pages are adorned with illustrations of diagrams, including plants, nude figures, and astronomical symbols. But as for the meaning of the text -- nothing. No clue. For Greg Kondrak, an expert in natural language processing at the University of Alberta, this seemed a perfect task for artificial intelligence. With the help of his grad student Bradley Hauer, the computer scientists have taken a big step in cracking the code, discovering that the text is written in what appears to be the Hebrew language, and with letters arranged in a fixed pattern. To be fair, the researchers still don't know the meaning of the Voynich manuscript, but the stage is now set for other experts to join the investigation. The researchers used an AI to study "the text of the 'Universal Declaration of Human Rights' as it was written in 380 different languages, looking for patterns," reports Gizmodo. Following this training, the AI analyzed the Voynich gibberish, concluding with a high rate of certainty that the text was written in encoded Hebrew." The researchers then entertained a hypothesis that the script was created with alphagrams, words in which text has been replaced by an alphabetically ordered anagram. "Armed with the knowledge that text was originally coded from Hebrew, the researchers devised an algorithm that could take these anagrams and create real Hebrew words." Finally, "the researchers deciphered the opening phrase of the manuscript" and ran it through Google Translate to convert it into passable English: "She made recommendations to the priest, man of the house and me and people." The study appears in Transactions of the Association of Computational Linguistics .&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=AI+May+Have+Finally+Decoded+the+Mysterious+'Voynich+Manuscript'%3A+http%3A%2F%2Fbit.ly%2F2DMejFf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F0436256%2Fai-may-have-finally-decoded-the-mysterious-voynich-manuscript%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11675199&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ASXAefPIEVI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-30T13:00:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>shrouded-in-secrecy</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>152</slash:comments>
+<slash:hit_parade>152,152,83,66,14,12,6</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Researchers Find More Evidence For the Strange Link Between Sugar and Alzheimer's</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Vvm4WLFxiMQ/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers</link>
+<description>schwit1 shares a report from ScienceAlert: People with high blood sugar stand to experience worse long-term cognitive decline than their healthy peers, even if they're not technically type 2 diabetic, new research suggests. The findings are not the first linking diabetes with impaired cognitive functions, but they're some of the clearest yet showing blood sugar isn't just a marker of our dietary health -- it's also a telling predictor of how our brains may cope as we get older. "Our findings suggest that interventions that delay diabetes onset, as well as management strategies for blood sugar control, might help alleviate the progression of subsequent cognitive decline over the long-term," explain the researchers, led by epidemiologist Wuxiang Xie from Imperial College London. The researchers sourced their data from the English Longitudinal Study of Aging, an ongoing assessment of the health of a representative sample of the English population aged 50 and older, which began in in 2002. For its analysis, the team tracked 5,189 participants -- 55 percent women, with an average age of 66 years -- assessing their level of cognitive function between 2004-2005 to 2014-2015, spanning several waves of the ELSA study. The findings are reported in the journal Diabetologia.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers+Find+More+Evidence+For+the+Strange+Link+Between+Sugar+and+Alzheimer's%3A+http%3A%2F%2Fbit.ly%2F2nrn10n"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F0451228%2Fresearchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11675267&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Vvm4WLFxiMQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-30T10:00:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>cognitive-decline</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>96</slash:comments>
+<slash:hit_parade>96,86,61,54,20,7,5</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/30/0419222/mpeg-founder-says-the-mpeg-business-model-is-broken?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>MPEG Founder Says the MPEG Business Model Is Broken</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IJJqpQBylE4/mpeg-founder-says-the-mpeg-business-model-is-broken</link>
@@ -58,8 +318,8 @@
 <dc:subject>media</dc:subject>
 <slash:department>edit-undo</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>16</slash:comments>
-<slash:hit_parade>16,16,8,6,2,0,0</slash:hit_parade>
+<slash:comments>141</slash:comments>
+<slash:hit_parade>141,131,77,67,34,24,15</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/30/0419222/mpeg-founder-says-the-mpeg-business-model-is-broken?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Americans Are Saving Energy Because Fewer People Go Outside</title>
@@ -78,269 +338,9 @@
 <dc:subject>usa</dc:subject>
 <slash:department>sign-of-the-times</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>51</slash:comments>
-<slash:hit_parade>51,49,31,25,2,0,0</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/29/2222210/ethereum-startup-vanishes-after-seemingly-making-11-leaves-message-penis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Ethereum Startup Vanishes After Seemingly Making $11, Leaves Message: 'Penis'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PkHwjnbn17E/ethereum-startup-vanishes-after-seemingly-making-11-leaves-message-penis</link>
-<description>CaptainDork shares a report from Motherboard: An Ethereum startup called Prodeum disappeared from the web on Sunday after raising a grand total of $11 USD from investors in a crowdsale. Shortly after the website disappeared, a message appeared on its homepage: "penis." Prodeum's website now redirects visitors to the Twitter account of a cryptocurrency trader (they did not immediately respond to our request for comment), and its Twitter account has been deactivated. Prodeum is at least the second Ethereum startup to pull up stakes after raising money from people in events called Initial Coin Offerings, or ICOs, in which a startup funds their enterprise by taking cryptocurrency from people in exchange for digital tokens. Some ICOs have managed to raise millions of dollars, and the last startup to vanish after conducting an ICO -- Confido, which disappeared from the internet in late 2017 -- made off with roughly $374,000. (A message later appeared on Confido's site stating that it would buy back investors' tokens, but it's unclear if that took place.) Prodeum, by comparison, only seems to have raised $11 based on the Ethereum address that was advertised on Prodeum's site as being the ICO address. (Update: After this article was published the contents of the ICO wallet were sent to another wallet. That wallet contains roughly $100, with the other funds all coming from a single wallet that predates the Prodeum ICO and contains 46 cents.) Prodeum's pitch, according to a cached version of its webpage, was to track vegetables in a supply chain using digital addresses on a blockchain -- a decentralized ledger at the heart of Ethereum and other cryptocurrencies like Bitcoin. As for why the "penis" message was left on its homepage, it may have something to do with the name of the startup. Prodeum is a medication that treats urinary tract infections and other urinary problems...&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Ethereum+Startup+Vanishes+After+Seemingly+Making+%2411%2C+Leaves+Message%3A+'Penis'%3A+http%3A%2F%2Fbit.ly%2F2BC7AHW"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F29%2F2222210%2Fethereum-startup-vanishes-after-seemingly-making-11-leaves-message-penis%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/29/2222210/ethereum-startup-vanishes-after-seemingly-making-11-leaves-message-penis?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/29/2222210/ethereum-startup-vanishes-after-seemingly-making-11-leaves-message-penis?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674695&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PkHwjnbn17E" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T01:30:00+00:00</dc:date>
-<dc:subject>bitcoin</dc:subject>
-<slash:department>came-and-went</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>79</slash:comments>
-<slash:hit_parade>79,74,39,38,8,6,4</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/29/2222210/ethereum-startup-vanishes-after-seemingly-making-11-leaves-message-penis?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/29/2257235/worlds-second-largest-meat-processor-invests-in-lab-grown-meat-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>World's Second Largest Meat Processor Invests In Lab-Grown Meat Startup</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/oTOrAVk4dgY/worlds-second-largest-meat-processor-invests-in-lab-grown-meat-startup</link>
-<description>Tyson Foods, the world's second largest processor and marketer of chicken, beef, and pork, announced it has invested in Silicon Valley startup Memphis Meats, a company that makes lab-grown meat using animal cells. The investment amount was not disclosed, but it follows a slew of other high-profile backers including Cargill Inc., Bill Gates and Richard Branson. Fox Business reports: Last December, Tyson made a similar investment in another meatless startup called Beyond Meat, investing a roughly 5% stake in the company that produces plant-based meat alternatives. Tyson CEO Tom Hayes told FOX Business in March of last year that he sees plant-based protein as a big part of the company's future. "If you take a look at the FAO (Food and Agriculture Organization) stats, protein consumption is growing around the world -- and it continues to grow. It's not just hot in the U.S.; it's hot everywhere, people want protein, so whether it's animal-based protein or plant-based protein, they have an appetite for it. Plant-based protein is growing almost, at this point, a little faster than animal-based, so I think the migration may continue in that direction," Hayes told FOX Business. Memphis Meats, which debuted its first animal-free meatball in 2016, followed by the world's first chicken strip in 2017, said customers should expect to see these products on store shelves by 2021 or 2022.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=World's+Second+Largest+Meat+Processor+Invests+In+Lab-Grown+Meat+Startup%3A+http%3A%2F%2Fbit.ly%2F2nptM2O"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F29%2F2257235%2Fworlds-second-largest-meat-processor-invests-in-lab-grown-meat-startup%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/29/2257235/worlds-second-largest-meat-processor-invests-in-lab-grown-meat-startup?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/29/2257235/worlds-second-largest-meat-processor-invests-in-lab-grown-meat-startup?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674747&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/oTOrAVk4dgY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T00:50:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>clean-meat</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>54</slash:comments>
-<slash:hit_parade>54,51,26,21,4,1,0</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/29/2257235/worlds-second-largest-meat-processor-invests-in-lab-grown-meat-startup?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/29/2215249/facebook-will-prioritize-local-stories-in-your-news-feed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facebook Will Prioritize Local Stories In Your News Feed</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sOS2g3F2KlY/facebook-will-prioritize-local-stories-in-your-news-feed</link>
-<description>Facebook announced today that it will begin prioritizing local news, bumping it up higher in your feed if you follow a local publisher's Page or if a friend shares a locally-published story. "We are prioritizing local news as part of our emphasis on high-quality news, and with today's update, stories from local news publishers may appear higher in News Feed for followers in publishers' geographic areas," Facebook said in the announcement. Engadget reports: Facebook, which recently announced it would be shifting its News Feed focus away from news and more towards friends' posts, says the local news prioritization will kick off in the U.S., but it plans to expand it to other countries this year. "These efforts to prioritize quality news in News Feed, including this local initiative, are a direct result of the ongoing collaboration with partners," said Facebook. "Our goal is to show more news that connects people to their local communities, and we look forward to improving and expanding these efforts this year."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Will+Prioritize+Local+Stories+In+Your+News+Feed%3A+http%3A%2F%2Fbit.ly%2F2nnqPQo"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F29%2F2215249%2Ffacebook-will-prioritize-local-stories-in-your-news-feed%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/29/2215249/facebook-will-prioritize-local-stories-in-your-news-feed?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/29/2215249/facebook-will-prioritize-local-stories-in-your-news-feed?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674691&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sOS2g3F2KlY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T00:10:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>high-quality-news</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>43</slash:comments>
-<slash:hit_parade>43,43,29,27,8,3,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/29/2215249/facebook-will-prioritize-local-stories-in-your-news-feed?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/29/2154249/volkswagen-admits-to-testing-diesel-fumes-on-monkeys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Volkswagen Admits To Testing Diesel Fumes On Monkeys</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/_mOo2sGyTKI/volkswagen-admits-to-testing-diesel-fumes-on-monkeys</link>
-<description>An anonymous reader quotes a report from CNET: In what seems like a John Henry versus the steam shovel-style competition to dig diesel's grave, Volkswagen has admitted to funding (and subsequently cheating on) animal testing to prove the relative safety of diesel exhaust fumes, according to findings by the New York Times. The tests, which were undertaken at the Lovelace Respiratory Research Institute in Albuquerque in 2014, involved as many as 10 monkeys and had them sitting in airtight containers as they breathed exhaust fumes from a diesel-powered Volkswagen Beetle while they watched cartoons for entertainment. The tests went on for 4 hours. "We apologize for the misconduct and the lack of judgment of individuals," said a Volkswagen representative in a statement. "We're convinced the scientific methods chosen then were wrong. It would have been better to do without such a study in the first place." The Volkswagen Beetle used in the test was equipped with the same compromised emissions software that could detect when the car was being tested in a lab environment so it was running as cleanly as it could, which I guess proves that Volkswagen will waste no opportunity to be hoisted by its own oil-burning petard.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Volkswagen+Admits+To+Testing+Diesel+Fumes+On+Monkeys%3A+http%3A%2F%2Fbit.ly%2F2nsMpmP"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F29%2F2154249%2Fvolkswagen-admits-to-testing-diesel-fumes-on-monkeys%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/29/2154249/volkswagen-admits-to-testing-diesel-fumes-on-monkeys?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/29/2154249/volkswagen-admits-to-testing-diesel-fumes-on-monkeys?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674675&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/_mOo2sGyTKI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-29T23:30:00+00:00</dc:date>
-<dc:subject>transportation</dc:subject>
-<slash:department>poor-business-decisions</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>78</slash:comments>
-<slash:hit_parade>78,69,40,33,17,11,8</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/29/2154249/volkswagen-admits-to-testing-diesel-fumes-on-monkeys?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/29/2142210/there-may-not-be-an-iphone-se-2-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>There May Not Be An iPhone SE 2 After All</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Eq6DPW8_ejw/there-may-not-be-an-iphone-se-2-after-all</link>
-<description>KGI Securities analyst Ming-Chi Kuo issued a research note today that casts doubt on rumors about a second-generation iPhone SE launching in the second quarter of 2018. If there is a successor, customers can expect a minor update that amounts to a run-of-the-mill spec boost and no new features like wireless charging or Face ID. The Verge reports: According to Kuo, between the three phones Apple released last year (iPhone 8, 8 Plus, and X) and the three phones rumored to be released this fall, the company may not have enough development resources for an SE follow up as a fourth phone for 2018. That said, Kuo also does acknowledge that a basic processor update could still happen, but it seems that SE fans should keep expectations low. The iPhone SE still fills an interesting place in Apple's lineup. It uses the same design as the iPhone 5, which was released in 2012, with the 2015 internals of an iPhone 6s. This means the current model would get a boost in processor speed -- something that will likely continue to get worse with the presumed release of iOS 12 this fall. But SE is still popular for its low price and smaller size among consumers. Compared to the giant 6-inch-plus phones Apple is rumored to be releasing this year, it could make sense to keep an updated version of the smaller SE around.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=There+May+Not+Be+An+iPhone+SE+2+After+All%3A+http%3A%2F%2Fbit.ly%2F2BCNdKC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F29%2F2142210%2Fthere-may-not-be-an-iphone-se-2-after-all%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/29/2142210/there-may-not-be-an-iphone-se-2-after-all?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/29/2142210/there-may-not-be-an-iphone-se-2-after-all?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674651&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Eq6DPW8_ejw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-29T22:50:00+00:00</dc:date>
-<dc:subject>ios</dc:subject>
-<slash:department>rumor-mill</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>43</slash:comments>
-<slash:hit_parade>43,39,17,14,2,1,0</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/29/2142210/there-may-not-be-an-iphone-se-2-after-all?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/29/2130238/inside-amazons-mini-rainforest-work-space-spheres?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Inside Amazon's Mini Rainforest Work Space Spheres</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/9QboNqVa31Y/inside-amazons-mini-rainforest-work-space-spheres</link>
-<description>Amazon's indoor rainforest-like office space opened today after being in development for seven years. CNBC reports of what can be found inside the Spheres: The Spheres' three glass domes house some 40,000 plants of 400 species. Amazon, famous for its demanding work culture, hopes the Spheres' lush environs will let employees reflect and have chance encounters, spawning new products or plans. The space is more like a greenhouse than a typical office. Instead of enclosed conference rooms or desks, there are walkways and unconventional meeting spaces with chairs. Amazon has invested $3.7 billion on buildings and infrastructure in Seattle from 2010 to summer 2017, a figure that has public officials competing for its "HQ2" salivating. Amazon has said it expects to invest more than $5 billion in construction of HQ2 and to create as many as 50,000 jobs. The Spheres, designed by architecture firm NBBJ, will become part of Amazon's guided campus tours. Members of the public can also visit an exhibit at the Spheres by appointment starting Tuesday.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Inside+Amazon's+Mini+Rainforest+Work+Space+Spheres%3A+http%3A%2F%2Fbit.ly%2F2EoDFpO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F29%2F2130238%2Finside-amazons-mini-rainforest-work-space-spheres%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/29/2130238/inside-amazons-mini-rainforest-work-space-spheres?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/29/2130238/inside-amazons-mini-rainforest-work-space-spheres?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674619&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/9QboNqVa31Y" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-29T22:10:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>climate-control</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>59</slash:comments>
-<slash:hit_parade>59,57,34,29,8,3,2</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/29/2130238/inside-amazons-mini-rainforest-work-space-spheres?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/29/2116227/pentagon-reviews-gps-policies-after-fitness-trackers-reveal-locations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Pentagon Reviews GPS Policies After Fitness Trackers Reveal Locations</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VxxFwWqqemI/pentagon-reviews-gps-policies-after-fitness-trackers-reveal-locations</link>
-<description>An anonymous reader quotes a report from NPR: Locations and activity of U.S. military bases; jogging and patrol routes of American soldiers -- experts say those details are among the GPS data shared by the exercise tracking company Strava, whose Heat Map reflects more than a billion exercise activities globally. The Pentagon says it's looking at adding new training and policies to address security concerns. "Recent data releases emphasize the need for situational awareness when members of the military share personal information," Pentagon spokesman Major Adrian J.T. Rankine-Galloway of the U.S. Marine Corps said in a statement about the implications of the Strava data that has made international headlines. Strava -- which includes an option for keeping users' workout data private -- published the updated Heat Map late last year. The California-based company calls itself "the social network for athletes," saying that its mobile apps and website connect millions of people every day. Using data from fitness trackers such as the Fitbit, Strava's map shows millions of users' runs, walks, and bike trips from 2015 to September of 2017 -- and in some countries, the activities of military and aid personnel are seen in stark contrast, as their outposts shine brightly among the comparative darkness of their surroundings.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Pentagon+Reviews+GPS+Policies+After+Fitness+Trackers+Reveal+Locations%3A+http%3A%2F%2Fbit.ly%2F2nndKqk"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F29%2F2116227%2Fpentagon-reviews-gps-policies-after-fitness-trackers-reveal-locations%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/29/2116227/pentagon-reviews-gps-policies-after-fitness-trackers-reveal-locations?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/29/2116227/pentagon-reviews-gps-policies-after-fitness-trackers-reveal-locations?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674595&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VxxFwWqqemI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-29T21:30:00+00:00</dc:date>
-<dc:subject>government</dc:subject>
-<slash:department>hide-and-seek</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>74</slash:comments>
-<slash:hit_parade>74,71,42,37,9,3,3</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/29/2116227/pentagon-reviews-gps-policies-after-fitness-trackers-reveal-locations?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/29/2032220/automation-to-take-1-in-3-jobs-in-uks-northern-centres-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Automation To Take 1 in 3 Jobs in UK's Northern Centres, Report Finds</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/swHeVPkidEg/automation-to-take-1-in-3-jobs-in-uks-northern-centres-report-finds</link>
-<description>Workers in Mansfield, Sunderland and Wakefield are at the highest risk of having their jobs taken by machines, according to a report warning that automation stands to further widen the north-south divide. From a report: Outside of the south of England, one in four jobs are at risk of being replaced by advances in technology -- much higher than the 18% average for wealthier locations closer to London. Struggling towns and cities in the north and the Midlands are most exposed. A total of 3.6m UK jobs could be replaced by machines. The Centre for Cities thinktank says almost one-third of the jobs in the Nottinghamshire town of Mansfield, near the Sports Direct warehouse, are involved in lines of work under threat as robots begin to replace humans in the years up to 2030. Jobs at the highest risk of replacement include those in retail sales, customer services, administration and warehouse work.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Automation+To+Take+1+in+3+Jobs+in+UK's+Northern+Centres%2C+Report+Finds%3A+http%3A%2F%2Fbit.ly%2F2noNtrL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F29%2F2032220%2Fautomation-to-take-1-in-3-jobs-in-uks-northern-centres-report-finds%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/29/2032220/automation-to-take-1-in-3-jobs-in-uks-northern-centres-report-finds?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/29/2032220/automation-to-take-1-in-3-jobs-in-uks-northern-centres-report-finds?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674503&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/swHeVPkidEg" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-29T20:50:00+00:00</dc:date>
-<dc:subject>uk</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>96</slash:comments>
-<slash:hit_parade>96,90,45,38,14,5,3</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/29/2032220/automation-to-take-1-in-3-jobs-in-uks-northern-centres-report-finds?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://games.slashdot.org/story/18/01/29/2022231/longest-standing-video-game-record-declared-impossible-thrown-out-after-35-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Longest-standing Video Game Record Declared 'Impossible,' Thrown Out After 35 Years</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/EqlYCxl8saQ/longest-standing-video-game-record-declared-impossible-thrown-out-after-35-years</link>
-<description>Twin Galaxies, the video game record keeper and official source for Guinness World Records, has declared one of the oldest gaming world records invalid after 35 years. From a report: Player Todd Rogers has been stripped of his world record for finishing the simple Atari 2600 racing game Dragster, after months of debate over his completion time. "Based on the complete body of evidence presented in this official dispute thread, Twin Galaxies administrative staff has unanimously decided to remove all of Todd Rogers' scores as well as ban him from participating in our competitive leaderboards," reads a post on the Twin Galaxies forum from the organization's staff. That's a major blow to a prolific record holder, whose career stretches back to the earliest days of console gaming. Rogers courted controversy with his oldest record, however -- and it directly caused his ban. In 1982, Rogers submitted to Activision's official fan newsletter a time of 5.51 seconds, which the company recognized in print, awarding Rogers a patch Twin Galaxies later added Rogers to its own leaderboards in 2001, and Guinness World Records awarded the player with the honor of holding the world's longest-standing gaming record in April 2017.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Longest-standing+Video+Game+Record+Declared+'Impossible%2C'+Thrown+Out+After+35+Years%3A+http%3A%2F%2Fbit.ly%2F2BC3Gii"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgames.slashdot.org%2Fstory%2F18%2F01%2F29%2F2022231%2Flongest-standing-video-game-record-declared-impossible-thrown-out-after-35-years%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://games.slashdot.org/story/18/01/29/2022231/longest-standing-video-game-record-declared-impossible-thrown-out-after-35-years?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://games.slashdot.org/story/18/01/29/2022231/longest-standing-video-game-record-declared-impossible-thrown-out-after-35-years?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674483&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/EqlYCxl8saQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-29T20:25:00+00:00</dc:date>
-<dc:subject>games</dc:subject>
-<slash:department>end-of-an-era</slash:department>
-<slash:section>games</slash:section>
-<slash:comments>167</slash:comments>
-<slash:hit_parade>167,163,117,102,33,18,15</slash:hit_parade>
-<feedburner:origLink>https://games.slashdot.org/story/18/01/29/2022231/longest-standing-video-game-record-declared-impossible-thrown-out-after-35-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/29/201250/china-denies-report-it-hacked-african-union-headquarters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>China Denies Report it Hacked African Union Headquarters</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/HNkXUKed8I0/china-denies-report-it-hacked-african-union-headquarters</link>
-<description>China and the African Union dismissed on Monday a report in French newspaper Le Monde that Beijing had bugged the regional bloc's headquarters in the Ethiopian capital. From a report: An article published Friday in Le Monde, quoting anonymous AU sources, reported that data from computers in the Chinese-built building had been transferred nightly to Chinese servers for five years. After the massive hack was discovered a year ago, the building's IT system including servers was changed, according to Le Monde. During a sweep for bugs after the discovery, microphones hidden in desks and the walls were also detected and removed, the newspaper reported. The $200 million headquarters was fully funded and built by China and opened to great fanfare in 2012. It was seen as a symbol of Beijing's thrust for influence in Africa, and access to the continent's natural resources.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=China+Denies+Report+it+Hacked+African+Union+Headquarters%3A+http%3A%2F%2Fbit.ly%2F2noJ87V"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F29%2F201250%2Fchina-denies-report-it-hacked-african-union-headquarters%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/29/201250/china-denies-report-it-hacked-african-union-headquarters?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/29/201250/china-denies-report-it-hacked-african-union-headquarters?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674451&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/HNkXUKed8I0" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-29T20:01:00+00:00</dc:date>
-<dc:subject>china</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>31</slash:comments>
-<slash:hit_parade>31,28,13,9,4,1,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/29/201250/china-denies-report-it-hacked-african-union-headquarters?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/29/1827248/dell-is-considering-a-sale-to-vmware-in-what-may-be-techs-biggest-deal-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Dell is Considering a Sale To VMware in What May Be Tech's Biggest Deal Ever</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/63GbUnOQzuE/dell-is-considering-a-sale-to-vmware-in-what-may-be-techs-biggest-deal-ever</link>
-<description>CNBC reports: Dell Technologies could emerge as a public company through a reverse-merger with VMware, the $60 billion cloud computing company it already controls, according to people familiar with the matter. The reverse merger, whereby VMware would actually buy the larger Dell, would then allow Dell to be traded publicly without going through a formal listing. It would also likely be the biggest deal in tech industry history, giving investors who backed Dell's move to go private in 2013 a way to monetize their deal, while helping Dell pay down some of its approximately $50 billion debt.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Dell+is+Considering+a+Sale+To+VMware+in+What+May+Be+Tech's+Biggest+Deal+Ever%3A+http%3A%2F%2Fbit.ly%2F2BEcrbO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F29%2F1827248%2Fdell-is-considering-a-sale-to-vmware-in-what-may-be-techs-biggest-deal-ever%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/29/1827248/dell-is-considering-a-sale-to-vmware-in-what-may-be-techs-biggest-deal-ever?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/29/1827248/dell-is-considering-a-sale-to-vmware-in-what-may-be-techs-biggest-deal-ever?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674259&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/63GbUnOQzuE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-29T18:42:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>how-about-that</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>77</slash:comments>
-<slash:hit_parade>77,74,43,34,12,6,3</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/29/1827248/dell-is-considering-a-sale-to-vmware-in-what-may-be-techs-biggest-deal-ever?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/29/182210/lenovos-fingerprint-scanner-can-be-bypassed-via-a-hardcoded-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Lenovo's Fingerprint Scanner Can Be Bypassed via a Hardcoded Password</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Jt_X8PCffcE/lenovos-fingerprint-scanner-can-be-bypassed-via-a-hardcoded-password</link>
-<description>Lenovo has issued an update to address a vulnerability in its fingerprint scanner app that it ships with ThinkPad, ThinkCentre, and ThinkStation models running Windows 8.1 or older version of Windows. From a report: Fingerprint Manager Pro is an application developed by Lenovo that allows users to log into Windows machines and online websites by scanning one of their fingerprints using the fingerprint scanner embedded in selected Lenovo products. "A vulnerability has been identified in Lenovo Fingerprint Manager Pro," said Lenovo in a security advisory published last week. "Sensitive data stored by Lenovo Fingerprint Manager Pro, including users' Windows logon credentials and fingerprint data, is encrypted using a weak algorithm, contains a hard-coded password, and is accessible to all users with local non-administrative access to the system it is installed in," the company said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Lenovo's+Fingerprint+Scanner+Can+Be+Bypassed+via+a+Hardcoded+Password%3A+http%3A%2F%2Fbit.ly%2F2BBusXZ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F29%2F182210%2Flenovos-fingerprint-scanner-can-be-bypassed-via-a-hardcoded-password%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/29/182210/lenovos-fingerprint-scanner-can-be-bypassed-via-a-hardcoded-password?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/29/182210/lenovos-fingerprint-scanner-can-be-bypassed-via-a-hardcoded-password?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674211&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Jt_X8PCffcE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-29T18:03:00+00:00</dc:date>
-<dc:subject>privacy</dc:subject>
-<slash:department>security-woes</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>54</slash:comments>
-<slash:hit_parade>54,52,30,25,6,2,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/29/182210/lenovos-fingerprint-scanner-can-be-bypassed-via-a-hardcoded-password?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/29/1655225/one-in-50-of-us-is-face-blind----and-many-dont-even-realize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>One in 50 of Us is Face Blind -- and Many Don't Even Realize</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qGjfxNbChiY/one-in-50-of-us-is-face-blind----and-many-dont-even-realize</link>
-<description>An anonymous reader shares a report: Ever found yourself confronted by someone who seems to knows you, but you have no idea who they are? You could be suffering from prosopagnosia, a condition that new research shows affects more people in the UK than autism, yet largely goes undetected. Also known as face blindness, the condition makes those who have it -- including Brad Pitt and the late neuroscientist Oliver Sacks -- unable to recognise other people, and sometimes even themselves, by their face alone. It is believed to affect as many as one in 50 Britons. Dr Sarah Bate, an associate professor of psychology at Bournemouth University, is developing face-training programs to help those with face blindness learn management tools. She says many people with the condition go undiagnosed. Its impact can be severe if undetected.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=One+in+50+of+Us+is+Face+Blind+--+and+Many+Don't+Even+Realize%3A+http%3A%2F%2Fbit.ly%2F2EjuYge"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F29%2F1655225%2Fone-in-50-of-us-is-face-blind----and-many-dont-even-realize%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/29/1655225/one-in-50-of-us-is-face-blind----and-many-dont-even-realize?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/29/1655225/one-in-50-of-us-is-face-blind----and-many-dont-even-realize?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11673995&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qGjfxNbChiY" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-29T17:23:00+00:00</dc:date>
-<dc:subject>uk</dc:subject>
-<slash:department>closer-look</slash:department>
-<slash:section>science</slash:section>
 <slash:comments>177</slash:comments>
-<slash:hit_parade>177,176,110,98,17,11,8</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/29/1655225/one-in-50-of-us-is-face-blind----and-many-dont-even-realize?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<slash:hit_parade>177,165,92,74,17,9,7</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

@@ -11,8 +11,9 @@ import java.util.logging.Logger;
 
 public class RssReaderBox extends VBox
 {
-    private static final double RSS_BOX_WIDTH = 0.4;
+    // todo on click on progress bar open the partition
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final double RSS_BOX_WIDTH = 0.3;
     private static final int MINUTES_BETWEEN_RSS_UPDATES = 10;
     private RssReader rssReader;
     
