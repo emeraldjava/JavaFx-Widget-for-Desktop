@@ -7,19 +7,18 @@ import javafx.geometry.Pos;
 import javafx.scene.control.Label;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
-import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 
 import java.util.logging.Logger;
 
-public class SystemDetailsPane extends HBox
+public class SystemDetailsBox extends VBox
 {
     private static final double SYSTEM_DETAILS_BOX_SIZE = 0.66;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private SystemDetails systemDetails;
     
     @SuppressWarnings ({ "TypeMayBeWeakened", "OverlyLongMethod" })
-    private SystemDetailsPane (DoubleProperty parentWidth, DoubleProperty parentHeight)
+    private SystemDetailsBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         determineOperatingSystem();
         VBox iconVBox = new VBox();
@@ -44,12 +43,12 @@ public class SystemDetailsPane extends HBox
     }
     
     @SuppressWarnings ({ "TypeMayBeWeakened", "MethodWithTooManyParameters" })
-    private void bindBoxToParent (DoubleProperty doubleProperty,
-            ReadOnlyDoubleProperty parentWidth2, DoubleProperty doubleProperty2,
-            ReadOnlyDoubleProperty parentHeight2, double systemDetailsBoxSize)
+    private void bindBoxToParent (DoubleProperty detailsVBoxWidth,
+            ReadOnlyDoubleProperty boxWidth, DoubleProperty iconVBoxHeight,
+            ReadOnlyDoubleProperty boxHeight, double systemDetailsBoxSize)
     {
-        doubleProperty.bind(parentWidth2);
-        doubleProperty2.bind(parentHeight2.multiply(systemDetailsBoxSize));
+        detailsVBoxWidth.bind(boxWidth);
+        iconVBoxHeight.bind(boxHeight.multiply(systemDetailsBoxSize));
     }
     
     @SuppressWarnings ("MagicNumber")
@@ -78,15 +77,15 @@ public class SystemDetailsPane extends HBox
         systemDetails = LinuxSystemDetails.newInstance();
     }
     
-    public static SystemDetailsPane newInstance (DoubleProperty parentWidth,
+    public static SystemDetailsBox newInstance (DoubleProperty parentWidth,
             DoubleProperty parentHeight)
     {
-        return new SystemDetailsPane(parentWidth, parentHeight);
+        return new SystemDetailsBox(parentWidth, parentHeight);
     }
     
     @Override
     public String toString ()
     {
-        return "SystemDetailsPane{" + "systemDetails=" + systemDetails + '}';
+        return "SystemDetailsBox{" + "systemDetails=" + systemDetails + '}';
     }
 }

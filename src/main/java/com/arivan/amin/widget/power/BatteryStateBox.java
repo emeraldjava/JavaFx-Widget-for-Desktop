@@ -19,6 +19,8 @@ public class BatteryStateBox extends VBox
     private static final double BATTERY_PROGRESS_BAR_WIDTH = 0.7;
     private static final int SPACING = 15;
     private static final double BATTERY_STATE_BOX_WIDTH = 0.3;
+    public static final String LOW_BATTERY_CSS_CLASS = "low-battery";
+    public static final int LOW_BATTERY_LEVEL = 30;
     private final Logger logger = Logger.getLogger(getClass().getName());
     private BatteryState batteryState;
     private Label stateLabel;
@@ -37,7 +39,10 @@ public class BatteryStateBox extends VBox
     
     private void addConnectionStatusBox ()
     {
-        getChildren().add(0, ConnectionStatusBox.newInstance());
+        Platform.runLater(() ->
+        {
+            getChildren().add(0, ConnectionStatusBox.newInstance());
+        });
         Platform.runLater(() ->
         {
             getChildren().add(1, UptimeMonitorBox.newInstance());
@@ -94,6 +99,10 @@ public class BatteryStateBox extends VBox
         {
             stateLabel.setText("charging " + batteryState.percentage());
             timeRemainingLabel.setText(batteryState.timeToFull() + " remaining");
+            if (batteryBar.getStyleClass().contains(LOW_BATTERY_CSS_CLASS))
+            {
+                batteryBar.getStyleClass().remove(LOW_BATTERY_CSS_CLASS);
+            }
         }
         else if ("fully-charged".equals(batteryState.batteryState()))
         {
@@ -104,6 +113,13 @@ public class BatteryStateBox extends VBox
         {
             stateLabel.setText(batteryState.percentage());
             timeRemainingLabel.setText(batteryState.timeToEmpty() + " remaining");
+            if (Integer.parseInt(batteryState.percentage().replace("%", "")) <= LOW_BATTERY_LEVEL)
+            {
+                if (!batteryBar.getStyleClass().contains(LOW_BATTERY_CSS_CLASS))
+                {
+                    batteryBar.getStyleClass().add(LOW_BATTERY_CSS_CLASS);
+                }
+            }
         }
         batteryBar.setProgress(convertBatteryPercentage());
     }

@@ -204,9 +204,11 @@ public class WeatherBox extends HBox
         String tempUnit = propertiesManager.getTemperature();
         if ("k".equalsIgnoreCase(tempUnit))
         {
+            return UnitConverter.convertCelsiusToKelvin(temp) + " K";
         }
         if ("f".equalsIgnoreCase(tempUnit))
         {
+            return UnitConverter.convertCelsiusToFahrenheit(temp) + " F";
         }
         return temp + " C";
     }

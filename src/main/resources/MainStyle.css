@@ -14,8 +14,6 @@
 .pane
 {
     -fx-background-color: linear-gradient(#3A9C97, #30615C);
-    /*-fx-background-image: url("/bg1.jpg");*/
-    /*-fx-background-size: cover;*/
     -fx-background-image: url("/bg1.jpg");
     -fx-background-size: cover;
 }
@@ -25,4 +23,9 @@
 }
 .rss-item
 {
+}
+
+.low-battery
+{
+    -fx-accent: red; 
 }

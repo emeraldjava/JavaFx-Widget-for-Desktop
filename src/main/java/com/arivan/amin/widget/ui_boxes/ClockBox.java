@@ -1,6 +1,6 @@
 package com.arivan.amin.widget.ui_boxes;
 
-import com.arivan.amin.widget.system_details.SystemDetailsPane;
+import com.arivan.amin.widget.system_details.SystemDetailsBox;
 import javafx.animation.*;
 import javafx.application.Platform;
 import javafx.beans.property.DoubleProperty;
@@ -44,7 +44,7 @@ public class ClockBox extends VBox
         Platform.runLater(() ->
         {
             getChildren().addAll(dateTimeVBox,
-                    SystemDetailsPane.newInstance(prefWidthProperty(), prefHeightProperty()));
+                    SystemDetailsBox.newInstance(prefWidthProperty(), prefHeightProperty()));
         });
     }
     
