@@ -9,7 +9,6 @@ import java.util.logging.Logger;
 
 public class LeftBottomBox extends HBox
 {
-    // todo save timezone and location to file for offline use
     private static final double BOX_HEIGHT = 0.5;
     private final Logger logger = Logger.getLogger(getClass().getName());
     
@@ -30,7 +29,9 @@ public class LeftBottomBox extends HBox
     {
         return new LeftBottomBox(parentWidth, parentHeight);
     }
-    // todo show updates available
-    // todo show article from wikipedia
-    // todo show cpu temp and fan
+    // todo multimedia pane and controller
+    // todo power options pane to shutdown restart sleep lock and hibernate
+    // todo github integration
+    // todo applications shortcut
+    // todo show cpu temp and fan speed
 }

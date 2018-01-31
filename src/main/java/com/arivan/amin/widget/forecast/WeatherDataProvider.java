@@ -1,6 +1,6 @@
 package com.arivan.amin.widget.forecast;
 
-public interface WeatherData
+public interface WeatherDataProvider
 {
     String locationName ();
     

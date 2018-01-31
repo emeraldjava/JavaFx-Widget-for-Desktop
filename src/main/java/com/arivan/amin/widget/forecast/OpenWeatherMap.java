@@ -11,12 +11,12 @@ import java.util.function.Function;
 import java.util.logging.Logger;
 import java.util.stream.*;
 
-public class OpenWeatherMap implements WeatherData
+public class OpenWeatherMap implements WeatherDataProvider
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherProvider weatherProvider;
     private List<Element> elementList;
-    private GeoLocationProvider locationProvider;
+    private final GeoLocationProvider locationProvider;
     
     private OpenWeatherMap (WeatherProvider weatherProvider)
     {
@@ -362,6 +362,6 @@ public class OpenWeatherMap implements WeatherData
     public String toString ()
     {
         return "OpenWeatherMap{" + "weatherProvider=" + weatherProvider + ", elementList=" +
-                elementList + '}';
+                elementList + ", locationProvider=" + locationProvider + '}';
     }
 }

@@ -47,4 +47,10 @@ public class OpenWeatherMapProvider implements WeatherProvider
         }
         return path.toUri().toString();
     }
+    
+    @Override
+    public String toString ()
+    {
+        return "OpenWeatherMapProvider{" + "locationProvider=" + locationProvider + '}';
+    }
 }

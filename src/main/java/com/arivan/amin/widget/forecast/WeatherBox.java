@@ -19,7 +19,8 @@ import java.util.logging.Logger;
 public class WeatherBox extends HBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private WeatherData weatherData;
+    private WeatherDataProvider weatherDataProvider;
+    private GeoLocationProvider locationProvider;
     private Label temperatureLabel;
     private ImageView currentWeatherImage;
     private Label conditionLabel;
@@ -34,7 +35,6 @@ public class WeatherBox extends HBox
     
     private WeatherBox (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
-        determineWeatherProvider();
         initializeFields();
         VBox todayVBox = new VBox();
         HBox iconHBox = new HBox();
@@ -50,6 +50,8 @@ public class WeatherBox extends HBox
     private void addItemsToBoxes (HBox iconHBox, VBox labelsBox)
     {
         iconHBox.getChildren().add(currentWeatherImage);
+        labelsBox.getChildren().addAll(new Label(
+                "City: " + locationProvider.cityName() + ", " + locationProvider.countryName()));
         labelsBox.getChildren()
                 .addAll(temperatureLabel, conditionLabel, humidityLabel, windLabel, cloudsLabel,
                         sunLabel, precipitationLabel);
@@ -75,11 +77,13 @@ public class WeatherBox extends HBox
     
     private void determineWeatherProvider ()
     {
-        weatherData = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
+        weatherDataProvider = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
     }
     
     private void initializeFields ()
     {
+        determineWeatherProvider();
+        locationProvider = GeoLite2LocationProvider.newInstance();
         propertiesManager = PropertiesManager.newInstance();
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
@@ -104,14 +108,18 @@ public class WeatherBox extends HBox
     
     private void createWeatherBoxes ()
     {
-        createWeatherBox(weatherData.secondDayWeatherIcon(), weatherData.secondDayMaxTemperature(),
-                weatherData.secondDayMinTemperature(), getWeatherBoxDate(1));
-        createWeatherBox(weatherData.thirdDayWeatherIcon(), weatherData.thirdDayMaxTemperature(),
-                weatherData.thirdDayMinTemperature(), getWeatherBoxDate(2));
-        createWeatherBox(weatherData.fourthDayWeatherIcon(), weatherData.fourthDayMaxTemperature(),
-                weatherData.fourthDayMinTemperature(), getWeatherBoxDate(3));
-        createWeatherBox(weatherData.fifthDayWeatherIcon(), weatherData.fifthDayMaxTemperature(),
-                weatherData.fifthDayMinTemperature(), getWeatherBoxDate(4));
+        createWeatherBox(weatherDataProvider.secondDayWeatherIcon(),
+                weatherDataProvider.secondDayMaxTemperature(),
+                weatherDataProvider.secondDayMinTemperature(), getWeatherBoxDate(1));
+        createWeatherBox(weatherDataProvider.thirdDayWeatherIcon(),
+                weatherDataProvider.thirdDayMaxTemperature(),
+                weatherDataProvider.thirdDayMinTemperature(), getWeatherBoxDate(2));
+        createWeatherBox(weatherDataProvider.fourthDayWeatherIcon(),
+                weatherDataProvider.fourthDayMaxTemperature(),
+                weatherDataProvider.fourthDayMinTemperature(), getWeatherBoxDate(3));
+        createWeatherBox(weatherDataProvider.fifthDayWeatherIcon(),
+                weatherDataProvider.fifthDayMaxTemperature(),
+                weatherDataProvider.fifthDayMinTemperature(), getWeatherBoxDate(4));
     }
     
     private static String getWeatherBoxDate (int datePlusDays)
@@ -178,7 +186,7 @@ public class WeatherBox extends HBox
     
     private void updateWeatherDataFromProvider ()
     {
-        weatherData.updateWeatherData();
+        weatherDataProvider.updateWeatherData();
     }
     
     private void updateFourDaysForecast ()
@@ -189,14 +197,15 @@ public class WeatherBox extends HBox
     
     private void updateLabelValues ()
     {
-        temperatureLabel
-                .setText("Temperature: " + convertTemperature(weatherData.temperatureValue()));
-        conditionLabel.setText("Condition: " + weatherData.weatherCondition());
-        humidityLabel.setText("Humidity: " + weatherData.humidityValue() + '%');
-        windLabel.setText(
-                "Wind: " + weatherData.windsSpeed() + " mps " + weatherData.windDirection());
-        cloudsLabel.setText("Clouds: " + weatherData.cloudsRate() + '%');
-        sunLabel.setText("Sun rise: " + weatherData.sunrise() + " set: " + weatherData.sunset());
+        temperatureLabel.setText(
+                "Temperature: " + convertTemperature(weatherDataProvider.temperatureValue()));
+        conditionLabel.setText("Condition: " + weatherDataProvider.weatherCondition());
+        humidityLabel.setText("Humidity: " + weatherDataProvider.humidityValue() + '%');
+        windLabel.setText("Wind: " + weatherDataProvider.windsSpeed() + " mps " +
+                weatherDataProvider.windDirection());
+        cloudsLabel.setText("Clouds: " + weatherDataProvider.cloudsRate() + '%');
+        sunLabel.setText("Sun rise: " + weatherDataProvider.sunrise() + " set: " +
+                weatherDataProvider.sunset());
     }
     
     private String convertTemperature (int temp)
@@ -215,15 +224,16 @@ public class WeatherBox extends HBox
     
     private void setNewIconImage ()
     {
-        currentWeatherImage.setImage(new Image(weatherData.weatherIcon()));
+        currentWeatherImage.setImage(new Image(weatherDataProvider.weatherIcon()));
     }
     
     private void setPrecipitationIfExists ()
     {
-        if (!weatherData.precipitationType().isEmpty())
+        if (!weatherDataProvider.precipitationType().isEmpty())
         {
-            precipitationLabel.setText("Precipitation: " + weatherData.precipitationType() + "  " +
-                    weatherData.precipitationValue() + "mm");
+            precipitationLabel.setText(
+                    "Precipitation: " + weatherDataProvider.precipitationType() + "  " +
+                            weatherDataProvider.precipitationValue() + "mm");
         }
         else
         {
@@ -234,11 +244,12 @@ public class WeatherBox extends HBox
     @Override
     public String toString ()
     {
-        return "WeatherBox{" + "weatherData=" + weatherData + ", temperatureLabel=" +
-                temperatureLabel + ", currentWeatherImage=" + currentWeatherImage +
-                ", conditionLabel=" + conditionLabel + ", humidityLabel=" + humidityLabel +
-                ", windLabel=" + windLabel + ", cloudsLabel=" + cloudsLabel + ", sunLabel=" +
-                sunLabel + ", fourDaysVBox=" + fourDaysVBox + ", precipitationLabel=" +
-                precipitationLabel + ", propertiesManager=" + propertiesManager + '}';
+        return "WeatherBox{" + "weatherDataProvider=" + weatherDataProvider +
+                ", temperatureLabel=" + temperatureLabel + ", currentWeatherImage=" +
+                currentWeatherImage + ", conditionLabel=" + conditionLabel + ", humidityLabel=" +
+                humidityLabel + ", windLabel=" + windLabel + ", cloudsLabel=" + cloudsLabel +
+                ", sunLabel=" + sunLabel + ", fourDaysVBox=" + fourDaysVBox +
+                ", precipitationLabel=" + precipitationLabel + ", propertiesManager=" +
+                propertiesManager + '}';
     }
 }

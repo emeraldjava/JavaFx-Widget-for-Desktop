@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-30T20:53:14+00:00</dc:date>
+<dc:date>2018-01-31T09:37:10+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
   <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/0419222/mpeg-founder-says-the-mpeg-business-model-is-broken?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,6 +41,190 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
+<item rdf:about="https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How To Watch the 'Super Blue Blood Moon' Lunar Eclipse</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cDhEpocHmZk/how-to-watch-the-super-blue-blood-moon-lunar-eclipse</link>
+<description>Stephanie Pappas reports via Live Science how you can watch Wednesday's "Super Blue Blood Moon" eclipse: The eclipse will occur in the wee hours of the morning on Wednesday, Jan. 31, when the full moon will pass through the Earth's shadow. Viewers on Earth will see the face of the moon turn a murky red. On the West Coast, totality (the full shading of the moon) will occur at 4:51 a.m. PST until 6:08 a.m. PST. Before that, the moon will enter the outer portion of the Earth's shadow, or penumbra, at 2:51 a.m. PST. The real show will become visible starting at 3:48 a.m. PST, when the moon will be entering the umbra, or central portion of Earth's shadow, and a dark shadow will move over the face of the moon. The moon will leave the umbra at 7:11 a.m. PST. East Coasters can catch the partial lunar eclipse before dawn, but they will miss totality because the moon will have set below the horizon by 7:06 a.m. EST. To see the shadow of the Earth become visible on the moon's face, look up at 6:31 a.m. EST; by 6:48 a.m. EST, the moon will be entering the umbra, or central portion of the shadow, which should make the color change more apparent.
+ 
+For viewers in the Central and Mountain time zones, the moon will set either during the total eclipse or while the satellite is exiting the Earth's shadow. The moon enters the dark umbra at about 5:48 a.m. CST and will hit totality slightly before moonset, at 6:51 a.m. CST. The umbra will appear at 4:48 a.m. MST, and the moon will enter totality at 5:51 a.m. MST. Viewers in the Mountain time zone will also get the chance to see the middle of totality, when the moon is up to 100,000 times fainter than usual, at 6:29 a.m. The eclipse will end slightly before moonset, at 7:07 a.m. MST. Viewers in Alaska and Hawaii will get a full dose of totality, too, but they'll have to be very early birds or night owls. Totality begins at 3:51 a.m. AKST and ends at 5:05 a.m. AKST. Totality hits at 2:51 a.m. HST and will be over by 4:05 a.m. HST.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+To+Watch+the+'Super+Blue+Blood+Moon'+Lunar+Eclipse%3A+http%3A%2F%2Fbit.ly%2F2nroi7O"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F31%2F0232233%2Fhow-to-watch-the-super-blue-blood-moon-lunar-eclipse%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680487&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cDhEpocHmZk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-31T07:00:00+00:00</dc:date>
+<dc:subject>moon</dc:subject>
+<slash:department>spirit-in-the-sky</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>19</slash:comments>
+<slash:hit_parade>19,19,11,10,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Pocket-Sized DNA Reader Used To Scan Entire Human Genome Sequence</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Onl1znPDvlk/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence</link>
+<description>An anonymous reader quotes a report from Ars Technica: A few years back, a company called Oxford Nanopore announced it was developing a radically different way of sequencing DNA. Its approach involved taking single strands of the double helix and stuffing them through a protein pore. With a small bit of current flowing across the pore, the four bases of DNA each created a distinct (if tiny) change in the voltage as it passed through. These could be used to read the DNA one base at a time as it wiggled through the pore. After several years of slow progress, Oxford Nanopore announced that its sequencing hardware would be as distinctive as its wetware: a USB device that could fit comfortably in a person's hand. As the first devices went out to users, it became clear that the device had some pros and cons. On the plus side, the device was quick and could be used without requiring a large facility to support it. It could also read very long stretches of DNA at once. But the downside was significant: it made lots of mistakes.
+ 
+With a few years of experience, people are now starting to learn to make the most of the devices, as demonstrated by a new paper in which researchers use it to help sequence a human genome. By using the machine's long reads -- in one case, nearly 900,000 bases from one DNA molecule -- the authors were able to get data out of areas of the human genome that resisted characterization before. And they were able to distinguish between the two sets of chromosomes (one from mom, one from dad) and locate areas of epigenetic control in many areas of the genome. In light of all the distinct information it can provide, the machine's error rate is seeming like less of a problem.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Pocket-Sized+DNA+Reader+Used+To+Scan+Entire+Human+Genome+Sequence%3A+http%3A%2F%2Fbit.ly%2F2nularJ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F30%2F2217238%2Fpocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680191&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Onl1znPDvlk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-31T03:30:00+00:00</dc:date>
+<dc:subject>software</dc:subject>
+<slash:department>pocket-sized</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,45,31,25,10,7,4</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>T-Mobile Commits To 100 Percent Renewable Electricity By 2021</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KMF3WFM3EAQ/t-mobile-commits-to-100-percent-renewable-electricity-by-2021</link>
+<description>T-Mobile said on Monday that it will move to 100 percent renewable electricity by the year 2021. It had also "finalized a contract for wind power from the Solomon Forks Wind Project in Kansas," reports CNBC. "Power generation there is due to begin at the beginning of 2019, and will supplement the energy T-Mobile receives from the Red Dirt Wind Power Project in Oklahoma." From the report: John Legere, T-Mobile's president and CEO, said moving to renewable energy was the right thing to do and smart business. "We expect to cut T-Mobile's energy costs by around $100 million in the next 15 years thanks to this move," he added. T-Mobile has also joined the RE100, a group of global businesses committed to renewable power. Other members of the RE100 include Apple, Facebook and Google.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=T-Mobile+Commits+To+100+Percent+Renewable+Electricity+By+2021%3A+http%3A%2F%2Fbit.ly%2F2nsmTOs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F30%2F225248%2Ft-mobile-commits-to-100-percent-renewable-electricity-by-2021%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680163&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KMF3WFM3EAQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-31T01:00:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>fully-sustainable</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>39</slash:comments>
+<slash:hit_parade>39,35,18,15,7,3,1</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amazon's Push Into Healthcare Just Cost the Industry $30 Billion In Market Cap</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Oc8460unUVs/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap</link>
+<description>Today, Amazon, along with Berkshire Hathaway and JPMorgan, announced a plan to launch an independent company that will offer healthcare services to the companies' employees at a lower cost. The venture, which will be managed by executives from the firms, will be run more like a non-profit, than a for-profit entity. Even though the plans are vague, the news caused the market value of 10 large, listed health insurance and pharmacy stocks to drop by a combined $30 billion in the first two hours of trading. Quartz reports: "The healthcare system is complex, and we enter into this challenge open-eyed about the degree of difficulty," said Amazon's Jeff Bezos in a statement. "Hard as it might be, reducing healthcare's burden on the economy while improving outcomes for employees and their families would be worth the effort. Success is going to require talented experts, a beginner's mind, and a long-term orientation." Warren Buffett, the CEO of Berkshire Hathaway, likened America's mushrooming healthcare costs to "a hungry tapeworm on the American economy." How the venture will provide less pricy healthcare to the 1.2 million employees of the participating companies isn't yet clear. The new company will leverage "technology solutions" that provide "simplified, high-quality and transparent healthcare at a reasonable cost." Not much else, including the name of the company, is known.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon's+Push+Into+Healthcare+Just+Cost+the+Industry+%2430+Billion+In+Market+Cap%3A+http%3A%2F%2Fbit.ly%2F2BGP4ye"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F2159237%2Famazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680153&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Oc8460unUVs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-31T00:20:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>industry-shocking</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>189</slash:comments>
+<slash:hit_parade>189,188,136,115,26,15,9</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Play Removed 700,000 Bad Apps In 2017, 70 Percent More Than In 2016</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/s8mXjL1TzYc/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016</link>
+<description>Today, Google announced that it removed more than 700,000 apps that violated Google Play's policies, or 70 percent more apps than the year before. "Google does not share total Google Play app numbers anymore, so we have to rely on third-party estimates to put this 70 percent figure into perspective," reports VentureBeat. "Statista pegs the total number of apps on Google Play at 2.6 million in December 2016 and 3.5 million in December 2017, a 35 percent growth. How many of those were bad apps, however, is anyone's guess." From the report: All we know is that the number of bad apps removed grew faster than the total number of apps in the store, which makes sense if you take into account the next statistic Google revealed today: 99 percent of apps with abusive content were identified and rejected before anyone could install them in 2017. This was possible, Google says, thanks to its implementation of machine learning models and techniques to detect abusive app content and behaviors such as impersonation, inappropriate content, or malware. The company claims that the odds of getting malware is 10x lower via Google Play than if you install apps from outside sources.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Play+Removed+700%2C000+Bad+Apps+In+2017%2C+70+Percent+More+Than+In+2016%3A+http%3A%2F%2Fbit.ly%2F2BFfS1J"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F2147251%2Fgoogle-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680135&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/s8mXjL1TzYc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-30T23:40:00+00:00</dc:date>
+<dc:subject>android</dc:subject>
+<slash:department>cease-and-desist</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>26</slash:comments>
+<slash:hit_parade>26,25,16,8,3,1,0</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook Users Cry 'Censorship' After Being Told Which Russian Troll Pages They Liked</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/abSFrrHi868/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked</link>
+<description>An anonymous reader quotes a report from Gizmodo: As the FBI's investigation into Russian election interference reaches a fever pitch, Facebook rolled out a new News Feed alert Monday night. The bulletin told users who followed pages created by Russian trolls that those pages have been removed. And some of the affected users did not like this. A brief search revealed that numerous people believe that this is an act of censorship by Facebook. Some users argued that they should be allowed to decide what's "true, fake, or otherwise," a challenge that's bound to be a slippery slope in this era of algorithm-based confirmation bias. Others took on a more conspiratorial tone, claiming that Facebook failed to reveal which pages were removed (despite the alert containing a link listing the pages in question). Facebook first released the information in December, creating a help page that showed users if they liked or followed pages and accounts associated with the Internet Research Agency, Russia's notorious troll farm, but today's alert seems to have inspired newfound alarm. The fact that Facebook explicitly stated which pages were deleted seems to have done little to reduce the anger over the allegedly clandestine silencing.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Users+Cry+'Censorship'+After+Being+Told+Which+Russian+Troll+Pages+They+Liked%3A+http%3A%2F%2Fbit.ly%2F2nqHW3M"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F2139216%2Ffacebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680129&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/abSFrrHi868" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-30T23:00:00+00:00</dc:date>
+<dc:subject>censorship</dc:subject>
+<slash:department>cause-and-effect</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>277</slash:comments>
+<slash:hit_parade>277,274,150,123,37,22,13</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Verizon Drops Plans To Sell Huawei Phones Due To US Government Pressure</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uO83VEMbtRM/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure</link>
+<description>Bloomberg reports that Verizon has dropped all plans to sell phones by Chinese manufacturer Huawei due to pressure from the U.S. government. The decision comes after AT&amp;amp;T walked away from a deal earlier this month to sell Huawei smartphones in the U.S. Bloomberg: Huawei devices still work on both companies' networks, but direct sales would've allowed them to reach more consumers than they can through third parties. The government's renewed concern about Chinese spying is creating a potential roadblock in the race between Verizon and AT&amp;amp;T to offer 5G, the next generation of super-fast mobile service. Huawei is pushing to be among the first to offer 5G-capable phone, but the device may be considered off-limits to U.S. carriers who are beginning to offer the next-generation service this year in a few cities. U.S. security agencies and some lawmakers fear that 5G phones made by companies that may have close ties to the Chinese government could pose a security risk.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Verizon+Drops+Plans+To+Sell+Huawei+Phones+Due+To+US+Government+Pressure%3A+http%3A%2F%2Fbit.ly%2F2ntfTkm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F2124218%2Fverizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680107&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uO83VEMbtRM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-30T22:20:00+00:00</dc:date>
+<dc:subject>verizon</dc:subject>
+<slash:department>under-pressure</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>60</slash:comments>
+<slash:hit_parade>60,60,35,31,5,2,1</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook Is Banning Cryptocurrency, ICO Ads</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3VZIFe2yhC8/facebook-is-banning-cryptocurrency-ico-ads</link>
+<description>Facebbook has a new advertising policy pertaining to cryptocurrency, binary options and initial coin offerings. The policy specifically prohibits ads that promote those types of products and services "that are frequently associated with misleading or deceptive practices," Facebook Product Management Director Rob Leathern wrote in a blog post today. TechCrunch reports: Cryptocurrencies like Bitcoin, Litecoin and Ethereum, and initial coin offerings have all hit the mainstream, which has promptly resulted in a number of scams. While Facebook says it wants people "to continue to discover and learn" about those products and services, "there are many companies who are advertising binary options, ICOs and cryptocurrencies that are not currently operating in good faith," Leathern wrote. Leathern recognizes that the policy is quite broad, but he says that's intentional. The plan is to continue working to better detect deceptive and misleading ads that pertain to cryptocurrencies, ICOs and binary options. Over time, Facebook says it will revisit the policy and its enforcement mechanisms as its signals improve. In the meantime, Facebook is encouraging people to report content that violates this policy.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Is+Banning+Cryptocurrency%2C+ICO+Ads%3A+http%3A%2F%2Fbit.ly%2F2DQ3eTF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F30%2F2011226%2Ffacebook-is-banning-cryptocurrency-ico-ads%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679955&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3VZIFe2yhC8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-30T21:40:00+00:00</dc:date>
+<dc:subject>advertising</dc:subject>
+<slash:department>new-policies</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>34</slash:comments>
+<slash:hit_parade>34,33,15,14,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>US Government Investigates Apple Over iPhone Battery Slowdowns</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/p5PNuiZbCKA/us-government-investigates-apple-over-iphone-battery-slowdowns</link>
+<description>An anonymous reader quotes a report from PhoneDog: The U.S. Department of Justice and the Securities and Exchange Commission are investigating Apple about its updates that slowed performance on iPhones with older batteries. Sources speaking to Bloomberg say that the agencies are looking into whether Apple violated securities laws regarding disclosures about its updates that throttled older iPhones. So far, the DOJ and SEC have requested information from Apple. Because the investigation is still early, it's unclear if the agencies will actually take an action against Apple. Apple apologized for not being more clear about its actions after the news of its performance-throttling updates came out, but we've still seen class action lawsuits and now this investigation come out. The good news is that Apple will be more transparent about iPhone battery health and performance in the future, but for now, it'll have to deal with the DOJ and SEC.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=US+Government+Investigates+Apple+Over+iPhone+Battery+Slowdowns%3A+http%3A%2F%2Fbit.ly%2F2DPZxgL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F30%2F204217%2Fus-government-investigates-apple-over-iphone-battery-slowdowns%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679951&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/p5PNuiZbCKA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-30T21:00:00+00:00</dc:date>
+<dc:subject>iphone</dc:subject>
+<slash:department>saga-continues</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>103</slash:comments>
+<slash:hit_parade>103,100,53,42,11,4,3</slash:hit_parade>
+<feedburner:origLink>https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>Robot Delivery Vans Are Arriving Before Self-Driving Cars</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VNLdAGKxyxg/robot-delivery-vans-are-arriving-before-self-driving-cars</link>
@@ -58,8 +242,8 @@
 <dc:subject>robot</dc:subject>
 <slash:department>next-up</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>15</slash:comments>
-<slash:hit_parade>15,14,10,9,2,0,0</slash:hit_parade>
+<slash:comments>96</slash:comments>
+<slash:hit_parade>96,94,67,52,7,5,1</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>California Senate Defies FCC, Approves Net Neutrality Law</title>
@@ -78,8 +262,8 @@
 <dc:subject>business</dc:subject>
 <slash:department>fighting-back</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>76</slash:comments>
-<slash:hit_parade>76,73,40,32,10,6,4</slash:hit_parade>
+<slash:comments>262</slash:comments>
+<slash:hit_parade>262,252,170,143,43,19,10</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>The Next Time You Order Room Service, It May Come by Robot</title>
@@ -98,13 +282,14 @@
 <dc:subject>robot</dc:subject>
 <slash:department>how-about-that</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>57</slash:comments>
-<slash:hit_parade>57,54,35,35,3,1,1</slash:hit_parade>
+<slash:comments>87</slash:comments>
+<slash:hit_parade>87,83,54,53,10,3,1</slash:hit_parade>
 <feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>US Regulators To Subpoena Crypto Exchange Bitfinex, Tether</title>
 <link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/C1B_UtUc970/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether</link>
-<description>U.S. regulators are scrutinizing one of the world's largest cryptocurrency exchanges as questions mount over a digital token linked to its backers, Bloomberg reported on Tuesday. From the report: The U.S. Commodity Futures Trading Commission sent subpoenas last week to virtual-currency venue Bitfinex and Tether, a company that issues a widely traded coin and claims it's pegged to the dollar, according to a person familiar with the matter. The firms share the same chief executive officer. Tether's coins have become a popular substitute for dollars on cryptocurrency exchanges worldwide, with about $2.3 billion of the tokens outstanding as of Tuesday. While Tether has said all of its coins are backed by U.S. dollars held in reserve, the company has yet to provide conclusive evidence of its holdings to the public or have its accounts audited. Skeptics have questioned whether the money is really there.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+<description>U.S. regulators are scrutinizing one of the world's largest cryptocurrency exchanges as questions mount over a digital token linked to its backers, Bloomberg reported on Tuesday. From the report: The U.S. Commodity Futures Trading Commission sent subpoenas last week to virtual-currency venue Bitfinex and Tether, a company that issues a widely traded coin and claims it's pegged to the dollar, according to a person familiar with the matter. The firms share the same chief executive officer. Tether's coins have become a popular substitute for dollars on cryptocurrency exchanges worldwide, with about $2.3 billion of the tokens outstanding as of Tuesday. While Tether has said all of its coins are backed by U.S. dollars held in reserve, the company has yet to provide conclusive evidence of its holdings to the public or have its accounts audited. Skeptics have questioned whether the money is really there.
+ Update: "Bitfinex'ed", a pseudonymous blogger whose been calling foul on Tether and Bitfinex for months, outlines steps he thinks exchanges that use Tether should take ASAP.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
 &lt;a class="slashpop" href="http://twitter.com/home?status=US+Regulators+To+Subpoena+Crypto+Exchange+Bitfinex%2C+Tether%3A+http%3A%2F%2Fbit.ly%2F2BDzqDT"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
 &lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F1816253%2Fus-regulators-to-subpoena-crypto-exchange-bitfinex-tether%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
@@ -118,8 +303,8 @@
 <dc:subject>bitcoin</dc:subject>
 <slash:department>tough-luck</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>32</slash:comments>
-<slash:hit_parade>32,30,17,13,2,0,0</slash:hit_parade>
+<slash:comments>58</slash:comments>
+<slash:hit_parade>58,55,30,24,5,0,0</slash:hit_parade>
 <feedburner:origLink>https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>False Hawaii Missile Alert Sent After Drill Recording Said 'This Is Not A Drill'</title>
@@ -138,8 +323,8 @@
 <dc:subject>usa</dc:subject>
 <slash:department>closer-look</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>92</slash:comments>
-<slash:hit_parade>92,86,62,59,19,11,7</slash:hit_parade>
+<slash:comments>195</slash:comments>
+<slash:hit_parade>195,189,132,127,32,19,12</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <item rdf:about="https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
 <title>New FCC Rules Will Require Wireless Companies To Deliver Emergency Alerts More Accurately</title>
@@ -158,189 +343,9 @@
 <dc:subject>usa</dc:subject>
 <slash:department>up-next</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>33</slash:comments>
-<slash:hit_parade>33,32,24,14,5,2,2</slash:hit_parade>
+<slash:comments>45</slash:comments>
+<slash:hit_parade>45,44,30,20,5,3,2</slash:hit_parade>
 <feedburner:origLink>https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Naked Mole Rats Defy Mortality Mathematics</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Xid_mWu1pVw/naked-mole-rats-defy-mortality-mathematics</link>
-<description>An anonymous reader shares a report: Naked mole rats are adorably ugly creatures that challenge what we think we know about aging. Naked mole rats can live to be 30 years old. Further, female mole rats show no signs of menopause, and remain highly fertile even into their final years of life. Neurogenesis in naked mole rats continues over two decades, and their hearts and bones don't seem to change significantly over time. They rarely get cancer. Hell, they can even live up to 18 minutes utterly deprived of oxygen. [...] At Google's biotech company, Calico, in San Francisco, California, biologist Rochelle Buffenstein is looking to the naked survivors to unlock their secrets of aging. Buffenstein says naked mole rats violate to the Gompertz-Makeham law, and she has over 3,000 data points to back her conclusion. After reaching adulthood six months into their lives, a naked mole rat's mortality risk remained the same for the rest of its days her analysis revealed. Rather than grow exponentially, a naked mole rat's risk of death on any given day, no matter their point in life, hovered around 1 in 10,000. Surprisingly, their mortality risk even fell a little when they grew very old. In this sense, Buffenstein writes, naked mole rats have established themselves as "a non-aging mammal. This life-history trend is unprecedented for mammals," Buffenstein and colleagues wrote in a study published recently in the journal eLife.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Naked+Mole+Rats+Defy+Mortality+Mathematics%3A+http%3A%2F%2Fbit.ly%2F2DPATNh"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F1641238%2Fnaked-mole-rats-defy-mortality-mathematics%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679487&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Xid_mWu1pVw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T16:41:00+00:00</dc:date>
-<dc:subject>science</dc:subject>
-<slash:department>stranger-things</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>174</slash:comments>
-<slash:hit_parade>174,173,129,94,25,13,10</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/30/1641238/naked-mole-rats-defy-mortality-mathematics?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Child Experts: Just Say 'No' To Facebook's Kids App</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/6JW07p9ZMVE/child-experts-just-say-no-to-facebooks-kids-app</link>
-<description>A group letter sent Tuesday to CEO Mark Zuckerberg argues that younger children -- the app is intended for those under 13 -- aren't ready to have social media accounts, navigate the complexities of online relationships or protect their own privacy. From a report: Facebook launched the free Messenger Kids app in December, pitching it as a way for children to chat with family members and parent-approved friends. It doesn't give kids separate Facebook or Messenger accounts. Rather, the app works as an extension of a parent's account, and parents get controls such as the ability to decide who their kids can chat with. The social media giant has said it fills "a need for a messaging app that lets kids connect with people they love but also has the level of control parents want." But a group of 100 experts, advocates and parenting organizations is contesting those claims. Led by the Boston-based Campaign for a Commercial-Free Childhood, the group includes psychiatrists, pediatricians, educators and the children's music singer Raffi Cavoukian. "Messenger Kids is not responding to a need -- it is creating one," the letter states. "It appeals primarily to children who otherwise would not have their own social media accounts."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Child+Experts%3A+Just+Say+'No'+To+Facebook's+Kids+App%3A+http%3A%2F%2Fbit.ly%2F2Emg1Kp"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F30%2F160244%2Fchild-experts-just-say-no-to-facebooks-kids-app%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679345&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/6JW07p9ZMVE" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T16:00:00+00:00</dc:date>
-<dc:subject>facebook</dc:subject>
-<slash:department>big-concerns</slash:department>
-<slash:section>technology</slash:section>
-<slash:comments>67</slash:comments>
-<slash:hit_parade>67,61,32,27,7,2,1</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/30/160244/child-experts-just-say-no-to-facebooks-kids-app?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Drug Firms Shipped 20.8 Million Pain Pills To West Virginia Town of 2,900</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/PdU-jsyVfHw/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900</link>
-<description>A congressional committee investigating the opioid crisis has discovered out-of-state drug companies shipped 20.8 million prescription painkillers over a decade to two pharmacies in a Southern West Virginia town with 2,900 people. From a report: Between 2006 and 2016, two drug wholesalers shipped 10.2 million hydrocodone pills and 10.6 million oxycodone pills to Tug Valley Pharmacy and Hurley Drug in the town of Williamson, in Mingo County, the Charleston Gazette-Mail reported. "These numbers are outrageous, and we will get to the bottom of how this destruction was able to be unleashed across West Virginia," the House Energy and Commerce Committee Chairman Greg Walden, R-Ore. and ranking member Frank Pallone Jr., D-N.J. said in a joint statement.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Drug+Firms+Shipped+20.8+Million+Pain+Pills+To+West+Virginia+Town+of+2%2C900%3A+http%3A%2F%2Fbit.ly%2F2EnY5PJ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F154255%2Fdrug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679209&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/PdU-jsyVfHw" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T15:10:00+00:00</dc:date>
-<dc:subject>medicine</dc:subject>
-<slash:department>outrageous</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>241</slash:comments>
-<slash:hit_parade>241,237,154,127,30,13,9</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/30/154255/drug-firms-shipped-208-million-pain-pills-to-west-virginia-town-of-2900?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Lawyers Faced With Emojis and Emoticons Are All \_("/)_/</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/pjMZYsdTllM/lawyers-faced-with-emojis-and-emoticons-are-all-</link>
-<description>Zorro shares a WSJ report: Lawyers gathered at the Atlanta office of a big law firm were debating a head-scratching legal question. What does the emoji known as the "unamused face" actually mean? They couldn't even agree that the emoji in question -- it has raised eyebrows and a frown -- looked unamused. "Everybody said something different," recalls Morgan Clemons, 33 years old, a regulatory compliance lawyer at Aldridge Pite who organized the gathering last summer at Bryan Cave LLP, called "Emoji Law 101." Emojis -- tiny pictures of facial expressions or objects used in text messages, emails and on social media -- are no longer a laughing matter for the legal profession. (Editor's note: the link may be paywalled; alternative source.) Increasingly, they are bones of contention in lawsuits ranging from business disputes to harassment to defamation. In one Michigan defamation dispute, the meaning of an emoticon, an emoji-like image created with text characters from a standard keyboard, was up for debate. A comment on an internet message board appeared to accuse a local official of corruption. The comment was followed by a ":P" emoticon. The judges on the Michigan Court of Appeals concluded in 2014 that the emoticon "is used to represent a face with its tongue sticking out to denote a joke or sarcasm." The court said the comment couldn't be taken seriously or viewed as defamatory. Puzzled lawyers are turning to seminars, informal meetings and academic papers to discern innuendo in seemingly innocuous pictures of martini glasses and prancing horses.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Lawyers+Faced+With+Emojis+and+Emoticons+Are+All+%5C_(%22%2F)_%2F%3A+http%3A%2F%2Fbit.ly%2F2BECP54"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F1436253%2Flawyers-faced-with-emojis-and-emoticons-are-all-%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679137&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/pjMZYsdTllM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T14:40:00+00:00</dc:date>
-<dc:subject>court</dc:subject>
-<slash:department>stranger-things</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>104</slash:comments>
-<slash:hit_parade>104,100,54,46,16,6,2</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/1436253/lawyers-faced-with-emojis-and-emoticons-are-all-?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Apple is Postponing Release of New Features To iOS This Year To Focus on Reliability and Performance: Report</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/qv8fFPetu10/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report</link>
-<description>For a change, Apple plans to not push new features to iOS devices this year so that it could focus on reliability and quality of the software instead, Axios reported on Tuesday. From the report: Apple has been criticized of late, both for security issues and for a number of quality issues, as well as for how it handles battery issues on older devices. Software head Craig Federighi announced the revised plan to employees at a meeting earlier this month, shortly before he and some top lieutenants headed to a company offsite. Pushed into 2019 are a number of features including a refresh of the home screen and in-car user interfaces, improvements to core apps like mail and updates to the picture-taking, photo editing and sharing experiences.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Apple+is+Postponing+Release+of+New+Features+To+iOS+This+Year+To+Focus+on+Reliability+and+Performance%3A+Report%3A+http%3A%2F%2Fbit.ly%2F2DObaVx"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F01%2F30%2F138249%2Fapple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11678867&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/qv8fFPetu10" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T14:00:00+00:00</dc:date>
-<dc:subject>bug</dc:subject>
-<slash:department>priorities</slash:department>
-<slash:section>apple</slash:section>
-<slash:comments>89</slash:comments>
-<slash:hit_parade>89,87,61,59,14,3,1</slash:hit_parade>
-<feedburner:origLink>https://apple.slashdot.org/story/18/01/30/138249/apple-is-postponing-release-of-new-features-to-ios-this-year-to-focus-on-reliability-and-performance-report?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>AI May Have Finally Decoded the Mysterious 'Voynich Manuscript'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/ASXAefPIEVI/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript</link>
-<description>An anonymous reader quotes a report from Gizmodo: Since its discovery over a hundred years ago, the 240-page Voynich manuscript, filled with seemingly coded language and inscrutable illustrations, of has confounded linguists and cryptographers. Using artificial intelligence, Canadian researchers have taken a huge step forward in unraveling the document's hidden meaning. Named after Wilfrid Voynich, the Polish book dealer who procured the manuscript in 1912, the document is written in an unknown script that encodes an unknown language -- a double-whammy of unknowns that has, until this point, been impossible to interpret. The Voynich manuscript contains hundreds of fragile pages, some missing, with hand-written text going from left to right. Most pages are adorned with illustrations of diagrams, including plants, nude figures, and astronomical symbols. But as for the meaning of the text -- nothing. No clue. For Greg Kondrak, an expert in natural language processing at the University of Alberta, this seemed a perfect task for artificial intelligence. With the help of his grad student Bradley Hauer, the computer scientists have taken a big step in cracking the code, discovering that the text is written in what appears to be the Hebrew language, and with letters arranged in a fixed pattern. To be fair, the researchers still don't know the meaning of the Voynich manuscript, but the stage is now set for other experts to join the investigation. The researchers used an AI to study "the text of the 'Universal Declaration of Human Rights' as it was written in 380 different languages, looking for patterns," reports Gizmodo. Following this training, the AI analyzed the Voynich gibberish, concluding with a high rate of certainty that the text was written in encoded Hebrew." The researchers then entertained a hypothesis that the script was created with alphagrams, words in which text has been replaced by an alphabetically ordered anagram. "Armed with the knowledge that text was originally coded from Hebrew, the researchers devised an algorithm that could take these anagrams and create real Hebrew words." Finally, "the researchers deciphered the opening phrase of the manuscript" and ran it through Google Translate to convert it into passable English: "She made recommendations to the priest, man of the house and me and people." The study appears in Transactions of the Association of Computational Linguistics .&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=AI+May+Have+Finally+Decoded+the+Mysterious+'Voynich+Manuscript'%3A+http%3A%2F%2Fbit.ly%2F2DMejFf"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F0436256%2Fai-may-have-finally-decoded-the-mysterious-voynich-manuscript%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11675199&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/ASXAefPIEVI" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T13:00:00+00:00</dc:date>
-<dc:subject>ai</dc:subject>
-<slash:department>shrouded-in-secrecy</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>152</slash:comments>
-<slash:hit_parade>152,152,83,66,14,12,6</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/30/0436256/ai-may-have-finally-decoded-the-mysterious-voynich-manuscript?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Researchers Find More Evidence For the Strange Link Between Sugar and Alzheimer's</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Vvm4WLFxiMQ/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers</link>
-<description>schwit1 shares a report from ScienceAlert: People with high blood sugar stand to experience worse long-term cognitive decline than their healthy peers, even if they're not technically type 2 diabetic, new research suggests. The findings are not the first linking diabetes with impaired cognitive functions, but they're some of the clearest yet showing blood sugar isn't just a marker of our dietary health -- it's also a telling predictor of how our brains may cope as we get older. "Our findings suggest that interventions that delay diabetes onset, as well as management strategies for blood sugar control, might help alleviate the progression of subsequent cognitive decline over the long-term," explain the researchers, led by epidemiologist Wuxiang Xie from Imperial College London. The researchers sourced their data from the English Longitudinal Study of Aging, an ongoing assessment of the health of a representative sample of the English population aged 50 and older, which began in in 2002. For its analysis, the team tracked 5,189 participants -- 55 percent women, with an average age of 66 years -- assessing their level of cognitive function between 2004-2005 to 2014-2015, spanning several waves of the ELSA study. The findings are reported in the journal Diabetologia.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers+Find+More+Evidence+For+the+Strange+Link+Between+Sugar+and+Alzheimer's%3A+http%3A%2F%2Fbit.ly%2F2nrn10n"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F0451228%2Fresearchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11675267&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Vvm4WLFxiMQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T10:00:00+00:00</dc:date>
-<dc:subject>medicine</dc:subject>
-<slash:department>cognitive-decline</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>96</slash:comments>
-<slash:hit_parade>96,86,61,54,20,7,5</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/30/0451228/researchers-find-more-evidence-for-the-strange-link-between-sugar-and-alzheimers?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/30/0419222/mpeg-founder-says-the-mpeg-business-model-is-broken?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>MPEG Founder Says the MPEG Business Model Is Broken</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/IJJqpQBylE4/mpeg-founder-says-the-mpeg-business-model-is-broken</link>
-<description>theweatherelectric writes: Leonardo Chiariglione, the founder and chairman of MPEG, argues on his blog that the current MPEG business model is broken. He writes, "Thanks to [MPEG's] 'business model' that can be simply described as: produce standards having the best performance as a goal, irrespective of the IPR involved. Because MPEG standards are the best in the market and have an international standard status, manufacturers/service providers get a global market of digital media products, services and applications, and end users can seamless communicate with billions of people and access millions of services. Patent holders who allow use of their patents get hefty royalties with which they can develop new technologies for the next generation of MPEG standards. A virtuous cycle everybody benefits from." But, he argues, the MPEG model is now in crisis because the forthcoming AV1 video format from the Alliance for Open Media means that "everybody realizes that the old MPEG business model is broke, all the investments (collectively hundreds of millions USD) made by the industry for the new video codec [HEVC] will go up in smoke and AOM's royalty free model will spread to other business segments as well." Chiariglione goes on to explain what can be done: "The first action is to introduce what I call 'fractional options.' ISO envisages two forms of licensing: Option 1, i.e. royalty free and Option 2, i.e. FRAND, which is taken to mean 'with undetermined license.' We could introduce fractional options in the sense that a proposer could indicate that the technology be assigned to a specifically identified profile with an 'industry license' (defined outside MPEG) that does not contain monetary values. For instance, one such license could be 'no charge' (i.e. Option 1), another could be targeted to the OTT market etc." "The second action, not meant to be alternative to the first, is to streamline the MPEG standard development process. Within this a first goal is to develop coding tools with 'clear ownership,' unlike today's tools which are often the result of contributions with possibly very different weights. A second goal is not to define profiles in MPEG. A third goal could be to embed in the standard the capability to switch coding tools on and off."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=MPEG+Founder+Says+the+MPEG+Business+Model+Is+Broken%3A+http%3A%2F%2Fbit.ly%2F2Ep8f2g"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F30%2F0419222%2Fmpeg-founder-says-the-mpeg-business-model-is-broken%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/30/0419222/mpeg-founder-says-the-mpeg-business-model-is-broken?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/30/0419222/mpeg-founder-says-the-mpeg-business-model-is-broken?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11675141&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/IJJqpQBylE4" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T07:00:00+00:00</dc:date>
-<dc:subject>media</dc:subject>
-<slash:department>edit-undo</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>141</slash:comments>
-<slash:hit_parade>141,131,77,67,34,24,15</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/30/0419222/mpeg-founder-says-the-mpeg-business-model-is-broken?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Americans Are Saving Energy Because Fewer People Go Outside</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/p1qVx970X6k/americans-are-saving-energy-because-fewer-people-go-outside</link>
-<description>An anonymous reader quotes a report from The Verge: Americans are saving energy because they don't go outside as much anymore, researchers say. It's a plus for the environment, though in another light (no pun intended), it's just sad. In 2012, Americans spent an extra eight days at home compared to 2003, according to the American Time Use Surveys. Being at home means using more energy by keeping the lights on and watching TV. But it also means less travel, and it means that fewer people are outside operating offices and stores. So overall in 2012, we saved 1,700 trillion British thermal units (BTU) of heat, or 1.8 percent of the national total, according to an analysis published today in the journal Joule. That's about how much energy Kentucky produced in all of 2015. Specifically in 2012, Americans spent one day less traveling and one week less in buildings other than their homes when compared to a decade earlier. The trend of staying indoors is especially strong for those ages 18 to 24: the youths spent 70 percent more time at home than the general population. At the other end of the age spectrum, those 65 and older were the only group that spent more time outside the home compared to 2003. Next, the researchers want to look at energy consumption changes in other countries as a result of lifestyle changes.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Americans+Are+Saving+Energy+Because+Fewer+People+Go+Outside%3A+http%3A%2F%2Fbit.ly%2F2noRYT3"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F29%2F2246215%2Famericans-are-saving-energy-because-fewer-people-go-outside%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11674723&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/p1qVx970X6k" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T03:30:00+00:00</dc:date>
-<dc:subject>usa</dc:subject>
-<slash:department>sign-of-the-times</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>177</slash:comments>
-<slash:hit_parade>177,165,92,74,17,9,7</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/29/2246215/americans-are-saving-energy-because-fewer-people-go-outside?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>
