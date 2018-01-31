@@ -16,9 +16,11 @@ public class OpenWeatherMap implements WeatherData
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherProvider weatherProvider;
     private List<Element> elementList;
+    private GeoLocationProvider locationProvider;
     
     private OpenWeatherMap (WeatherProvider weatherProvider)
     {
+        locationProvider = GeoLite2LocationProvider.newInstance();
         this.weatherProvider = weatherProvider;
     }
     
@@ -344,13 +346,12 @@ public class OpenWeatherMap implements WeatherData
         return getMinTemperature(4);
     }
     
-    // todo timeZone Selection
-    private static String changeTimeZoneToLocal (CharSequence dateTime)
+    private String changeTimeZoneToLocal (CharSequence dateTime)
     {
         LocalDateTime localDateTime = LocalDateTime.parse(dateTime);
         ZoneId utcZoneId = ZoneId.of("UTC");
         ZonedDateTime utcZonedDateTime = localDateTime.atZone(utcZoneId);
-        ZoneId localZoneId = ZoneId.of("Asia/Baghdad");
+        ZoneId localZoneId = ZoneId.of(locationProvider.timezone());
         ZonedDateTime localZonedDateTime = utcZonedDateTime.withZoneSameInstant(localZoneId);
         String time = localZonedDateTime.toString();
         time = time.substring(0, time.lastIndexOf('+'));

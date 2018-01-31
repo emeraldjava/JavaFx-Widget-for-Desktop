@@ -9,4 +9,6 @@ public interface GeoLocationProvider
     double latitude ();
     
     double longitude ();
+    
+    String timezone ();
 }

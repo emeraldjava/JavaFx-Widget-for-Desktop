@@ -4,36 +4,38 @@ import com.maxmind.geoip2.DatabaseReader;
 import com.maxmind.geoip2.DatabaseReader.Builder;
 import com.maxmind.geoip2.model.CityResponse;
 
+import java.io.IOException;
+import java.io.InputStream;
 import java.net.InetAddress;
+import java.net.URL;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.logging.Logger;
 
 public class GeoLite2LocationProvider implements GeoLocationProvider
 {
+    private static final String GEO_LITE2_CITY_DATABASE_FILE = "GeoLite2-City.mmdb";
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final Path databaseFilePath;
-    private final String publicIp;
-    private final CityResponse cityResponse;
+    private final CityResponse response;
     
-    private GeoLite2LocationProvider (String publicIp)
+    private GeoLite2LocationProvider ()
     {
-        this.publicIp = publicIp;
-        // databaseFilePath = Paths.get("src", "main", "resources", "GeoLite2-City.mmdb");
-        databaseFilePath = Paths.get("GeoLite2- City.mmdb");
-        cityResponse = getCityResponse();
+        databaseFilePath = Paths.get(GEO_LITE2_CITY_DATABASE_FILE);
+        response = getResponse();
     }
     
-    public static GeoLite2LocationProvider newInstance (String publicIp)
+    public static GeoLite2LocationProvider newInstance ()
     {
-        return new GeoLite2LocationProvider(publicIp);
+        return new GeoLite2LocationProvider();
     }
     
-    private CityResponse getCityResponse ()
+    private CityResponse getResponse ()
     {
         try (DatabaseReader databaseReader = new Builder(databaseFilePath.toFile()).build())
         {
-            return databaseReader.city(InetAddress.getByName(publicIp));
+            return databaseReader.city(InetAddress.getByName(getPublicIp()));
         }
         catch (Exception e)
         {
@@ -42,34 +44,53 @@ public class GeoLite2LocationProvider implements GeoLocationProvider
         }
     }
     
+    private String getPublicIp ()
+    {
+        try (InputStream stream = new URL("http://checkip.amazonaws.com/").openStream())
+        {
+            return new String(stream.readAllBytes(), StandardCharsets.UTF_8);
+        }
+        catch (IOException e)
+        {
+            logger.warning(e.getMessage());
+            return "";
+        }
+    }
+    
     @Override
     public String countryName ()
     {
-        return cityResponse.getCountry().getName();
+        return response.getCountry().getName();
     }
     
     @Override
     public String cityName ()
     {
-        return cityResponse.getCity().getName();
+        return response.getCity().getName();
     }
     
     @Override
     public double latitude ()
     {
-        return cityResponse.getLocation().getLatitude();
+        return response.getLocation().getLatitude();
     }
     
     @Override
     public double longitude ()
     {
-        return cityResponse.getLocation().getLongitude();
+        return response.getLocation().getLongitude();
+    }
+    
+    @Override
+    public String timezone ()
+    {
+        return response.getLocation().getTimeZone();
     }
     
     @Override
     public String toString ()
     {
         return "GeoLite2LocationProvider{" + "databaseFilePath=" + databaseFilePath +
-                ", publicIp='" + publicIp + '\'' + ", cityResponse=" + cityResponse + '}';
+                ", response=" + response + '}';
     }
 }

@@ -11,10 +11,13 @@ public class OpenWeatherMapProvider implements WeatherProvider
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final String WEATHER_FILE = "weather.xml";
     private static final String WEATHER_PROVIDER_URL =
-            "http://api.openweathermap.org/data/2.5/forecast?id=98463&APPID=8baf149076bcaecb58c4b8ce7403afb4&mode=xml&units=metric";
+            "http://api.openweathermap.org/data/2.5/forecast?" +
+                    "APPID=8baf149076bcaecb58c4b8ce7403afb4&mode=xml&units=metric";
+    private final GeoLocationProvider locationProvider;
     
     private OpenWeatherMapProvider ()
     {
+        locationProvider = GeoLite2LocationProvider.newInstance();
     }
     
     public static OpenWeatherMapProvider newInstance ()
@@ -22,12 +25,18 @@ public class OpenWeatherMapProvider implements WeatherProvider
         return new OpenWeatherMapProvider();
     }
     
+    private String getWeatherProviderUrlAndLocation ()
+    {
+        return WEATHER_PROVIDER_URL + "&lat=" + locationProvider.latitude() + "&lon=" +
+                locationProvider.longitude();
+    }
+    
     @Override
     public String getWeatherDataUri ()
     {
         String dataFileUri = "";
         Path path = Paths.get(WEATHER_FILE);
-        try (InputStream stream = new URL(WEATHER_PROVIDER_URL).openStream())
+        try (InputStream stream = new URL(getWeatherProviderUrlAndLocation()).openStream())
         {
             String data = new String(stream.readAllBytes(), StandardCharsets.UTF_8);
             Files.write(path, data.getBytes(StandardCharsets.UTF_8));

@@ -18,7 +18,6 @@ public class UnitConverter
         return celsius + KELVIN_WATER_FREEZING_POINT;
     }
     
-    // todo public ip site http://checkip.amazonaws.com/
     public static int convertCelsiusToFahrenheit (int celsius)
     {
         return (int) ((celsius * FAHRENHEIT_CONVERSION_RATE) + 32);

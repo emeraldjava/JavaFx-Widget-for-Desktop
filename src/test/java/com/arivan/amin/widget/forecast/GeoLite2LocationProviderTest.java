@@ -10,7 +10,7 @@ public class GeoLite2LocationProviderTest
     @Before
     public void setUp () throws Exception
     {
-        locationProvider = GeoLite2LocationProvider.newInstance("62.201.241.64");
+        locationProvider = GeoLite2LocationProvider.newInstance();
     }
     
     @Test
