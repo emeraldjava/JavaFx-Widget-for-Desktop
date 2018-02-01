@@ -13,11 +13,11 @@ public class OpenWeatherMapProvider implements WeatherProvider
     private static final String WEATHER_PROVIDER_URL =
             "http://api.openweathermap.org/data/2.5/forecast?" +
                     "APPID=8baf149076bcaecb58c4b8ce7403afb4&mode=xml&units=metric";
-    private final GeoLocationProvider locationProvider;
+    private final LocationProvider locationProvider;
     
     private OpenWeatherMapProvider ()
     {
-        locationProvider = GeoLite2LocationProvider.newInstance();
+        locationProvider = GeoLiteLocationProvider.newInstance();
     }
     
     public static OpenWeatherMapProvider newInstance ()

@@ -16,11 +16,11 @@ public class OpenWeatherMap implements WeatherDataProvider
     private final Logger logger = Logger.getLogger(getClass().getName());
     private final WeatherProvider weatherProvider;
     private List<Element> elementList;
-    private final GeoLocationProvider locationProvider;
+    private final LocationProvider locationProvider;
     
     private OpenWeatherMap (WeatherProvider weatherProvider)
     {
-        locationProvider = GeoLite2LocationProvider.newInstance();
+        locationProvider = GeoLiteLocationProvider.newInstance();
         this.weatherProvider = weatherProvider;
     }
     

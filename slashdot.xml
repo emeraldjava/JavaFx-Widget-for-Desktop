@@ -7,7 +7,7 @@
 <description>News for nerds, stuff that matters</description>
 <dc:language>en-us</dc:language>
 <dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
-<dc:date>2018-01-31T09:37:10+00:00</dc:date>
+<dc:date>2018-02-01T18:36:04+00:00</dc:date>
 <dc:publisher>Dice</dc:publisher>
 <dc:creator>help@slashdot.org</dc:creator>
 <dc:subject>Technology</dc:subject>
@@ -16,21 +16,21 @@
 <syn:updatePeriod>hourly</syn:updatePeriod>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
-  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/02/01/1810222/backblaze-hard-drive-stats-for-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://ask.slashdot.org/story/18/02/01/1731256/slashdot-asks-what-are-some-sci-fi-books-movies-and-tv-shows-youre-looking-forward-to?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://linux.slashdot.org/story/18/02/01/1644250/microsoft-releases-skype-as-a-snap-for-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/02/01/168223/surpassing-windows-7s-market-share-for-the-first-time-windows-10-now-the-most-popular-desktop-os-from-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/02/01/1527243/hoping-that-sucking-co2-from-the-air-will-fix-the-climate-good-luck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/18/02/01/1447254/messaging-app-telegram-pulled-from-apples-app-store-due-to-inappropriate-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/02/01/142242/india-vows-to-eliminate-use-of-cryptocurrencies-in-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/02/01/0429220/twitter-notifies-14-million-users-of-interaction-with-russian-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/02/01/0420213/microsofts-cloud-bet-continues-to-pay-off-in-latest-earnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/18/01/31/2259208/nasa-poised-to-topple-a-planet-finding-barrier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://yro.slashdot.org/story/18/01/31/2226206/tinder-must-stop-charging-its-older-users-more-for-plus-features-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/18/01/31/2247249/google-fibers-wireless-internet-service-is-leaving-boston?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://games.slashdot.org/story/18/01/31/2239237/nintendo-switch-outsells-wii-u-in-10-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/18/01/31/2215200/xerox-cedes-control-to-fujifilm-ending-its-independence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/18/01/31/225251/white-house-seeks-72-percent-cut-to-clean-energy-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
  </rdf:Seq>
 </items>
 <image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
@@ -41,311 +41,310 @@
 <url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
 <link>https://slashdot.org/</link>
 </image>
-<item rdf:about="https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>How To Watch the 'Super Blue Blood Moon' Lunar Eclipse</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cDhEpocHmZk/how-to-watch-the-super-blue-blood-moon-lunar-eclipse</link>
-<description>Stephanie Pappas reports via Live Science how you can watch Wednesday's "Super Blue Blood Moon" eclipse: The eclipse will occur in the wee hours of the morning on Wednesday, Jan. 31, when the full moon will pass through the Earth's shadow. Viewers on Earth will see the face of the moon turn a murky red. On the West Coast, totality (the full shading of the moon) will occur at 4:51 a.m. PST until 6:08 a.m. PST. Before that, the moon will enter the outer portion of the Earth's shadow, or penumbra, at 2:51 a.m. PST. The real show will become visible starting at 3:48 a.m. PST, when the moon will be entering the umbra, or central portion of Earth's shadow, and a dark shadow will move over the face of the moon. The moon will leave the umbra at 7:11 a.m. PST. East Coasters can catch the partial lunar eclipse before dawn, but they will miss totality because the moon will have set below the horizon by 7:06 a.m. EST. To see the shadow of the Earth become visible on the moon's face, look up at 6:31 a.m. EST; by 6:48 a.m. EST, the moon will be entering the umbra, or central portion of the shadow, which should make the color change more apparent.
- 
-For viewers in the Central and Mountain time zones, the moon will set either during the total eclipse or while the satellite is exiting the Earth's shadow. The moon enters the dark umbra at about 5:48 a.m. CST and will hit totality slightly before moonset, at 6:51 a.m. CST. The umbra will appear at 4:48 a.m. MST, and the moon will enter totality at 5:51 a.m. MST. Viewers in the Mountain time zone will also get the chance to see the middle of totality, when the moon is up to 100,000 times fainter than usual, at 6:29 a.m. The eclipse will end slightly before moonset, at 7:07 a.m. MST. Viewers in Alaska and Hawaii will get a full dose of totality, too, but they'll have to be very early birds or night owls. Totality begins at 3:51 a.m. AKST and ends at 5:05 a.m. AKST. Totality hits at 2:51 a.m. HST and will be over by 4:05 a.m. HST.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=How+To+Watch+the+'Super+Blue+Blood+Moon'+Lunar+Eclipse%3A+http%3A%2F%2Fbit.ly%2F2nroi7O"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F31%2F0232233%2Fhow-to-watch-the-super-blue-blood-moon-lunar-eclipse%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<item rdf:about="https://hardware.slashdot.org/story/18/02/01/1810222/backblaze-hard-drive-stats-for-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Backblaze Hard Drive Stats for 2017</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5vJslatD8no/backblaze-hard-drive-stats-for-2017</link>
+<description>BackBlaze is back with its hard drive reliability report. From the blog post: Beginning in April 2013, Backblaze has recorded and saved daily hard drive statistics from the drives in our data centers. Each entry consists of the date, manufacturer, model, serial number, status (operational or failed), and all of the SMART attributes reported by that drive. As of the end of 2017, there are about 88 million entries totaling 23 GB of data. At the end of 2017 we had 93,240 spinning hard drives. Of that number, there were 1,935 boot drives and 91,305 data drives. This post looks at the hard drive statistics of the data drives we monitor. We'll review the stats for Q4 2017, all of 2017, and the lifetime statistics for all of the drives Backblaze has used in our cloud storage data centers since we started keeping track.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Backblaze+Hard+Drive+Stats+for+2017%3A+http%3A%2F%2Fbit.ly%2F2BOjYF2"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F02%2F01%2F1810222%2Fbackblaze-hard-drive-stats-for-2017%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/02/01/1810222/backblaze-hard-drive-stats-for-2017?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680487&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cDhEpocHmZk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-31T07:00:00+00:00</dc:date>
-<dc:subject>moon</dc:subject>
-<slash:department>spirit-in-the-sky</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>19</slash:comments>
-<slash:hit_parade>19,19,11,10,1,0,0</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/31/0232233/how-to-watch-the-super-blue-blood-moon-lunar-eclipse?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Pocket-Sized DNA Reader Used To Scan Entire Human Genome Sequence</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Onl1znPDvlk/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence</link>
-<description>An anonymous reader quotes a report from Ars Technica: A few years back, a company called Oxford Nanopore announced it was developing a radically different way of sequencing DNA. Its approach involved taking single strands of the double helix and stuffing them through a protein pore. With a small bit of current flowing across the pore, the four bases of DNA each created a distinct (if tiny) change in the voltage as it passed through. These could be used to read the DNA one base at a time as it wiggled through the pore. After several years of slow progress, Oxford Nanopore announced that its sequencing hardware would be as distinctive as its wetware: a USB device that could fit comfortably in a person's hand. As the first devices went out to users, it became clear that the device had some pros and cons. On the plus side, the device was quick and could be used without requiring a large facility to support it. It could also read very long stretches of DNA at once. But the downside was significant: it made lots of mistakes.
- 
-With a few years of experience, people are now starting to learn to make the most of the devices, as demonstrated by a new paper in which researchers use it to help sequence a human genome. By using the machine's long reads -- in one case, nearly 900,000 bases from one DNA molecule -- the authors were able to get data out of areas of the human genome that resisted characterization before. And they were able to distinguish between the two sets of chromosomes (one from mom, one from dad) and locate areas of epigenetic control in many areas of the genome. In light of all the distinct information it can provide, the machine's error rate is seeming like less of a problem.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Pocket-Sized+DNA+Reader+Used+To+Scan+Entire+Human+Genome+Sequence%3A+http%3A%2F%2Fbit.ly%2F2nularJ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F30%2F2217238%2Fpocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680191&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Onl1znPDvlk" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-31T03:30:00+00:00</dc:date>
-<dc:subject>software</dc:subject>
-<slash:department>pocket-sized</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/02/01/1810222/backblaze-hard-drive-stats-for-2017?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11690285&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/5vJslatD8no" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-02-01T18:15:00+00:00</dc:date>
+<dc:subject>storage</dc:subject>
+<slash:department>pit-against-each-another</slash:department>
 <slash:section>hardware</slash:section>
-<slash:comments>46</slash:comments>
-<slash:hit_parade>46,45,31,25,10,7,4</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/2217238/pocket-sized-dna-reader-used-to-scan-entire-human-genome-sequence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>T-Mobile Commits To 100 Percent Renewable Electricity By 2021</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/KMF3WFM3EAQ/t-mobile-commits-to-100-percent-renewable-electricity-by-2021</link>
-<description>T-Mobile said on Monday that it will move to 100 percent renewable electricity by the year 2021. It had also "finalized a contract for wind power from the Solomon Forks Wind Project in Kansas," reports CNBC. "Power generation there is due to begin at the beginning of 2019, and will supplement the energy T-Mobile receives from the Red Dirt Wind Power Project in Oklahoma." From the report: John Legere, T-Mobile's president and CEO, said moving to renewable energy was the right thing to do and smart business. "We expect to cut T-Mobile's energy costs by around $100 million in the next 15 years thanks to this move," he added. T-Mobile has also joined the RE100, a group of global businesses committed to renewable power. Other members of the RE100 include Apple, Facebook and Google.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=T-Mobile+Commits+To+100+Percent+Renewable+Electricity+By+2021%3A+http%3A%2F%2Fbit.ly%2F2nsmTOs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F30%2F225248%2Ft-mobile-commits-to-100-percent-renewable-electricity-by-2021%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>5</slash:comments>
+<slash:hit_parade>5,3,1,1,1,0,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/02/01/1810222/backblaze-hard-drive-stats-for-2017?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://ask.slashdot.org/story/18/02/01/1731256/slashdot-asks-what-are-some-sci-fi-books-movies-and-tv-shows-youre-looking-forward-to?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Slashdot Asks: What Are Some Sci-Fi Books, Movies, and TV Shows You're Looking Forward To?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/UZWygnoKjqA/slashdot-asks-what-are-some-sci-fi-books-movies-and-tv-shows-youre-looking-forward-to</link>
+<description>Even as Hollywood studios report fewer footfalls in theaters, the last few years have arguably been impressive if you're a sci-fi admirer. Last year, we finally got to watch the Blade Runner 2049, and the The Last Jedi and Logan also found plenty of backers. In 2016, Arrival was a home run for many. Star Trek: Discovery, and Stranger Things TV shows continue to receive positive feedback from critics, and the The X-Files is also quickly winning its loyal fans back. "Artemis" by Andy Weir and "New York 2140" by Kim Stanley have found their ways among best selling books. "Borne" by Jeff VanderMeer, and "Walkaway" by BoingBoing's Cory Doctorow have also been widely loved by the readers. On that note, what are some movies, TV shows, and books on sci-fi that you are waiting to explore in the next two to three years?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Slashdot+Asks%3A+What+Are+Some+Sci-Fi+Books%2C+Movies%2C+and+TV+Shows+You're+Looking+Forward+To%3F%3A+http%3A%2F%2Fbit.ly%2F2nyxAPz"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fask.slashdot.org%2Fstory%2F18%2F02%2F01%2F1731256%2Fslashdot-asks-what-are-some-sci-fi-books-movies-and-tv-shows-youre-looking-forward-to%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680163&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/KMF3WFM3EAQ" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-31T01:00:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>fully-sustainable</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>39</slash:comments>
-<slash:hit_parade>39,35,18,15,7,3,1</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/225248/t-mobile-commits-to-100-percent-renewable-electricity-by-2021?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Amazon's Push Into Healthcare Just Cost the Industry $30 Billion In Market Cap</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/Oc8460unUVs/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap</link>
-<description>Today, Amazon, along with Berkshire Hathaway and JPMorgan, announced a plan to launch an independent company that will offer healthcare services to the companies' employees at a lower cost. The venture, which will be managed by executives from the firms, will be run more like a non-profit, than a for-profit entity. Even though the plans are vague, the news caused the market value of 10 large, listed health insurance and pharmacy stocks to drop by a combined $30 billion in the first two hours of trading. Quartz reports: "The healthcare system is complex, and we enter into this challenge open-eyed about the degree of difficulty," said Amazon's Jeff Bezos in a statement. "Hard as it might be, reducing healthcare's burden on the economy while improving outcomes for employees and their families would be worth the effort. Success is going to require talented experts, a beginner's mind, and a long-term orientation." Warren Buffett, the CEO of Berkshire Hathaway, likened America's mushrooming healthcare costs to "a hungry tapeworm on the American economy." How the venture will provide less pricy healthcare to the 1.2 million employees of the participating companies isn't yet clear. The new company will leverage "technology solutions" that provide "simplified, high-quality and transparent healthcare at a reasonable cost." Not much else, including the name of the company, is known.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon's+Push+Into+Healthcare+Just+Cost+the+Industry+%2430+Billion+In+Market+Cap%3A+http%3A%2F%2Fbit.ly%2F2BGP4ye"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F30%2F2159237%2Famazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://ask.slashdot.org/story/18/02/01/1731256/slashdot-asks-what-are-some-sci-fi-books-movies-and-tv-shows-youre-looking-forward-to?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680153&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/Oc8460unUVs" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-31T00:20:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>industry-shocking</slash:department>
-<slash:section>science</slash:section>
-<slash:comments>189</slash:comments>
-<slash:hit_parade>189,188,136,115,26,15,9</slash:hit_parade>
-<feedburner:origLink>https://science.slashdot.org/story/18/01/30/2159237/amazons-push-into-healthcare-just-cost-the-industry-30-billion-in-market-cap?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Google Play Removed 700,000 Bad Apps In 2017, 70 Percent More Than In 2016</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/s8mXjL1TzYc/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016</link>
-<description>Today, Google announced that it removed more than 700,000 apps that violated Google Play's policies, or 70 percent more apps than the year before. "Google does not share total Google Play app numbers anymore, so we have to rely on third-party estimates to put this 70 percent figure into perspective," reports VentureBeat. "Statista pegs the total number of apps on Google Play at 2.6 million in December 2016 and 3.5 million in December 2017, a 35 percent growth. How many of those were bad apps, however, is anyone's guess." From the report: All we know is that the number of bad apps removed grew faster than the total number of apps in the store, which makes sense if you take into account the next statistic Google revealed today: 99 percent of apps with abusive content were identified and rejected before anyone could install them in 2017. This was possible, Google says, thanks to its implementation of machine learning models and techniques to detect abusive app content and behaviors such as impersonation, inappropriate content, or malware. The company claims that the odds of getting malware is 10x lower via Google Play than if you install apps from outside sources.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Play+Removed+700%2C000+Bad+Apps+In+2017%2C+70+Percent+More+Than+In+2016%3A+http%3A%2F%2Fbit.ly%2F2BFfS1J"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F2147251%2Fgoogle-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://ask.slashdot.org/story/18/02/01/1731256/slashdot-asks-what-are-some-sci-fi-books-movies-and-tv-shows-youre-looking-forward-to?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11690183&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/UZWygnoKjqA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-02-01T17:31:00+00:00</dc:date>
+<dc:subject>scifi</dc:subject>
+<slash:department>time-to-take-notes</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>91</slash:comments>
+<slash:hit_parade>91,88,61,49,11,5,1</slash:hit_parade>
+<feedburner:origLink>https://ask.slashdot.org/story/18/02/01/1731256/slashdot-asks-what-are-some-sci-fi-books-movies-and-tv-shows-youre-looking-forward-to?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://linux.slashdot.org/story/18/02/01/1644250/microsoft-releases-skype-as-a-snap-for-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft Releases Skype As a Snap For Linux</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1zMz1T5XZhI/microsoft-releases-skype-as-a-snap-for-linux</link>
+<description>BrianFagioli writes: While Microsoft has long been viewed as an enemy of the Linux community -- and it still is by some -- the company has actually transformed into an open source champion. One of Microsoft's biggest Linux contributions, however, is Skype -- the wildly popular communication software. By offering that program to desktop Linux users, Microsoft enables them to easily communicate with friends and family that aren't on Linux, thanks to its cross-platform support. Today, Microsoft further embraces Linux by releasing Skype as a Snap. This comes after two other very popular apps became available in Snap form -- Spotify and Slack. "Skype is used by millions of users globally to make free video and voice calls, send files, video and instant messages and to share both special occasions and everyday moments with the people who matter most. Skype has turned to snaps to ensure its users on Linux, are automatically delivered to its latest versionupon release. And with snaps' roll-back feature, whereby applications can revert back to the previous working version in the event of a bug, Skype's developers can ensure a seamless user experience," says Canonical.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft+Releases+Skype+As+a+Snap+For+Linux%3A+http%3A%2F%2Fbit.ly%2F2EsfZ3D"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Flinux.slashdot.org%2Fstory%2F18%2F02%2F01%2F1644250%2Fmicrosoft-releases-skype-as-a-snap-for-linux%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680135&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/s8mXjL1TzYc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T23:40:00+00:00</dc:date>
-<dc:subject>android</dc:subject>
-<slash:department>cease-and-desist</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>26</slash:comments>
-<slash:hit_parade>26,25,16,8,3,1,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/2147251/google-play-removed-700000-bad-apps-in-2017-70-percent-more-than-in-2016?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facebook Users Cry 'Censorship' After Being Told Which Russian Troll Pages They Liked</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/abSFrrHi868/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked</link>
-<description>An anonymous reader quotes a report from Gizmodo: As the FBI's investigation into Russian election interference reaches a fever pitch, Facebook rolled out a new News Feed alert Monday night. The bulletin told users who followed pages created by Russian trolls that those pages have been removed. And some of the affected users did not like this. A brief search revealed that numerous people believe that this is an act of censorship by Facebook. Some users argued that they should be allowed to decide what's "true, fake, or otherwise," a challenge that's bound to be a slippery slope in this era of algorithm-based confirmation bias. Others took on a more conspiratorial tone, claiming that Facebook failed to reveal which pages were removed (despite the alert containing a link listing the pages in question). Facebook first released the information in December, creating a help page that showed users if they liked or followed pages and accounts associated with the Internet Research Agency, Russia's notorious troll farm, but today's alert seems to have inspired newfound alarm. The fact that Facebook explicitly stated which pages were deleted seems to have done little to reduce the anger over the allegedly clandestine silencing.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Users+Cry+'Censorship'+After+Being+Told+Which+Russian+Troll+Pages+They+Liked%3A+http%3A%2F%2Fbit.ly%2F2nqHW3M"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F2139216%2Ffacebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://linux.slashdot.org/story/18/02/01/1644250/microsoft-releases-skype-as-a-snap-for-linux?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680129&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/abSFrrHi868" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T23:00:00+00:00</dc:date>
-<dc:subject>censorship</dc:subject>
-<slash:department>cause-and-effect</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>277</slash:comments>
-<slash:hit_parade>277,274,150,123,37,22,13</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/2139216/facebook-users-cry-censorship-after-being-told-which-russian-troll-pages-they-liked?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Verizon Drops Plans To Sell Huawei Phones Due To US Government Pressure</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/uO83VEMbtRM/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure</link>
-<description>Bloomberg reports that Verizon has dropped all plans to sell phones by Chinese manufacturer Huawei due to pressure from the U.S. government. The decision comes after AT&amp;amp;T walked away from a deal earlier this month to sell Huawei smartphones in the U.S. Bloomberg: Huawei devices still work on both companies' networks, but direct sales would've allowed them to reach more consumers than they can through third parties. The government's renewed concern about Chinese spying is creating a potential roadblock in the race between Verizon and AT&amp;amp;T to offer 5G, the next generation of super-fast mobile service. Huawei is pushing to be among the first to offer 5G-capable phone, but the device may be considered off-limits to U.S. carriers who are beginning to offer the next-generation service this year in a few cities. U.S. security agencies and some lawmakers fear that 5G phones made by companies that may have close ties to the Chinese government could pose a security risk.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Verizon+Drops+Plans+To+Sell+Huawei+Phones+Due+To+US+Government+Pressure%3A+http%3A%2F%2Fbit.ly%2F2ntfTkm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F2124218%2Fverizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://linux.slashdot.org/story/18/02/01/1644250/microsoft-releases-skype-as-a-snap-for-linux?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11690077&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1zMz1T5XZhI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-02-01T16:45:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>bridging-the-gap</slash:department>
+<slash:section>linux</slash:section>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,67,40,33,12,7,3</slash:hit_parade>
+<feedburner:origLink>https://linux.slashdot.org/story/18/02/01/1644250/microsoft-releases-skype-as-a-snap-for-linux?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/02/01/168223/surpassing-windows-7s-market-share-for-the-first-time-windows-10-now-the-most-popular-desktop-os-from-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Surpassing Windows 7's Market Share For the First Time, Windows 10 Now the Most Popular Desktop OS From Microsoft</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jit_6GkXJhY/surpassing-windows-7s-market-share-for-the-first-time-windows-10-now-the-most-popular-desktop-os-from-microsoft</link>
+<description>Two and a half years after the company made it available to the general public, Windows 10 is now the most popular operating system from Microsoft, according to analytics firm StatCounter. From a report: Every month, StatCounter reports on the state of the desktop operating system market. Since October last year, the analyst company's figures have shown the gap between Windows 10 and Windows 7 narrowing. It looked as if the newer OS would overtake the older one in November, but that didn't happen, and it didn't happen in December either. However, in January, according to StatCounter, Windows 10 finally claimed the top spot. The latest figures show Windows 10 on 42.78 percent, up from 41.69 percent in December 2017. That's an increase of 1.09 percentage points.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Surpassing+Windows+7's+Market+Share+For+the+First+Time%2C+Windows+10+Now+the+Most+Popular+Desktop+OS+From+Microsoft%3A+http%3A%2F%2Fbit.ly%2F2DWpETe"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F02%2F01%2F168223%2Fsurpassing-windows-7s-market-share-for-the-first-time-windows-10-now-the-most-popular-desktop-os-from-microsoft%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11680107&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/uO83VEMbtRM" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T22:20:00+00:00</dc:date>
-<dc:subject>verizon</dc:subject>
-<slash:department>under-pressure</slash:department>
-<slash:section>yro</slash:section>
-<slash:comments>60</slash:comments>
-<slash:hit_parade>60,60,35,31,5,2,1</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/2124218/verizon-drops-plans-to-sell-huawei-phones-due-to-us-government-pressure?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Facebook Is Banning Cryptocurrency, ICO Ads</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3VZIFe2yhC8/facebook-is-banning-cryptocurrency-ico-ads</link>
-<description>Facebbook has a new advertising policy pertaining to cryptocurrency, binary options and initial coin offerings. The policy specifically prohibits ads that promote those types of products and services "that are frequently associated with misleading or deceptive practices," Facebook Product Management Director Rob Leathern wrote in a blog post today. TechCrunch reports: Cryptocurrencies like Bitcoin, Litecoin and Ethereum, and initial coin offerings have all hit the mainstream, which has promptly resulted in a number of scams. While Facebook says it wants people "to continue to discover and learn" about those products and services, "there are many companies who are advertising binary options, ICOs and cryptocurrencies that are not currently operating in good faith," Leathern wrote. Leathern recognizes that the policy is quite broad, but he says that's intentional. The plan is to continue working to better detect deceptive and misleading ads that pertain to cryptocurrencies, ICOs and binary options. Over time, Facebook says it will revisit the policy and its enforcement mechanisms as its signals improve. In the meantime, Facebook is encouraging people to report content that violates this policy.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Is+Banning+Cryptocurrency%2C+ICO+Ads%3A+http%3A%2F%2Fbit.ly%2F2DQ3eTF"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F30%2F2011226%2Ffacebook-is-banning-cryptocurrency-ico-ads%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/02/01/168223/surpassing-windows-7s-market-share-for-the-first-time-windows-10-now-the-most-popular-desktop-os-from-microsoft?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679955&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3VZIFe2yhC8" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T21:40:00+00:00</dc:date>
-<dc:subject>advertising</dc:subject>
-<slash:department>new-policies</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/02/01/168223/surpassing-windows-7s-market-share-for-the-first-time-windows-10-now-the-most-popular-desktop-os-from-microsoft?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11689989&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jit_6GkXJhY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2018-02-01T16:08:00+00:00</dc:date>
+<dc:subject>os</dc:subject>
+<slash:department>where-we-are</slash:department>
 <slash:section>technology</slash:section>
-<slash:comments>34</slash:comments>
-<slash:hit_parade>34,33,15,14,1,0,0</slash:hit_parade>
-<feedburner:origLink>https://tech.slashdot.org/story/18/01/30/2011226/facebook-is-banning-cryptocurrency-ico-ads?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>US Government Investigates Apple Over iPhone Battery Slowdowns</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/p5PNuiZbCKA/us-government-investigates-apple-over-iphone-battery-slowdowns</link>
-<description>An anonymous reader quotes a report from PhoneDog: The U.S. Department of Justice and the Securities and Exchange Commission are investigating Apple about its updates that slowed performance on iPhones with older batteries. Sources speaking to Bloomberg say that the agencies are looking into whether Apple violated securities laws regarding disclosures about its updates that throttled older iPhones. So far, the DOJ and SEC have requested information from Apple. Because the investigation is still early, it's unclear if the agencies will actually take an action against Apple. Apple apologized for not being more clear about its actions after the news of its performance-throttling updates came out, but we've still seen class action lawsuits and now this investigation come out. The good news is that Apple will be more transparent about iPhone battery health and performance in the future, but for now, it'll have to deal with the DOJ and SEC.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=US+Government+Investigates+Apple+Over+iPhone+Battery+Slowdowns%3A+http%3A%2F%2Fbit.ly%2F2DPZxgL"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fmobile.slashdot.org%2Fstory%2F18%2F01%2F30%2F204217%2Fus-government-investigates-apple-over-iphone-battery-slowdowns%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>106</slash:comments>
+<slash:hit_parade>106,105,63,51,23,9,6</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/02/01/168223/surpassing-windows-7s-market-share-for-the-first-time-windows-10-now-the-most-popular-desktop-os-from-microsoft?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/02/01/1527243/hoping-that-sucking-co2-from-the-air-will-fix-the-climate-good-luck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hoping That Sucking CO2 From the Air Will Fix the Climate? Good Luck</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/H4UUNsTpJOw/hoping-that-sucking-co2-from-the-air-will-fix-the-climate-good-luck</link>
+<description>From a study published on Thursday by scientists on the European Academies Science Advisory Council: Senior scientists from across Europe have evaluated the potential contribution of negative emission technologies (NETs) to allow humanity to meet the Paris Agreement's targets of avoiding dangerous climate change. They find that NETs have "limited realistic potential" to halt increases in the concentration of greenhouse gases in the atmosphere at the scale envisioned in the Intergovernmental Panel on Climate Change (IPCC) scenarios. This new report finds that none of the NETs has the potential to deliver carbon removals at the gigaton (Gt) scale and at the rate of deployment envisaged by the IPCC, including reforestation, afforestation, carbon-friendly agriculture, bioenergy with carbon capture and storage (BECCs), enhanced weathering, ocean fertilisation, or direct air capture and carbon storage (DACCs).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hoping+That+Sucking+CO2+From+the+Air+Will+Fix+the+Climate%3F+Good+Luck%3A+http%3A%2F%2Fbit.ly%2F2DTEjhW"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F02%2F01%2F1527243%2Fhoping-that-sucking-co2-from-the-air-will-fix-the-climate-good-luck%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679951&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/p5PNuiZbCKA" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>BeauHD</dc:creator>
-<dc:date>2018-01-30T21:00:00+00:00</dc:date>
-<dc:subject>iphone</dc:subject>
-<slash:department>saga-continues</slash:department>
-<slash:section>mobile</slash:section>
-<slash:comments>103</slash:comments>
-<slash:hit_parade>103,100,53,42,11,4,3</slash:hit_parade>
-<feedburner:origLink>https://mobile.slashdot.org/story/18/01/30/204217/us-government-investigates-apple-over-iphone-battery-slowdowns?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>Robot Delivery Vans Are Arriving Before Self-Driving Cars</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/VNLdAGKxyxg/robot-delivery-vans-are-arriving-before-self-driving-cars</link>
-<description>The future of driverless driving looks like a giant toaster with a funny hat. From a report: That's an approximation of a new autonomous vehicle unveiled Tuesday by Nuro, a Silicon Valley startup that's been cryptic about its business plan since it launched about 18 months ago. Nuro's shiny, minimalist appliance on wheels doesn't have doors or windows to speak of, because it will be carrying packages -- not people. As every major automaker and dozens of tech companies race to replace drivers in Uber cars and taxi fleets, Nuro is ignoring humans altogether and steering for Amazon.com, United Parcel Service and any retailer looking to build its e-commerce business.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=Robot+Delivery+Vans+Are+Arriving+Before+Self-Driving+Cars%3A+http%3A%2F%2Fbit.ly%2F2BElut6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F30%2F1810206%2Frobot-delivery-vans-are-arriving-before-self-driving-cars%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/02/01/1527243/hoping-that-sucking-co2-from-the-air-will-fix-the-climate-good-luck?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679699&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/VNLdAGKxyxg" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/02/01/1527243/hoping-that-sucking-co2-from-the-air-will-fix-the-climate-good-luck?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11689883&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/H4UUNsTpJOw" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T20:20:00+00:00</dc:date>
-<dc:subject>robot</dc:subject>
-<slash:department>next-up</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>96</slash:comments>
-<slash:hit_parade>96,94,67,52,7,5,1</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/1810206/robot-delivery-vans-are-arriving-before-self-driving-cars?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>California Senate Defies FCC, Approves Net Neutrality Law</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/3g2DIuhDivE/california-senate-defies-fcc-approves-net-neutrality-law</link>
-<description>The California State Senate yesterday approved a bill to impose net neutrality restrictions on Internet service providers, challenging the Federal Communications Commission attempt to preempt such rules. From a report: The FCC's repeal of its own net neutrality rules included a provision to preempt state and municipal governments from enforcing similar rules at the local level. But the governors of Montana and New York have signed executive orders to enforce net neutrality and several states are considering net neutrality legislation. The FCC is already being sued by t21 states and the District of Columbia, which are trying to reverse the net neutrality repeal and the preemption of state laws. Attempts to enforce net neutrality rules at the state or local level could end up being challenged in separate lawsuits.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=California+Senate+Defies+FCC%2C+Approves+Net+Neutrality+Law%3A+http%3A%2F%2Fbit.ly%2F2DNaIqm"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F30%2F1649233%2Fcalifornia-senate-defies-fcc-approves-net-neutrality-law%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-02-01T15:27:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>closer-look</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>154</slash:comments>
+<slash:hit_parade>154,146,87,68,25,11,8</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/02/01/1527243/hoping-that-sucking-co2-from-the-air-will-fix-the-climate-good-luck?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://apple.slashdot.org/story/18/02/01/1447254/messaging-app-telegram-pulled-from-apples-app-store-due-to-inappropriate-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Messaging App Telegram Pulled From Apple's App Store Due To 'Inappropriate Content'</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GyeHF51V7H8/messaging-app-telegram-pulled-from-apples-app-store-due-to-inappropriate-content</link>
+<description>An anonymous reader shares a report: Apple has removed Telegram's official app from its iOS App Store. The app disappeared yesterday, shortly after Telegram launched a rewritten Telegram X app for Android. Telegram X is currently in testing on iOS, and it was also removed from the App Store. "We were alerted by Apple that inappropriate content was made available to our users and both apps were taken off the App Store," says Telegram CEO Pavel Durov. "Once we have protections in place we expect the apps to be back on the App Store."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Messaging+App+Telegram+Pulled+From+Apple's+App+Store+Due+To+'Inappropriate+Content'%3A+http%3A%2F%2Fbit.ly%2F2BK0Yr1"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F18%2F02%2F01%2F1447254%2Fmessaging-app-telegram-pulled-from-apples-app-store-due-to-inappropriate-content%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://apple.slashdot.org/story/18/02/01/1447254/messaging-app-telegram-pulled-from-apples-app-store-due-to-inappropriate-content?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679505&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/3g2DIuhDivE" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/18/02/01/1447254/messaging-app-telegram-pulled-from-apples-app-store-due-to-inappropriate-content?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11689763&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GyeHF51V7H8" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T19:40:00+00:00</dc:date>
-<dc:subject>business</dc:subject>
-<slash:department>fighting-back</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>262</slash:comments>
-<slash:hit_parade>262,252,170,143,43,19,10</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/30/1649233/california-senate-defies-fcc-approves-net-neutrality-law?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>The Next Time You Order Room Service, It May Come by Robot</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/AcDhoTe_7nw/the-next-time-you-order-room-service-it-may-come-by-robot</link>
-<description>Hotels across the country are rushing to introduce robots with the promise of enhancing the guest experience and increasing efficiency. From a report: The automated companions can do everything from make and pick up deliveries to help guests find their way around. Aloft Cupertino in the Silicon Valley (rates from $150) was the first hotel in the United States to debut Savioke's Relay robot in 2014. The three foot tall autonomous robot, nicknamed Botlr, weighs 90 pounds and makes deliveries throughout the hotel using multiple sensors, 3D cameras and Wi-Fi to operate the elevators. Marriott has since begun mobile robot service at four other Aloft properties. Other hotels are following suit. H Hotel Los Angeles's Relay robot, named Hannah, made 610 front desk deliveries and 42 room service deliveries, traveling a total of 50 miles, in the first three months since the hotel opened last October (rates from $249).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=The+Next+Time+You+Order+Room+Service%2C+It+May+Come+by+Robot%3A+http%3A%2F%2Fbit.ly%2F2DNEM55"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F30%2F1711255%2Fthe-next-time-you-order-room-service-it-may-come-by-robot%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<dc:date>2018-02-01T14:47:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>stranger-things</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>49</slash:comments>
+<slash:hit_parade>49,46,22,22,8,7,3</slash:hit_parade>
+<feedburner:origLink>https://apple.slashdot.org/story/18/02/01/1447254/messaging-app-telegram-pulled-from-apples-app-store-due-to-inappropriate-content?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/02/01/142242/india-vows-to-eliminate-use-of-cryptocurrencies-in-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>India Vows To Eliminate Use of Cryptocurrencies in the Country</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/xojsp_dRWJ8/india-vows-to-eliminate-use-of-cryptocurrencies-in-the-country</link>
+<description>India will move to stamp out use of cryptocurrencies, which it considers illegal, country's Finance Minister Arun Jaitley said on Thursday, launching a no-holds-barred attack on virtual currencies such as Bitcoin. From a report: Governments around the world are grappling with how to regulate cryptocurrency trading, and policymakers are expected to discuss the matter at a G20 summit in Argentina in March. "The government does not consider cryptocurrencies legal tender or coin and will take all measures to eliminate use of these cryptoassets in financing illegitimate activities or as part of the payment system," Jaitley told parliament in his annual budget speech. However, the minister said, the government would explore use of block chain technology proactively to speed the move toward a digital economy. Jaitley's announcement could trigger "panic selling" in cryptocurrencies in India, said Amit Maheshwari, partner at tax consultants Ashok Maheshwary &amp;amp; Associates LLP.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=India+Vows+To+Eliminate+Use+of+Cryptocurrencies+in+the+Country%3A+http%3A%2F%2Fbit.ly%2F2ExMbCY"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F02%2F01%2F142242%2Findia-vows-to-eliminate-use-of-cryptocurrencies-in-the-country%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/02/01/142242/india-vows-to-eliminate-use-of-cryptocurrencies-in-the-country?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679553&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/AcDhoTe_7nw" height="1" width="1" alt=""/&gt;</description>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/02/01/142242/india-vows-to-eliminate-use-of-cryptocurrencies-in-the-country?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11689627&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/xojsp_dRWJ8" height="1" width="1" alt=""/&gt;</description>
 <dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T19:00:00+00:00</dc:date>
-<dc:subject>robot</dc:subject>
-<slash:department>how-about-that</slash:department>
-<slash:section>hardware</slash:section>
-<slash:comments>87</slash:comments>
-<slash:hit_parade>87,83,54,53,10,3,1</slash:hit_parade>
-<feedburner:origLink>https://hardware.slashdot.org/story/18/01/30/1711255/the-next-time-you-order-room-service-it-may-come-by-robot?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>US Regulators To Subpoena Crypto Exchange Bitfinex, Tether</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/C1B_UtUc970/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether</link>
-<description>U.S. regulators are scrutinizing one of the world's largest cryptocurrency exchanges as questions mount over a digital token linked to its backers, Bloomberg reported on Tuesday. From the report: The U.S. Commodity Futures Trading Commission sent subpoenas last week to virtual-currency venue Bitfinex and Tether, a company that issues a widely traded coin and claims it's pegged to the dollar, according to a person familiar with the matter. The firms share the same chief executive officer. Tether's coins have become a popular substitute for dollars on cryptocurrency exchanges worldwide, with about $2.3 billion of the tokens outstanding as of Tuesday. While Tether has said all of its coins are backed by U.S. dollars held in reserve, the company has yet to provide conclusive evidence of its holdings to the public or have its accounts audited. Skeptics have questioned whether the money is really there.
- Update: "Bitfinex'ed", a pseudonymous blogger whose been calling foul on Tether and Bitfinex for months, outlines steps he thinks exchanges that use Tether should take ASAP.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=US+Regulators+To+Subpoena+Crypto+Exchange+Bitfinex%2C+Tether%3A+http%3A%2F%2Fbit.ly%2F2BDzqDT"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F30%2F1816253%2Fus-regulators-to-subpoena-crypto-exchange-bitfinex-tether%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
-
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
-
-
-
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679723&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/C1B_UtUc970" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T18:16:00+00:00</dc:date>
+<dc:date>2018-02-01T14:03:00+00:00</dc:date>
 <dc:subject>bitcoin</dc:subject>
 <slash:department>tough-luck</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>48</slash:comments>
+<slash:hit_parade>48,44,22,18,9,7,3</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/02/01/142242/india-vows-to-eliminate-use-of-cryptocurrencies-in-the-country?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/02/01/0429220/twitter-notifies-14-million-users-of-interaction-with-russian-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Twitter Notifies 1.4 Million Users of Interaction With Russian Accounts</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/cYsxdQSBNJA/twitter-notifies-14-million-users-of-interaction-with-russian-accounts</link>
+<description>An anonymous reader quotes a report from Recode: At least 1.4 million people on Twitter engaged with content created by Russian trolls during the 2016 presidential election, the company revealed on Wednesday. That's more than double the amount that Twitter initially identified -- and perhaps still just a fraction of the full universe of users who may have witnessed Kremlin propaganda over that period. In announcing the new data in a blog post, Twitter also said it had notified all 1.4 million affected users that they saw election disinformation. That fulfilled a pledge that the company previously made to members of Congress who are investigating Russia's tactics on social media. Notified users included those that followed one of the roughly 3,000 accounts belonging to the Internet Research Agency, the troll army tied to the Russian government, as well as users who retweeted, replied, liked or mentioned those IRA accounts in their tweets. But Twitter did not alert users who merely saw Russian troll tweets in their feeds but did not interact with the content. Nor did it reach out to users who saw tweets from the roughly 50,000 Russian bots that tweeted election-related content around November 2016.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Twitter+Notifies+1.4+Million+Users+of+Interaction+With+Russian+Accounts%3A+http%3A%2F%2Fbit.ly%2F2BKoZy2"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F02%2F01%2F0429220%2Ftwitter-notifies-14-million-users-of-interaction-with-russian-accounts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/02/01/0429220/twitter-notifies-14-million-users-of-interaction-with-russian-accounts?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/02/01/0429220/twitter-notifies-14-million-users-of-interaction-with-russian-accounts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11686003&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/cYsxdQSBNJA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-02-01T13:00:00+00:00</dc:date>
+<dc:subject>twitter</dc:subject>
+<slash:department>heads-up</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>117</slash:comments>
+<slash:hit_parade>117,114,57,44,15,8,6</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/02/01/0429220/twitter-notifies-14-million-users-of-interaction-with-russian-accounts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/02/01/0420213/microsofts-cloud-bet-continues-to-pay-off-in-latest-earnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Microsoft's Cloud Bet Continues To Pay Off In Latest Earnings</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/H0fyEI5HGlI/microsofts-cloud-bet-continues-to-pay-off-in-latest-earnings</link>
+<description>In its 2018 financial results, Microsoft reported revenue of $28.9 billion and net income of $7.5 billion. "Revenue has jumped 12 percent year-over-year during the holiday quarter, and the trend of Microsoft's success with the cloud has continued," reports The Verge. "This time around, Azure revenue has increased by a massive 98 percent." From the report: Overall server and cloud services revenue grew 18 percent year-over-year, alongside the massive 98 percent jump in Azure revenue. It's clear Microsoft's future growth and revenue opportunities are with the cloud, so it's no surprise to see the company continually investing there to be competitive with Amazon. Microsoft's Office 365 subscription bet for consumers is also paying off. 29.2 million people are now using Office 365 on the consumer side, with revenue increasing 12 percent year-over-year for Office consumer and cloud. On the commercial side, Office revenue is also up at a 10 percent increase since the same period last year.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Microsoft's+Cloud+Bet+Continues+To+Pay+Off+In+Latest+Earnings%3A+http%3A%2F%2Fbit.ly%2F2Eu5kW5"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F02%2F01%2F0420213%2Fmicrosofts-cloud-bet-continues-to-pay-off-in-latest-earnings%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/02/01/0420213/microsofts-cloud-bet-continues-to-pay-off-in-latest-earnings?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/02/01/0420213/microsofts-cloud-bet-continues-to-pay-off-in-latest-earnings?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11685969&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/H0fyEI5HGlI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-02-01T10:00:00+00:00</dc:date>
+<dc:subject>cloud</dc:subject>
+<slash:department>slow-and-steady</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>50</slash:comments>
+<slash:hit_parade>50,47,27,21,9,1,0</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/02/01/0420213/microsofts-cloud-bet-continues-to-pay-off-in-latest-earnings?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://science.slashdot.org/story/18/01/31/2259208/nasa-poised-to-topple-a-planet-finding-barrier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>NASA Poised To Topple a Planet-Finding Barrier</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/dHZwO439vhQ/nasa-poised-to-topple-a-planet-finding-barrier</link>
+<description>schwit1 shares a report from NextBigFuture.com: Babak Saif and Lee Feinberg at NASA's Goddard Space Flight Center in Greenbelt, Maryland, have shown for the first time that they can dynamically detect subatomic- or picometer-sized distortions -- changes that are far smaller than an atom -- across a five-foot segmented telescope mirror and its support structure. Collaborating with Perry Greenfield at the Space Telescope Science Institute in Baltimore, the team now plans to use a next-generation tool and thermal test chamber to further refine their measurements. The measurement feat is good news to scientists studying future missions for finding and characterizing extrasolar Earth-like planets that potentially could support life. To find life, these observatories would have to gather and focus enough light to distinguish the planet's light from that of its much brighter parent star and then be able to dissect that light to discern different atmospheric chemical signatures, such as oxygen and methane. This would require a super-stable observatory whose optical components move or distort no more than 12 picometers, a measurement that is about one-tenth the size of a hydrogen atom.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=NASA+Poised+To+Topple+a+Planet-Finding+Barrier%3A+http%3A%2F%2Fbit.ly%2F2EsDolt"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F18%2F01%2F31%2F2259208%2Fnasa-poised-to-topple-a-planet-finding-barrier%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://science.slashdot.org/story/18/01/31/2259208/nasa-poised-to-topple-a-planet-finding-barrier?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/18/01/31/2259208/nasa-poised-to-topple-a-planet-finding-barrier?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11685607&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/dHZwO439vhQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-02-01T07:00:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>new-and-improved</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>46</slash:comments>
+<slash:hit_parade>46,43,33,24,9,6,2</slash:hit_parade>
+<feedburner:origLink>https://science.slashdot.org/story/18/01/31/2259208/nasa-poised-to-topple-a-planet-finding-barrier?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://yro.slashdot.org/story/18/01/31/2226206/tinder-must-stop-charging-its-older-users-more-for-plus-features-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Tinder Must Stop Charging Its Older Users More For 'Plus' Features, Court Rules</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/L4591PPHDKc/tinder-must-stop-charging-its-older-users-more-for-plus-features-court-rules</link>
+<description>An anonymous reader quotes a report from Ars Technica: The online dating service Tinder must change one of its key monetization strategies. A Los Angeles appellate court reversed a lower court's decision on Monday and told Tinder to stop charging older users more money per month for its "Tinder Plus" service. The proposed class-action lawsuit, filed by Tinder user Allan Candelore in February 2016, alleged that Tinder engaged in illegal age discrimination by charging its 30-and-older users $19.99 per month for Tinder Plus while offering younger users either $9.99 or $14.99 monthly subscription rates for the same services. Tinder Plus includes app perks such as additional "super-likes" which are more likely to attract a dater's response. In an initial trial, Tinder's defense argued that the pricing was based on market testing that showed a market-driven reason to offer lower prices to "budget constrained" users.
+ 
+"Nothing in the [original] complaint suggests there is a strong public policy that justifies the alleged discriminatory pricing," Judge Brian Currey wrote in the appeal court's 3-0 ruling. "Accordingly, we swipe left" -- a joke based on the app's popular "swipe to reject" gesture -- and reverse." That reversal hinges largely on California's Unruh Civil Rights Act, which was passed in 1959 and protects "equal access to public accommodations and prohibits discrimination by business establishments." The ruling noted that some business-led discrimination is allowed by California state law, but it agreed with Candelore's argument that Tinder's age-targeted pricing is not.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Tinder+Must+Stop+Charging+Its+Older+Users+More+For+'Plus'+Features%2C+Court+Rules%3A+http%3A%2F%2Fbit.ly%2F2nwn2QV"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fyro.slashdot.org%2Fstory%2F18%2F01%2F31%2F2226206%2Ftinder-must-stop-charging-its-older-users-more-for-plus-features-court-rules%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://yro.slashdot.org/story/18/01/31/2226206/tinder-must-stop-charging-its-older-users-more-for-plus-features-court-rules?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://yro.slashdot.org/story/18/01/31/2226206/tinder-must-stop-charging-its-older-users-more-for-plus-features-court-rules?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11685547&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/L4591PPHDKc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-02-01T03:30:00+00:00</dc:date>
+<dc:subject>court</dc:subject>
+<slash:department>swipe-left-and-reverse</slash:department>
 <slash:section>yro</slash:section>
-<slash:comments>58</slash:comments>
-<slash:hit_parade>58,55,30,24,5,0,0</slash:hit_parade>
-<feedburner:origLink>https://yro.slashdot.org/story/18/01/30/1816253/us-regulators-to-subpoena-crypto-exchange-bitfinex-tether?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>False Hawaii Missile Alert Sent After Drill Recording Said 'This Is Not A Drill'</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yMsG1seIjNc/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill</link>
-<description>A false ballistic missile alert in Hawaii was sent on January 13 because an emergency worker believed there really was a missile threat, according to a preliminary investigation by The Federal Communications Commission. From a report: The report finds that the false alert was not the result of a worker choosing the wrong alert by accident from a drop-down menu, but rather because the worker misunderstood a drill as a true emergency. The drill incorrectly included the language "This is not a drill."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=False+Hawaii+Missile+Alert+Sent+After+Drill+Recording+Said+'This+Is+Not+A+Drill'%3A+http%3A%2F%2Fbit.ly%2F2nq5wO6"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F30%2F181234%2Ffalse-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>166</slash:comments>
+<slash:hit_parade>166,164,100,86,24,15,7</slash:hit_parade>
+<feedburner:origLink>https://yro.slashdot.org/story/18/01/31/2226206/tinder-must-stop-charging-its-older-users-more-for-plus-features-court-rules?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://tech.slashdot.org/story/18/01/31/2247249/google-fibers-wireless-internet-service-is-leaving-boston?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Google Fiber's Wireless Internet Service Is Leaving Boston</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/j0LJoZhcURc/google-fibers-wireless-internet-service-is-leaving-boston</link>
+<description>Webpass, the wireless home broadband company that Google Fiber acquired in 2016, is exiting the Boston market. The Verge received a reader tip on the situation and a quick look around revealed that Boston is no longer listed as a current Webpass market on the company's website. From the report: "As with any acquisition, we've spent some time evaluating the Webpass business. As a result of our analysis, we've made the decision to wind down Webpass operations in Boston," an Access spokesperson said by email. "We'll work with customers and partners to minimize disruption, and there will be no immediate impacts to their Webpass service. We continue to see strong subscriber response across the rest of the Webpass portfolio, including successful launches in Denver and Seattle in 2017."
+ 
+Before this move, Boston was one of 8 cities served by Webpass, which delivers up-to-gigabit internet speeds for residential and commercial buildings by using point to point wireless. That number has dropped to 7, and old Google search results for Webpass service in Massachusetts now redirect to the main homepage. Webpass internet service is available exclusively in apartment units and condo buildings. It originally came to Boston in 2015 and the company has (or at least had) an office in the city.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Google+Fiber's+Wireless+Internet+Service+Is+Leaving+Boston%3A+http%3A%2F%2Fbit.ly%2F2BI6zOs"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F18%2F01%2F31%2F2247249%2Fgoogle-fibers-wireless-internet-service-is-leaving-boston%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://tech.slashdot.org/story/18/01/31/2247249/google-fibers-wireless-internet-service-is-leaving-boston?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679689&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yMsG1seIjNc" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T18:01:00+00:00</dc:date>
-<dc:subject>usa</dc:subject>
-<slash:department>closer-look</slash:department>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/18/01/31/2247249/google-fibers-wireless-internet-service-is-leaving-boston?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11685587&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/j0LJoZhcURc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-02-01T01:25:00+00:00</dc:date>
+<dc:subject>communications</dc:subject>
+<slash:department>bad-connection</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>43</slash:comments>
+<slash:hit_parade>43,41,30,26,8,4,2</slash:hit_parade>
+<feedburner:origLink>https://tech.slashdot.org/story/18/01/31/2247249/google-fibers-wireless-internet-service-is-leaving-boston?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://games.slashdot.org/story/18/01/31/2239237/nintendo-switch-outsells-wii-u-in-10-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Nintendo Switch Outsells Wii U In 10 Months</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/kmp_p_KjOkM/nintendo-switch-outsells-wii-u-in-10-months</link>
+<description>In less than a year, the Nintendo Switch has earned the designation of the fastest-selling U.S. console of all time. It has outsold the company's previous flagship Wii U just 10 months after its introduction. "Altogether, Nintendo has sold more than 14.86 million Switch units since its debut in March of 2017," reports Variety. "The company sold around 12.5 million Wii U's between 2012 and 2017." From the report: For Nintendo, this is a remarkable turn-around reminiscent of the introduction of the original Wii back in 2006. In fact, earlier this month, news broke that the Switch had become the fastest-selling game console in the U.S. to date, handily outselling original Wii with 4.8 million vs. 4 million units moved over a ten-month span after each device's introduction to U.S. consumers. Nintendo sold 7.23 million Switch units during the holiday quarter alone. The company adjusted its financial guidance for Q1 in light of continued demand for the device upwards by 33%, and now expects to bring in an operating profit of 160 billion yen ($1.47 billion), as well as revenue of around 1 trillion yen ($9.38 billion).&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Nintendo+Switch+Outsells+Wii+U+In+10+Months%3A+http%3A%2F%2Fbit.ly%2F2BHSwbX"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fgames.slashdot.org%2Fstory%2F18%2F01%2F31%2F2239237%2Fnintendo-switch-outsells-wii-u-in-10-months%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://games.slashdot.org/story/18/01/31/2239237/nintendo-switch-outsells-wii-u-in-10-months?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://games.slashdot.org/story/18/01/31/2239237/nintendo-switch-outsells-wii-u-in-10-months?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11685569&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/kmp_p_KjOkM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-02-01T00:45:00+00:00</dc:date>
+<dc:subject>nintendo</dc:subject>
+<slash:department>selling-like-hotcakes</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>91</slash:comments>
+<slash:hit_parade>91,78,43,34,13,8,3</slash:hit_parade>
+<feedburner:origLink>https://games.slashdot.org/story/18/01/31/2239237/nintendo-switch-outsells-wii-u-in-10-months?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://news.slashdot.org/story/18/01/31/2215200/xerox-cedes-control-to-fujifilm-ending-its-independence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> Xerox Cedes Control To Fujifilm, Ending Its Independence</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zeSe00whzpc/xerox-cedes-control-to-fujifilm-ending-its-independence</link>
+<description>mikeebbbd writes: According to Bloomberg, "Xerox, a once-iconic American innovator that became synonymous with office copy machines, is ceding control to Japan's Fujifilm in a deal that creates an $18 billion company." Essentially, it's merging with Fujifilm; a former joint venture operating in the Asian-Pacific area essentially will become the parent company... So much for the company that actually invented the modern graphical user interface later popularized by Apple and Microsoft. "The agreement marks the end of independence for a U.S. company whose roots trace back to the start of the 20th century," reports Bloomberg. "The joint venture will cut 10,000 jobs in Asia as part of the restructuring as the Japanese company struggles with an 'increasingly severe' market environment." While the new company will have a combined revenue of $18 billion, Xerox was acquired by Fujifilm for $6.1 billion.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+Xerox+Cedes+Control+To+Fujifilm%2C+Ending+Its+Independence%3A+http%3A%2F%2Fbit.ly%2F2BIhBDo"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F31%2F2215200%2Fxerox-cedes-control-to-fujifilm-ending-its-independence%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/31/2215200/xerox-cedes-control-to-fujifilm-ending-its-independence?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/31/2215200/xerox-cedes-control-to-fujifilm-ending-its-independence?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11685535&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zeSe00whzpc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-02-01T00:03:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>end-of-an-era</slash:department>
 <slash:section>news</slash:section>
-<slash:comments>195</slash:comments>
-<slash:hit_parade>195,189,132,127,32,19,12</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/30/181234/false-hawaii-missile-alert-sent-after-drill-recording-said-this-is-not-a-drill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
-<item rdf:about="https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
-<title>New FCC Rules Will Require Wireless Companies To Deliver Emergency Alerts More Accurately</title>
-<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/k2Jxd4hhOXU/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately</link>
-<description>The Federal Communications Commission voted Tuesday to update the country's wireless emergency alert system, aiming to ensure that local officials only sound alarms on Americans' smartphones when those citizens are truly in harm's way. From a report: The system, implemented in 2012, allows first responders around the country to dispatch short, loud, text-message-like bulletins to warn mobile users about inclement weather, abducted children or criminals at large. But public-safety leaders long have complained the alerts are inaccurate, rendering it difficult to use them in times of disaster without creating undue panic. And they fret that "over-alerting" has proven so frustrating to smartphone owners that they've simply turned off the alarms entirely -- rendering it even more difficult to communicate in times of an emergency.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
-&lt;a class="slashpop" href="http://twitter.com/home?status=New+FCC+Rules+Will+Require+Wireless+Companies+To+Deliver+Emergency+Alerts+More+Accurately%3A+http%3A%2F%2Fbit.ly%2F2DNfTqi"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
-&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F18%2F01%2F30%2F1721213%2Fnew-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+<slash:comments>54</slash:comments>
+<slash:hit_parade>54,45,26,21,11,9,5</slash:hit_parade>
+<feedburner:origLink>https://news.slashdot.org/story/18/01/31/2215200/xerox-cedes-control-to-fujifilm-ending-its-independence?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="https://hardware.slashdot.org/story/18/01/31/225251/white-house-seeks-72-percent-cut-to-clean-energy-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>White House Seeks 72 Percent Cut To Clean Energy Research</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rYog35Nzktw/white-house-seeks-72-percent-cut-to-clean-energy-research</link>
+<description>An anonymous reader quotes a report from Engadget: The Trump administration has made it very clear that it is pro fossil fuels and has little interest in pushing programs the promote renewable energy. Now, the Washington Post reports that the president's proposed 2019 budget slashes funds for Energy Department programs focused on energy efficiency. While the proposal is just a jumping off point, the fact that it seeks to cut such funding by 72 percent underscores where the administration's interests lie and in which direction its policies will continue to go. The draft budget documents viewed by Washington Post staff showed that the president is looking to cut the Energy Department's Office of Energy Efficiency and Renewable Energy (EERE) budget to $575.5 million, down from the current $2.04 billion level. Included in the budget cuts are funds for programs researching fuel efficient vehicles, bioenergy technologies, solar energy technology and electric car technologies. Additionally, the draft budget proposal seeks to cut jobs, dropping staff levels from 680 down to 450. One EERE employee told the Washington Post, "It shows that we've made no inroads in terms of convincing the administration of our value, and if anything, our value based on these numbers has dropped." The report notes that the Energy Department had requested less extreme spending cuts, but the Office of Management and Budget pushed for the more substantial ones found in the draft proposal. It's also worth noting that the proposal could still be changed before being released in February.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=White+House+Seeks+72+Percent+Cut+To+Clean+Energy+Research%3A+http%3A%2F%2Fbit.ly%2F2DTcdDG"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F18%2F01%2F31%2F225251%2Fwhite-house-seeks-72-percent-cut-to-clean-energy-research%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
 
-&lt;a class="nobg" href="http://plus.google.com/share?url=https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
+&lt;a class="nobg" href="http://plus.google.com/share?url=https://hardware.slashdot.org/story/18/01/31/225251/white-house-seeks-72-percent-cut-to-clean-energy-research?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="https://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;
 
 
 
-&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11679577&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/k2Jxd4hhOXU" height="1" width="1" alt=""/&gt;</description>
-<dc:creator>msmash</dc:creator>
-<dc:date>2018-01-30T17:21:00+00:00</dc:date>
-<dc:subject>usa</dc:subject>
-<slash:department>up-next</slash:department>
-<slash:section>news</slash:section>
-<slash:comments>45</slash:comments>
-<slash:hit_parade>45,44,30,20,5,3,2</slash:hit_parade>
-<feedburner:origLink>https://news.slashdot.org/story/18/01/30/1721213/new-fcc-rules-will-require-wireless-companies-to-deliver-emergency-alerts-more-accurately?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/18/01/31/225251/white-house-seeks-72-percent-cut-to-clean-energy-research?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=11685511&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/rYog35Nzktw" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>BeauHD</dc:creator>
+<dc:date>2018-01-31T23:20:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>slice-and-dice</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>325</slash:comments>
+<slash:hit_parade>325,309,174,143,67,44,30</slash:hit_parade>
+<feedburner:origLink>https://hardware.slashdot.org/story/18/01/31/225251/white-house-seeks-72-percent-cut-to-clean-energy-research?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
 <textinput rdf:about="https://slashdot.org/search.pl">
 <title>Search Slashdot</title>
 <description>Search Slashdot stories</description>

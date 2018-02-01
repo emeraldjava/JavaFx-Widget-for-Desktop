@@ -20,7 +20,7 @@ public class WeatherBox extends HBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private WeatherDataProvider weatherDataProvider;
-    private GeoLocationProvider locationProvider;
+    private LocationProvider locationProvider;
     private Label temperatureLabel;
     private ImageView currentWeatherImage;
     private Label conditionLabel;
@@ -83,7 +83,7 @@ public class WeatherBox extends HBox
     private void initializeFields ()
     {
         determineWeatherProvider();
-        locationProvider = GeoLite2LocationProvider.newInstance();
+        locationProvider = GeoLiteLocationProvider.newInstance();
         propertiesManager = PropertiesManager.newInstance();
         temperatureLabel = new Label();
         currentWeatherImage = new ImageView();
