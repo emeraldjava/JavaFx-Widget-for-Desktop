@@ -13,10 +13,10 @@ import java.util.logging.Logger;
 
 public class GeoLiteLocationProvider implements LocationProvider
 {
-    private static final String LOCATION_FILE = "location.txt";
+    private final Logger logger = Logger.getLogger(getClass().getName());
     private static final String TEMP_DATABASE_FILE = "tempDatabase.mmdb";
     private static final String DATABASE_FILE_NAME = "/database.mmdb";
-    private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final String LOCATION_FILE = "location.txt";
     private final Path locationFilePath;
     private File databaseFile;
     

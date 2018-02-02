@@ -29,8 +29,8 @@ public class LeftBottomBox extends HBox
     {
         return new LeftBottomBox(parentWidth, parentHeight);
     }
-    // todo multimedia pane and controller
     // todo power options pane to shutdown restart sleep lock and hibernate
+    // todo multimedia pane and controller
     // todo github integration
     // todo applications shortcut
     // todo show cpu temp and fan speed
