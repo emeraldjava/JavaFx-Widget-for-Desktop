@@ -2,6 +2,8 @@ package com.arivan.amin.widget.forecast;
 
 public interface WeatherDataProvider
 {
+    String getWeatherDataUri ();
+    
     String locationName ();
     
     String sunrise ();

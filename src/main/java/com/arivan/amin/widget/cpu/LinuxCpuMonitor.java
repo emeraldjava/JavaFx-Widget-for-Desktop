@@ -7,9 +7,6 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-/**
- * The type Linux cpu monitor.
- */
 public class LinuxCpuMonitor implements CpuMonitor
 {
     private static final Pattern EXTRA_SPACE = Pattern.compile(" {2,}");
@@ -22,11 +19,6 @@ public class LinuxCpuMonitor implements CpuMonitor
         prevData = getUsageData();
     }
     
-    /**
-     * New instance linux cpu monitor.
-     *
-     * @return the linux cpu monitor
-     */
     public static LinuxCpuMonitor newInstance ()
     {
         return new LinuxCpuMonitor();

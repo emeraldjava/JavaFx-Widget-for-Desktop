@@ -2,9 +2,7 @@ package com.arivan.amin.widget.cpu;
 
 import com.arivan.amin.widget.SystemCommandHandler;
 
-/**
- * The interface Cpu monitor.
- */
+
 @FunctionalInterface
 public interface CpuMonitor extends SystemCommandHandler
 {

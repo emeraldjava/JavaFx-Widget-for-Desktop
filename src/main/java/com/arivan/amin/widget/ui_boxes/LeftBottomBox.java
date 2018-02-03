@@ -24,14 +24,10 @@ public class LeftBottomBox extends HBox
         });
     }
     
+    // hddtemp to get hard disk temp
     public static LeftBottomBox newInstance (DoubleProperty parentWidth,
             DoubleProperty parentHeight)
     {
         return new LeftBottomBox(parentWidth, parentHeight);
     }
-    // todo power options pane to shutdown restart sleep lock and hibernate
-    // todo multimedia pane and controller
-    // todo github integration
-    // todo applications shortcut
-    // todo show cpu temp and fan speed
 }

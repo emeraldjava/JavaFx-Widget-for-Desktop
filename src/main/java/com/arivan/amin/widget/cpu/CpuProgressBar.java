@@ -11,9 +11,6 @@ import javafx.util.Duration;
 
 import java.util.logging.Logger;
 
-/**
- * The type Cpu progress bar.
- */
 public class CpuProgressBar extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());

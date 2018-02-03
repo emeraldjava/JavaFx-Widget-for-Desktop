@@ -10,9 +10,6 @@ import javafx.util.Duration;
 
 import java.util.logging.Logger;
 
-/**
- * The type Connection status box.
- */
 public class ConnectionStatusBox extends VBox
 {
     private static final int TOP_PADDING = 20;
@@ -72,12 +69,7 @@ public class ConnectionStatusBox extends VBox
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
     }
-    
-    /**
-     * New instance connection status box.
-     *
-     * @return the connection status box
-     */
+   
     public static ConnectionStatusBox newInstance ()
     {
         return new ConnectionStatusBox();

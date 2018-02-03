@@ -9,9 +9,6 @@ import javafx.scene.layout.VBox;
 
 import java.util.logging.Logger;
 
-/**
- * The type File system box.
- */
 public class FileSystemBox extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());

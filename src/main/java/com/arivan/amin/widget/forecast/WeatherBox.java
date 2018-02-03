@@ -77,7 +77,7 @@ public class WeatherBox extends HBox
     
     private void determineWeatherProvider ()
     {
-        weatherDataProvider = OpenWeatherMap.newInstance(OpenWeatherMapProvider.newInstance());
+        weatherDataProvider = OpenWeatherMap.newInstance();
     }
     
     private void initializeFields ()

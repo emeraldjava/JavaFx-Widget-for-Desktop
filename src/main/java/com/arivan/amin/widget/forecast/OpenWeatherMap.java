@@ -4,29 +4,42 @@ import org.w3c.dom.*;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
+import java.io.InputStream;
+import java.net.URL;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.*;
 import java.time.*;
 import java.util.*;
 import java.util.Map.Entry;
 import java.util.function.Function;
 import java.util.logging.Logger;
-import java.util.stream.*;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class OpenWeatherMap implements WeatherDataProvider
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private final WeatherProvider weatherProvider;
-    private List<Element> elementList;
+    private static final String WEATHER_FILE = "weather.xml";
+    private static final String WEATHER_PROVIDER_URL =
+            "http://api.openweathermap.org/data/2.5/forecast?" +
+                    "APPID=8baf149076bcaecb58c4b8ce7403afb4&mode=xml&units=metric";
     private final LocationProvider locationProvider;
+    private List<Element> elementList;
     
-    private OpenWeatherMap (WeatherProvider weatherProvider)
+    private OpenWeatherMap ()
     {
         locationProvider = GeoLiteLocationProvider.newInstance();
-        this.weatherProvider = weatherProvider;
     }
     
-    public static OpenWeatherMap newInstance (WeatherProvider weatherProvider)
+    public static OpenWeatherMap newInstance ()
     {
-        return new OpenWeatherMap(weatherProvider);
+        return new OpenWeatherMap();
+    }
+    
+    private String getWeatherProviderUrlAndLocation ()
+    {
+        return WEATHER_PROVIDER_URL + "&lat=" + locationProvider.latitude() + "&lon=" +
+                locationProvider.longitude();
     }
     
     @Override
@@ -35,7 +48,7 @@ public class OpenWeatherMap implements WeatherDataProvider
         try
         {
             DocumentBuilder builder = DocumentBuilderFactory.newInstance().newDocumentBuilder();
-            Document document = builder.parse(weatherProvider.getWeatherDataUri());
+            Document document = builder.parse(getWeatherDataUri());
             elementList = createList(document.getDocumentElement().getChildNodes());
         }
         catch (Exception e)
@@ -50,6 +63,23 @@ public class OpenWeatherMap implements WeatherDataProvider
         return IntStream.range(0, nodes.getLength()).mapToObj(nodes::item)
                 .filter(item -> item instanceof Element).map(item -> (Element) item)
                 .collect(Collectors.toCollection(() -> new ArrayList<>(50)));
+    }
+    
+    @Override
+    public String getWeatherDataUri ()
+    {
+        String dataFileUri = "";
+        Path path = Paths.get(WEATHER_FILE);
+        try (InputStream stream = new URL(getWeatherProviderUrlAndLocation()).openStream())
+        {
+            String data = new String(stream.readAllBytes(), StandardCharsets.UTF_8);
+            Files.write(path, data.getBytes(StandardCharsets.UTF_8));
+        }
+        catch (Exception e)
+        {
+            logger.warning(e.getMessage());
+        }
+        return path.toUri().toString();
     }
     
     @Override
@@ -361,7 +391,7 @@ public class OpenWeatherMap implements WeatherDataProvider
     @Override
     public String toString ()
     {
-        return "OpenWeatherMap{" + "weatherProvider=" + weatherProvider + ", elementList=" +
-                elementList + ", locationProvider=" + locationProvider + '}';
+        return "OpenWeatherMap{" + "locationProvider=" + locationProvider + ", elementList=" +
+                elementList + '}';
     }
 }

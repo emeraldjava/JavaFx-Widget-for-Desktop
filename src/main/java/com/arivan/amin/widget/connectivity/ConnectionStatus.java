@@ -1,8 +1,5 @@
 package com.arivan.amin.widget.connectivity;
 
-/**
- * The interface Connection status.
- */
 public interface ConnectionStatus
 {
     /**
@@ -19,8 +16,5 @@ public interface ConnectionStatus
      */
     double pingTime ();
     
-    /**
-     * Update data.
-     */
     void updateData ();
 }

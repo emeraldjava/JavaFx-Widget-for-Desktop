@@ -1,8 +1,5 @@
 package com.arivan.amin.widget.file_system;
 
-/**
- * The type File system item.
- */
 @SuppressWarnings ({ "PublicMethodNotExposedInInterface", "ClassWithoutLogger" })
 public class FileSystemItem
 {
@@ -55,101 +52,51 @@ public class FileSystemItem
         return new FileSystemItem(name, size, used, available, usedPercentage);
     }
     
-    /**
-     * Gets name.
-     *
-     * @return the name
-     */
     public String getName ()
     {
         return name;
     }
     
-    /**
-     * Sets name.
-     *
-     * @param name the name
-     */
     public void setName (String name)
     {
         this.name = name;
     }
     
-    /**
-     * Gets size.
-     *
-     * @return the size
-     */
     public String getSize ()
     {
         return size;
     }
     
-    /**
-     * Sets size.
-     *
-     * @param size the size
-     */
     public void setSize (String size)
     {
         this.size = size;
     }
     
-    /**
-     * Gets used.
-     *
-     * @return the used
-     */
     public String getUsed ()
     {
         return used;
     }
     
-    /**
-     * Sets used.
-     *
-     * @param used the used
-     */
     public void setUsed (String used)
     {
         this.used = used;
     }
     
-    /**
-     * Gets available.
-     *
-     * @return the available
-     */
     public String getAvailable ()
     {
         return available;
     }
     
-    /**
-     * Sets available.
-     *
-     * @param available the available
-     */
     public void setAvailable (String available)
     {
         this.available = available;
     }
     
-    /**
-     * Gets used percentage.
-     *
-     * @return the used percentage
-     */
     public double getUsedPercentage ()
     {
         return usedPercentage;
     }
     
-    /**
-     * Sets used percentage.
-     *
-     * @param usedPercentage the used percentage
-     */
     public void setUsedPercentage (double usedPercentage)
     {
         this.usedPercentage = usedPercentage;
