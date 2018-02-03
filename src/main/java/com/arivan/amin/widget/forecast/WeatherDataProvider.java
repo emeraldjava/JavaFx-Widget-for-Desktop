@@ -1,5 +1,6 @@
 package com.arivan.amin.widget.forecast;
 
+@SuppressWarnings ("ClassWithTooManyMethods")
 public interface WeatherDataProvider
 {
     String getWeatherDataUri ();

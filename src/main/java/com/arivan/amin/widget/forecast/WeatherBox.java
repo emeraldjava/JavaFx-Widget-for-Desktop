@@ -16,6 +16,7 @@ import java.time.LocalDate;
 import java.util.Locale;
 import java.util.logging.Logger;
 
+@SuppressWarnings ("ClassWithTooManyFields")
 public class WeatherBox extends HBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
@@ -57,6 +58,7 @@ public class WeatherBox extends HBox
                         sunLabel, precipitationLabel);
     }
     
+    @SuppressWarnings ("MagicNumber")
     private void bindOtherBoxes (VBox todayVBox, HBox iconHBox)
     {
         todayVBox.prefWidthProperty().bind(prefWidthProperty());
@@ -69,6 +71,7 @@ public class WeatherBox extends HBox
         currentWeatherImage.fitHeightProperty().bind(iconHBox.heightProperty().multiply(0.95));
     }
     
+    @SuppressWarnings ({ "TypeMayBeWeakened", "MagicNumber" })
     private void bindBoxSizeToParent (DoubleProperty parentWidth, DoubleProperty parentHeight)
     {
         prefWidthProperty().bind(parentWidth.multiply(0.4));
@@ -80,6 +83,7 @@ public class WeatherBox extends HBox
         weatherDataProvider = OpenWeatherMap.newInstance();
     }
     
+    @SuppressWarnings ("OverlyLongMethod")
     private void initializeFields ()
     {
         determineWeatherProvider();
@@ -122,6 +126,7 @@ public class WeatherBox extends HBox
                 weatherDataProvider.fifthDayMinTemperature(), getWeatherBoxDate(4));
     }
     
+    @SuppressWarnings ("OverlyLongMethod")
     private static String getWeatherBoxDate (int datePlusDays)
     {
         LocalDate date = LocalDate.now().plusDays(datePlusDays);
@@ -151,6 +156,7 @@ public class WeatherBox extends HBox
         return new WeatherBox(parentWidth, parentHeight);
     }
     
+    @SuppressWarnings ({ "MethodWithTooManyParameters", "OverlyLongMethod", "MagicNumber" })
     private void createWeatherBox (String weatherIcon, int maxTemp, int minTemp, String date)
     {
         HBox dayHBox = new HBox();
@@ -245,11 +251,11 @@ public class WeatherBox extends HBox
     public String toString ()
     {
         return "WeatherBox{" + "weatherDataProvider=" + weatherDataProvider +
-                ", temperatureLabel=" + temperatureLabel + ", currentWeatherImage=" +
-                currentWeatherImage + ", conditionLabel=" + conditionLabel + ", humidityLabel=" +
-                humidityLabel + ", windLabel=" + windLabel + ", cloudsLabel=" + cloudsLabel +
-                ", sunLabel=" + sunLabel + ", fourDaysVBox=" + fourDaysVBox +
-                ", precipitationLabel=" + precipitationLabel + ", propertiesManager=" +
-                propertiesManager + '}';
+                ", locationProvider=" + locationProvider + ", temperatureLabel=" +
+                temperatureLabel + ", currentWeatherImage=" + currentWeatherImage +
+                ", conditionLabel=" + conditionLabel + ", humidityLabel=" + humidityLabel +
+                ", windLabel=" + windLabel + ", cloudsLabel=" + cloudsLabel + ", sunLabel=" +
+                sunLabel + ", fourDaysVBox=" + fourDaysVBox + ", precipitationLabel=" +
+                precipitationLabel + ", propertiesManager=" + propertiesManager + '}';
     }
 }
