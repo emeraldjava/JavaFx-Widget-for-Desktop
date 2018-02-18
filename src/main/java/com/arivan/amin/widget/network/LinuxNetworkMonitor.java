@@ -121,7 +121,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
     }
     
     @SuppressWarnings ({ "OverlyLongMethod", "IfStatementWithTooManyBranches" })
-    private String bytesIntoHumanReadable (long bytes)
+    private static String bytesIntoHumanReadable (long bytes)
     {
         long kilobyte = BYTES_THOUSAND_UNIT;
         long megabyte = kilobyte * BYTES_THOUSAND_UNIT;

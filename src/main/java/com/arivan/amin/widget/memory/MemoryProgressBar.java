@@ -66,7 +66,6 @@ public class MemoryProgressBar extends VBox
     {
         try
         {
-            monitor.updateData();
             double data = monitor.getUsedMemory();
             memoryBar.setProgress(data);
             memoryLabel.setText((int) (data * 100) + " ");

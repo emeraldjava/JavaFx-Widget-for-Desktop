@@ -10,7 +10,5 @@ public interface MemoryMonitor extends SystemCommandHandler
     
     Pattern NON_DIGITS = Pattern.compile("[a-z :/A-Z]+");
     
-    void updateData ();
-    
     double getUsedMemory ();
 }

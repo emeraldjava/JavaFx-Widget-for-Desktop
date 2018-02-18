@@ -41,7 +41,14 @@ public class CpuProgressBar extends VBox
     
     private void determineCpuMonitor ()
     {
-        processor = LinuxCpuMonitor.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            processor = WindowsCpuMonitor.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            processor = LinuxCpuMonitor.newInstance();
+        }
     }
     
     /**
@@ -75,7 +82,7 @@ public class CpuProgressBar extends VBox
             cpuBar.setProgress(data);
             cpuLabel.setText((int) (data * 100) + " ");
         }
-        catch (RuntimeException ex)
+        catch (Exception ex)
         {
             logger.warning(ex.getMessage());
         }
