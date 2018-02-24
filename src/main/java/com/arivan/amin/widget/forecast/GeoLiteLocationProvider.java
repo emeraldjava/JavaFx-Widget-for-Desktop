@@ -5,7 +5,8 @@ import com.maxmind.geoip2.DatabaseReader.Builder;
 import com.maxmind.geoip2.model.CityResponse;
 
 import java.io.*;
-import java.net.*;
+import java.net.InetAddress;
+import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.List;

@@ -42,7 +42,14 @@ public class UptimeMonitorBox extends VBox
     
     private void determineOperatingSystem ()
     {
-        uptimeMonitor = LinuxUptimeMonitor.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            uptimeMonitor = WindowsUptimeMonitor.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            uptimeMonitor = LinuxUptimeMonitor.newInstance();
+        }
     }
     
     public static UptimeMonitorBox newInstance ()

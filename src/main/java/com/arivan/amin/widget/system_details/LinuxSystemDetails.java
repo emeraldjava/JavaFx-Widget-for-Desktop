@@ -37,10 +37,18 @@ public class LinuxSystemDetails implements SystemDetails
     @Override
     public String systemName ()
     {
-        String output = getSystemCommand(SYSTEM_DETAILS_COMMAND);
-        output = output.substring(0, output.indexOf(' '));
-        output = output.trim();
-        return output;
+        try
+        {
+            String output = getSystemCommand(SYSTEM_DETAILS_COMMAND);
+            output = output.substring(0, output.indexOf(' '));
+            output = output.trim();
+            return output;
+        }
+        catch (Exception e)
+        {
+            logger.warning(e.getMessage());
+            return "";
+        }
     }
     
     @Override

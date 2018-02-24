@@ -43,9 +43,9 @@ public class SystemDetailsBox extends VBox
     }
     
     @SuppressWarnings ({ "TypeMayBeWeakened", "MethodWithTooManyParameters" })
-    private void bindBoxToParent (DoubleProperty detailsVBoxWidth,
-            ReadOnlyDoubleProperty boxWidth, DoubleProperty iconVBoxHeight,
-            ReadOnlyDoubleProperty boxHeight, double systemDetailsBoxSize)
+    private void bindBoxToParent (DoubleProperty detailsVBoxWidth, ReadOnlyDoubleProperty boxWidth,
+            DoubleProperty iconVBoxHeight, ReadOnlyDoubleProperty boxHeight,
+            double systemDetailsBoxSize)
     {
         detailsVBoxWidth.bind(boxWidth);
         iconVBoxHeight.bind(boxHeight.multiply(systemDetailsBoxSize));
@@ -74,7 +74,14 @@ public class SystemDetailsBox extends VBox
     
     private void determineOperatingSystem ()
     {
-        systemDetails = LinuxSystemDetails.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            systemDetails = WindowsSystemDetails.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            systemDetails = LinuxSystemDetails.newInstance();
+        }
     }
     
     public static SystemDetailsBox newInstance (DoubleProperty parentWidth,

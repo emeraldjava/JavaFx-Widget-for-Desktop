@@ -43,7 +43,14 @@ public class MemoryProgressBar extends VBox
     
     private void determineOperatingSystem ()
     {
-        monitor = LinuxMemoryMonitor.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            monitor = WindowsMemoryMonitor.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            monitor = LinuxMemoryMonitor.newInstance();
+        }
     }
     
     public static MemoryProgressBar newInstance (DoubleProperty parentWidthProperty,

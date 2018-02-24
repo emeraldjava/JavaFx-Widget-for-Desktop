@@ -46,7 +46,14 @@ public class FileSystemBox extends VBox
     
     private void determineOperatingSystem ()
     {
-        fileSystem = LinuxFileSystem.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            fileSystem = WindowsFileSystem.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            fileSystem = LinuxFileSystem.newInstance();
+        }
     }
     
     @SuppressWarnings ("MethodParameterOfConcreteClass")

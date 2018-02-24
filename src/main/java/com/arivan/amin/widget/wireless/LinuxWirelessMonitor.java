@@ -25,11 +25,19 @@ public class LinuxWirelessMonitor implements WirelessMonitor
     @Override
     public boolean isConnected ()
     {
-        String dataCopy = new String(data);
-        String delimiter = "ESSID:";
-        dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length());
-        dataCopy = dataCopy.substring(0, '\n').trim();
-        return !"off/any".equals(dataCopy);
+        try
+        {
+            String dataCopy = new String(data);
+            String delimiter = "ESSID:";
+            dataCopy = dataCopy.substring(dataCopy.indexOf(delimiter) + delimiter.length());
+            dataCopy = dataCopy.substring(0, '\n').trim();
+            return !"off/any".equals(dataCopy);
+        }
+        catch (Exception e)
+        {
+            logger.warning(e.getMessage());
+            return false;
+        }
     }
     
     @Override

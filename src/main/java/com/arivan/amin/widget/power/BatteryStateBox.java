@@ -75,7 +75,14 @@ public class BatteryStateBox extends VBox
     
     private void determineOperatingSystem ()
     {
-        batteryState = LinuxBatteryState.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            batteryState = WindowsBatteryState.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            batteryState = LinuxBatteryState.newInstance();
+        }
     }
     
     private void updateDataPeriodically ()
@@ -94,34 +101,43 @@ public class BatteryStateBox extends VBox
     
     private void updateHandler (ActionEvent e)
     {
-        batteryState.updateData();
-        if ("charging".equals(batteryState.batteryState()))
+        try
         {
-            stateLabel.setText("charging " + batteryState.percentage());
-            timeRemainingLabel.setText(batteryState.timeToFull() + " remaining");
-            if (batteryBar.getStyleClass().contains(LOW_BATTERY_CSS_CLASS))
+            batteryState.updateData();
+            if ("charging".equals(batteryState.batteryState()))
             {
-                batteryBar.getStyleClass().remove(LOW_BATTERY_CSS_CLASS);
-            }
-        }
-        else if ("fully-charged".equals(batteryState.batteryState()))
-        {
-            stateLabel.setText("Fully charged");
-            timeRemainingLabel.setText("");
-        }
-        else
-        {
-            stateLabel.setText(batteryState.percentage());
-            timeRemainingLabel.setText(batteryState.timeToEmpty() + " remaining");
-            if (Integer.parseInt(batteryState.percentage().replace("%", "")) <= LOW_BATTERY_LEVEL)
-            {
-                if (!batteryBar.getStyleClass().contains(LOW_BATTERY_CSS_CLASS))
+                stateLabel.setText("charging " + batteryState.percentage());
+                timeRemainingLabel.setText(batteryState.timeToFull() + " remaining");
+                if (batteryBar.getStyleClass().contains(LOW_BATTERY_CSS_CLASS))
                 {
-                    batteryBar.getStyleClass().add(LOW_BATTERY_CSS_CLASS);
+                    batteryBar.getStyleClass().remove(LOW_BATTERY_CSS_CLASS);
                 }
             }
+            else if ("fully-charged".equals(batteryState.batteryState()))
+            {
+                stateLabel.setText("Fully charged");
+                timeRemainingLabel.setText("");
+            }
+            else
+            {
+                stateLabel.setText(batteryState.percentage());
+                timeRemainingLabel.setText(batteryState.timeToEmpty() + " remaining");
+                if (Integer.parseInt(batteryState.percentage().replace("%", "")) <=
+                        LOW_BATTERY_LEVEL)
+                {
+                    if (!batteryBar.getStyleClass().contains(LOW_BATTERY_CSS_CLASS))
+                    {
+                        batteryBar.getStyleClass().add(LOW_BATTERY_CSS_CLASS);
+                    }
+                }
+            }
+            batteryBar.setProgress(convertBatteryPercentage());
         }
-        batteryBar.setProgress(convertBatteryPercentage());
+        catch (Exception ex)
+        {
+            // todo temporarily silence exception for debugging 
+            // logger.warning(ex.getMessage());
+        }
     }
     
     private double convertBatteryPercentage ()

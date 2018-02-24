@@ -9,8 +9,7 @@ public class LinuxBatteryState implements BatteryState
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final Pattern REMOVE_SPACE = Pattern.compile(" ");
-    private static final String[] BATTERY_COMMAND =
-            { "upower", "-d" };
+    private static final String[] BATTERY_COMMAND = { "upower", "-d" };
     private String outputData;
     
     private LinuxBatteryState ()
@@ -38,10 +37,18 @@ public class LinuxBatteryState implements BatteryState
     
     private String getProperty (String propertyName)
     {
-        String data = new String(outputData);
-        data = data.substring(data.indexOf(propertyName) + propertyName.length());
-        data = data.substring(0, data.indexOf(System.lineSeparator()));
-        return data;
+        try
+        {
+            String data = new String(outputData);
+            data = data.substring(data.indexOf(propertyName) + propertyName.length());
+            data = data.substring(0, data.indexOf(System.lineSeparator()));
+            return data;
+        }
+        catch (Exception e)
+        {
+            logger.warning(e.getMessage());
+            return "";
+        }
     }
     
     @Override

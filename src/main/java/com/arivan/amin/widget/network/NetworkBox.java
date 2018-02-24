@@ -66,7 +66,14 @@ public class NetworkBox extends VBox
     
     private void determineOperatingSystem ()
     {
-        networkMonitor = LinuxNetworkMonitor.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            networkMonitor = WindowsNetworkMonitor.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            networkMonitor = LinuxNetworkMonitor.newInstance();
+        }
     }
     
     public static NetworkBox newInstance ()

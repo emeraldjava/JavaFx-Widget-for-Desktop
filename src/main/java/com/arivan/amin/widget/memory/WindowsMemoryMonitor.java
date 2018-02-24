@@ -21,11 +21,20 @@ public class WindowsMemoryMonitor implements MemoryMonitor
     {
         try
         {
-            double totalMemory = Long.parseLong(getCommandOutput(
-                    List.of("wmic", "computersystem", "get", "TotalPhysicalMemory")));
-            double freeMemory = Long.parseLong(
-                    getCommandOutput(List.of("wmic", "OS", "get", "FreePhysicalMemory")));
-            return (100 - ((100 * freeMemory) / totalMemory)) / 100;
+            String totalOutput =
+                    getCommandOutput(List.of("wmic", "OS", "get", "TotalVisibleMemorySize"));
+            String totalDelimiter = "TotalVisibleMemorySize";
+            totalOutput = totalOutput
+                    .substring(totalOutput.indexOf(totalDelimiter) + totalDelimiter.length())
+                    .trim();
+            double totalMemory = Double.parseDouble(totalOutput);
+            String freeOutput =
+                    getCommandOutput(List.of("wmic", "OS", "get", "FreePhysicalMemory"));
+            String freeDelimiter = "FreePhysicalMemory";
+            freeOutput = freeOutput
+                    .substring(freeOutput.indexOf(freeDelimiter) + totalDelimiter.length()).trim();
+            double freeMemory = Double.parseDouble(freeOutput);
+            return freeMemory / totalMemory;
         }
         catch (Exception e)
         {

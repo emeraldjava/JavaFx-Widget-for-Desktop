@@ -1,6 +1,5 @@
 package com.arivan.amin.widget.cpu;
 
-import java.io.IOException;
 import java.util.List;
 import java.util.logging.Logger;
 
@@ -23,7 +22,9 @@ public class WindowsCpuMonitor implements CpuMonitor
         try
         {
             String output = getCommandOutput(List.of("wmic", "cpu", "get", "loadpercentage"));
-            output = output.substring(output.indexOf("LoadPercentage")).trim();
+            String loadPercentage = "LoadPercentage";
+            output = output.substring(output.indexOf(loadPercentage) + loadPercentage.length())
+                    .trim();
             return Double.parseDouble(output) / 100;
         }
         catch (Exception e)

@@ -43,7 +43,14 @@ public class ConnectionStatusBox extends VBox
     
     private void determineOperatingSystem ()
     {
-        connectionStatus = LinuxConnectionStatus.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            connectionStatus = WindowsConnectionStatus.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            connectionStatus = LinuxConnectionStatus.newInstance();
+        }
     }
     
     private void updateHandler (ActionEvent e)
@@ -69,7 +76,7 @@ public class ConnectionStatusBox extends VBox
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();
     }
-   
+    
     public static ConnectionStatusBox newInstance ()
     {
         return new ConnectionStatusBox();

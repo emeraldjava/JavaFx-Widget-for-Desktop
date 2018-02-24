@@ -70,7 +70,14 @@ public class WirelessMonitorBox extends VBox
     
     private void determineOperatingSystem ()
     {
-        wirelessMonitor = LinuxWirelessMonitor.newInstance();
+        if (System.getProperty("os.name").contains("Windows"))
+        {
+            wirelessMonitor = WindowsWirelessMonitor.newInstance();
+        }
+        else if (System.getProperty("os.name").contains("Linux"))
+        {
+            wirelessMonitor = LinuxWirelessMonitor.newInstance();
+        }
     }
     
     @Override
