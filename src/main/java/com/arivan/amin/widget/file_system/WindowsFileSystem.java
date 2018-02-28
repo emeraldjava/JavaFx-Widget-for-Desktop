@@ -29,13 +29,11 @@ public class WindowsFileSystem implements FileSystem
         // D:       0            57866240
         try
         {
+            List<FileSystemItem> fileSystemItems = new ArrayList<>(10);
             output = getCommandOutput(
                     List.of("wmic", "logicaldisk", "get", "size,", "freespace,", "caption"));
-            // output = "Caption  FreeSpace Size\n" + "        C:       36229566464  53160701952\n" +
-            //         "        D:       0            57866240";
-            List<String> drivesList = List.of(output.split("\n"));
+            List<String> drivesList = List.of(output.trim().split("\n"));
             drivesList = drivesList.stream().skip(1).collect(Collectors.toList());
-            List<FileSystemItem> fileSystemItems = new ArrayList<>(10);
             drivesList.forEach(s ->
             {
                 String[] driveInfo =
@@ -44,10 +42,9 @@ public class WindowsFileSystem implements FileSystem
                 double free = Double.parseDouble(driveInfo[1]);
                 double used = size - free;
                 double usedPercentage = 1 - (free / size);
-                fileSystemItems.add(FileSystemItem
-                        .newInstance(driveInfo[0], LinuxNetworkMonitor.bytesIntoHumanReadable(
-                                Long.parseLong(driveInfo[2])), String.valueOf(used),
-                                String.valueOf(free), usedPercentage));
+                fileSystemItems.add(FileSystemItem.newInstance(driveInfo[0],
+                        LinuxNetworkMonitor.bytesIntoHumanReadable(Long.parseLong(driveInfo[2])),
+                        String.valueOf(used), String.valueOf(free), usedPercentage));
             });
             return fileSystemItems;
         }
