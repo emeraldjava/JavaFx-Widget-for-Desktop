@@ -34,7 +34,7 @@ public class WindowsMemoryMonitor implements MemoryMonitor
             freeOutput = freeOutput
                     .substring(freeOutput.indexOf(freeDelimiter) + totalDelimiter.length()).trim();
             double freeMemory = Double.parseDouble(freeOutput);
-            return freeMemory / totalMemory;
+            return 1- (freeMemory / totalMemory);
         }
         catch (Exception e)
         {

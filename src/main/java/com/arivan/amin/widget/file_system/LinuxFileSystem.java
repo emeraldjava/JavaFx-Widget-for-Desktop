@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class LinuxFileSystem implements FileSystem
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private static final Pattern EXTRA_SPACE = Pattern.compile(" {2,}");
+    public static final Pattern EXTRA_SPACE = Pattern.compile(" {2,}");
     private String data;
     
     private LinuxFileSystem ()

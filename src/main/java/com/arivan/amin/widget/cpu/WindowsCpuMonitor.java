@@ -21,6 +21,7 @@ public class WindowsCpuMonitor implements CpuMonitor
     {
         try
         {
+            // todo wrong cpu usage !
             String output = getCommandOutput(List.of("wmic", "cpu", "get", "loadpercentage"));
             String loadPercentage = "LoadPercentage";
             output = output.substring(output.indexOf(loadPercentage) + loadPercentage.length())

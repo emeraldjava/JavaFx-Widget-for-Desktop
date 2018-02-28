@@ -9,11 +9,13 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.util.Duration;
 
+import java.util.Locale;
 import java.util.logging.Logger;
 
 public class CpuProgressBar extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
+    // todo cpu update lags in windows and causes the UI to freeze
     private static final int UPDATE_FREQUENCY_IN_SECONDS = 1;
     private CpuMonitor processor;
     private ProgressBar cpuBar;
@@ -41,11 +43,11 @@ public class CpuProgressBar extends VBox
     
     private void determineCpuMonitor ()
     {
-        if (System.getProperty("os.name").contains("Windows"))
+        if (System.getProperty("os.name").toLowerCase(Locale.ENGLISH).contains("win"))
         {
             processor = WindowsCpuMonitor.newInstance();
         }
-        else if (System.getProperty("os.name").contains("Linux"))
+        else if (System.getProperty("os.name").toLowerCase(Locale.ENGLISH).contains("linux"))
         {
             processor = LinuxCpuMonitor.newInstance();
         }
