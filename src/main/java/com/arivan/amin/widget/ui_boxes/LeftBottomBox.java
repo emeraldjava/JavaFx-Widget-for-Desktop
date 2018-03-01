@@ -1,5 +1,7 @@
 package com.arivan.amin.widget.ui_boxes;
 
+import com.arivan.amin.widget.news_feed.RssReaderBox;
+import javafx.application.Platform;
 import javafx.beans.property.DoubleProperty;
 import javafx.scene.layout.HBox;
 
@@ -15,14 +17,13 @@ public class LeftBottomBox extends HBox
     {
         prefWidthProperty().bind(parentWidth);
         prefHeightProperty().bind(parentHeight.multiply(BOX_HEIGHT));
-        // Platform.runLater(() ->
-        // {
-        //     getChildren()
-        //             .add(0, RssReaderBox.newInstance(prefWidthProperty(), prefHeightProperty()));
-        // });
+        Platform.runLater(() ->
+        {
+            getChildren()
+                    .add(0, RssReaderBox.newInstance(prefWidthProperty(), prefHeightProperty()));
+        });
     }
     
-    // hddtemp to get hard disk temp
     public static LeftBottomBox newInstance (DoubleProperty parentWidth,
             DoubleProperty parentHeight)
     {

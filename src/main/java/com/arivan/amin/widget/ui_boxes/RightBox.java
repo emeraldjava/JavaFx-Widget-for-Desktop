@@ -1,6 +1,8 @@
 package com.arivan.amin.widget.ui_boxes;
 
 import com.arivan.amin.widget.file_system.FileSystemBox;
+import com.arivan.amin.widget.memory.MemoryProgressBar;
+import com.arivan.amin.widget.wireless.WirelessMonitorBox;
 import javafx.application.Platform;
 import javafx.beans.property.DoubleProperty;
 import javafx.scene.layout.VBox;
@@ -27,24 +29,24 @@ public class RightBox extends VBox
         //     getChildren()
         //             .add(0, CpuProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
         // });
-        // Platform.runLater(() ->
-        // {
-        //     getChildren().add(1,
-        //             MemoryProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
-        // });
+        Platform.runLater(() ->
+        {
+            getChildren().add(0,
+                    MemoryProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
+        });
         // Platform.runLater(() ->
         // {
         //     getChildren().add(2, NetworkBox.newInstance());
         // });
-        // Platform.runLater(() ->
-        // {
-        //     getChildren().add(3,
-        //             WirelessMonitorBox.newInstance(prefWidthProperty(), prefHeightProperty()));
-        // });
+        Platform.runLater(() ->
+        {
+            getChildren().add(1,
+                    WirelessMonitorBox.newInstance(prefWidthProperty(), prefHeightProperty()));
+        });
         Platform.runLater(() ->
         {
             getChildren()
-                    .add(0, FileSystemBox.newInstance(prefWidthProperty(), prefHeightProperty()));
+                    .add(2, FileSystemBox.newInstance(prefWidthProperty(), prefHeightProperty()));
         });
     }
     
