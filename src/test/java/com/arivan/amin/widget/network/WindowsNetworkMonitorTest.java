@@ -22,4 +22,12 @@ public class WindowsNetworkMonitorTest
         System.out.println("upload =========================================");
         System.out.println(speed);
     }
+
+    @Test
+    public void ipAddress()
+    {
+        String ip = WindowsNetworkMonitor.newInstance().ipAddress();
+        System.out.println("ip ============================================");
+        System.out.println(ip);
+    }
 }

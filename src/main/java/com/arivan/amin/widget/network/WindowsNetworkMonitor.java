@@ -8,6 +8,7 @@ public class WindowsNetworkMonitor implements NetworkMonitor
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final List<String> NETWORK_COMMAND = List.of("netstat", "-e");
+    private static final List<String> IP_COMMAND = List.of("ipconfig");
     private long previousDownload;
     private long previousUpload;
     private String data;
@@ -55,7 +56,20 @@ public class WindowsNetworkMonitor implements NetworkMonitor
     @Override
     public String ipAddress()
     {
-        return "102";
+        String ip = "";
+        String output = null;
+        try
+        {
+            output = getCommandOutput(IP_COMMAND);
+            output = output.substring(output.indexOf("IPv4 Address"));
+            output = output.substring(output.indexOf(":") + 1, output.indexOf("\n")).trim();
+            ip = output;
+        } catch (IOException e)
+        {
+            logger.warning(e.getMessage());
+            ip = "";
+        }
+        return ip;
     }
 
     private long getBytesAndSetPrevDownload(String s)
