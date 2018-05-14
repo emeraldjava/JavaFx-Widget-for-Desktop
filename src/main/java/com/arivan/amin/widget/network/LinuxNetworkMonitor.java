@@ -5,14 +5,11 @@ import com.arivan.amin.widget.wireless.WirelessMonitor;
 
 import java.util.List;
 import java.util.logging.Logger;
-import java.util.regex.Pattern;
 
 public class LinuxNetworkMonitor implements NetworkMonitor
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     private static final List<String> NETWORK_COMMAND = List.of("ip", "-s", "link");
-    private static final Pattern EXTRA_SPACE = Pattern.compile(" {2,}");
-    private static final int BYTES_THOUSAND_UNIT = 1024;
     private final WirelessMonitor wirelessMonitor;
     private long previousDownload;
     private long previousUpload;
@@ -119,7 +116,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
         }
         return "";
     }
-    
+
     @SuppressWarnings ({ "OverlyLongMethod", "IfStatementWithTooManyBranches" })
     public static String bytesIntoHumanReadable (long bytes)
     {
@@ -152,7 +149,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
             return bytes + " Bytes";
         }
     }
-    
+
     @Override
     public void updateData ()
     {
