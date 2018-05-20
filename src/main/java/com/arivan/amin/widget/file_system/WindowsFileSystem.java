@@ -9,18 +9,18 @@ import java.util.stream.Collectors;
 public class WindowsFileSystem implements FileSystem
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    
-    private WindowsFileSystem ()
+
+    private WindowsFileSystem()
     {
     }
-    
-    public static WindowsFileSystem newInstance ()
+
+    public static WindowsFileSystem newInstance()
     {
         return new WindowsFileSystem();
     }
-    
+
     @Override
-    public List<FileSystemItem> partitions ()
+    public List<FileSystemItem> partitions()
     {
         String output;
         // wmic logicaldisk get size,freespace,caption
@@ -36,21 +36,27 @@ public class WindowsFileSystem implements FileSystem
             drivesList = drivesList.stream().skip(1).collect(Collectors.toList());
             drivesList.forEach(s ->
             {
-                String[] driveInfo =
-                        LinuxFileSystem.EXTRA_SPACE.matcher(s).replaceAll(" ").trim().split(" ");
-                double size = Double.parseDouble(driveInfo[2]);
-                double free = Double.parseDouble(driveInfo[1]);
-                double used = size - free;
-                double usedPercentage = 1 - (free / size);
-                fileSystemItems.add(FileSystemItem.newInstance(driveInfo[0],
-                        LinuxNetworkMonitor.bytesIntoHumanReadable(Long.parseLong(driveInfo[2])),
-                        String.valueOf(used), String.valueOf(free), usedPercentage));
+                try
+                {
+                    String[] driveInfo =
+                            LinuxFileSystem.EXTRA_SPACE.matcher(s).replaceAll(" ").trim().split(" ");
+                    double size = Double.parseDouble(driveInfo[2]);
+                    double free = Double.parseDouble(driveInfo[1]);
+                    double used = size - free;
+                    double usedPercentage = 1 - (free / size);
+                    fileSystemItems.add(FileSystemItem.newInstance(driveInfo[0],
+                            LinuxNetworkMonitor.bytesIntoHumanReadable(Long.parseLong(driveInfo[2])),
+                            String.valueOf(used), String.valueOf(free), usedPercentage));
+                } catch (Exception e)
+                {
+                    logger.warning(e.getMessage());
+                }
             });
             return fileSystemItems;
-        }
-        catch (Exception e)
+        } catch (Exception e)
         {
             logger.warning(e.getMessage());
+            e.printStackTrace();
             return Collections.emptyList();
         }
     }
