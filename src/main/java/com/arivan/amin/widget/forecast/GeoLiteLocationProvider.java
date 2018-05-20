@@ -69,7 +69,7 @@ public class GeoLiteLocationProvider implements LocationProvider
     {
         try (InputStream stream = new URL("http://checkip.amazonaws.com/").openStream())
         {
-            return new String(stream.readAllBytes(), StandardCharsets.UTF_8);
+            return new String(stream.readAllBytes(), StandardCharsets.UTF_8).trim();
         }
         catch (Exception ignored)
         {
