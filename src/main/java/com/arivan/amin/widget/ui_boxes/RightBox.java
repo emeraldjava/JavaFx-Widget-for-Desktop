@@ -1,5 +1,6 @@
 package com.arivan.amin.widget.ui_boxes;
 
+import com.arivan.amin.widget.cpu.CpuProgressBar;
 import com.arivan.amin.widget.file_system.FileSystemBox;
 import com.arivan.amin.widget.memory.MemoryProgressBar;
 import com.arivan.amin.widget.network.NetworkBox;
@@ -25,29 +26,29 @@ public class RightBox extends VBox
     
     private void addItemToBox ()
     {
-        // Platform.runLater(() ->
-        // {
-        //     getChildren()
-        //             .add(0, CpuProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
-        // });
         Platform.runLater(() ->
         {
-            getChildren().add(0,
+            getChildren()
+                    .add(0, CpuProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
+        });
+        Platform.runLater(() ->
+        {
+            getChildren().add(1,
                     MemoryProgressBar.newInstance(prefWidthProperty(), prefHeightProperty()));
         });
          Platform.runLater(() ->
          {
-             getChildren().add(1, NetworkBox.newInstance());
+             getChildren().add(2, NetworkBox.newInstance());
          });
         Platform.runLater(() ->
         {
-            getChildren().add(2,
+            getChildren().add(3,
                     WirelessMonitorBox.newInstance(prefWidthProperty(), prefHeightProperty()));
         });
         Platform.runLater(() ->
         {
             getChildren()
-                    .add(3, FileSystemBox.newInstance(prefWidthProperty(), prefHeightProperty()));
+                    .add(4, FileSystemBox.newInstance(prefWidthProperty(), prefHeightProperty()));
         });
     }
     

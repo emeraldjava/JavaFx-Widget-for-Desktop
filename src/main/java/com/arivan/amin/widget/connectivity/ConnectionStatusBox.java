@@ -12,8 +12,8 @@ import java.util.logging.Logger;
 
 public class ConnectionStatusBox extends VBox
 {
-    private static final int TOP_PADDING = 20;
     private final Logger logger = Logger.getLogger(getClass().getName());
+    private static final int TOP_PADDING = 20;
     private static final int PERIOD_BETWEEN_UPDATES = 1;
     private ConnectionStatus connectionStatus;
     private Label statusLabel;
@@ -45,7 +45,8 @@ public class ConnectionStatusBox extends VBox
     {
         if (System.getProperty("os.name").contains("Windows"))
         {
-            connectionStatus = WindowsConnectionStatus.newInstance();
+            // connectionStatus = WindowsConnectionStatus.newInstance();
+            connectionStatus = LinuxConnectionStatus.newInstance();
         }
         else if (System.getProperty("os.name").contains("Linux"))
         {
@@ -70,8 +71,9 @@ public class ConnectionStatusBox extends VBox
     
     private void updateDataPeriodically ()
     {
+        // todo fix the lagging of ping time retrieval so that the duration can be set back to 1 second
         Timeline timeline = new Timeline();
-        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(1), this::updateHandler));
+        timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(5), this::updateHandler));
         timeline.getKeyFrames().add(new KeyFrame(Duration.seconds(PERIOD_BETWEEN_UPDATES)));
         timeline.setCycleCount(Animation.INDEFINITE);
         timeline.play();

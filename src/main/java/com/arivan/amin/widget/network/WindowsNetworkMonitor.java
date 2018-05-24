@@ -64,7 +64,7 @@ public class WindowsNetworkMonitor implements NetworkMonitor
             output = output.substring(output.indexOf("IPv4 Address"));
             output = output.substring(output.indexOf(":") + 1, output.indexOf("\n")).trim();
             ip = output;
-        } catch (IOException e)
+        } catch (Exception e)
         {
             logger.warning(e.getMessage());
             ip = "";

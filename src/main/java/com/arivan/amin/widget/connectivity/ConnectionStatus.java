@@ -1,6 +1,8 @@
 package com.arivan.amin.widget.connectivity;
 
-public interface ConnectionStatus
+import com.arivan.amin.widget.SystemCommandHandler;
+
+public interface ConnectionStatus extends SystemCommandHandler
 {
     /**
      * Is connected boolean.
