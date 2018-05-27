@@ -45,8 +45,7 @@ public class ConnectionStatusBox extends VBox
     {
         if (System.getProperty("os.name").contains("Windows"))
         {
-            // connectionStatus = WindowsConnectionStatus.newInstance();
-            connectionStatus = LinuxConnectionStatus.newInstance();
+            connectionStatus = WindowsConnectionStatus.newInstance();
         }
         else if (System.getProperty("os.name").contains("Linux"))
         {

@@ -1,6 +1,5 @@
 package com.arivan.amin.widget.power;
 
-import com.arivan.amin.widget.connectivity.ConnectionStatusBox;
 import com.arivan.amin.widget.uptime.UptimeMonitorBox;
 import javafx.animation.*;
 import javafx.application.Platform;
@@ -39,13 +38,13 @@ public class BatteryStateBox extends VBox
     
     private void addConnectionStatusBox ()
     {
+        // Platform.runLater(() ->
+        // {
+        //     getChildren().add(0, ConnectionStatusBox.newInstance());
+        // });
         Platform.runLater(() ->
         {
-            getChildren().add(0, ConnectionStatusBox.newInstance());
-        });
-        Platform.runLater(() ->
-        {
-            getChildren().add(1, UptimeMonitorBox.newInstance());
+            getChildren().add(0, UptimeMonitorBox.newInstance());
         });
     }
     
