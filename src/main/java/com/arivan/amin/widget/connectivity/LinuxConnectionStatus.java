@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 public class LinuxConnectionStatus implements ConnectionStatus
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
-    private static final List<String> PING_COMMAND = List.of("ping", "www.google.com", "-n", "1");
+    private static final List<String> PING_COMMAND = List.of("ping", "www.google.com", "-c", "1");
     private static final String HOSTNAME = "www.google.com";
     private static final int HTTP_PORT = 80;
     private static final int TIMEOUT_IN_MILLISECONDS = 3000;
