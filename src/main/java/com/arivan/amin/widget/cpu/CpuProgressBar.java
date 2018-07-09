@@ -16,7 +16,7 @@ public class CpuProgressBar extends VBox
 {
     private final Logger logger = Logger.getLogger(getClass().getName());
     // todo cpu update lags in windows and causes the UI to freeze
-    private static final int UPDATE_FREQUENCY_IN_SECONDS = 5;
+    private static final int UPDATE_FREQUENCY_IN_SECONDS = 1;
     private CpuMonitor processor;
     private ProgressBar cpuBar;
     private Label cpuLabel;

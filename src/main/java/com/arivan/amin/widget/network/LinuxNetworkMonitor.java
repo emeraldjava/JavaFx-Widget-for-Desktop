@@ -106,7 +106,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
             {
                 String output = getCommandOutput(List.of("ifconfig"));
                 output = output.substring(output.indexOf("wlo"));
-                output = extractDownloadNumbers(output, "inet", "netmask");
+                output = extractDownloadNumbers(output, "inet addr:", "Bcast").trim();
                 return output;
             }
         }
