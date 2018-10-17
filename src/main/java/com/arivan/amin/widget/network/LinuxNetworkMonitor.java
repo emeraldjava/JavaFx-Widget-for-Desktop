@@ -106,7 +106,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
             {
                 String output = getCommandOutput(List.of("ifconfig"));
                 output = output.substring(output.indexOf("wlo"));
-                output = extractDownloadNumbers(output, "inet addr:", "Bcast").trim();
+                output = extractDownloadNumbers(output, "inet", "netmask").trim();
                 return output;
             }
         }
@@ -116,7 +116,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
         }
         return "";
     }
-
+    
     @SuppressWarnings ({ "OverlyLongMethod", "IfStatementWithTooManyBranches" })
     public static String bytesIntoHumanReadable (long bytes)
     {
@@ -149,7 +149,7 @@ public class LinuxNetworkMonitor implements NetworkMonitor
             return bytes + " Bytes";
         }
     }
-
+    
     @Override
     public void updateData ()
     {

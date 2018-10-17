@@ -56,7 +56,7 @@ public class LinuxSystemDetails implements SystemDetails
     {
         String output = getSystemCommand(OS_RELEASE_COMMAND);
         String name = "NAME=";
-        output = output.substring(output.indexOf(name) + name.length(), output.indexOf("VERSION"));
+        output = output.substring(output.indexOf(name) + name.length(), output.indexOf("ID"));
         output = output.trim();
         return output;
     }

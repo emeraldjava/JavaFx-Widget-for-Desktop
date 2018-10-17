@@ -1,4 +1,4 @@
-package com.arivan.amin.widget;
+ package com.arivan.amin.widget;
 
 import com.arivan.amin.widget.ui_boxes.LeftBox;
 import com.arivan.amin.widget.ui_boxes.RightBox;
